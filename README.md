@@ -1,9 +1,10 @@
 # Task 1: End-to-End Data Cleaning Project
 
 **Repository**: [Task1_Data_Cleaning_Project](https://github.com/bineetayadav/Task1_Data_Cleaning_Project)  
+**Organization**: WeIntern Pvt Ltd  
 **Track**: Data Science & Machine Learning Engineering  
 **Module**: Advanced Data Preparation, Quality Assurance & Feature Preprocessing  
-**Author**: Bineeta Yadav (Data Science Intern)  
+**Author**: Bineeta Yadav (Data Science Intern, WeIntern Pvt Ltd)  
 **Date**: October 2026  
 **Language & Tools**: Python 3.12, Pandas 2.3, NumPy 2.2, Seaborn 0.13, Matplotlib 3.11, Jupyter, ReportLab  
 

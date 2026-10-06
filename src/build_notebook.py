@@ -31,8 +31,11 @@ def create_and_execute_notebook(notebook_path: str):
 
     # Title & Metadata
     cells.append(nbf.v4.new_markdown_cell("""# Task 1: End-to-End Data Cleaning Project
+**Organization**: WeIntern Pvt Ltd  
 **Track**: Data Science & Machine Learning Engineering  
 **Module**: Advanced Data Preparation & Quality Assurance  
+**Author**: Bineeta Yadav (Data Science Intern, WeIntern Pvt Ltd)  
+**Repository**: [Task1_Data_Cleaning_Project](https://github.com/bineetayadav/Task1_Data_Cleaning_Project)  
 **Dataset**: Enterprise Customer Churn & Demographics (`customer_churn_raw.csv`)  
 **Objective**: Ingest a messy, raw real-world dataset and transform it into a pristine, analysis-ready and ML-ready format using Python's Pandas, NumPy, Matplotlib, and Seaborn.
 

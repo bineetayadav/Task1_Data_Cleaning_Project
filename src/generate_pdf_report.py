@@ -141,7 +141,7 @@ def build_pdf_report(base_dir: str):
 
     # Title & Metadata
     story.append(Paragraph("Enterprise Data Cleaning & Quality Assurance Report", title_style))
-    story.append(Paragraph("<b>Track</b>: Data Science Internship — Week 2 Task 1 &nbsp;|&nbsp; <b>Author</b>: Data Science Intern &nbsp;|&nbsp; <b>Date</b>: October 2026", subtitle_style))
+    story.append(Paragraph("<b>Organization</b>: WeIntern Pvt Ltd &nbsp;|&nbsp; <b>Author</b>: Bineeta Yadav (Data Science Intern) &nbsp;|&nbsp; <b>Date</b>: October 2026", subtitle_style))
     story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#2563EB"), spaceAfter=10))
 
     # 1. Executive Summary

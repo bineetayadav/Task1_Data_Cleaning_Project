@@ -1,8 +1,9 @@
 # Comprehensive Data Cleaning & Quality Assurance Report
 
 **Project Title**: Enterprise Customer Churn & Demographic Dataset Cleaning Pipeline  
+**Organization**: WeIntern Pvt Ltd  
 **Track**: Data Science & Machine Learning Engineering — Week 2 Task 1  
-**Author**: Bineeta Yadav (Data Science Intern)  
+**Author**: Bineeta Yadav (Data Science Intern, WeIntern Pvt Ltd)  
 **Repository**: [Task1_Data_Cleaning_Project](https://github.com/bineetayadav/Task1_Data_Cleaning_Project)  
 **Date**: October 2026  
 **Environment**: Python 3.12, Pandas 2.3+, NumPy 2.2+, Matplotlib 3.11+, Seaborn 0.13+  

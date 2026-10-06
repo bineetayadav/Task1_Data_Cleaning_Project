@@ -1,0 +1,1414 @@
+customer_id,full_name,age,gender,annual_income,tenure_months,contract_type,payment_method,monthly_charges,total_charges,internet_service,tech_support,satisfaction_score,join_date,city,churn
+CUST-2237,Nancy Gonzalez,45,Female,160059.5,15,Two Year,Electronic Check,22.41,338.48,Fiber Optic,No internet service,4,2022-01-25 00:00:00,Phoenix,Yes
+CUST-2442,Sarah Hernandez,29,Female,128958.0,59,Month-to-Month,Credit Card,114.48,6751.46,DSL,No,4,2021-09-23 00:00:00,Hyderabad,Yes
+CUST-1352,Mark Jones,32,Male,70554.0,37,Two Year,Bank Transfer,26.83,453.49,Fiber Optic,No,2,2024-06-19 00:00:00,New York,No
+CUST-1579,Barbara Patel,59,Other,128777.0,62,Month-to-Month,Mailed Check,81.77,5075.97,Fiber Optic,No,3,2020-01-03 00:00:00,Sydney,No
+CUST-1355,Richard Hernandez,41,Male,96286.0,23,Two Year,Bank Transfer,105.93,2431.29,Fiber Optic,No,4,2023-02-26 00:00:00,Toronto,No
+CUST-1351,Margaret Rodriguez,57,Male,147647.0,53,Two Year,Bank Transfer,78.56,4160.04,No,Yes,5,2023-10-14 00:00:00,Bengaluru,No
+CUST-1241,David Hernandez,41,Male,160059.5,9,Month-to-Month,Electronic Check,100.49,897.59,Fiber Optic,No,1,2021-08-03 00:00:00,Houston,No
+CUST-1262,Charles Gupta,27,Female,81602.0,27,One Year,Electronic Check,104.32,2809.32,DSL,Yes,5,2022-05-13 00:00:00,Delhi,Yes
+CUST-1135,Jennifer Miller,45,Male,81475.0,11,Two Year,Electronic Check,59.08,638.13,Fiber Optic,No,3,2023-08-28 00:00:00,Delhi,No
+CUST-2002,Jennifer Iyer,34,Unspecified,47794.0,33,Two Year,Mailed Check,66.03,2178.9900000000002,DSL,No internet service,5,2024-08-21 00:00:00,Toronto,Yes
+CUST-1969,Jessica Johnson,60,Male,71895.0,59,Month-to-Month,Unknown,47.99,2833.11,DSL,No,3,2022-07-23 00:00:00,Mumbai,No
+CUST-1066,Anthony Jones,45,Female,66022.0,37,One Year,Credit Card,19.16,9.49,DSL,No,4,2021-04-02 00:00:00,Chennai,Yes
+CUST-2297,Barbara Lopez,41,Male,59468.0,28,One Year,Electronic Check,85.3,2393.49,Fiber Optic,No internet service,3,2020-01-19 00:00:00,Toronto,Yes
+CUST-1031,John Martinez,35,Male,83509.0,70,Month-to-Month,Credit Card,168.585,12138.12,DSL,Yes,1,2022-09-21 00:00:00,Houston,No
+CUST-1465,Patricia Martinez,45,Male,124796.0,16,Month-to-Month,Bank Transfer,168.585,12138.12,DSL,No internet service,2,2023-05-04 00:00:00,Houston,No
+CUST-2382,Patricia Jones,18,Male,117282.0,68,Two Year,Bank Transfer,23.19,1574.93,No,No,4,2020-12-02 00:00:00,Delhi,No
+CUST-1234,James Iyer,39,Female,88833.0,49,Month-to-Month,Credit Card,25.89,1268.6100000000001,Fiber Optic,Yes,3,2020-01-07 00:00:00,Berlin,No
+CUST-1176,Susan Jones,44,Male,160059.5,64,One Year,Bank Transfer,18.96,1205.79,Fiber Optic,No,4,2021-05-02 00:00:00,London,No
+CUST-1169,Daniel Johnson,39,Male,130374.0,69,Two Year,Mailed Check,62.08,4289.47,Fiber Optic,Yes,4,2024-11-28 00:00:00,Sydney,No
+CUST-1980,Anthony Lopez,44,Male,71166.0,24,Two Year,Mailed Check,59.68,1426.04,DSL,No,2,2022-12-31 12:00:00,Unknown,No
+CUST-2010,Richard Garcia,44,Female,98461.0,3,Month-to-Month,Bank Transfer,39.04,109.21,Fiber Optic,No internet service,1,2020-01-21 00:00:00,Houston,No
+CUST-1530,Patricia Williams,30,Unspecified,92388.0,12,Two Year,Electronic Check,41.3,501.48,DSL,No,4,2023-12-31 18:00:00,Phoenix,No
+CUST-1276,Betty Brown,41,Female,84606.0,37,Two Year,Electronic Check,112.59,121.74,DSL,No internet service,4,2024-08-27 00:00:00,Chicago,Yes
+CUST-2025,William Sharma,34,Other,112270.0,37,One Year,Electronic Check,168.585,6004.09,No,No,2,2024-12-20 00:00:00,London,No
+CUST-1825,Daniel Iyer,33,Female,43167.0,18,One Year,Mailed Check,70.97,908.8,No,Yes,3,2021-02-04 00:00:00,Sydney,Yes
+CUST-1345,Margaret Rodriguez,61,Unspecified,62336.0,68,Two Year,Bank Transfer,97.55,6633.4,Fiber Optic,No internet service,4,2020-11-05 00:00:00,Phoenix,Yes
+CUST-1238,Jennifer Rodriguez,41,Male,78056.0,39,One Year,Electronic Check,118.59,4629.81,No,Yes,4,2023-10-25 00:00:00,Hyderabad,No
+CUST-2068,Anthony Miller,44,Female,142606.0,5,Month-to-Month,Mailed Check,109.5,543.63,Fiber Optic,Yes,3,2024-05-10 00:00:00,London,Yes
+CUST-1060,Vikram Jones,48,Male,92456.0,58,Two Year,Electronic Check,24.29,1414.96,Fiber Optic,No,3,2020-03-01 15:00:00,Los Angeles,Yes
+CUST-1325,Betty Singh,37,Male,97519.0,37,One Year,Credit Card,92.75,1488.0,DSL,No,3,2024-10-12 00:00:00,Mumbai,No
+CUST-1272,Mark Brown,50,Male,59145.0,6,Two Year,Mailed Check,94.63,568.99,Fiber Optic,No internet service,5,2024-06-01 00:00:00,Chicago,Yes
+CUST-1372,Karen Hernandez,38,Female,89871.0,55,Month-to-Month,Mailed Check,98.68,5433.28,No,No,3,2020-10-16 00:00:00,London,No
+CUST-1163,Linda Lopez,45,Male,160059.5,59,Two Year,Mailed Check,71.91,4240.96,DSL,Yes,5,2023-07-19 00:00:00,Houston,No
+CUST-1555,Sneha Gupta,35,Female,68482.0,34,One Year,Bank Transfer,62.87,2130.48,No,Yes,5,2020-11-04 00:00:00,Chicago,No
+CUST-1507,Mark Verma,72,Female,54592.0,37,Two Year,Bank Transfer,56.62,2094.94,DSL,No,5,2023-11-27 00:00:00,Chennai,No
+CUST-2484,Sarah Patel,24,Male,59734.0,36,Month-to-Month,Credit Card,168.585,12138.12,DSL,No internet service,4,2024-05-05 00:00:00,Mumbai,Yes
+CUST-1469,Mary Gonzalez,37,Male,87396.0,33,Two Year,Unknown,73.67,2423.29,DSL,No,5,2022-05-24 00:00:00,Phoenix,No
+CUST-1185,Mark Hernandez,18,Other,83667.0,37,One Year,Mailed Check,79.47,1345.43,Fiber Optic,Yes,1,2024-07-07 00:00:00,Hyderabad,No
+CUST-1644,Barbara Johnson,45,Male,78871.0,22,Month-to-Month,Mailed Check,68.72,1506.95,No,Yes,3,2021-07-27 00:00:00,Chennai,No
+CUST-1332,Jessica Smith,41,Other,118016.0,4,Month-to-Month,Unknown,100.0,398.02,No,Yes,4,2020-01-24 00:00:00,Chicago,No
+CUST-2101,Mark Singh,56,Male,53140.0,40,One Year,Electronic Check,105.43,4217.200000000001,DSL,No,4,2021-08-31 12:00:00,Sydney,No
+CUST-1275,Arjun Patel,41,Male,90237.0,30,One Year,Mailed Check,168.585,12138.12,DSL,Yes,3,2021-03-27 00:00:00,Los Angeles,No
+CUST-2170,Patricia Verma,58,Female,81137.0,20,Month-to-Month,Electronic Check,84.32,1686.99,DSL,Yes,2,2021-05-07 00:00:00,Bengaluru,No
+CUST-1637,Christopher Jones,33,Female,57155.0,2,Month-to-Month,Electronic Check,168.585,1001.32,No,No internet service,3,2023-10-05 00:00:00,Singapore,No
+CUST-1848,Sneha Martinez,28,Male,125629.0,51,Month-to-Month,Electronic Check,26.2,1330.73,No,No internet service,4,2023-11-19 00:00:00,Sydney,No
+CUST-1965,Linda Anderson,43,Male,133922.0,11,Two Year,Electronic Check,45.26,493.2,DSL,No,1,2024-01-31 04:30:00,Mumbai,No
+CUST-1125,Ananya Verma,52,Female,118562.0,65,Two Year,Mailed Check,72.56,4716.400000000001,No,No,5,2023-04-26 00:00:00,Mumbai,No
+CUST-1439,Priya Brown,48,Female,74753.0,37,One Year,Electronic Check,68.27,673.34,DSL,No,5,2022-05-21 00:00:00,Sydney,No
+CUST-2262,Michael Nair,34,Male,42307.0,5,Month-to-Month,Credit Card,44.8,216.68,No,No,3,2022-10-10 00:00:00,Hyderabad,No
+CUST-2220,Thomas Jones,26,Female,82439.0,37,Two Year,Mailed Check,116.69,1633.86,No,No,1,2023-12-19 00:00:00,Chicago,No
+CUST-2496,Daniel Verma,30,Female,56503.0,12,Two Year,Credit Card,70.97,591.08,DSL,No,1,2020-09-28 00:00:00,Sydney,Yes
+CUST-2256,Aditya Johnson,33,Female,65576.0,26,Two Year,Credit Card,75.41,1964.12,Fiber Optic,No internet service,5,2021-01-17 00:00:00,Hyderabad,No
+CUST-1340,Betty Johnson,49,Male,87853.0,59,Two Year,Bank Transfer,99.44,5866.96,No,No internet service,2,2021-02-14 00:00:00,Delhi,Yes
+CUST-1585,Arjun Lopez,41,Other,129809.0,25,Two Year,Bank Transfer,75.59,1889.35,No,Yes,1,2020-02-21 00:00:00,Berlin,Yes
+CUST-2348,Thomas Anderson,18,Male,87396.0,51,Month-to-Month,Mailed Check,93.45,4762.41,No,No,2,2021-04-06 00:00:00,Unknown,Yes
+CUST-1024,Jennifer Hernandez,53,Female,63097.0,60,Month-to-Month,Mailed Check,81.2,4866.07,No,No internet service,5,2021-12-06 00:00:00,Unknown,No
+CUST-1977,James Jones,38,Female,90293.0,50,Two Year,Electronic Check,72.41,3622.03,Fiber Optic,Yes,2,2020-04-15 00:00:00,Hyderabad,No
+CUST-1204,Jennifer Anderson,42,Male,143102.0,22,Two Year,Unknown,96.03,2119.21,Fiber Optic,Yes,4,2023-03-14 00:00:00,Singapore,No
+CUST-1050,Barbara Jones,40,Male,126349.0,29,Two Year,Credit Card,82.16,2375.14,DSL,No,2,2021-11-20 00:00:00,Singapore,No
+CUST-1909,Michael Kumar,41,Unspecified,87396.0,9,Month-to-Month,Mailed Check,40.17,352.14,Fiber Optic,Yes,5,2021-10-21 00:00:00,Chennai,No
+CUST-1971,Mary Sharma,52,Male,108264.0,54,Month-to-Month,Credit Card,31.79,1713.48,No,Yes,3,2020-03-25 00:00:00,Chennai,Yes
+CUST-1745,Karen Patel,38,Female,107812.0,24,One Year,Bank Transfer,70.97,1194.41,Fiber Optic,No,1,2024-02-05 00:00:00,Bengaluru,No
+CUST-1298,Neha Brown,41,Unspecified,160059.5,56,Month-to-Month,Electronic Check,72.39,4053.84,DSL,Yes,3,2020-05-11 00:00:00,Bengaluru,Yes
+CUST-2498,Margaret Johnson,66,Female,56986.0,37,Two Year,Electronic Check,23.89,167.66,Fiber Optic,Yes,4,2023-03-04 00:00:00,Houston,No
+CUST-1434,David Smith,32,Female,87396.0,67,Two Year,Mailed Check,80.83,5406.63,Fiber Optic,No,1,2024-12-24 00:00:00,Chicago,No
+CUST-1716,Matthew Gonzalez,51,Male,110321.0,11,Month-to-Month,Electronic Check,70.97,550.18,Fiber Optic,Yes,1,2020-01-21 00:00:00,Hyderabad,No
+CUST-1487,Daniel Garcia,38,Other,103528.0,17,Two Year,Electronic Check,70.05,1196.19,No,No,3,2024-09-14 00:00:00,Delhi,Yes
+CUST-1124,Rohit Johnson,34,Male,69080.0,3,Two Year,Credit Card,118.03,347.5,DSL,No internet service,5,2022-03-24 00:00:00,Chennai,No
+CUST-1629,Barbara Sharma,43,Female,104374.0,23,Two Year,Mailed Check,102.3,2355.92,DSL,Yes,3,2022-03-20 00:00:00,Phoenix,No
+CUST-1842,Elizabeth Singh,33,Female,160059.5,38,Month-to-Month,Mailed Check,20.28,775.18,No,No,5,2023-09-25 00:00:00,Chennai,No
+CUST-2275,Elizabeth Martinez,55,Male,149275.0,31,One Year,Bank Transfer,70.38,2181.39,DSL,Yes,3,2020-01-26 00:00:00,Chicago,Yes
+CUST-1199,Elizabeth Kumar,30,Male,104473.0,35,Two Year,Electronic Check,42.41,1474.9,Fiber Optic,No,1,2021-03-09 00:00:00,Sydney,No
+CUST-1200,Priya Smith,37,Male,37515.0,12,Month-to-Month,Electronic Check,112.03,1350.94,No,No,1,2022-06-27 00:00:00,Toronto,Yes
+CUST-2122,Richard Anderson,41,Male,90010.0,64,Month-to-Month,Credit Card,102.17,6543.08,Fiber Optic,No,3,2022-01-26 00:00:00,Chicago,Yes
+CUST-1584,Thomas Lopez,37,Unspecified,106725.0,6,Month-to-Month,Bank Transfer,80.54,478.48,No,Yes,3,2024-07-01 09:00:00,London,No
+CUST-2050,Charles Gonzalez,44,Female,99340.0,36,Two Year,Electronic Check,56.45,2041.64,No,No internet service,4,2021-04-06 00:00:00,Mumbai,No
+CUST-1731,Anthony Singh,63,Male,133715.0,35,Two Year,Electronic Check,105.58,3703.32,DSL,No internet service,1,2022-06-16 00:00:00,Berlin,Yes
+CUST-1100,Daniel Lopez,34,Female,46738.0,28,Two Year,Bank Transfer,69.96,1968.22,DSL,No,2,2022-10-26 00:00:00,Toronto,No
+CUST-1685,Sneha Johnson,57,Unspecified,138931.0,6,Two Year,Mailed Check,96.46,565.37,No,Yes,2,2020-10-24 00:00:00,Phoenix,No
+CUST-1052,Neha Wilson,60,Male,104737.0,66,Month-to-Month,Mailed Check,69.17,4559.52,Fiber Optic,No,1,2020-07-05 00:00:00,Sydney,Yes
+CUST-1071,Arjun Jones,28,Female,89844.0,63,Two Year,Electronic Check,57.89,3647.07,DSL,No internet service,5,2020-12-15 00:00:00,Sydney,No
+CUST-1622,David Brown,41,Other,133605.0,59,Two Year,Unknown,86.89,5125.25,Fiber Optic,No,3,2020-07-10 00:00:00,New York,Yes
+CUST-1077,Lisa Patel,41,Female,81650.0,32,Month-to-Month,Mailed Check,27.22,863.39,Fiber Optic,No,2,2024-03-26 00:00:00,New York,No
+CUST-1987,Robert Johnson,54,Other,87396.0,71,Month-to-Month,Mailed Check,56.17,3978.63,No,No,3,2022-03-24 00:00:00,Singapore,No
+CUST-1515,Joseph Miller,63,Unspecified,57376.0,49,Two Year,Bank Transfer,23.93,1169.25,Fiber Optic,No,4,2021-03-04 00:00:00,Sydney,No
+CUST-1142,Richard Brown,41,Female,76087.0,10,Month-to-Month,Credit Card,107.7,1077.0,No,Yes,1,2024-03-01 15:00:00,Phoenix,Yes
+CUST-1271,Christopher Miller,40,Female,78594.0,13,One Year,Bank Transfer,92.81,1212.11,Fiber Optic,Yes,3,2021-11-24 00:00:00,Unknown,No
+CUST-1908,Mary Miller,46,Female,87396.0,57,Two Year,Credit Card,104.69,5965.82,No,Yes,5,2023-07-22 00:00:00,Chicago,No
+CUST-1240,John Jones,36,Male,48247.0,51,Two Year,Electronic Check,114.93,5857.52,DSL,No,4,2020-09-30 16:30:00,Houston,No
+CUST-2402,Ananya Anderson,65,Female,160059.5,37,Two Year,Bank Transfer,56.63,853.58,DSL,No,3,2020-02-20 00:00:00,New York,No
+CUST-1988,James Reddy,22,Unspecified,88017.0,24,Two Year,Bank Transfer,94.7,2279.4,DSL,Yes,1,2020-01-20 00:00:00,Bengaluru,Yes
+CUST-1758,Robert Wilson,60,Male,91786.0,17,Two Year,Mailed Check,113.5,1923.81,No,Yes,1,2023-08-01 13:30:00,Houston,No
+CUST-1221,Margaret Anderson,27,Female,160059.5,59,Two Year,Credit Card,64.16,3785.4399999999996,Fiber Optic,No internet service,4,2020-12-02 00:00:00,Unknown,Yes
+CUST-2099,Elizabeth Brown,41,Male,78226.0,9,Two Year,Bank Transfer,78.77,699.22,DSL,No,5,2023-10-20 00:00:00,Toronto,Yes
+CUST-1708,Aarav Jones,50,Male,98527.0,62,Two Year,Mailed Check,46.08,2849.6,Fiber Optic,No,4,2023-11-03 00:00:00,Toronto,Yes
+CUST-1186,Margaret Lopez,41,Male,85146.0,57,One Year,Bank Transfer,91.48,5218.93,No,Yes,5,2022-02-19 00:00:00,Bengaluru,Yes
+CUST-2092,Richard Gupta,19,Male,54641.0,43,Month-to-Month,Mailed Check,70.97,2155.67,Fiber Optic,No,2,2023-06-05 00:00:00,Phoenix,No
+CUST-1661,Aarav Jones,26,Female,85964.0,40,Month-to-Month,Bank Transfer,25.77,1034.01,Fiber Optic,No,2,2021-02-16 00:00:00,Houston,No
+CUST-1317,Betty Sharma,42,Male,90898.0,29,Month-to-Month,Credit Card,84.03,2432.22,DSL,Yes,5,2023-05-03 00:00:00,Hyderabad,Yes
+CUST-2260,Robert Nair,42,Female,42072.0,55,Two Year,Bank Transfer,70.97,2745.83,Fiber Optic,No internet service,3,2023-11-05 00:00:00,New York,Yes
+CUST-1817,Aditya Kumar,54,Unspecified,102111.0,15,One Year,Mailed Check,25.43,382.62,Fiber Optic,No,4,2022-03-04 00:00:00,Los Angeles,No
+CUST-2118,Rohit Davis,54,Male,100732.0,18,One Year,Unknown,116.91,2106.38,DSL,Yes,3,2024-10-16 00:00:00,Mumbai,No
+CUST-1694,Daniel Reddy,59,Female,132932.0,14,One Year,Bank Transfer,32.2,447.43,DSL,No,3,2020-07-28 00:00:00,Hyderabad,No
+CUST-1136,Arjun Anderson,67,Female,123134.0,30,Two Year,Electronic Check,48.93,1467.9,No,Yes,4,2023-05-01 00:00:00,Chennai,No
+CUST-1715,Robert Singh,46,Female,73034.0,37,One Year,Electronic Check,70.97,2625.89,No,Yes,4,2021-06-12 00:00:00,Chicago,No
+CUST-1820,Mark Johnson,52,Male,87396.0,29,One Year,Bank Transfer,50.66,1456.71,DSL,No,4,2020-01-13 00:00:00,London,No
+CUST-1673,Linda Patel,42,Female,50774.0,1,Two Year,Unknown,42.85,42.42,DSL,Yes,1,2024-11-30 13:30:00,Delhi,No
+CUST-1484,Jessica Iyer,51,Female,105022.0,70,Two Year,Credit Card,44.64,3133.12,DSL,No internet service,3,2023-03-19 00:00:00,Houston,No
+CUST-1068,Christopher Smith,24,Female,107269.0,50,One Year,Electronic Check,117.59,5879.52,Fiber Optic,Yes,5,2024-07-25 00:00:00,Sydney,No
+CUST-1382,Lisa Davis,56,Other,58945.0,17,Two Year,Bank Transfer,99.43,1694.71,DSL,No internet service,5,2020-08-20 00:00:00,Los Angeles,No
+CUST-1652,Patricia Brown,23,Other,52739.0,12,Month-to-Month,Credit Card,23.95,280.52,No,No internet service,3,2024-01-17 00:00:00,Singapore,Yes
+CUST-1781,Margaret Reddy,41,Other,147386.0,53,Two Year,Bank Transfer,49.66,2636.22,No,Yes,3,2023-02-10 00:00:00,Mumbai,No
+CUST-2209,Barbara Iyer,49,Female,63435.0,37,Two Year,Bank Transfer,66.44,1000.22,Fiber Optic,Yes,1,2024-02-13 00:00:00,Chennai,No
+CUST-1707,Sneha Davis,43,Female,109752.0,4,Month-to-Month,Mailed Check,75.19,295.49,No,Yes,5,2020-02-13 00:00:00,Houston,Yes
+CUST-2417,Joseph Anderson,42,Female,119592.0,64,Two Year,Mailed Check,59.37,3799.75,DSL,Yes,2,2024-04-24 00:00:00,Bengaluru,No
+CUST-1865,Charles Patel,46,Female,87396.0,3,One Year,Mailed Check,25.45,69.55,Fiber Optic,No,3,2024-12-24 00:00:00,London,No
+CUST-2176,Elizabeth Smith,33,Female,136958.0,37,Two Year,Credit Card,70.97,2626.48,Fiber Optic,Yes,2,2021-10-26 00:00:00,Chennai,No
+CUST-1414,Patricia Martinez,54,Female,106055.0,71,One Year,Bank Transfer,76.67,5453.24,Fiber Optic,No,4,2020-10-09 00:00:00,Mumbai,No
+CUST-2095,Pooja Miller,41,Male,87396.0,37,Two Year,Bank Transfer,21.94,385.75,Fiber Optic,No,2,2021-09-18 00:00:00,New York,No
+CUST-2290,Joseph Kumar,35,Female,107878.0,0,Two Year,Electronic Check,43.47,124.41,Fiber Optic,Yes,3,2023-09-15 00:00:00,Delhi,No
+CUST-1030,Nancy Brown,41,Other,96104.0,72,Two Year,Unknown,64.09,4617.93,No,Yes,5,2024-06-20 00:00:00,Singapore,No
+CUST-1429,Mary Gonzalez,18,Unspecified,117802.0,56,Month-to-Month,Electronic Check,36.9,1985.3,No,No internet service,3,2021-02-23 00:00:00,Toronto,No
+CUST-1721,Patricia Gonzalez,26,Male,58067.0,57,Month-to-Month,Mailed Check,70.97,2851.04,Fiber Optic,No,4,2024-06-10 00:00:00,Phoenix,No
+CUST-1440,Sandra Jones,41,Male,38377.0,37,Two Year,Mailed Check,59.59,2208.2,DSL,No internet service,1,2022-03-13 00:00:00,New York,No
+CUST-1577,Neha Rodriguez,65,Male,74895.0,15,Two Year,Mailed Check,78.05,1172.26,DSL,No,1,2020-04-14 00:00:00,Unknown,No
+CUST-2098,Charles Gonzalez,26,Female,87396.0,0,One Year,Mailed Check,50.6,1158.44,DSL,No,5,2020-09-20 00:00:00,Chennai,No
+CUST-2492,Joseph Hernandez,39,Male,96186.0,57,Month-to-Month,Bank Transfer,50.11,2857.05,No,Yes,1,2021-11-06 00:00:00,Delhi,No
+CUST-2409,Joseph Anderson,41,Female,81548.0,25,Two Year,Mailed Check,53.32,1334.37,Fiber Optic,No,3,2021-04-13 00:00:00,Los Angeles,No
+CUST-2383,Betty Garcia,29,Male,87725.0,64,Month-to-Month,Unknown,40.1,2566.4,DSL,Yes,1,2023-03-10 00:00:00,Chennai,No
+CUST-1803,Susan Miller,35,Male,67202.0,68,Two Year,Electronic Check,45.82,3112.66,No,No,3,2023-11-23 00:00:00,London,No
+CUST-1995,Sandra Smith,44,Male,122402.0,35,Month-to-Month,Electronic Check,70.97,1757.16,DSL,No,5,2021-02-01 00:00:00,Los Angeles,No
+CUST-2263,Sarah Rodriguez,43,Male,160059.5,44,Two Year,Electronic Check,55.66,2443.25,No,No internet service,2,2023-01-06 00:00:00,Delhi,No
+CUST-1426,Matthew Hernandez,42,Male,87396.0,0,One Year,Electronic Check,87.34,1922.81,Fiber Optic,Yes,5,2024-10-25 00:00:00,Singapore,No
+CUST-1902,Jessica Singh,33,Female,82854.0,37,Two Year,Electronic Check,87.64,3249.74,Fiber Optic,No,5,2021-02-13 00:00:00,Los Angeles,Yes
+CUST-1846,Sarah Brown,32,Other,85799.0,20,One Year,Bank Transfer,168.585,12138.12,Fiber Optic,No,2,2020-03-08 00:00:00,Mumbai,No
+CUST-1412,James Rodriguez,28,Male,86478.0,25,Two Year,Electronic Check,48.32,1208.0,Fiber Optic,Yes,1,2023-03-01 00:00:00,Delhi,No
+CUST-1768,Thomas Johnson,53,Male,87396.0,66,Two Year,Electronic Check,70.97,3298.93,No,No,4,2024-10-24 00:00:00,London,No
+CUST-1744,Christopher Williams,47,Male,160059.5,69,Month-to-Month,Credit Card,117.58,8087.92,Fiber Optic,No internet service,1,2020-02-10 00:00:00,Houston,No
+CUST-1290,Michael Williams,37,Male,74640.0,65,One Year,Bank Transfer,96.38,6256.99,No,No internet service,4,2020-06-26 00:00:00,Berlin,No
+CUST-1307,Karen Williams,43,Female,59986.0,57,One Year,Credit Card,54.01,3087.8,No,No internet service,3,2024-05-26 00:00:00,Chicago,No
+CUST-1528,Pooja Williams,33,Other,51347.0,14,Two Year,Bank Transfer,102.21,1436.53,No,Yes,1,2023-10-31 21:00:00,Houston,No
+CUST-1529,Susan Jones,57,Other,89713.0,36,Month-to-Month,Electronic Check,109.97,3952.14,DSL,Yes,3,2024-01-06 00:00:00,Unknown,No
+CUST-1463,Jessica Jones,28,Male,89988.0,40,Month-to-Month,Unknown,94.34,3778.04,Fiber Optic,Yes,3,2023-05-21 00:00:00,Sydney,No
+CUST-2058,Mary Davis,58,Female,78370.0,37,Month-to-Month,Electronic Check,93.87,3473.19,DSL,No internet service,2,2022-05-17 00:00:00,Sydney,No
+CUST-2236,Aarav Iyer,18,Unspecified,74273.0,68,Month-to-Month,Bank Transfer,31.2,2129.09,No,No internet service,3,2023-09-21 00:00:00,Delhi,No
+CUST-1614,Jennifer Jones,54,Other,150504.0,42,Month-to-Month,Electronic Check,70.97,2103.1,No,No,1,2020-10-03 00:00:00,Unknown,No
+CUST-2291,Thomas Verma,41,Female,36670.0,23,One Year,Mailed Check,83.47,1922.49,DSL,No,2,2023-11-17 00:00:00,Mumbai,No
+CUST-1635,Vikram Iyer,18,Other,121817.0,8,Month-to-Month,Bank Transfer,106.18,842.12,Fiber Optic,Yes,3,2024-06-09 00:00:00,Bengaluru,Yes
+CUST-2166,Michael Davis,29,Female,98245.0,13,Month-to-Month,Mailed Check,59.49,770.76,Fiber Optic,Yes,4,2024-09-15 00:00:00,Chicago,No
+CUST-2145,Aditya Nair,21,Other,111928.0,35,Month-to-Month,Mailed Check,41.58,1455.31,DSL,No,2,2023-10-12 00:00:00,Mumbai,No
+CUST-2143,John Reddy,59,Female,94244.0,46,One Year,Credit Card,35.99,1663.54,No,Yes,5,2021-01-12 00:00:00,Delhi,Yes
+CUST-2188,Susan Sharma,32,Male,80434.0,3,One Year,Electronic Check,97.48,283.09,No,No,2,2024-09-30 16:30:00,Toronto,No
+CUST-1116,Rohit Garcia,73,Male,59917.0,68,Two Year,Credit Card,70.97,3398.91,DSL,Yes,3,2023-02-13 00:00:00,New York,No
+CUST-2189,Michael Williams,42,Unspecified,132883.0,49,Two Year,Mailed Check,70.97,2459.94,Fiber Optic,Yes,1,2023-11-10 00:00:00,Chicago,Yes
+CUST-2104,Anthony Sharma,54,Male,95849.0,70,Month-to-Month,Credit Card,62.0,4333.55,DSL,No,3,2022-07-07 00:00:00,Sydney,Yes
+CUST-1983,Mary Wilson,42,Male,142633.0,7,One Year,Bank Transfer,32.93,222.76,No,No,1,2022-08-03 00:00:00,Los Angeles,No
+CUST-1991,Aarav Miller,58,Male,113073.0,37,Two Year,Electronic Check,85.33,3160.3,DSL,Yes,1,2021-06-05 00:00:00,Chennai,No
+CUST-2042,Matthew Johnson,49,Female,51898.0,55,Two Year,Bank Transfer,35.35,1950.28,DSL,Yes,4,2024-07-08 00:00:00,Singapore,Yes
+CUST-2204,Sarah Martinez,62,Female,87396.0,37,One Year,Electronic Check,59.12,1116.37,DSL,No,4,2021-08-13 00:00:00,Delhi,No
+CUST-1680,Robert Verma,35,Other,94766.0,43,One Year,Electronic Check,70.97,2159.75,DSL,No,5,2024-09-28 00:00:00,Sydney,No
+CUST-1079,Jennifer Kumar,19,Female,61137.0,28,Month-to-Month,Credit Card,31.59,890.29,DSL,Yes,3,2022-08-31 18:00:00,Houston,No
+CUST-1299,Christopher Jones,23,Other,154071.0,62,One Year,Electronic Check,27.7,1721.63,No,No,1,2019-10-31 21:00:00,Singapore,No
+CUST-2429,Anthony Miller,21,Female,68879.0,48,Two Year,Mailed Check,38.08,1825.23,DSL,No,2,2024-05-18 00:00:00,New York,No
+CUST-1678,Robert Martinez,55,Female,77626.0,63,One Year,Bank Transfer,44.33,2792.91,DSL,No internet service,5,2021-03-27 00:00:00,Phoenix,Yes
+CUST-1599,Ananya Reddy,49,Male,101456.0,34,One Year,Bank Transfer,75.61,2571.47,No,No,3,2020-12-08 00:00:00,Hyderabad,No
+CUST-1333,Arjun Martinez,33,Female,51384.0,61,Two Year,Electronic Check,66.96,4085.22,No,No,5,2020-08-08 00:00:00,Unknown,No
+CUST-1945,Priya Verma,37,Female,140171.0,70,Month-to-Month,Unknown,111.53,7807.72,Fiber Optic,No,5,2023-03-28 00:00:00,Mumbai,No
+CUST-1016,Matthew Wilson,33,Female,85166.0,50,Two Year,Bank Transfer,116.82,5849.14,DSL,No,2,2020-05-13 00:00:00,Mumbai,No
+CUST-1598,Anthony Williams,39,Other,70614.0,43,One Year,Mailed Check,70.97,2142.49,DSL,Yes,3,2021-08-14 00:00:00,Singapore,No
+CUST-2094,Sneha Rodriguez,51,Female,72146.0,53,Two Year,Bank Transfer,72.24,3831.23,DSL,No,3,2024-06-24 00:00:00,Houston,Yes
+CUST-1406,Lisa Johnson,40,Unspecified,72586.0,41,Month-to-Month,Bank Transfer,99.78,4099.45,Fiber Optic,No,5,2022-04-26 00:00:00,Singapore,Yes
+CUST-2240,James Iyer,41,Male,75511.0,5,One Year,Electronic Check,75.3,366.63,Fiber Optic,No,3,2022-05-24 00:00:00,Unknown,No
+CUST-1494,Michael Jones,44,Female,48027.0,34,Two Year,Bank Transfer,70.49,2398.04,Fiber Optic,No,5,2023-01-26 00:00:00,Singapore,Yes
+CUST-1354,Sandra Iyer,60,Male,69547.0,29,Two Year,Mailed Check,91.9,2661.6,DSL,No,3,2024-11-13 00:00:00,Singapore,No
+CUST-1786,John Reddy,37,Female,146589.0,34,Two Year,Credit Card,60.87,2078.66,No,No internet service,1,2022-03-02 03:00:00,Toronto,Yes
+CUST-2385,Robert Davis,52,Male,83121.0,13,Two Year,Credit Card,104.46,1359.13,Fiber Optic,Yes,4,2020-07-15 00:00:00,London,Yes
+CUST-1535,Linda Hernandez,40,Male,114114.0,44,Month-to-Month,Electronic Check,168.585,12138.12,DSL,No,1,2021-11-25 00:00:00,Unknown,No
+CUST-2359,James Lopez,50,Other,160059.5,3,Month-to-Month,Electronic Check,84.45,244.58,Fiber Optic,No,2,2020-05-19 00:00:00,Unknown,No
+CUST-2177,Linda Martinez,32,Male,57184.0,65,One Year,Mailed Check,23.72,1544.38,Fiber Optic,No,5,2024-04-16 00:00:00,London,Yes
+CUST-1567,Joseph Patel,40,Other,80241.0,44,Month-to-Month,Bank Transfer,31.88,1405.19,Fiber Optic,Yes,2,2021-05-01 18:00:00,Bengaluru,No
+CUST-2482,William Kumar,36,Female,97176.0,2,Month-to-Month,Bank Transfer,92.51,186.92,Fiber Optic,Yes,4,2021-02-06 00:00:00,Mumbai,No
+CUST-2497,Betty Gonzalez,52,Other,79363.0,37,Two Year,Credit Card,70.97,107.56,Fiber Optic,Yes,3,2023-07-12 00:00:00,Houston,No
+CUST-1433,Elizabeth Smith,40,Male,47345.0,60,Month-to-Month,Electronic Check,111.01,6651.66,Fiber Optic,Yes,5,2024-08-02 00:00:00,Delhi,No
+CUST-1172,Michael Johnson,36,Male,87396.0,1,Two Year,Electronic Check,57.73,57.73,DSL,No,1,2024-04-01 00:00:00,Sydney,No
+CUST-1938,Barbara Wilson,33,Female,82898.0,10,Two Year,Bank Transfer,74.08,740.8,DSL,Yes,2,2021-11-20 00:00:00,Houston,No
+CUST-2053,William Patel,36,Male,83826.0,37,One Year,Credit Card,47.98,723.44,No,No,4,2023-07-20 00:00:00,Bengaluru,No
+CUST-2358,Lisa Davis,43,Female,61628.0,52,Two Year,Electronic Check,62.1,3232.56,Fiber Optic,No,3,2020-08-31 06:00:00,Toronto,Yes
+CUST-2051,Priya Gonzalez,29,Female,114886.0,6,Two Year,Bank Transfer,33.88,201.18,Fiber Optic,Yes,2,2022-02-24 00:00:00,Berlin,No
+CUST-1245,James Hernandez,48,Male,130783.0,54,One Year,Electronic Check,39.26,2128.82,Fiber Optic,Yes,3,2020-07-07 00:00:00,Singapore,Yes
+CUST-1057,Aarav Sharma,47,Male,105955.0,69,One Year,Credit Card,102.47,7061.16,DSL,No internet service,1,2022-10-20 00:00:00,Phoenix,No
+CUST-2076,Christopher Gonzalez,64,Female,123394.0,43,Month-to-Month,Mailed Check,111.39,4786.22,DSL,No,2,2022-02-06 00:00:00,Singapore,No
+CUST-2449,Margaret Miller,35,Other,81971.0,61,Two Year,Mailed Check,70.22,4286.67,DSL,No,5,2022-11-06 00:00:00,Houston,No
+CUST-2301,Aarav Gonzalez,31,Female,55410.0,50,Two Year,Electronic Check,51.43,2581.14,No,No,1,2021-09-23 00:00:00,Berlin,No
+CUST-2277,Arjun Brown,39,Unspecified,110353.0,21,Two Year,Mailed Check,46.63,979.23,Fiber Optic,No,3,2021-12-20 00:00:00,Hyderabad,No
+CUST-2113,Barbara Johnson,68,Female,160059.5,71,Month-to-Month,Credit Card,61.62,4365.93,Fiber Optic,No internet service,5,2020-04-20 00:00:00,Unknown,No
+CUST-1044,Aarav Anderson,38,Unspecified,98330.0,68,Month-to-Month,Electronic Check,70.97,3405.88,Fiber Optic,No,5,2021-12-05 00:00:00,Unknown,No
+CUST-1472,Elizabeth Wilson,49,Other,108916.0,20,Month-to-Month,Mailed Check,21.56,436.19,No,No,5,2022-11-08 00:00:00,London,No
+CUST-2019,Michael Davis,30,Male,68669.0,0,Month-to-Month,Bank Transfer,62.38,504.01,Fiber Optic,No,1,2020-07-04 00:00:00,Sydney,Yes
+CUST-1498,William Smith,34,Female,89102.0,9,Two Year,Bank Transfer,75.53,685.35,No,Yes,3,2021-12-07 00:00:00,Bengaluru,Yes
+CUST-1102,John Reddy,53,Male,55340.0,46,One Year,Credit Card,28.28,1296.05,DSL,No internet service,2,2022-04-24 00:00:00,Berlin,Yes
+CUST-2197,James Miller,23,Male,87396.0,7,Two Year,Credit Card,23.02,153.07,Fiber Optic,Yes,4,2021-03-12 00:00:00,New York,No
+CUST-2381,Sneha Kumar,71,Female,128359.0,31,One Year,Credit Card,70.58,2187.98,No,Yes,2,2024-10-23 00:00:00,Houston,No
+CUST-1108,Matthew Singh,19,Female,160059.5,21,Two Year,Mailed Check,36.67,767.24,DSL,No internet service,4,2023-04-01 19:30:00,Mumbai,No
+CUST-1757,Thomas Gonzalez,38,Female,57593.0,22,Two Year,Credit Card,21.38,462.73,DSL,Yes,1,2023-10-08 00:00:00,Houston,No
+CUST-1640,Betty Garcia,51,Male,59551.0,2,Month-to-Month,Bank Transfer,27.24,47.98,No,No,4,2020-03-14 00:00:00,Singapore,Yes
+CUST-1812,Sarah Verma,57,Female,79342.0,47,Two Year,Credit Card,57.58,2706.2599999999998,Fiber Optic,Yes,4,2024-05-23 00:00:00,Berlin,No
+CUST-1428,Mary Patel,43,Female,77854.0,50,Two Year,Electronic Check,78.75,3935.05,Fiber Optic,Yes,3,2021-07-20 00:00:00,London,No
+CUST-2085,Mary Johnson,25,Male,116125.0,31,Two Year,Unknown,59.96,1854.72,DSL,No,3,2022-08-11 00:00:00,Phoenix,No
+CUST-1742,Betty Singh,41,Unspecified,76420.0,27,One Year,Credit Card,74.27,1999.7,DSL,Yes,1,2022-10-13 00:00:00,Phoenix,No
+CUST-1129,Sneha Reddy,40,Male,88946.0,1,Two Year,Mailed Check,70.97,58.94,No,No,2,2022-08-22 00:00:00,New York,No
+CUST-2103,Lisa Brown,46,Male,124194.0,39,One Year,Mailed Check,60.53,2362.74,DSL,Yes,1,2020-06-24 00:00:00,Sydney,Yes
+CUST-1375,Ananya Wilson,52,Male,87396.0,72,One Year,Credit Card,25.2,1807.21,Fiber Optic,Yes,4,2024-04-08 00:00:00,Phoenix,No
+CUST-2305,Joseph Davis,65,Female,109345.0,17,Two Year,Mailed Check,70.97,847.93,Fiber Optic,No,3,2022-04-27 00:00:00,Mumbai,No
+CUST-1887,David Lopez,18,Female,66486.0,52,Month-to-Month,Bank Transfer,22.44,1170.48,No,Yes,4,2023-07-24 00:00:00,Chennai,No
+CUST-1384,Jessica Nair,33,Female,97418.0,7,Two Year,Bank Transfer,59.36,426.1,Fiber Optic,Yes,4,2020-09-03 00:00:00,London,No
+CUST-2379,Mark Verma,18,Female,58999.0,37,Two Year,Bank Transfer,107.32,2368.6,DSL,Yes,4,2022-03-19 00:00:00,Delhi,No
+CUST-1310,Michael Reddy,63,Male,145270.0,16,One Year,Mailed Check,108.05,1719.65,No,No internet service,2,2022-09-28 00:00:00,Berlin,Yes
+CUST-1248,James Williams,41,Male,87521.0,71,Two Year,Electronic Check,65.32,4631.67,DSL,Yes,2,2022-08-03 00:00:00,Bengaluru,No
+CUST-2030,Joseph Smith,48,Female,56451.0,70,Month-to-Month,Mailed Check,48.94,3425.7999999999997,DSL,Yes,5,2022-11-13 00:00:00,Bengaluru,No
+CUST-2444,Nancy Rodriguez,25,Female,107283.0,65,Two Year,Mailed Check,86.92,5641.13,Fiber Optic,No,3,2021-03-18 00:00:00,Mumbai,No
+CUST-1591,Aarav Anderson,37,Female,77314.0,27,Two Year,Mailed Check,56.2,1512.64,Fiber Optic,No,3,2024-11-09 00:00:00,Hyderabad,No
+CUST-1033,Lisa Verma,53,Male,87396.0,67,Month-to-Month,Electronic Check,61.23,4102.41,DSL,Yes,2,2020-09-03 00:00:00,Toronto,No
+CUST-1789,Jennifer Patel,41,Female,48955.0,12,Two Year,Electronic Check,105.19,1252.33,Fiber Optic,No,2,2021-09-16 00:00:00,Los Angeles,No
+CUST-1533,William Patel,18,Male,101932.0,43,Month-to-Month,Credit Card,36.82,1585.14,Fiber Optic,Yes,3,2020-11-20 00:00:00,Los Angeles,No
+CUST-1627,James Anderson,29,Male,81327.0,27,One Year,Mailed Check,79.03,2134.39,No,Yes,5,2024-07-19 00:00:00,Toronto,Yes
+CUST-1911,Jessica Wilson,27,Male,113820.0,62,Two Year,Electronic Check,27.36,1696.32,Fiber Optic,Yes,4,2023-01-04 00:00:00,New York,No
+CUST-2125,Patricia Johnson,38,Male,56758.0,1,Month-to-Month,Credit Card,92.18,90.96,No,Yes,4,2021-10-24 00:00:00,Unknown,Yes
+CUST-1931,Margaret Johnson,35,Unspecified,50538.0,47,One Year,Electronic Check,67.71,3177.81,DSL,Yes,2,2024-08-25 00:00:00,Unknown,No
+CUST-1232,Nancy Iyer,42,Female,87987.0,37,One Year,Bank Transfer,31.13,371.98,Fiber Optic,Yes,3,2022-10-14 00:00:00,Mumbai,No
+CUST-1552,Patricia Iyer,58,Female,66640.0,37,Two Year,Electronic Check,23.07,853.59,Fiber Optic,No,3,2023-11-28 00:00:00,New York,No
+CUST-2326,Pooja Johnson,29,Female,80245.0,29,Month-to-Month,Electronic Check,95.55,2779.18,Fiber Optic,No,5,2023-12-09 00:00:00,Bengaluru,No
+CUST-1383,Daniel Sharma,18,Female,119080.0,4,One Year,Mailed Check,40.07,161.05,Fiber Optic,Yes,5,2024-08-31 06:00:00,Sydney,No
+CUST-1164,Linda Reddy,48,Male,119300.0,59,Two Year,Electronic Check,27.58,1629.45,DSL,No,3,2023-10-19 00:00:00,Berlin,No
+CUST-2443,Nancy Smith,32,Male,115702.0,55,Two Year,Unknown,85.87,4761.2,No,No internet service,1,2022-09-15 00:00:00,London,No
+CUST-1998,Daniel Brown,40,Male,74357.0,38,One Year,Electronic Check,22.67,860.18,Fiber Optic,Yes,2,2023-07-12 00:00:00,Unknown,No
+CUST-1821,Joseph Williams,51,Male,128289.0,58,Two Year,Credit Card,52.61,3047.42,DSL,No,2,2020-09-03 00:00:00,Singapore,No
+CUST-2228,Matthew Garcia,21,Female,107146.0,48,One Year,Mailed Check,108.56,5210.88,Fiber Optic,No,5,2024-08-22 00:00:00,New York,No
+CUST-1193,Lisa Garcia,20,Female,79710.0,52,One Year,Bank Transfer,70.97,2596.77,No,Yes,3,2024-10-09 00:00:00,Bengaluru,No
+CUST-2107,Sarah Williams,34,Male,101646.0,7,Two Year,Mailed Check,110.21,770.09,DSL,No,5,2024-12-07 00:00:00,Sydney,No
+CUST-1064,Pooja Kumar,48,Male,94733.0,16,One Year,Credit Card,39.0,625.04,Fiber Optic,Yes,4,2023-02-26 00:00:00,Singapore,Yes
+CUST-2141,Mark Iyer,35,Male,95899.0,11,Two Year,Electronic Check,82.38,907.9,Fiber Optic,No,3,2020-02-20 00:00:00,Delhi,No
+CUST-1904,Jennifer Garcia,41,Male,99835.0,37,Month-to-Month,Credit Card,43.85,915.58,Fiber Optic,Yes,3,2021-05-24 00:00:00,Phoenix,No
+CUST-2091,Jennifer Anderson,61,Female,96488.0,51,One Year,Electronic Check,83.67,4276.2,DSL,No,4,2024-01-23 00:00:00,Phoenix,Yes
+CUST-1615,Karen Sharma,30,Male,87396.0,21,Two Year,Bank Transfer,85.48,1794.14,Fiber Optic,No,4,2021-03-09 00:00:00,Chennai,No
+CUST-1479,Arjun Anderson,31,Female,66652.0,70,One Year,Mailed Check,93.71,6550.16,DSL,No,1,2019-03-02 09:00:00,Bengaluru,No
+CUST-1618,Michael Brown,29,Male,69711.0,24,Month-to-Month,Electronic Check,70.97,1209.02,No,No,5,2023-01-02 00:00:00,Toronto,No
+CUST-2248,Nancy Anderson,38,Female,87396.0,6,Two Year,Credit Card,42.72,256.66,Fiber Optic,No,2,2023-10-26 00:00:00,Mumbai,No
+CUST-1219,Jennifer Verma,32,Female,87396.0,70,One Year,Credit Card,117.44,8220.8,Fiber Optic,Yes,1,2020-10-08 00:00:00,Unknown,No
+CUST-1514,Aditya Martinez,56,Other,104096.0,49,One Year,Bank Transfer,79.99,3917.72,Fiber Optic,No,3,2022-07-28 00:00:00,Mumbai,No
+CUST-2252,Arjun Miller,55,Female,154078.0,15,One Year,Mailed Check,86.52,1303.0,Fiber Optic,No,5,2021-08-15 00:00:00,Mumbai,No
+CUST-1974,Anthony Johnson,22,Other,129515.0,0,Two Year,Electronic Check,168.585,5990.81,No,No,2,2021-10-14 00:00:00,Chicago,No
+CUST-2476,Arjun Martinez,57,Male,116297.0,4,Month-to-Month,Credit Card,51.22,214.18,No,No,2,2021-04-10 00:00:00,Houston,No
+CUST-2044,Jessica Nair,55,Unspecified,160059.5,17,Two Year,Electronic Check,70.97,1206.49,DSL,No,3,2020-11-09 00:00:00,Berlin,No
+CUST-2278,David Smith,41,Female,87890.0,37,Month-to-Month,Electronic Check,48.11,245.0,DSL,No,3,2022-04-03 00:00:00,Mumbai,No
+CUST-2112,David Nair,41,Male,141169.0,56,Month-to-Month,Mailed Check,84.37,4724.71,DSL,Yes,5,2021-05-25 00:00:00,New York,No
+CUST-2117,Pooja Iyer,28,Female,160059.5,43,Two Year,Mailed Check,60.48,2601.82,DSL,Yes,1,2023-06-05 00:00:00,Los Angeles,No
+CUST-1967,Jennifer Patel,37,Unspecified,160059.5,69,Month-to-Month,Bank Transfer,112.06,7740.31,No,No,3,2022-09-10 00:00:00,Hyderabad,No
+CUST-1893,Robert Lopez,56,Male,55951.0,60,Month-to-Month,Mailed Check,21.53,1286.44,Fiber Optic,Yes,1,2021-08-22 00:00:00,London,Yes
+CUST-2342,Matthew Martinez,29,Female,48573.0,41,Month-to-Month,Credit Card,92.29,3774.44,DSL,No internet service,4,2022-01-05 00:00:00,Hyderabad,No
+CUST-1304,Arjun Sharma,71,Female,107846.0,19,Month-to-Month,Electronic Check,61.68,1163.71,Fiber Optic,No,4,2024-03-09 00:00:00,Mumbai,No
+CUST-1665,Vikram Patel,30,Male,87396.0,56,One Year,Credit Card,90.76,5073.67,No,Yes,5,2020-05-01 12:00:00,Chennai,Yes
+CUST-1650,Sandra Kumar,41,Male,70603.0,21,Month-to-Month,Bank Transfer,114.11,2404.0,Fiber Optic,Yes,1,2022-06-25 00:00:00,Delhi,No
+CUST-1483,John Iyer,18,Unspecified,160059.5,35,Two Year,Bank Transfer,80.61,2822.73,Fiber Optic,No internet service,3,2022-05-09 00:00:00,Delhi,No
+CUST-2207,Lisa Lopez,25,Male,117775.0,17,Month-to-Month,Mailed Check,73.59,1255.68,DSL,No,2,2022-12-09 00:00:00,Unknown,No
+CUST-2395,Sandra Rodriguez,62,Male,114201.0,16,Two Year,Electronic Check,70.97,1135.52,DSL,Yes,1,2020-05-17 00:00:00,London,No
+CUST-1501,Mary Kumar,57,Male,76648.0,6,One Year,Electronic Check,63.39,370.95,No,No,4,2024-07-01 09:00:00,Los Angeles,Yes
+CUST-1589,Joseph Lopez,26,Male,42082.0,60,Two Year,Electronic Check,44.56,2675.66,Fiber Optic,Yes,4,2020-02-23 00:00:00,Hyderabad,No
+CUST-1292,David Hernandez,41,Unspecified,93279.0,70,Two Year,Mailed Check,31.59,2213.93,Fiber Optic,Yes,4,2022-11-02 00:00:00,London,No
+CUST-2027,Richard Iyer,45,Female,57703.0,44,Two Year,Electronic Check,29.67,1305.48,Fiber Optic,No,1,2024-02-06 00:00:00,Houston,No
+CUST-1278,Arjun Garcia,40,Female,70237.0,35,Two Year,Credit Card,97.58,3424.86,Fiber Optic,Yes,1,2024-07-24 00:00:00,Chicago,Yes
+CUST-2205,John Hernandez,48,Male,87396.0,55,Two Year,Mailed Check,99.37,5469.23,Fiber Optic,No,3,2021-07-27 00:00:00,London,No
+CUST-1888,James Verma,40,Male,85967.0,51,One Year,Electronic Check,70.18,3585.57,Fiber Optic,No,3,2022-01-19 00:00:00,Houston,Yes
+CUST-1237,Richard Anderson,53,Male,75960.0,18,Two Year,Mailed Check,22.62,403.89,Fiber Optic,No internet service,1,2021-08-08 00:00:00,Berlin,No
+CUST-2373,Sandra Nair,47,Male,59956.0,2,Two Year,Electronic Check,98.32,190.69,No,Yes,4,2024-10-31 03:00:00,Chennai,No
+CUST-2023,Joseph Jones,41,Female,71525.0,14,One Year,Electronic Check,24.19,329.83,DSL,No,5,2024-09-09 00:00:00,Delhi,No
+CUST-2494,William Nair,49,Female,81127.0,21,Two Year,Credit Card,105.42,2208.48,Fiber Optic,No,1,2024-07-05 00:00:00,Toronto,Yes
+CUST-2356,Nancy Jones,35,Female,98754.0,48,Two Year,Mailed Check,48.9,2347.2,Fiber Optic,Yes,3,2024-05-02 00:00:00,Phoenix,No
+CUST-2074,Pooja Davis,34,Female,71878.0,50,Month-to-Month,Mailed Check,22.55,1129.6,DSL,No,2,2024-01-08 00:00:00,Toronto,Yes
+CUST-1209,Patricia Iyer,53,Female,62305.0,23,Two Year,Electronic Check,96.64,2227.77,Fiber Optic,No,3,2024-03-12 00:00:00,Hyderabad,No
+CUST-1773,James Sharma,57,Female,87396.0,40,Two Year,Mailed Check,110.2,4408.0,No,No,2,2022-11-25 00:00:00,Hyderabad,No
+CUST-1616,Sarah Nair,19,Male,131440.0,37,Two Year,Bank Transfer,66.96,327.31,Fiber Optic,Yes,4,2024-03-04 00:00:00,London,No
+CUST-2190,Matthew Sharma,31,Female,55252.0,55,Month-to-Month,Bank Transfer,115.23,6337.650000000001,Fiber Optic,No,2,2022-11-16 00:00:00,Phoenix,No
+CUST-1059,Patricia Gupta,36,Male,75127.0,38,Month-to-Month,Electronic Check,64.11,2433.65,No,No,1,2024-08-17 00:00:00,Chennai,No
+CUST-1343,Mark Rodriguez,60,Male,117287.0,37,Two Year,Electronic Check,88.89,1961.51,DSL,No,3,2022-04-15 00:00:00,Hyderabad,Yes
+CUST-1454,Michael Kumar,39,Male,58765.0,46,Two Year,Bank Transfer,104.49,4811.72,DSL,No internet service,1,2024-08-03 00:00:00,Unknown,No
+CUST-1844,John Jones,18,Male,84487.0,62,Month-to-Month,Unknown,56.45,3499.52,Fiber Optic,Yes,2,2020-02-05 00:00:00,Unknown,No
+CUST-2231,Arjun Rodriguez,36,Female,87396.0,41,Two Year,Mailed Check,111.64,4577.24,Fiber Optic,No internet service,1,2021-04-01 00:00:00,Houston,No
+CUST-2055,Jessica Rodriguez,61,Other,120356.0,69,One Year,Electronic Check,105.73,7284.84,DSL,No,5,2021-09-05 00:00:00,Berlin,Yes
+CUST-2282,Robert Iyer,61,Male,45674.0,2,Two Year,Credit Card,19.33,41.23,Fiber Optic,No,3,2021-01-08 00:00:00,Singapore,No
+CUST-1381,Jessica Patel,43,Unspecified,98483.0,57,One Year,Electronic Check,20.58,1179.82,DSL,Yes,5,2023-11-19 00:00:00,Toronto,No
+CUST-2461,Sandra Anderson,19,Other,87396.0,61,Month-to-Month,Credit Card,104.74,6386.12,Fiber Optic,No internet service,4,2020-12-23 00:00:00,Mumbai,Yes
+CUST-2281,Richard Nair,55,Female,45716.0,70,Two Year,Mailed Check,62.02,4341.400000000001,No,Yes,4,2023-05-15 00:00:00,Chicago,Yes
+CUST-2193,William Garcia,20,Unspecified,115302.0,61,Two Year,Electronic Check,29.01,1779.29,DSL,No internet service,2,2020-04-04 00:00:00,Hyderabad,Yes
+CUST-1868,Karen Jones,35,Female,87396.0,13,Month-to-Month,Electronic Check,115.17,1498.67,Fiber Optic,Yes,3,2021-12-08 00:00:00,Sydney,No
+CUST-1746,Sandra Singh,28,Female,93800.0,12,Month-to-Month,Electronic Check,86.1,1023.37,DSL,No,2,2020-09-19 00:00:00,Chicago,No
+CUST-2312,Sneha Sharma,64,Male,110201.0,27,Two Year,Electronic Check,108.08,2923.54,Fiber Optic,No,4,2022-07-26 00:00:00,Hyderabad,No
+CUST-1197,Mary Hernandez,43,Female,160059.5,64,One Year,Electronic Check,62.21,3988.39,No,Yes,5,2023-04-20 00:00:00,Singapore,Yes
+CUST-2191,James Nair,41,Female,88147.0,9,One Year,Electronic Check,70.97,446.59,DSL,Yes,5,2022-06-23 00:00:00,Delhi,No
+CUST-1082,Karen Miller,44,Female,63794.0,50,Two Year,Bank Transfer,116.51,5834.18,No,Yes,1,2020-10-31 03:00:00,Berlin,No
+CUST-2451,John Martinez,70,Male,118815.0,24,One Year,Electronic Check,89.33,2149.54,No,Yes,2,2022-01-08 00:00:00,Singapore,No
+CUST-1669,Jessica Iyer,53,Unspecified,83007.0,59,Two Year,Mailed Check,104.46,6169.63,No,No,2,2023-06-27 00:00:00,London,No
+CUST-2394,Richard Nair,35,Unspecified,54063.0,42,Two Year,Credit Card,97.77,4112.72,Fiber Optic,Yes,1,2021-01-12 00:00:00,Bengaluru,No
+CUST-1112,Sneha Wilson,18,Female,58991.0,14,Two Year,Bank Transfer,57.06,807.16,Fiber Optic,No internet service,2,2023-10-23 00:00:00,Singapore,No
+CUST-2320,Thomas Anderson,38,Female,76078.0,68,Month-to-Month,Electronic Check,82.12,5584.16,No,No,2,2023-04-22 00:00:00,Unknown,No
+CUST-1830,Sandra Smith,41,Male,80758.0,4,One Year,Electronic Check,70.97,193.09,Fiber Optic,Yes,4,2020-05-19 00:00:00,Delhi,No
+CUST-2310,Rohit Williams,30,Other,116523.0,32,One Year,Bank Transfer,80.5,2580.7,DSL,No internet service,1,2022-11-11 00:00:00,Mumbai,Yes
+CUST-2000,Betty Reddy,40,Male,80200.0,21,Two Year,Electronic Check,33.75,708.87,Fiber Optic,Yes,1,2024-03-15 00:00:00,Los Angeles,No
+CUST-2309,Patricia Davis,58,Female,107522.0,7,Two Year,Credit Card,89.21,626.5,DSL,No internet service,3,2021-06-21 00:00:00,Chicago,No
+CUST-2313,Pooja Martinez,41,Female,155394.0,57,One Year,Bank Transfer,20.02,1137.94,No,No,1,2024-10-18 00:00:00,London,No
+CUST-1693,John Reddy,56,Female,80457.0,39,Two Year,Mailed Check,59.8,2338.4,DSL,No internet service,4,2022-03-01 00:00:00,Chennai,No
+CUST-1311,Aditya Hernandez,18,Male,53772.0,62,Two Year,Bank Transfer,111.47,6911.65,Fiber Optic,No,3,2020-12-06 00:00:00,Delhi,No
+CUST-1630,Barbara Brown,58,Unspecified,104566.0,53,Two Year,Bank Transfer,168.585,12138.12,Fiber Optic,No,1,2021-02-13 00:00:00,Sydney,No
+CUST-1430,Charles Jones,53,Other,54831.0,37,Two Year,Unknown,97.12,2324.4,No,Yes,1,2020-02-09 00:00:00,Los Angeles,No
+CUST-1571,Robert Anderson,55,Female,47922.0,33,One Year,Mailed Check,95.12,3132.41,DSL,No,4,2021-03-01 00:00:00,Chicago,Yes
+CUST-1890,Anthony Rodriguez,31,Other,74630.0,38,One Year,Credit Card,111.45,4236.06,DSL,No internet service,3,2024-12-18 00:00:00,New York,No
+CUST-2327,Neha Gonzalez,51,Female,59566.0,60,Month-to-Month,Bank Transfer,48.28,2895.89,No,No,4,2022-11-11 00:00:00,Delhi,No
+CUST-1959,John Singh,55,Female,117988.0,72,One Year,Bank Transfer,82.83,5971.31,No,Yes,4,2024-01-12 00:00:00,Toronto,No
+CUST-1672,Robert Miller,57,Male,87396.0,34,One Year,Electronic Check,89.61,2995.09,DSL,No,5,2024-09-13 00:00:00,Phoenix,Yes
+CUST-2392,Linda Lopez,18,Female,91146.0,56,One Year,Bank Transfer,104.56,5859.13,No,No,3,2023-05-18 00:00:00,Mumbai,No
+CUST-2380,Thomas Smith,25,Female,75074.0,46,Two Year,Bank Transfer,36.67,1686.8200000000002,DSL,No,3,2023-12-07 00:00:00,Houston,No
+CUST-1900,Pooja Gupta,41,Male,114231.0,42,Month-to-Month,Electronic Check,70.97,2094.9,DSL,No,4,2021-09-08 00:00:00,Chennai,No
+CUST-1486,Lisa Miller,41,Female,97923.0,23,Month-to-Month,Bank Transfer,113.8,2617.4,DSL,No internet service,3,2024-05-28 00:00:00,Sydney,No
+CUST-1539,Anthony Gupta,53,Female,76941.0,2,Month-to-Month,Electronic Check,98.16,186.45,Fiber Optic,Yes,5,2023-06-28 00:00:00,Chicago,No
+CUST-1482,Mark Williams,73,Other,51674.0,24,Month-to-Month,Bank Transfer,26.32,636.07,DSL,No,5,2024-07-17 00:00:00,Singapore,No
+CUST-1907,Aarav Martinez,30,Unspecified,90199.0,32,Month-to-Month,Mailed Check,70.97,1595.12,DSL,No,4,2022-12-05 00:00:00,Delhi,No
+CUST-1621,Matthew Rodriguez,49,Female,85120.0,54,One Year,Credit Card,47.25,2551.5,DSL,Yes,5,2020-01-06 00:00:00,Phoenix,Yes
+CUST-1719,Charles Singh,46,Male,158185.0,13,Two Year,Electronic Check,64.03,834.97,Fiber Optic,No,3,2023-09-21 00:00:00,Unknown,No
+CUST-1723,Jessica Miller,39,Female,80359.0,11,Two Year,Credit Card,41.19,461.32,Fiber Optic,No,1,2023-04-03 00:00:00,Chennai,Yes
+CUST-2421,Rohit Hernandez,62,Other,107576.0,10,Two Year,Mailed Check,59.2,584.76,No,No,1,2022-04-22 00:00:00,Chennai,No
+CUST-2317,Priya Martinez,36,Other,39974.0,37,Month-to-Month,Electronic Check,58.38,298.93,No,No internet service,4,2020-02-07 00:00:00,Houston,No
+CUST-1255,Jennifer Martinez,18,Other,141827.0,48,Month-to-Month,Electronic Check,29.07,1385.94,Fiber Optic,No,4,2020-11-05 00:00:00,Delhi,No
+CUST-1323,Aditya Iyer,48,Female,106001.0,41,Two Year,Electronic Check,98.6,4037.22,No,Yes,3,2024-09-03 00:00:00,Chennai,Yes
+CUST-2129,David Nair,41,Male,93292.0,56,Two Year,Mailed Check,62.01,3468.83,DSL,Yes,3,2023-11-06 00:00:00,Mumbai,No
+CUST-1452,Margaret Anderson,36,Female,97503.0,21,Month-to-Month,Mailed Check,94.95,1993.95,DSL,No,3,2023-07-09 00:00:00,Berlin,No
+CUST-2440,David Lopez,67,Male,160059.5,63,Month-to-Month,Electronic Check,55.03,3463.84,DSL,No internet service,1,2024-03-20 00:00:00,Chennai,No
+CUST-2369,William Garcia,41,Female,108092.0,37,Month-to-Month,Mailed Check,106.97,1290.71,Fiber Optic,No internet service,4,2022-04-20 00:00:00,Hyderabad,Yes
+CUST-2180,Arjun Gupta,41,Female,40399.0,43,Two Year,Bank Transfer,34.27,1468.13,Fiber Optic,Yes,2,2020-03-23 00:00:00,Hyderabad,No
+CUST-2134,Thomas Kumar,38,Female,65255.0,63,Two Year,Bank Transfer,70.97,3152.47,Fiber Optic,Yes,3,2020-09-13 00:00:00,Berlin,No
+CUST-1906,Lisa Garcia,18,Male,100331.0,28,Two Year,Credit Card,39.24,1091.75,No,No,1,2023-02-01 00:00:00,Hyderabad,Yes
+CUST-1491,Aarav Anderson,32,Male,48134.0,5,Two Year,Electronic Check,56.84,279.02,Fiber Optic,No,2,2020-08-22 00:00:00,Toronto,No
+CUST-1087,Jennifer Reddy,48,Female,134415.0,17,Month-to-Month,Credit Card,92.22,1563.18,Fiber Optic,Yes,3,2023-02-18 00:00:00,Delhi,Yes
+CUST-2468,Sneha Sharma,41,Male,87396.0,49,Month-to-Month,Electronic Check,45.93,2253.01,DSL,Yes,4,2022-09-01 00:00:00,Houston,No
+CUST-1366,Robert Kumar,41,Female,96270.0,25,Two Year,Bank Transfer,106.77,2672.26,DSL,No,4,2024-01-05 00:00:00,New York,Yes
+CUST-1266,Betty Smith,18,Female,78624.0,68,One Year,Bank Transfer,106.91,7264.38,No,No internet service,2,2022-02-11 00:00:00,Hyderabad,Yes
+CUST-1288,Arjun Miller,25,Female,70719.0,41,Month-to-Month,Credit Card,50.22,2062.5,DSL,No internet service,5,2020-01-07 00:00:00,Toronto,No
+CUST-1805,Aarav Iyer,40,Male,93361.0,44,Two Year,Bank Transfer,24.98,1096.53,DSL,Yes,2,2022-04-22 00:00:00,Chennai,No
+CUST-1359,Lisa Gupta,35,Other,87396.0,69,Two Year,Credit Card,70.93,4900.12,No,Yes,5,2022-09-09 00:00:00,Singapore,Yes
+CUST-1480,James Gonzalez,41,Male,160059.5,47,Month-to-Month,Electronic Check,87.35,4098.46,DSL,Yes,5,2023-08-25 00:00:00,Unknown,No
+CUST-2186,Christopher Smith,34,Female,160059.5,61,Two Year,Credit Card,82.74,5052.94,DSL,No,1,2023-09-14 00:00:00,Mumbai,Yes
+CUST-1918,Sandra Singh,45,Male,160059.5,9,Two Year,Credit Card,97.74,888.31,DSL,Yes,3,2023-05-09 00:00:00,Los Angeles,Yes
+CUST-2325,Neha Iyer,75,Male,91451.0,60,Month-to-Month,Bank Transfer,42.7,2557.72,DSL,Yes,3,2024-01-08 00:00:00,Chicago,No
+CUST-1860,Thomas Brown,41,Male,70057.0,37,Two Year,Electronic Check,96.85,2228.98,Fiber Optic,Yes,4,2023-02-06 00:00:00,Delhi,No
+CUST-1222,Lisa Martinez,41,Male,147577.0,24,Two Year,Unknown,25.27,606.48,DSL,No,4,2024-03-25 00:00:00,Sydney,No
+CUST-1114,Charles Miller,41,Female,72908.0,72,Two Year,Bank Transfer,85.12,6126.39,No,No internet service,3,2022-04-20 00:00:00,Delhi,No
+CUST-1619,Patricia Williams,43,Other,159341.0,64,One Year,Credit Card,23.07,1484.17,No,No,5,2020-12-17 00:00:00,Phoenix,No
+CUST-1175,Neha Davis,19,Male,132093.0,28,Two Year,Electronic Check,32.66,918.41,Fiber Optic,Yes,2,2022-08-31 18:00:00,Los Angeles,Yes
+CUST-2405,Mary Verma,32,Female,87396.0,64,One Year,Electronic Check,67.36,4311.22,Fiber Optic,Yes,4,2020-10-05 00:00:00,Toronto,No
+CUST-1568,Lisa Smith,64,Female,62286.0,8,Month-to-Month,Electronic Check,35.85,288.43,No,Yes,2,2020-03-18 00:00:00,Sydney,No
+CUST-2203,Rohit Rodriguez,35,Female,100487.0,24,Month-to-Month,Electronic Check,37.07,881.03,DSL,No,3,2023-12-20 00:00:00,Chennai,No
+CUST-2241,Betty Jones,43,Female,93734.0,24,Two Year,Electronic Check,69.27,1666.21,Fiber Optic,Yes,3,2022-12-31 12:00:00,London,No
+CUST-1019,Mark Davis,51,Female,87396.0,24,Month-to-Month,Bank Transfer,78.26,1879.36,Fiber Optic,No,2,2023-11-23 00:00:00,Los Angeles,Yes
+CUST-2038,Anthony Patel,54,Male,117233.0,52,Two Year,Bank Transfer,100.35,5215.9,DSL,No,1,2024-11-24 00:00:00,Chicago,No
+CUST-1286,Sandra Gupta,58,Female,160059.5,51,Two Year,Mailed Check,118.39,6041.94,Fiber Optic,No,2,2022-10-02 00:00:00,New York,No
+CUST-1924,Anthony Nair,31,Female,68872.0,46,One Year,Bank Transfer,32.52,1503.02,DSL,Yes,1,2021-04-23 00:00:00,Toronto,No
+CUST-2426,Robert Garcia,36,Female,127939.0,58,Two Year,Mailed Check,45.85,2652.69,DSL,No,4,2022-12-23 00:00:00,Phoenix,No
+CUST-1032,Arjun Smith,42,Other,76701.0,30,Month-to-Month,Bank Transfer,70.97,1492.89,Fiber Optic,Yes,3,2022-07-01 21:00:00,Chicago,No
+CUST-1586,Thomas Jones,61,Male,156255.0,48,Month-to-Month,Mailed Check,109.74,5266.24,Fiber Optic,No,2,2020-10-01 00:00:00,London,No
+CUST-1215,Anthony Sharma,31,Unspecified,87396.0,46,One Year,Credit Card,70.97,3264.62,Fiber Optic,Yes,3,2022-01-25 00:00:00,Chicago,No
+CUST-1863,Joseph Kumar,49,Female,56588.0,45,Month-to-Month,Electronic Check,27.06,1217.7,DSL,No internet service,3,2024-07-05 00:00:00,London,Yes
+CUST-1835,Aarav Sharma,41,Male,87396.0,56,Two Year,Bank Transfer,42.19,2353.49,DSL,No,4,2023-02-28 00:00:00,Chicago,No
+CUST-2168,Rohit Kumar,50,Female,75021.0,15,Two Year,Mailed Check,67.13,997.37,DSL,Yes,3,2021-05-06 00:00:00,New York,No
+CUST-1416,Betty Davis,66,Female,96767.0,25,One Year,Bank Transfer,25.74,638.34,No,No internet service,3,2020-05-04 00:00:00,London,Yes
+CUST-2463,Betty Hernandez,49,Female,82140.0,27,Two Year,Electronic Check,118.65,3246.93,No,Yes,4,2023-12-28 00:00:00,Toronto,Yes
+CUST-1189,Pooja Lopez,41,Female,101219.0,21,Month-to-Month,Mailed Check,74.51,1573.76,DSL,No,1,2020-01-03 00:00:00,Mumbai,No
+CUST-1421,Sneha Johnson,35,Male,87396.0,37,Two Year,Mailed Check,19.39,93.34,DSL,Yes,2,2020-03-13 00:00:00,Singapore,Yes
+CUST-2126,Michael Sharma,49,Male,80426.0,45,Month-to-Month,Mailed Check,50.44,2268.22,Fiber Optic,No,4,2021-04-01 07:30:00,Chennai,No
+CUST-2329,Michael Martinez,45,Male,128007.0,41,One Year,Mailed Check,70.97,2909.77,DSL,Yes,1,2022-07-21 00:00:00,Singapore,No
+CUST-1148,Charles Smith,30,Male,87396.0,69,Two Year,Mailed Check,80.96,5590.14,Fiber Optic,Yes,5,2022-01-15 00:00:00,Unknown,No
+CUST-1423,Robert Wilson,33,Female,84599.0,36,Month-to-Month,Electronic Check,110.66,3983.16,DSL,No,5,2024-11-26 00:00:00,Los Angeles,No
+CUST-1713,James Garcia,33,Female,82633.0,59,Two Year,Electronic Check,26.03,1530.03,No,No,2,2024-08-02 00:00:00,New York,No
+CUST-1049,Karen Garcia,45,Female,96159.0,18,Two Year,Unknown,55.48,999.67,Fiber Optic,Yes,4,2024-02-05 00:00:00,Delhi,Yes
+CUST-2152,Thomas Rodriguez,41,Male,83098.0,38,Month-to-Month,Electronic Check,100.43,3821.22,Fiber Optic,No,4,2021-04-09 00:00:00,New York,Yes
+CUST-1156,David Gupta,54,Female,88332.0,47,Two Year,Bank Transfer,56.49,2655.03,Fiber Optic,Yes,3,2022-09-14 00:00:00,Chennai,No
+CUST-2106,Mary Miller,41,Other,154755.0,24,Month-to-Month,Mailed Check,98.35,2364.88,Fiber Optic,No,5,2020-07-06 00:00:00,Phoenix,No
+CUST-2178,Vikram Sharma,41,Female,111429.0,57,Two Year,Bank Transfer,95.28,5435.09,Fiber Optic,Yes,5,2023-05-01 00:00:00,Bengaluru,No
+CUST-1782,Priya Wilson,40,Other,94177.0,32,One Year,Mailed Check,74.57,2386.24,Fiber Optic,No,3,2022-05-02 00:00:00,Chennai,No
+CUST-2088,Margaret Davis,27,Female,49197.0,24,Month-to-Month,Bank Transfer,70.97,1194.7,Fiber Optic,Yes,4,2021-02-25 00:00:00,Hyderabad,No
+CUST-2150,David Jones,37,Other,114372.0,56,Month-to-Month,Bank Transfer,90.03,5036.14,No,No,2,2022-10-21 00:00:00,Chicago,No
+CUST-2271,Thomas Garcia,18,Female,87396.0,61,Month-to-Month,Mailed Check,107.79,6575.1900000000005,Fiber Optic,Yes,1,2021-01-05 00:00:00,Los Angeles,No
+CUST-1940,Linda Gonzalez,25,Other,57689.0,53,Two Year,Bank Transfer,109.43,5805.88,Fiber Optic,No,3,2020-01-07 00:00:00,Toronto,No
+CUST-1814,Vikram Gupta,68,Male,78300.0,3,One Year,Unknown,83.47,254.21,No,No,3,2023-02-09 00:00:00,New York,No
+CUST-1180,Jennifer Smith,34,Female,75517.0,18,Two Year,Electronic Check,89.07,1603.2599999999998,DSL,No internet service,3,2023-05-23 00:00:00,Sydney,No
+CUST-1984,Barbara Davis,32,Female,43893.0,35,One Year,Bank Transfer,60.46,2107.22,Fiber Optic,No,1,2021-05-06 00:00:00,Toronto,No
+CUST-2289,Vikram Anderson,30,Female,30955.0,7,Month-to-Month,Bank Transfer,70.64,497.65,Fiber Optic,Yes,4,2022-08-14 00:00:00,Delhi,No
+CUST-1178,Elizabeth Miller,55,Male,90486.0,35,Month-to-Month,Unknown,48.13,1684.5500000000002,DSL,Yes,3,2024-03-26 00:00:00,Berlin,No
+CUST-1549,William Williams,41,Unspecified,87302.0,40,One Year,Electronic Check,50.89,2037.11,No,Yes,3,2022-03-08 00:00:00,Los Angeles,No
+CUST-1870,Jessica Smith,62,Female,64905.0,16,Two Year,Electronic Check,31.66,514.42,DSL,No,2,2020-06-24 00:00:00,Delhi,No
+CUST-1364,Priya Davis,18,Male,87396.0,69,Month-to-Month,Electronic Check,25.92,1793.13,No,No,3,2022-10-18 00:00:00,Hyderabad,Yes
+CUST-1427,Matthew Miller,41,Male,71290.0,13,Two Year,Electronic Check,107.91,1398.42,DSL,No,4,2021-04-04 00:00:00,Delhi,No
+CUST-2217,Nancy Rodriguez,44,Other,131862.0,35,Two Year,Bank Transfer,26.87,944.67,DSL,Yes,2,2020-04-12 00:00:00,Berlin,No
+CUST-1609,Mary Smith,50,Female,50562.0,37,One Year,Credit Card,60.72,2246.64,DSL,Yes,2,2023-04-15 00:00:00,Hyderabad,No
+CUST-1347,Lisa Lopez,28,Female,42565.0,28,Month-to-Month,Electronic Check,33.61,944.59,Fiber Optic,Yes,1,2023-02-12 00:00:00,Singapore,Yes
+CUST-2075,Anthony Nair,45,Female,92150.0,51,Month-to-Month,Mailed Check,27.23,1388.73,Fiber Optic,Yes,3,2020-09-01 00:00:00,Phoenix,No
+CUST-1915,Anthony Garcia,47,Male,109397.0,46,Two Year,Bank Transfer,47.94,2214.86,DSL,No,2,2023-06-06 00:00:00,Los Angeles,No
+CUST-1590,Rohit Patel,49,Female,89902.0,2,Two Year,Mailed Check,49.92,103.67,No,No,5,2020-02-17 00:00:00,Bengaluru,Yes
+CUST-1899,Sandra Davis,49,Other,160059.5,36,One Year,Bank Transfer,41.38,1483.25,No,Yes,5,2021-12-31 06:00:00,Bengaluru,No
+CUST-2212,Margaret Iyer,33,Female,83456.0,37,Two Year,Mailed Check,90.63,3355.87,Fiber Optic,No,2,2023-08-26 00:00:00,Delhi,No
+CUST-1671,Anthony Brown,35,Male,87396.0,37,Month-to-Month,Bank Transfer,70.97,147.32,Fiber Optic,No,1,2023-08-26 00:00:00,Mumbai,No
+CUST-1244,Barbara Martinez,20,Male,126388.0,28,One Year,Electronic Check,70.97,1400.46,DSL,Yes,5,2020-01-25 00:00:00,Houston,Yes
+CUST-1190,Nancy Garcia,41,Female,160059.5,30,Month-to-Month,Electronic Check,94.99,2849.7,No,No,3,2020-01-26 00:00:00,Delhi,Yes
+CUST-1576,James Johnson,30,Other,88051.0,42,Two Year,Bank Transfer,58.53,2463.17,DSL,Yes,2,2021-07-01 15:00:00,Unknown,No
+CUST-1655,Sandra Lopez,33,Other,91588.0,37,One Year,Unknown,47.94,246.59,Fiber Optic,Yes,1,2024-08-26 00:00:00,London,Yes
+CUST-1813,William Gupta,49,Female,30651.0,49,Month-to-Month,Mailed Check,99.3,4862.36,Fiber Optic,No,3,2023-06-23 00:00:00,Singapore,Yes
+CUST-2035,William Reddy,35,Other,146225.0,57,Two Year,Bank Transfer,21.0,1194.55,DSL,No internet service,3,2024-02-24 00:00:00,Phoenix,No
+CUST-1737,Robert Sharma,43,Other,72920.0,70,Month-to-Month,Mailed Check,73.18,5131.64,DSL,No,2,2023-07-22 00:00:00,Sydney,Yes
+CUST-1436,Sandra Hernandez,46,Other,66714.0,42,One Year,Mailed Check,96.52,4060.14,Fiber Optic,No,3,2024-05-26 00:00:00,Chicago,Yes
+CUST-2467,Ananya Smith,37,Male,72024.0,29,One Year,Bank Transfer,83.23,2416.01,Fiber Optic,Yes,3,2020-12-05 00:00:00,Sydney,No
+CUST-2285,Aarav Miller,39,Male,68745.0,6,Two Year,Bank Transfer,29.45,167.96,Fiber Optic,Yes,5,2024-08-13 00:00:00,London,No
+CUST-1309,Neha Singh,41,Female,109527.0,3,One Year,Unknown,59.06,171.77,DSL,No,2,2020-03-05 00:00:00,Chicago,Yes
+CUST-1431,Barbara Davis,20,Male,48567.0,8,Month-to-Month,Unknown,31.76,260.77,Fiber Optic,No,2,2024-01-03 00:00:00,Phoenix,No
+CUST-1399,John Singh,49,Male,91458.0,45,One Year,Electronic Check,110.06,4944.4,Fiber Optic,No,1,2021-02-06 00:00:00,Sydney,Yes
+CUST-1424,Thomas Iyer,70,Male,60978.0,25,Month-to-Month,Electronic Check,59.76,1492.48,DSL,No,3,2024-09-11 00:00:00,Hyderabad,No
+CUST-1371,Robert Brown,31,Male,100971.0,37,Month-to-Month,Electronic Check,114.43,457.28,No,Yes,2,2021-11-03 00:00:00,Phoenix,Yes
+CUST-1055,Patricia Singh,33,Male,85610.0,69,Month-to-Month,Bank Transfer,99.07,6835.51,Fiber Optic,Yes,2,2023-06-16 00:00:00,Sydney,No
+CUST-1810,Mary Gupta,36,Male,103618.0,35,One Year,Mailed Check,113.15,3963.85,DSL,No,2,2024-10-14 00:00:00,Mumbai,No
+CUST-1592,Jennifer Patel,22,Male,117018.0,66,Two Year,Bank Transfer,64.4,4243.81,Fiber Optic,Yes,5,2021-09-24 00:00:00,Chicago,No
+CUST-2319,Sarah Sharma,35,Female,41221.0,28,One Year,Mailed Check,58.82,1652.38,Fiber Optic,Yes,3,2022-08-31 18:00:00,New York,Yes
+CUST-1313,Michael Miller,43,Unspecified,50846.0,68,Month-to-Month,Mailed Check,54.24,3695.39,Fiber Optic,No,3,2024-05-04 00:00:00,Chennai,No
+CUST-2332,Richard Smith,41,Male,129296.0,60,Two Year,Electronic Check,53.43,3197.16,DSL,No,2,2023-05-12 00:00:00,Singapore,No
+CUST-2079,Richard Anderson,32,Male,59342.0,65,Month-to-Month,Electronic Check,70.97,4613.05,No,No,2,2020-09-27 00:00:00,Hyderabad,No
+CUST-2028,Neha Sharma,29,Male,39566.0,21,One Year,Bank Transfer,101.65,2135.16,DSL,No,1,2024-11-21 00:00:00,Sydney,No
+CUST-1101,Susan Anderson,48,Female,160059.5,48,One Year,Bank Transfer,66.79,3201.45,Fiber Optic,Yes,1,2024-07-22 00:00:00,New York,Yes
+CUST-2280,Charles Brown,35,Unspecified,66930.0,26,One Year,Electronic Check,168.585,12138.12,DSL,No internet service,1,2020-07-08 00:00:00,New York,No
+CUST-1711,Patricia Williams,56,Male,81759.0,37,One Year,Bank Transfer,23.27,868.97,No,No,1,2023-09-02 00:00:00,Chennai,Yes
+CUST-2422,Priya Anderson,21,Other,69663.0,39,Month-to-Month,Bank Transfer,37.73,1474.83,DSL,No internet service,1,2021-09-30 22:30:00,Berlin,No
+CUST-1267,Susan Smith,49,Male,75695.0,60,Two Year,Unknown,70.97,2995.97,Fiber Optic,Yes,4,2021-02-17 00:00:00,Los Angeles,No
+CUST-2458,Arjun Nair,67,Female,54888.0,53,Month-to-Month,Bank Transfer,108.04,5719.88,Fiber Optic,No,1,2022-01-27 00:00:00,Houston,No
+CUST-1297,David Nair,18,Female,87396.0,1,Two Year,Electronic Check,70.97,50.55,No,No,3,2024-11-30 13:30:00,New York,No
+CUST-1562,Linda Garcia,40,Female,80202.0,68,One Year,Credit Card,53.46,3638.43,No,No internet service,3,2022-02-26 00:00:00,Bengaluru,Yes
+CUST-1462,Patricia Wilson,67,Other,103319.0,68,Month-to-Month,Electronic Check,105.24,7156.89,No,Yes,2,2024-08-16 00:00:00,Houston,No
+CUST-2005,Lisa Reddy,50,Female,96809.0,40,One Year,Electronic Check,118.42,4736.8,DSL,No,3,2024-05-22 00:00:00,Berlin,No
+CUST-2404,Pooja Hernandez,68,Male,89833.0,8,Two Year,Electronic Check,110.97,881.4,Fiber Optic,No,5,2024-12-10 00:00:00,Singapore,Yes
+CUST-2011,Patricia Kumar,47,Male,87657.0,60,Month-to-Month,Mailed Check,98.77,5931.37,DSL,No,4,2019-12-31 18:00:00,London,No
+CUST-1378,Michael Reddy,71,Male,160059.5,54,Two Year,Electronic Check,75.98,4111.72,DSL,No,2,2020-11-11 00:00:00,Sydney,No
+CUST-1287,Susan Smith,51,Male,87396.0,11,Two Year,Credit Card,108.03,1179.4,Fiber Optic,Yes,4,2023-09-23 00:00:00,Bengaluru,No
+CUST-2487,Sandra Iyer,51,Female,73142.0,38,Two Year,Credit Card,58.74,2225.62,No,No,3,2023-12-12 00:00:00,Bengaluru,No
+CUST-2162,Nancy Singh,52,Female,87395.0,41,Two Year,Mailed Check,69.01,2835.09,No,No,1,2020-05-03 00:00:00,Toronto,No
+CUST-1127,Karen Reddy,49,Female,103480.0,21,Two Year,Mailed Check,80.06,1672.3,DSL,No internet service,4,2020-02-09 00:00:00,New York,No
+CUST-1328,Joseph Kumar,18,Male,113345.0,41,Two Year,Mailed Check,50.33,2066.75,No,No,5,2023-04-22 00:00:00,Delhi,Yes
+CUST-1293,Arjun Brown,31,Other,87396.0,27,Two Year,Bank Transfer,70.97,1341.53,Fiber Optic,No,2,2022-01-06 00:00:00,Singapore,No
+CUST-1583,Sandra Verma,59,Male,76052.0,69,Month-to-Month,Electronic Check,35.21,2435.61,Fiber Optic,Yes,2,2023-01-13 00:00:00,Berlin,No
+CUST-1808,Vikram Hernandez,18,Male,122759.0,45,One Year,Bank Transfer,78.43,3526.59,DSL,No,5,2022-11-21 00:00:00,Chicago,No
+CUST-1523,James Smith,31,Female,160059.5,37,Two Year,Bank Transfer,86.34,335.58,Fiber Optic,Yes,2,2024-11-05 00:00:00,Los Angeles,No
+CUST-1356,Mark Sharma,41,Female,74593.0,55,Two Year,Electronic Check,76.63,4219.09,DSL,No internet service,1,2020-05-31 22:30:00,Houston,No
+CUST-2245,Robert Smith,57,Female,72249.0,9,Month-to-Month,Electronic Check,60.97,557.94,DSL,Yes,3,2022-12-11 00:00:00,Los Angeles,No
+CUST-2261,Ananya Kumar,25,Male,107200.0,42,One Year,Electronic Check,70.97,2980.74,Fiber Optic,No,1,2023-06-19 00:00:00,Sydney,Yes
+CUST-1171,Sandra Gupta,41,Other,86764.0,33,Month-to-Month,Electronic Check,51.85,1711.05,No,Yes,2,2024-06-07 00:00:00,Hyderabad,No
+CUST-2489,Christopher Reddy,43,Unspecified,96976.0,37,One Year,Mailed Check,73.78,1700.48,Fiber Optic,No,2,2024-02-20 00:00:00,Chicago,No
+CUST-2485,Patricia Singh,40,Female,87396.0,14,One Year,Credit Card,104.24,1455.95,Fiber Optic,Yes,1,2020-02-11 00:00:00,Hyderabad,Yes
+CUST-1662,Elizabeth Singh,30,Female,67648.0,59,Month-to-Month,Electronic Check,103.89,6136.44,DSL,No,5,2023-03-25 00:00:00,Berlin,No
+CUST-1778,Neha Rodriguez,60,Female,80883.0,72,Two Year,Credit Card,20.59,1479.28,DSL,Yes,5,2024-06-20 00:00:00,Delhi,Yes
+CUST-2311,Margaret Brown,47,Female,116571.0,1,Month-to-Month,Mailed Check,115.33,110.34,DSL,No,1,2020-10-06 00:00:00,Houston,No
+CUST-1210,Margaret Williams,40,Female,143072.0,60,One Year,Credit Card,71.1,4264.75,DSL,No,2,2024-10-07 00:00:00,Berlin,Yes
+CUST-1705,Sandra Iyer,22,Other,42529.0,61,Two Year,Mailed Check,36.3,2223.5,Fiber Optic,Yes,3,2019-12-01 07:30:00,Los Angeles,No
+CUST-1553,Susan Gonzalez,40,Male,89933.0,45,Month-to-Month,Mailed Check,90.76,4077.93,No,Yes,3,2021-04-05 00:00:00,Sydney,No
+CUST-1141,Charles Rodriguez,65,Female,63412.0,37,Two Year,Electronic Check,70.97,643.8,DSL,No,3,2020-02-17 00:00:00,Unknown,No
+CUST-2115,Mary Hernandez,59,Male,98332.0,37,Two Year,Electronic Check,35.58,1316.46,Fiber Optic,Yes,2,2021-11-30 19:30:00,Phoenix,Yes
+CUST-2036,Matthew Davis,47,Male,61130.0,1,One Year,Credit Card,30.72,35.93,Fiber Optic,Yes,2,2020-05-04 00:00:00,Hyderabad,No
+CUST-2226,Vikram Martinez,47,Other,73605.0,4,Two Year,Mailed Check,49.9,197.88,DSL,No,5,2021-12-08 00:00:00,Unknown,Yes
+CUST-2229,Linda Verma,41,Male,123852.0,37,One Year,Mailed Check,116.5,1389.35,DSL,Yes,5,2021-07-18 00:00:00,Phoenix,No
+CUST-1728,Rohit Lopez,50,Male,160059.5,37,Two Year,Mailed Check,43.13,827.63,Fiber Optic,Yes,5,2024-07-13 00:00:00,Delhi,Yes
+CUST-1706,Pooja Singh,42,Male,102140.0,30,Two Year,Mailed Check,59.37,1788.71,No,Yes,4,2023-10-05 00:00:00,Los Angeles,No
+CUST-1883,Arjun Rodriguez,54,Female,52391.0,66,One Year,Credit Card,34.05,2253.21,DSL,No,4,2019-07-02 03:00:00,Singapore,No
+CUST-1947,Ananya Garcia,29,Unspecified,100962.0,49,One Year,Electronic Check,48.5,2383.06,DSL,No,2,2020-11-27 00:00:00,Bengaluru,Yes
+CUST-1536,Neha Miller,35,Unspecified,100394.0,5,Two Year,Unknown,115.97,571.29,DSL,No,5,2024-03-18 00:00:00,Houston,No
+CUST-1011,Barbara Wilson,61,Male,78740.0,14,Month-to-Month,Credit Card,110.57,1554.39,Fiber Optic,Yes,3,2022-11-17 00:00:00,Hyderabad,No
+CUST-1765,Nancy Gonzalez,52,Female,87396.0,15,One Year,Mailed Check,42.61,631.28,DSL,No internet service,1,2022-06-16 00:00:00,Hyderabad,No
+CUST-1283,Charles Gonzalez,21,Male,64519.0,65,Month-to-Month,Unknown,66.31,4300.9,DSL,No internet service,2,2021-11-21 00:00:00,Hyderabad,No
+CUST-2024,Priya Reddy,61,Female,66385.0,46,One Year,Credit Card,30.13,1379.84,DSL,No,1,2024-04-05 00:00:00,Phoenix,No
+CUST-2201,Matthew Verma,24,Other,87944.0,37,Two Year,Mailed Check,58.23,871.89,Fiber Optic,No,1,2020-09-04 00:00:00,Sydney,No
+CUST-1130,Joseph Hernandez,31,Female,127151.0,44,Month-to-Month,Mailed Check,76.01,3349.36,Fiber Optic,Yes,2,2021-04-27 00:00:00,Chicago,Yes
+CUST-1324,Jessica Wilson,19,Female,53003.0,65,Two Year,Mailed Check,106.36,6913.4,Fiber Optic,No,2,2020-07-01 00:00:00,Chicago,No
+CUST-1722,James Patel,46,Female,116473.0,37,Month-to-Month,Electronic Check,29.59,245.57,Fiber Optic,Yes,5,2020-07-06 00:00:00,Bengaluru,Yes
+CUST-1527,Karen Williams,41,Other,130300.0,0,Two Year,Electronic Check,64.31,1419.78,Fiber Optic,No,5,2021-03-05 00:00:00,Chicago,Yes
+CUST-1597,Jessica Williams,22,Female,82520.0,15,Month-to-Month,Electronic Check,84.67,1278.27,Fiber Optic,No,4,2023-01-11 00:00:00,Hyderabad,No
+CUST-2393,Charles Johnson,47,Female,66973.0,66,One Year,Electronic Check,42.0,2760.98,No,No,3,2021-02-17 00:00:00,Hyderabad,No
+CUST-2418,Mary Gupta,18,Female,57111.0,54,Two Year,Unknown,100.59,5431.860000000001,DSL,No,3,2021-04-13 00:00:00,Phoenix,Yes
+CUST-2049,Elizabeth Garcia,42,Male,61151.0,65,Two Year,Credit Card,29.17,1890.42,Fiber Optic,No,1,2023-04-21 00:00:00,Toronto,No
+CUST-1755,Mary Gupta,36,Male,81443.0,34,Two Year,Credit Card,101.95,3457.87,No,Yes,3,2021-07-12 00:00:00,Phoenix,No
+CUST-1159,Mary Miller,30,Other,87396.0,4,Two Year,Bank Transfer,57.55,237.49,DSL,No,4,2021-06-15 00:00:00,Hyderabad,No
+CUST-1611,Aditya Martinez,41,Female,87396.0,31,Two Year,Unknown,113.08,3500.49,DSL,Yes,1,2020-09-05 00:00:00,New York,No
+CUST-2006,Anthony Jones,48,Other,64380.0,33,One Year,Electronic Check,55.67,1829.13,No,No,3,2022-02-19 00:00:00,Mumbai,No
+CUST-2108,Lisa Johnson,21,Female,79285.0,39,Month-to-Month,Bank Transfer,113.05,4399.36,Fiber Optic,Yes,3,2023-08-22 00:00:00,Bengaluru,No
+CUST-2491,William Singh,35,Female,65694.0,63,Month-to-Month,Electronic Check,50.63,3188.17,Fiber Optic,No,1,2022-05-18 00:00:00,Hyderabad,No
+CUST-1545,Vikram Rodriguez,75,Male,87396.0,54,Two Year,Unknown,107.2,5787.15,Fiber Optic,Yes,1,2024-09-26 00:00:00,Phoenix,No
+CUST-1097,David Miller,44,Male,160059.5,41,Two Year,Electronic Check,51.19,2097.95,DSL,No,2,2021-10-19 00:00:00,Los Angeles,Yes
+CUST-1620,James Iyer,67,Male,121456.0,35,Two Year,Bank Transfer,18.85,651.57,DSL,Yes,1,2024-12-17 00:00:00,Singapore,No
+CUST-1420,Margaret Smith,31,Male,160059.5,37,Two Year,Electronic Check,113.6,1476.94,No,Yes,3,2021-08-22 00:00:00,Phoenix,No
+CUST-1679,Matthew Brown,47,Female,75722.0,14,Month-to-Month,Mailed Check,20.13,275.47,DSL,Yes,5,2022-08-10 00:00:00,London,No
+CUST-1478,John Brown,22,Male,90601.0,34,Month-to-Month,Credit Card,85.39,2931.15,Fiber Optic,No,2,2020-11-07 00:00:00,Bengaluru,No
+CUST-1990,Priya Anderson,37,Female,141943.0,22,Month-to-Month,Credit Card,55.43,1228.01,No,No,5,2023-03-02 09:00:00,Bengaluru,No
+CUST-2213,Nancy Lopez,18,Female,52073.0,66,Two Year,Electronic Check,94.92,6272.42,No,No internet service,5,2023-06-08 00:00:00,Delhi,No
+CUST-2466,Sneha Anderson,35,Female,96035.0,21,One Year,Bank Transfer,71.65,1501.18,DSL,No,4,2024-11-28 00:00:00,Berlin,Yes
+CUST-1448,Arjun Nair,62,Male,114567.0,28,One Year,Electronic Check,94.75,2661.26,DSL,No,5,2022-02-13 00:00:00,Unknown,No
+CUST-1179,Ananya Sharma,50,Female,136082.0,42,Month-to-Month,Credit Card,110.1,4622.56,No,Yes,1,2023-08-08 00:00:00,Toronto,Yes
+CUST-1391,Matthew Garcia,44,Male,69715.0,6,One Year,Bank Transfer,91.17,547.02,No,Yes,3,2024-07-01 09:00:00,Phoenix,No
+CUST-1944,Patricia Hernandez,41,Male,112005.0,20,Two Year,Electronic Check,85.05,1719.05,Fiber Optic,No,3,2021-12-04 00:00:00,Toronto,No
+CUST-1681,Matthew Miller,51,Other,160059.5,16,Two Year,Unknown,60.32,957.77,Fiber Optic,No,3,2022-08-22 00:00:00,Mumbai,No
+CUST-2284,Priya Brown,41,Male,77568.0,36,Month-to-Month,Mailed Check,43.29,1557.12,DSL,Yes,3,2023-08-14 00:00:00,Delhi,Yes
+CUST-2415,Arjun Martinez,49,Male,72527.0,10,One Year,Bank Transfer,57.62,573.69,Fiber Optic,No internet service,5,2024-03-01 15:00:00,Houston,Yes
+CUST-1850,Karen Smith,55,Male,67245.0,1,Two Year,Unknown,18.64,24.49,No,Yes,2,2020-01-07 00:00:00,Mumbai,Yes
+CUST-1811,Daniel Singh,42,Female,160059.5,35,Two Year,Electronic Check,94.02,3282.19,DSL,Yes,2,2023-07-28 00:00:00,Delhi,No
+CUST-1922,Sarah Hernandez,55,Male,98413.0,66,Month-to-Month,Mailed Check,66.28,4381.66,Fiber Optic,No,3,2023-03-13 00:00:00,New York,No
+CUST-1837,Joseph Davis,55,Male,156316.0,30,Month-to-Month,Credit Card,66.18,1988.07,Fiber Optic,Yes,1,2022-07-01 21:00:00,Chicago,No
+CUST-1695,Matthew Smith,40,Male,103270.0,45,One Year,Mailed Check,110.89,4994.86,DSL,No,3,2021-04-01 07:30:00,Chennai,No
+CUST-1295,Michael Reddy,65,Male,70765.0,55,One Year,Bank Transfer,168.585,12138.12,DSL,Yes,3,2024-10-07 00:00:00,Hyderabad,Yes
+CUST-1794,Jennifer Smith,23,Female,62508.0,16,Month-to-Month,Mailed Check,33.73,539.68,No,No internet service,4,2024-10-25 00:00:00,Hyderabad,No
+CUST-1089,Robert Miller,24,Male,160059.5,22,Two Year,Credit Card,56.87,1248.22,Fiber Optic,No internet service,5,2021-10-11 00:00:00,Delhi,Yes
+CUST-1042,Matthew Jones,41,Female,78492.0,31,Two Year,Electronic Check,41.96,1310.07,No,Yes,4,2022-07-17 00:00:00,Singapore,No
+CUST-1612,Elizabeth Jones,35,Female,63604.0,19,Month-to-Month,Electronic Check,87.55,1662.8,Fiber Optic,Yes,2,2023-06-01 16:30:00,Chennai,No
+CUST-2328,Vikram Gupta,55,Male,105328.0,37,One Year,Credit Card,101.32,3749.66,No,No internet service,4,2023-12-27 00:00:00,Sydney,No
+CUST-2434,John Miller,18,Male,124735.0,62,One Year,Electronic Check,41.93,2602.27,DSL,Yes,1,2024-03-03 00:00:00,Berlin,Yes
+CUST-1985,Aditya Smith,41,Male,61060.0,41,Two Year,Electronic Check,55.09,2268.3,Fiber Optic,No,2,2021-08-01 01:30:00,Berlin,No
+CUST-2165,John Johnson,42,Male,87396.0,71,Two Year,Bank Transfer,35.11,2488.84,Fiber Optic,No,4,2021-02-16 00:00:00,Hyderabad,No
+CUST-1291,James Wilson,41,Female,92690.0,56,Two Year,Electronic Check,23.67,1324.1,Fiber Optic,Yes,4,2021-02-23 00:00:00,London,No
+CUST-2465,Aditya Nair,57,Male,107010.0,37,Month-to-Month,Electronic Check,116.32,4303.84,DSL,No,2,2022-09-23 00:00:00,Hyderabad,No
+CUST-1632,Sandra Singh,67,Male,144002.0,7,Two Year,Bank Transfer,61.65,429.45,Fiber Optic,No,2,2024-09-08 00:00:00,Mumbai,No
+CUST-1349,Sandra Lopez,38,Male,160059.5,70,Month-to-Month,Mailed Check,48.34,3383.8,Fiber Optic,No,1,2024-02-05 00:00:00,Bengaluru,No
+CUST-1572,Thomas Reddy,35,Other,160059.5,26,Month-to-Month,Electronic Check,102.06,2660.37,DSL,No,2,2020-06-20 00:00:00,London,No
+CUST-1603,Neha Johnson,32,Female,100885.0,20,One Year,Bank Transfer,70.97,1005.58,Fiber Optic,Yes,1,2024-07-06 00:00:00,New York,No
+CUST-2459,Neha Iyer,20,Female,160059.5,38,One Year,Bank Transfer,68.42,2596.08,Fiber Optic,No internet service,1,2021-06-16 00:00:00,Chennai,Yes
+CUST-2037,David Jones,26,Other,110509.0,4,Month-to-Month,Bank Transfer,115.73,453.05,No,No internet service,4,2020-06-27 00:00:00,Toronto,No
+CUST-2151,Sarah Gupta,41,Female,151543.0,71,Two Year,Mailed Check,66.64,4727.65,Fiber Optic,No,1,2022-09-01 00:00:00,London,No
+CUST-1459,Jessica Patel,39,Female,60862.0,37,Month-to-Month,Electronic Check,27.46,403.33,DSL,No,3,2022-01-02 00:00:00,Sydney,No
+CUST-1376,Elizabeth Miller,20,Female,86081.0,61,Two Year,Electronic Check,79.66,4866.86,DSL,No internet service,3,2020-11-15 00:00:00,Toronto,No
+CUST-1334,Aditya Brown,48,Female,87396.0,63,One Year,Electronic Check,70.97,4476.32,DSL,Yes,1,2022-12-19 00:00:00,Phoenix,No
+CUST-1989,James Patel,46,Unspecified,70155.0,22,One Year,Credit Card,71.02,1562.26,No,Yes,4,2024-03-04 00:00:00,London,No
+CUST-2367,Patricia Gupta,26,Unspecified,130039.0,37,One Year,Credit Card,115.08,1147.03,DSL,No,4,2020-07-02 00:00:00,Chennai,No
+CUST-2132,Vikram Reddy,41,Other,87396.0,3,Month-to-Month,Bank Transfer,21.84,57.77,No,Yes,5,2024-09-30 16:30:00,Los Angeles,Yes
+CUST-1753,Susan Wilson,32,Female,77543.0,68,Two Year,Credit Card,96.01,6534.11,Fiber Optic,Yes,3,2019-05-02 06:00:00,Phoenix,No
+CUST-2436,Mark Singh,60,Female,55977.0,21,Month-to-Month,Credit Card,70.97,1490.37,DSL,Yes,3,2023-04-01 19:30:00,London,No
+CUST-1602,Jessica Patel,41,Female,106064.0,36,One Year,Unknown,74.44,2677.64,No,Yes,4,2022-03-06 00:00:00,Berlin,Yes
+CUST-1329,Jennifer Verma,42,Unspecified,87396.0,27,One Year,Mailed Check,81.76,2204.49,No,No internet service,4,2023-12-10 00:00:00,Houston,No
+CUST-1319,Nancy Rodriguez,18,Female,119965.0,8,Two Year,Mailed Check,47.31,379.18,DSL,Yes,2,2021-01-09 00:00:00,Los Angeles,Yes
+CUST-2192,Barbara Sharma,44,Female,108687.0,10,Month-to-Month,Electronic Check,168.585,4984.15,DSL,Yes,3,2023-10-09 00:00:00,Singapore,Yes
+CUST-2142,Pooja Gonzalez,40,Female,62886.0,62,One Year,Bank Transfer,70.97,3102.9,No,No,4,2023-10-02 00:00:00,Mumbai,Yes
+CUST-1013,Barbara Nair,24,Female,97367.0,42,Two Year,Bank Transfer,108.84,4564.67,DSL,No,2,2022-04-26 00:00:00,Unknown,Yes
+CUST-1261,Vikram Verma,43,Female,88407.0,16,Two Year,Bank Transfer,98.75,1572.58,Fiber Optic,No internet service,3,2024-05-12 00:00:00,London,Yes
+CUST-1874,John Anderson,25,Male,78660.0,30,Two Year,Credit Card,168.585,12138.12,No,Yes,5,2021-10-17 00:00:00,Toronto,No
+CUST-1916,Mark Miller,34,Female,83353.0,41,One Year,Bank Transfer,34.77,1430.22,DSL,No internet service,3,2023-01-15 00:00:00,Chicago,No
+CUST-1847,Jennifer Gupta,36,Unspecified,90140.0,65,Two Year,Electronic Check,22.86,1478.2,DSL,No,4,2024-01-19 00:00:00,Bengaluru,Yes
+CUST-1139,David Iyer,50,Female,84963.0,28,Two Year,Bank Transfer,70.97,1401.69,Fiber Optic,No,2,2022-02-08 00:00:00,Chennai,No
+CUST-1550,Thomas Iyer,18,Female,94281.0,40,Month-to-Month,Mailed Check,95.72,3838.02,No,No,5,2022-03-05 00:00:00,Toronto,No
+CUST-1651,Nancy Patel,41,Male,112418.0,66,One Year,Bank Transfer,88.41,5838.93,Fiber Optic,Yes,1,2023-11-13 00:00:00,Houston,No
+CUST-1901,Robert Johnson,41,Male,68377.0,42,Month-to-Month,Electronic Check,35.11,1466.04,Fiber Optic,No,5,2022-06-16 00:00:00,Chennai,No
+CUST-2349,Robert Reddy,41,Male,56291.0,31,Month-to-Month,Bank Transfer,116.95,3616.44,DSL,Yes,5,2023-11-28 00:00:00,Phoenix,No
+CUST-1559,Ananya Sharma,73,Female,52100.0,57,One Year,Mailed Check,115.12,6561.34,Fiber Optic,No,3,2021-02-20 00:00:00,Mumbai,No
+CUST-1140,Elizabeth Singh,28,Female,40317.0,57,One Year,Bank Transfer,43.63,2486.9100000000003,DSL,Yes,2,2024-06-11 00:00:00,Singapore,Yes
+CUST-2353,Arjun Smith,56,Unspecified,55711.0,6,Two Year,Credit Card,70.97,308.49,No,No internet service,1,2024-11-27 00:00:00,Toronto,No
+CUST-1950,Arjun Rodriguez,54,Other,160059.5,6,Two Year,Electronic Check,41.47,244.1,No,Yes,3,2024-04-26 00:00:00,Delhi,Yes
+CUST-1225,Jessica Nair,19,Female,112551.0,71,Two Year,Unknown,110.1,7817.099999999999,DSL,No,2,2022-10-14 00:00:00,Hyderabad,No
+CUST-2351,Barbara Reddy,45,Female,124601.0,69,Two Year,Credit Card,54.88,3794.82,Fiber Optic,No,3,2019-04-01 19:30:00,Berlin,No
+CUST-1410,David Gonzalez,74,Other,84652.0,50,Month-to-Month,Bank Transfer,51.29,2556.88,No,No,2,2021-02-02 00:00:00,Berlin,No
+CUST-1326,Priya Hernandez,49,Female,132466.0,41,Two Year,Unknown,106.96,4383.97,No,Yes,3,2022-08-15 00:00:00,Berlin,Yes
+CUST-1300,Rohit Hernandez,18,Female,70199.0,47,Two Year,Credit Card,58.62,2755.14,Fiber Optic,No,2,2023-02-24 00:00:00,Unknown,No
+CUST-1942,Charles Sharma,18,Male,66909.0,2,Two Year,Electronic Check,27.0,51.74,DSL,No,5,2024-03-09 00:00:00,Hyderabad,No
+CUST-1783,James Martinez,40,Male,56428.0,37,Month-to-Month,Mailed Check,93.42,937.8,DSL,No,2,2021-11-30 19:30:00,Mumbai,No
+CUST-1712,Nancy Martinez,44,Other,83433.0,37,Month-to-Month,Mailed Check,168.585,12138.12,Fiber Optic,Yes,1,2021-03-26 00:00:00,Phoenix,No
+CUST-2437,Neha Hernandez,18,Female,87396.0,62,Month-to-Month,Credit Card,115.76,7171.45,DSL,No,4,2023-09-20 00:00:00,Hyderabad,No
+CUST-2007,Anthony Sharma,31,Male,151654.0,37,Two Year,Electronic Check,107.01,529.8,No,No internet service,1,2021-11-06 00:00:00,Los Angeles,Yes
+CUST-2266,Susan Martinez,46,Other,62534.0,70,One Year,Electronic Check,168.585,12138.12,DSL,No internet service,2,2024-10-18 00:00:00,Chicago,No
+CUST-1574,Elizabeth Reddy,52,Female,86306.0,20,One Year,Credit Card,95.09,1900.43,DSL,No,2,2021-12-04 00:00:00,Singapore,Yes
+CUST-1504,Robert Hernandez,41,Female,87396.0,64,Two Year,Bank Transfer,82.55,5277.17,DSL,Yes,1,2023-07-04 00:00:00,New York,Yes
+CUST-1606,Barbara Wilson,21,Male,55429.0,39,One Year,Credit Card,113.54,4425.24,Fiber Optic,Yes,1,2022-09-19 00:00:00,Sydney,No
+CUST-1809,Karen Smith,44,Female,128503.0,64,One Year,Bank Transfer,47.66,3054.51,No,No,4,2019-09-01 00:00:00,Bengaluru,Yes
+CUST-1004,Arjun Anderson,63,Other,111400.0,35,Two Year,Electronic Check,18.83,663.44,DSL,No,5,2024-04-05 00:00:00,Sydney,No
+CUST-1793,Anthony Lopez,18,Female,70256.0,40,Month-to-Month,Electronic Check,36.92,1469.63,No,Yes,1,2024-12-26 00:00:00,Los Angeles,No
+CUST-1468,Jessica Anderson,45,Male,120690.0,67,One Year,Credit Card,70.97,3344.75,Fiber Optic,No,2,2023-01-02 00:00:00,New York,No
+CUST-1322,Arjun Lopez,66,Female,101642.0,37,Month-to-Month,Credit Card,70.97,550.22,DSL,No,5,2020-11-24 00:00:00,London,Yes
+CUST-1006,Robert Singh,33,Other,87396.0,63,Month-to-Month,Bank Transfer,42.86,2698.32,DSL,Yes,1,2020-01-13 00:00:00,Los Angeles,No
+CUST-1223,Neha Gupta,33,Other,59472.0,12,Two Year,Mailed Check,83.18,989.86,DSL,No,4,2024-01-04 00:00:00,New York,No
+CUST-1548,Lisa Gupta,36,Male,101924.0,35,Two Year,Mailed Check,98.45,3451.19,DSL,Yes,5,2023-05-13 00:00:00,Sydney,Yes
+CUST-1040,Christopher Nair,31,Male,75916.0,0,Month-to-Month,Bank Transfer,79.63,794.05,DSL,No,3,2020-09-22 00:00:00,Singapore,No
+CUST-1543,Robert Wilson,28,Female,86873.0,17,Month-to-Month,Electronic Check,90.12,1539.09,Fiber Optic,No internet service,1,2021-06-23 00:00:00,Sydney,Yes
+CUST-1243,Robert Brown,28,Male,94401.0,0,One Year,Mailed Check,37.99,0.0,Fiber Optic,Yes,1,2020-09-22 00:00:00,Chicago,Yes
+CUST-1137,Margaret Gonzalez,26,Female,55062.0,67,Two Year,Bank Transfer,83.51,5590.55,Fiber Optic,Yes,3,2024-08-07 00:00:00,Hyderabad,No
+CUST-2227,Christopher Kumar,67,Male,160059.5,4,Two Year,Mailed Check,37.35,154.76,DSL,No internet service,5,2022-08-11 00:00:00,Hyderabad,Yes
+CUST-2264,Joseph Jones,37,Male,82778.0,56,Two Year,Electronic Check,107.37,6002.97,No,No,3,2022-06-09 00:00:00,Delhi,No
+CUST-2274,Susan Singh,29,Male,78769.0,24,Month-to-Month,Credit Card,102.06,2458.21,No,No,3,2022-02-07 00:00:00,Chennai,No
+CUST-2054,Susan Verma,40,Female,64820.0,24,Two Year,Electronic Check,56.29,1357.97,No,Yes,3,2023-09-27 00:00:00,Delhi,Yes
+CUST-2102,Joseph Johnson,59,Other,106289.0,37,One Year,Electronic Check,19.8,336.24,DSL,No,2,2023-06-11 00:00:00,Houston,No
+CUST-1799,Patricia Reddy,68,Female,72701.0,67,Two Year,Bank Transfer,51.76,3460.9,Fiber Optic,No internet service,2,2024-01-25 00:00:00,Chicago,No
+CUST-2477,Ananya Nair,41,Female,50361.0,20,One Year,Credit Card,29.83,599.31,Fiber Optic,No,1,2020-05-03 00:00:00,Toronto,No
+CUST-1582,Karen Jones,51,Male,105468.0,39,Two Year,Mailed Check,74.88,2922.23,DSL,No,3,2023-05-03 00:00:00,Chennai,Yes
+CUST-1739,James Patel,31,Male,78897.0,22,Two Year,Mailed Check,30.12,662.67,Fiber Optic,No,5,2020-01-15 00:00:00,New York,Yes
+CUST-2435,Matthew Anderson,27,Male,148029.0,8,Month-to-Month,Credit Card,58.51,467.67,DSL,No,3,2021-06-14 00:00:00,Berlin,No
+CUST-1377,Jennifer Kumar,42,Male,106863.0,36,Two Year,Credit Card,60.57,2190.18,Fiber Optic,Yes,4,2022-02-25 00:00:00,Chennai,No
+CUST-1315,Aditya Nair,59,Unspecified,62084.0,11,Two Year,Credit Card,28.93,312.73,DSL,No,3,2021-09-20 00:00:00,Toronto,No
+CUST-1443,Pooja Rodriguez,41,Male,54435.0,56,Month-to-Month,Electronic Check,108.67,6075.85,DSL,No,4,2024-04-18 00:00:00,Los Angeles,No
+CUST-1320,Neha Rodriguez,40,Female,87396.0,42,Two Year,Mailed Check,65.26,2740.52,Fiber Optic,No,5,2024-03-06 00:00:00,Sydney,Yes
+CUST-2062,Christopher Hernandez,43,Male,76817.0,64,One Year,Mailed Check,70.97,4542.08,DSL,No,3,2022-01-11 00:00:00,Mumbai,No
+CUST-1843,Susan Wilson,41,Female,87396.0,68,One Year,Mailed Check,52.35,3551.82,Fiber Optic,Yes,4,2021-05-08 00:00:00,New York,Yes
+CUST-2169,Thomas Rodriguez,48,Female,102879.0,44,Two Year,Electronic Check,101.82,4475.2,DSL,Yes,3,2022-03-28 00:00:00,Chicago,No
+CUST-1425,Nancy Garcia,51,Male,86489.0,69,Month-to-Month,Bank Transfer,56.25,3879.11,No,No internet service,5,2024-05-17 00:00:00,New York,No
+CUST-1554,Barbara Smith,36,Female,69726.0,55,Month-to-Month,Credit Card,109.47,6020.03,Fiber Optic,No,2,2021-07-02 00:00:00,Chicago,No
+CUST-1595,Mary Kumar,39,Female,116060.0,16,One Year,Electronic Check,71.9,1160.1,DSL,Yes,1,2024-01-23 00:00:00,Sydney,No
+CUST-1953,Jennifer Sharma,41,Female,105454.0,13,Two Year,Bank Transfer,54.73,712.54,Fiber Optic,Yes,5,2021-02-07 00:00:00,Berlin,No
+CUST-2090,Karen Singh,49,Female,60620.0,53,Two Year,Mailed Check,70.97,2659.51,No,No,1,2024-06-07 00:00:00,Singapore,Yes
+CUST-1818,Nancy Garcia,41,Male,102180.0,59,Month-to-Month,Mailed Check,111.54,6586.31,Fiber Optic,Yes,1,2023-06-15 00:00:00,Singapore,Yes
+CUST-2259,Vikram Williams,57,Female,87396.0,53,One Year,Bank Transfer,70.97,2631.88,DSL,No,5,2020-04-06 00:00:00,Phoenix,No
+CUST-2363,Sarah Johnson,63,Female,104278.0,15,Two Year,Electronic Check,82.95,1243.2,DSL,No,3,2022-11-07 00:00:00,New York,No
+CUST-1228,James Brown,55,Male,69393.0,25,Two Year,Bank Transfer,116.76,2909.74,DSL,Yes,4,2020-05-19 00:00:00,Houston,No
+CUST-1756,Daniel Brown,42,Female,102070.0,11,Two Year,Credit Card,81.24,890.12,DSL,Yes,2,2023-12-02 00:00:00,Delhi,No
+CUST-2318,Thomas Brown,41,Female,87396.0,61,One Year,Bank Transfer,168.585,12138.12,Fiber Optic,No,4,2019-12-01 07:30:00,Toronto,No
+CUST-2032,Mark Rodriguez,29,Male,51467.0,55,Month-to-Month,Mailed Check,76.55,4218.11,DSL,No internet service,1,2023-12-09 00:00:00,Hyderabad,Yes
+CUST-1394,William Iyer,26,Male,116424.0,60,Month-to-Month,Bank Transfer,39.14,2342.22,No,No,4,2022-11-10 00:00:00,Los Angeles,No
+CUST-1580,Vikram Verma,31,Other,72609.0,3,Two Year,Mailed Check,60.85,179.95,No,No,3,2021-02-20 00:00:00,Bengaluru,No
+CUST-1025,Linda Anderson,36,Male,49512.0,61,Two Year,Electronic Check,69.45,4243.73,DSL,Yes,1,2022-12-10 00:00:00,London,No
+CUST-1212,James Garcia,35,Male,67131.0,47,One Year,Bank Transfer,19.89,934.83,No,No internet service,2,2021-07-27 00:00:00,Houston,No
+CUST-2198,Mary Hernandez,18,Female,74167.0,37,Month-to-Month,Credit Card,80.8,1786.99,Fiber Optic,No,1,2024-10-25 00:00:00,Bengaluru,No
+CUST-2147,John Reddy,24,Female,37264.0,8,One Year,Mailed Check,97.95,783.6,DSL,Yes,1,2022-09-04 00:00:00,Mumbai,Yes
+CUST-1537,Robert Johnson,42,Female,87396.0,37,One Year,Unknown,90.39,186.35,No,No,2,2021-10-28 00:00:00,Mumbai,No
+CUST-1760,Elizabeth Gupta,46,Other,160059.5,44,Two Year,Electronic Check,102.9,4529.89,DSL,Yes,1,2024-09-08 00:00:00,Sydney,No
+CUST-1702,James Jones,42,Female,55768.0,26,Month-to-Month,Unknown,23.94,621.07,DSL,No internet service,2,2021-05-24 00:00:00,Chicago,No
+CUST-1086,Jessica Anderson,45,Other,93424.0,53,Month-to-Month,Mailed Check,106.44,5631.35,No,Yes,4,2023-01-05 00:00:00,Berlin,No
+CUST-2396,Thomas Verma,41,Female,91821.0,32,One Year,Electronic Check,45.72,1463.04,Fiber Optic,No,1,2024-04-22 00:00:00,Chennai,No
+CUST-1273,Betty Sharma,48,Other,77533.0,35,Month-to-Month,Electronic Check,19.39,678.91,DSL,Yes,3,2024-02-06 00:00:00,Phoenix,Yes
+CUST-1701,Patricia Brown,34,Other,86487.0,33,Two Year,Mailed Check,113.27,3737.91,DSL,No,3,2023-11-17 00:00:00,Mumbai,No
+CUST-1845,Mary Gupta,33,Female,90050.0,71,Two Year,Credit Card,43.75,2992.45,Fiber Optic,Yes,2,2020-01-01 00:00:00,Mumbai,No
+CUST-1631,Charles Reddy,57,Female,76557.0,15,Two Year,Electronic Check,61.93,930.05,No,No,2,2022-10-24 00:00:00,Mumbai,No
+CUST-2064,Jennifer Anderson,49,Female,54267.0,12,Month-to-Month,Credit Card,79.07,944.8,No,No,3,2022-12-14 00:00:00,Delhi,No
+CUST-2446,Lisa Verma,40,Other,156761.0,0,Month-to-Month,Bank Transfer,106.36,2242.08,Fiber Optic,No,3,2022-01-23 00:00:00,Berlin,Yes
+CUST-1506,Vikram Williams,31,Female,94139.0,19,Two Year,Credit Card,72.38,1384.51,DSL,No internet service,3,2024-03-06 00:00:00,Berlin,No
+CUST-1274,Sarah Johnson,25,Female,160059.5,48,Two Year,Electronic Check,79.8,3821.55,No,No,1,2024-11-28 00:00:00,Los Angeles,No
+CUST-1766,William Miller,59,Female,100637.0,49,Two Year,Electronic Check,70.97,2442.21,Fiber Optic,No,1,2022-10-03 00:00:00,Bengaluru,Yes
+CUST-1363,Betty Johnson,33,Female,92337.0,27,One Year,Electronic Check,70.97,1347.65,DSL,No,1,2020-04-06 00:00:00,Toronto,No
+CUST-1623,Ananya Rodriguez,56,Female,67598.0,38,One Year,Unknown,29.24,1117.31,No,No internet service,3,2020-07-16 00:00:00,Toronto,Yes
+CUST-1003,Christopher Johnson,41,Male,87396.0,41,Two Year,Mailed Check,45.05,1848.28,DSL,Yes,2,2024-08-03 00:00:00,Chicago,No
+CUST-1007,Sandra Davis,41,Male,69531.0,22,Two Year,Electronic Check,35.0,770.0,Fiber Optic,Yes,4,2021-04-10 00:00:00,Unknown,No
+CUST-2471,Susan Nair,41,Male,64472.0,26,Two Year,Electronic Check,62.25,1618.04,No,Yes,3,2023-04-27 00:00:00,Chicago,Yes
+CUST-1666,Linda Nair,41,Other,87396.0,49,Month-to-Month,Mailed Check,23.22,1135.77,Fiber Optic,No,2,2021-01-11 00:00:00,London,No
+CUST-1999,Robert Hernandez,46,Other,160059.5,48,One Year,Electronic Check,36.31,1744.73,No,No,2,2024-10-20 00:00:00,Los Angeles,Yes
+CUST-1216,Mark Anderson,34,Other,69005.0,65,Month-to-Month,Credit Card,47.79,3106.47,Fiber Optic,Yes,2,2023-07-25 00:00:00,Sydney,Yes
+CUST-1725,Arjun Johnson,41,Male,127148.0,24,Two Year,Bank Transfer,67.85,1625.77,Fiber Optic,No,2,2021-01-10 00:00:00,Sydney,Yes
+CUST-2114,David Sharma,41,Male,120946.0,37,Two Year,Mailed Check,39.6,349.49,DSL,No,1,2024-07-21 00:00:00,Hyderabad,Yes
+CUST-1923,Lisa Anderson,41,Other,48258.0,34,Two Year,Bank Transfer,61.88,2106.87,Fiber Optic,Yes,5,2021-08-25 00:00:00,New York,No
+CUST-2041,Sarah Miller,36,Male,51154.0,70,Two Year,Mailed Check,51.4,3607.1,Fiber Optic,No,5,2024-06-23 00:00:00,London,No
+CUST-1639,Daniel Kumar,65,Female,116514.0,62,Month-to-Month,Unknown,58.39,3621.87,Fiber Optic,No,3,2020-10-13 00:00:00,Chicago,Yes
+CUST-1797,Michael Gonzalez,25,Male,79319.0,57,One Year,Electronic Check,116.41,6630.12,DSL,Yes,2,2024-01-03 00:00:00,Singapore,No
+CUST-1692,John Lopez,41,Female,59375.0,37,Two Year,Mailed Check,49.71,804.38,DSL,No,1,2021-07-18 00:00:00,London,No
+CUST-2304,Lisa Patel,50,Other,53103.0,28,Two Year,Bank Transfer,113.6,3189.41,DSL,No,1,2023-03-08 00:00:00,Bengaluru,No
+CUST-1625,Michael Hernandez,61,Other,87396.0,60,Two Year,Unknown,47.85,2877.85,Fiber Optic,No,4,2020-01-15 00:00:00,Delhi,No
+CUST-1905,Neha Wilson,46,Male,87396.0,17,Month-to-Month,Electronic Check,107.01,1819.22,No,Yes,2,2023-08-01 13:30:00,Toronto,No
+CUST-1257,Pooja Davis,41,Other,88697.0,59,Month-to-Month,Electronic Check,101.48,5987.320000000001,Fiber Optic,Yes,2,2023-05-23 00:00:00,Unknown,No
+CUST-1026,Vikram Gonzalez,56,Male,57260.0,6,Two Year,Bank Transfer,85.03,519.8,No,No,1,2023-02-17 00:00:00,Unknown,Yes
+CUST-1337,Sarah Martinez,61,Female,91459.0,26,Month-to-Month,Electronic Check,44.86,1166.36,DSL,No,5,2024-05-26 00:00:00,Berlin,No
+CUST-1573,Mark Sharma,32,Male,94058.0,41,Month-to-Month,Electronic Check,98.18,4022.55,Fiber Optic,Yes,5,2021-01-21 00:00:00,Chicago,Yes
+CUST-1048,Lisa Anderson,34,Female,79686.0,4,One Year,Mailed Check,96.19,379.05,DSL,Yes,4,2021-12-15 00:00:00,Singapore,No
+CUST-1107,Robert Kumar,46,Female,149082.0,13,Two Year,Credit Card,49.85,639.95,No,No,3,2022-08-20 00:00:00,Mumbai,No
+CUST-1350,Ananya Reddy,41,Unspecified,67241.0,37,One Year,Credit Card,58.67,2199.19,DSL,No internet service,2,2024-10-05 00:00:00,Sydney,No
+CUST-1056,Betty Lopez,35,Male,58184.0,33,One Year,Electronic Check,74.84,2461.9,Fiber Optic,No,2,2020-02-14 00:00:00,London,No
+CUST-1862,Matthew Singh,36,Female,87396.0,13,One Year,Bank Transfer,114.11,1475.75,DSL,Yes,2,2023-12-01 07:30:00,Mumbai,No
+CUST-1214,Neha Iyer,41,Unspecified,89261.0,30,One Year,Credit Card,104.06,3121.17,DSL,No,3,2023-03-20 00:00:00,Los Angeles,Yes
+CUST-1121,Robert Kumar,41,Female,99541.0,5,One Year,Credit Card,96.21,475.52,DSL,Yes,4,2022-09-01 00:00:00,Sydney,No
+CUST-1926,Anthony Reddy,27,Other,92018.0,46,Month-to-Month,Electronic Check,72.57,3340.63,Fiber Optic,Yes,4,2021-11-20 00:00:00,Chennai,Yes
+CUST-2427,Elizabeth Iyer,32,Male,101747.0,14,Month-to-Month,Bank Transfer,108.98,1520.25,Fiber Optic,No,4,2024-02-11 00:00:00,Chicago,Yes
+CUST-1073,Michael Rodriguez,53,Female,78351.0,65,Month-to-Month,Mailed Check,114.91,7469.15,No,Yes,2,2024-12-08 00:00:00,Toronto,Yes
+CUST-1941,Sandra Rodriguez,58,Female,113424.0,63,Two Year,Credit Card,85.18,5362.15,No,No internet service,2,2024-05-15 00:00:00,Los Angeles,Yes
+CUST-1788,Elizabeth Singh,57,Female,97162.0,37,One Year,Electronic Check,87.84,3250.08,Fiber Optic,No,3,2022-08-22 00:00:00,Chicago,Yes
+CUST-1046,Richard Johnson,60,Male,42788.0,37,Month-to-Month,Credit Card,98.63,3647.31,No,No internet service,3,2024-05-26 00:00:00,Bengaluru,No
+CUST-2374,Rohit Nair,18,Female,66704.0,28,One Year,Electronic Check,81.45,2276.49,DSL,No,2,2022-07-13 00:00:00,Unknown,Yes
+CUST-1524,Sneha Iyer,48,Male,61257.0,37,One Year,Mailed Check,18.85,178.52,DSL,No internet service,3,2020-07-14 00:00:00,Bengaluru,No
+CUST-1925,Susan Rodriguez,41,Female,85765.0,26,One Year,Credit Card,46.66,1218.48,Fiber Optic,No,3,2023-04-15 00:00:00,Toronto,No
+CUST-1840,James Anderson,41,Male,101843.0,54,One Year,Credit Card,40.13,2157.5,No,No,1,2022-07-24 00:00:00,Unknown,Yes
+CUST-2448,William Jones,40,Male,87293.0,56,Two Year,Bank Transfer,20.45,1139.71,DSL,No internet service,5,2023-10-04 00:00:00,Houston,No
+CUST-1534,Mary Jones,71,Other,56740.0,52,One Year,Credit Card,111.95,5813.06,No,Yes,3,2024-06-28 00:00:00,Unknown,No
+CUST-2174,Barbara Jones,18,Female,39894.0,56,Two Year,Credit Card,28.45,1602.32,Fiber Optic,No,1,2022-08-28 00:00:00,Berlin,No
+CUST-1604,Patricia Brown,38,Other,62838.0,60,Month-to-Month,Bank Transfer,29.44,1764.01,DSL,No,1,2020-05-11 00:00:00,Phoenix,No
+CUST-1466,Jennifer Nair,57,Other,87396.0,71,One Year,Credit Card,39.42,2798.82,No,Yes,2,2024-09-01 00:00:00,Delhi,No
+CUST-1894,David Martinez,52,Male,78508.0,27,One Year,Mailed Check,67.45,1812.1,Fiber Optic,Yes,4,2023-12-04 00:00:00,Phoenix,No
+CUST-2321,Thomas Patel,26,Female,160059.5,11,Month-to-Month,Mailed Check,106.69,1173.59,No,No internet service,3,2023-02-23 00:00:00,Chennai,No
+CUST-2424,David Hernandez,21,Male,160059.5,70,Two Year,Credit Card,73.74,5161.799999999999,No,Yes,4,2024-11-04 00:00:00,Hyderabad,Yes
+CUST-2008,Ananya Nair,36,Male,69313.0,18,Two Year,Electronic Check,50.3,900.28,No,Yes,2,2021-02-01 00:00:00,Chicago,No
+CUST-1943,John Brown,53,Female,104478.0,47,Two Year,Credit Card,168.585,12138.12,Fiber Optic,No internet service,1,2024-06-24 00:00:00,Phoenix,No
+CUST-1667,Sarah Martinez,45,Female,77994.0,26,Month-to-Month,Electronic Check,70.97,1296.78,Fiber Optic,No internet service,4,2021-04-11 00:00:00,Berlin,Yes
+CUST-1775,David Martinez,56,Other,57581.0,48,Month-to-Month,Bank Transfer,88.83,4256.2,Fiber Optic,No internet service,1,2024-10-10 00:00:00,Houston,Yes
+CUST-1195,Linda Gonzalez,41,Male,87396.0,39,Two Year,Mailed Check,57.51,2244.27,DSL,No,2,2024-01-13 00:00:00,Bengaluru,No
+CUST-1281,James Martinez,41,Female,40549.0,59,One Year,Credit Card,41.29,2431.55,Fiber Optic,No,2,2023-03-27 00:00:00,Singapore,No
+CUST-1696,Karen Rodriguez,29,Other,78370.0,58,Month-to-Month,Mailed Check,72.24,4192.66,Fiber Optic,No internet service,3,2020-10-24 00:00:00,Singapore,Yes
+CUST-1360,Joseph Davis,48,Female,123890.0,10,Month-to-Month,Mailed Check,72.87,728.44,DSL,No,2,2024-11-20 00:00:00,Phoenix,No
+CUST-1866,Linda Nair,54,Male,160059.5,7,Month-to-Month,Mailed Check,42.62,298.34,DSL,Yes,2,2022-04-15 00:00:00,Los Angeles,Yes
+CUST-2244,Priya Anderson,57,Female,99064.0,45,One Year,Mailed Check,91.83,4123.43,No,Yes,5,2023-03-26 00:00:00,Hyderabad,Yes
+CUST-1183,Mary Davis,62,Male,87599.0,68,Two Year,Mailed Check,97.63,6634.04,No,Yes,2,2024-03-23 00:00:00,Chicago,No
+CUST-2059,Christopher Martinez,61,Female,64001.0,58,Month-to-Month,Mailed Check,109.34,6332.78,DSL,No,5,2021-05-21 00:00:00,Chicago,No
+CUST-1111,Daniel Iyer,67,Female,87396.0,18,Two Year,Electronic Check,30.6,545.11,Fiber Optic,Yes,3,2024-02-25 00:00:00,Chennai,No
+CUST-2389,Elizabeth Kumar,29,Female,101351.0,48,One Year,Mailed Check,70.97,2405.04,No,No internet service,1,2020-06-22 00:00:00,Bengaluru,No
+CUST-1043,Lisa Patel,35,Female,76973.0,19,Two Year,Credit Card,107.18,2034.72,Fiber Optic,No internet service,3,2020-12-21 00:00:00,New York,No
+CUST-1975,Mark Verma,28,Other,70431.0,58,One Year,Bank Transfer,93.46,5427.55,No,Yes,2,2022-03-24 00:00:00,Delhi,No
+CUST-1205,Mary Martinez,18,Female,65024.0,37,Month-to-Month,Credit Card,90.01,2162.18,DSL,Yes,3,2024-11-26 00:00:00,New York,No
+CUST-1875,Aditya Wilson,27,Female,111837.0,71,Two Year,Mailed Check,86.39,6142.79,No,No internet service,4,2020-11-21 00:00:00,New York,No
+CUST-1053,Sneha Martinez,71,Female,71517.0,13,Month-to-Month,Mailed Check,38.46,499.98,Fiber Optic,No,5,2024-03-11 00:00:00,Bengaluru,Yes
+CUST-2069,Karen Garcia,47,Male,160059.5,0,Two Year,Electronic Check,35.91,462.6,No,Yes,3,2021-11-20 00:00:00,Mumbai,Yes
+CUST-2218,Elizabeth Sharma,37,Female,114920.0,56,Month-to-Month,Electronic Check,51.81,2900.8,Fiber Optic,Yes,4,2024-05-22 00:00:00,Sydney,No
+CUST-1184,Linda Johnson,54,Male,95853.0,45,Two Year,Mailed Check,30.68,1380.6,No,No internet service,5,2024-06-21 00:00:00,Phoenix,No
+CUST-1138,Mark Kumar,41,Female,111522.0,5,Month-to-Month,Unknown,25.66,122.14,No,Yes,4,2021-12-02 00:00:00,Los Angeles,No
+CUST-1133,Ananya Patel,59,Male,85970.0,13,Month-to-Month,Mailed Check,168.585,12138.12,No,No,5,2021-10-19 00:00:00,Sydney,No
+CUST-1081,William Iyer,43,Female,97693.0,28,One Year,Credit Card,104.71,2931.8799999999997,Fiber Optic,No,4,2022-03-08 00:00:00,Hyderabad,Yes
+CUST-2254,James Garcia,37,Female,92385.0,51,Two Year,Credit Card,82.95,4226.47,Fiber Optic,No,3,2020-09-30 16:30:00,Bengaluru,Yes
+CUST-1106,Michael Gupta,23,Female,117209.0,16,Month-to-Month,Mailed Check,44.87,711.95,Fiber Optic,No,4,2023-09-01 00:00:00,Los Angeles,Yes
+CUST-2202,Linda Lopez,18,Male,160059.5,10,Two Year,Electronic Check,66.72,674.34,DSL,No internet service,2,2021-12-08 00:00:00,Delhi,No
+CUST-1542,Robert Patel,30,Male,102939.0,43,Two Year,Credit Card,168.585,12138.12,Fiber Optic,No,2,2021-06-01 04:30:00,Delhi,No
+CUST-1910,Christopher Patel,32,Male,101226.0,15,Month-to-Month,Credit Card,115.13,1727.34,DSL,No,5,2023-04-13 00:00:00,Houston,Yes
+CUST-1481,Neha Nair,18,Other,160059.5,37,Month-to-Month,Credit Card,84.9,2039.56,DSL,No,3,2024-09-18 00:00:00,Phoenix,No
+CUST-1166,William Jones,39,Male,77164.0,54,Two Year,Credit Card,69.57,3755.78,Fiber Optic,No,3,2023-09-19 00:00:00,Chennai,No
+CUST-1249,Aarav Smith,34,Male,75376.0,33,Month-to-Month,Mailed Check,66.7,2205.4,No,No,3,2023-07-14 00:00:00,Mumbai,No
+CUST-1308,Betty Jones,41,Female,160059.5,37,Two Year,Electronic Check,75.19,142.81,DSL,No,2,2024-12-16 00:00:00,London,Yes
+CUST-1447,Sneha Patel,37,Female,130197.0,55,Month-to-Month,Unknown,115.15,6328.42,Fiber Optic,No internet service,3,2020-08-10 00:00:00,New York,No
+CUST-2206,James Verma,50,Other,106497.0,56,One Year,Bank Transfer,85.76,4802.26,No,No,1,2022-01-12 00:00:00,Delhi,No
+CUST-1335,Jessica Hernandez,44,Female,71897.0,0,Two Year,Mailed Check,62.37,132.45,DSL,No,1,2022-02-14 00:00:00,Berlin,No
+CUST-1098,Daniel Wilson,66,Female,87396.0,19,One Year,Unknown,51.73,987.78,No,Yes,4,2020-04-05 00:00:00,Sydney,No
+CUST-1807,Jessica Martinez,31,Male,92879.0,68,One Year,Mailed Check,80.11,5482.79,DSL,No,3,2023-11-09 00:00:00,Mumbai,No
+CUST-1738,Sarah Wilson,18,Other,73190.0,44,Two Year,Electronic Check,74.66,3280.14,Fiber Optic,Yes,3,2022-07-04 00:00:00,Unknown,No
+CUST-1949,David Nair,19,Unspecified,87396.0,37,Month-to-Month,Electronic Check,68.26,1232.7,DSL,No,5,2020-08-17 00:00:00,Berlin,No
+CUST-2034,Sneha Hernandez,47,Female,160059.5,40,Two Year,Mailed Check,97.14,3893.11,DSL,Yes,3,2021-01-07 00:00:00,Singapore,No
+CUST-2171,Linda Reddy,24,Male,84398.0,20,Two Year,Electronic Check,25.81,513.13,Fiber Optic,Yes,5,2020-11-11 00:00:00,Berlin,No
+CUST-1103,Pooja Reddy,41,Female,75730.0,20,Month-to-Month,Electronic Check,117.41,2355.45,Fiber Optic,No,1,2020-08-09 00:00:00,Chennai,No
+CUST-1435,Sarah Jones,61,Male,136591.0,37,Month-to-Month,Electronic Check,60.36,300.34,No,No,3,2020-05-24 00:00:00,Delhi,No
+CUST-1075,Sandra Brown,21,Female,84294.0,59,One Year,Credit Card,168.585,12138.12,Fiber Optic,No,5,2023-06-07 00:00:00,Berlin,No
+CUST-2387,Aarav Smith,43,Female,101848.0,37,Month-to-Month,Electronic Check,110.17,1439.71,DSL,Yes,3,2022-12-10 00:00:00,Los Angeles,No
+CUST-2406,David Kumar,19,Male,89415.0,38,Month-to-Month,Mailed Check,42.8,1618.45,No,Yes,3,2020-04-26 00:00:00,Singapore,No
+CUST-1303,Robert Garcia,35,Female,83626.0,15,Month-to-Month,Unknown,47.64,714.66,DSL,Yes,3,2024-05-22 00:00:00,New York,No
+CUST-2337,Daniel Brown,41,Other,143627.0,55,Month-to-Month,Bank Transfer,108.48,5967.05,DSL,No internet service,5,2021-06-15 00:00:00,New York,No
+CUST-2306,Vikram Iyer,41,Other,43326.0,69,Month-to-Month,Unknown,34.83,2403.27,Fiber Optic,Yes,4,2024-07-20 00:00:00,Unknown,No
+CUST-2401,Joseph Johnson,56,Male,49273.0,6,Month-to-Month,Electronic Check,82.88,479.91,No,No,2,2023-08-01 00:00:00,New York,No
+CUST-1763,Michael Davis,75,Male,71718.0,10,Two Year,Mailed Check,59.71,587.28,DSL,Yes,4,2024-01-15 00:00:00,Phoenix,Yes
+CUST-1734,Charles Wilson,41,Unspecified,160059.5,7,Month-to-Month,Electronic Check,105.43,746.62,No,Yes,1,2023-06-26 00:00:00,Berlin,No
+CUST-1389,Nancy Garcia,18,Male,87396.0,32,One Year,Credit Card,89.69,2866.27,DSL,Yes,4,2023-05-27 00:00:00,Delhi,No
+CUST-1236,Vikram Martinez,48,Male,121897.0,27,One Year,Bank Transfer,70.97,1355.03,DSL,No,3,2024-12-16 00:00:00,Phoenix,No
+CUST-1268,Betty Lopez,64,Male,160059.5,57,Month-to-Month,Bank Transfer,105.77,6022.68,Fiber Optic,No internet service,4,2022-02-14 00:00:00,London,No
+CUST-1306,William Lopez,22,Female,88430.0,26,Month-to-Month,Electronic Check,54.05,1408.04,No,No internet service,2,2024-07-22 00:00:00,Chicago,Yes
+CUST-1839,Thomas Williams,51,Male,100824.0,16,Two Year,Mailed Check,70.12,1131.53,No,No,2,2020-11-22 00:00:00,Berlin,Yes
+CUST-1118,Betty Wilson,41,Male,88826.0,10,Two Year,Electronic Check,27.17,270.45,DSL,Yes,4,2024-05-21 00:00:00,Berlin,No
+CUST-2253,James Iyer,41,Male,96619.0,4,Two Year,Bank Transfer,118.47,475.46,No,Yes,4,2023-11-13 00:00:00,Toronto,Yes
+CUST-1674,Susan Gupta,46,Other,136072.0,18,Month-to-Month,Bank Transfer,104.66,1879.05,No,Yes,2,2020-03-08 00:00:00,Unknown,Yes
+CUST-1250,John Brown,52,Male,77506.0,63,One Year,Bank Transfer,61.01,3843.18,Fiber Optic,No,4,2021-08-05 00:00:00,Singapore,Yes
+CUST-2439,Arjun Verma,41,Male,160059.5,63,Month-to-Month,Unknown,93.93,5911.04,No,No internet service,2,2019-10-01 10:30:00,Berlin,Yes
+CUST-2111,Matthew Jones,31,Other,58255.0,41,Two Year,Credit Card,61.66,2528.06,Fiber Optic,Yes,5,2021-06-09 00:00:00,New York,No
+CUST-1072,William Iyer,28,Male,63635.0,62,One Year,Mailed Check,22.19,1379.81,DSL,Yes,3,2019-10-31 21:00:00,London,No
+CUST-1095,Anthony Singh,56,Female,144798.0,71,Two Year,Unknown,70.97,5038.87,No,Yes,3,2020-08-28 00:00:00,Delhi,Yes
+CUST-2238,Rohit Gupta,18,Female,67379.0,72,Two Year,Mailed Check,79.36,5707.16,Fiber Optic,No,1,2022-05-04 00:00:00,Toronto,No
+CUST-1034,Margaret Brown,41,Female,70466.0,30,Two Year,Mailed Check,168.585,12138.12,DSL,No,1,2023-02-24 00:00:00,Hyderabad,No
+CUST-1800,Margaret Patel,23,Female,160059.5,52,Two Year,Electronic Check,76.1,3956.7,Fiber Optic,Yes,3,2022-10-21 00:00:00,Chennai,No
+CUST-2135,Joseph Smith,31,Male,66250.0,14,Month-to-Month,Bank Transfer,102.69,1458.0,Fiber Optic,No,2,2022-01-17 00:00:00,Singapore,No
+CUST-1449,Nancy Rodriguez,52,Male,87396.0,6,Month-to-Month,Mailed Check,77.73,472.26,Fiber Optic,No,2,2021-12-27 00:00:00,Bengaluru,No
+CUST-1446,Rohit Gonzalez,42,Female,53705.0,30,Two Year,Mailed Check,82.91,2478.14,No,Yes,4,2020-06-28 00:00:00,Los Angeles,Yes
+CUST-1772,Nancy Brown,31,Female,44056.0,33,Two Year,Credit Card,117.89,3888.49,DSL,Yes,3,2020-04-24 00:00:00,Houston,No
+CUST-1717,Vikram Jones,49,Male,160059.5,21,Month-to-Month,Mailed Check,34.04,714.84,Fiber Optic,No,5,2023-04-01 19:30:00,New York,No
+CUST-2447,Mark Anderson,20,Other,43988.0,52,Two Year,Mailed Check,55.1,2865.2000000000003,No,No,5,2022-06-19 00:00:00,Chicago,No
+CUST-2247,Robert Garcia,29,Male,87396.0,64,Two Year,Mailed Check,64.19,4105.56,No,Yes,2,2023-11-07 00:00:00,Berlin,No
+CUST-2066,Sneha Sharma,65,Female,77146.0,25,Month-to-Month,Bank Transfer,34.88,862.6,Fiber Optic,No,5,2022-10-07 00:00:00,London,Yes
+CUST-1078,Charles Martinez,51,Female,62923.0,37,Month-to-Month,Bank Transfer,89.82,1973.89,DSL,Yes,3,2020-07-17 00:00:00,Berlin,No
+CUST-1085,James Davis,21,Other,60876.0,54,Month-to-Month,Mailed Check,101.31,5463.13,Fiber Optic,No internet service,1,2023-05-25 00:00:00,Hyderabad,Yes
+CUST-1889,Pooja Brown,44,Female,79306.0,69,Two Year,Credit Card,118.3,8157.15,Fiber Optic,Yes,3,2023-12-23 00:00:00,Berlin,No
+CUST-1458,Mark Rodriguez,56,Other,160059.5,60,Two Year,Electronic Check,23.89,1434.07,DSL,No,2,2020-06-09 00:00:00,Chicago,No
+CUST-1979,Thomas Miller,48,Male,73609.0,46,Month-to-Month,Bank Transfer,70.97,2291.76,Fiber Optic,No,2,2020-04-11 00:00:00,Chennai,No
+CUST-1677,Charles Williams,41,Female,67738.0,3,One Year,Mailed Check,61.41,181.66,No,No internet service,2,2023-04-26 00:00:00,London,No
+CUST-2490,Robert Anderson,72,Female,85600.0,41,One Year,Mailed Check,27.17,1114.34,DSL,No internet service,1,2021-08-01 01:30:00,Sydney,No
+CUST-2109,Aarav Garcia,48,Male,106135.0,40,One Year,Credit Card,85.42,3408.41,No,Yes,1,2021-02-02 00:00:00,Bengaluru,No
+CUST-1437,Elizabeth Brown,33,Male,67053.0,0,One Year,Bank Transfer,100.21,1612.93,Fiber Optic,Yes,4,2024-04-13 00:00:00,Houston,Yes
+CUST-1771,Jessica Williams,18,Male,87396.0,40,One Year,Electronic Check,54.32,2173.12,Fiber Optic,No internet service,5,2024-05-02 00:00:00,Toronto,Yes
+CUST-1645,Margaret Kumar,41,Other,117041.0,41,Month-to-Month,Electronic Check,42.0,1724.07,No,No,3,2023-10-01 00:00:00,Bengaluru,No
+CUST-2161,John Wilson,30,Female,70115.0,21,Two Year,Mailed Check,112.16,2352.79,DSL,No,1,2022-12-25 00:00:00,Delhi,No
+CUST-1966,Neha Johnson,41,Male,67328.0,49,Month-to-Month,Credit Card,54.41,2663.14,No,Yes,3,2022-01-26 00:00:00,Berlin,No
+CUST-2234,Matthew Smith,34,Other,103480.0,7,Month-to-Month,Mailed Check,56.34,384.84,Fiber Optic,No,1,2024-10-26 00:00:00,New York,Yes
+CUST-2156,Joseph Rodriguez,67,Male,160059.5,30,Month-to-Month,Bank Transfer,38.77,1156.99,DSL,Yes,1,2024-07-26 00:00:00,Toronto,No
+CUST-1405,Aarav Rodriguez,31,Male,77311.0,30,One Year,Electronic Check,65.59,1967.7,DSL,Yes,1,2024-08-15 00:00:00,Toronto,No
+CUST-1994,Karen Miller,44,Male,79046.0,10,Month-to-Month,Mailed Check,32.61,319.26,DSL,No,3,2023-11-12 00:00:00,Chennai,Yes
+CUST-2233,Patricia Patel,40,Male,62819.0,12,One Year,Mailed Check,23.55,279.84,No,Yes,4,2021-07-15 00:00:00,Chicago,No
+CUST-1105,Priya Lopez,46,Other,87396.0,17,Month-to-Month,Mailed Check,89.79,1523.93,DSL,No,1,2020-01-23 00:00:00,Los Angeles,Yes
+CUST-1610,James Patel,25,Female,109706.0,34,Month-to-Month,Unknown,100.3,3410.5,Fiber Optic,No,4,2020-02-17 00:00:00,London,No
+CUST-1917,Robert Kumar,41,Male,64091.0,37,Month-to-Month,Electronic Check,97.41,3612.01,Fiber Optic,No,4,2023-10-18 00:00:00,Berlin,No
+CUST-1689,John Anderson,45,Male,87396.0,8,One Year,Mailed Check,81.38,657.58,Fiber Optic,Yes,3,2021-01-22 00:00:00,Houston,Yes
+CUST-2232,Aditya Gonzalez,32,Unspecified,122037.0,4,Two Year,Bank Transfer,111.62,442.54,DSL,Yes,4,2024-10-14 00:00:00,Hyderabad,Yes
+CUST-2182,Linda Gonzalez,36,Male,69570.0,12,Month-to-Month,Bank Transfer,88.85,1076.08,No,Yes,4,2022-02-19 00:00:00,Unknown,No
+CUST-2160,Mark Garcia,25,Male,61525.0,24,Two Year,Credit Card,106.46,2548.15,No,Yes,4,2021-01-28 00:00:00,Chennai,No
+CUST-1063,Patricia Lopez,20,Female,128366.0,24,Two Year,Electronic Check,89.43,2154.61,No,Yes,1,2023-03-06 00:00:00,New York,No
+CUST-1853,Pooja Rodriguez,68,Female,145190.0,59,Two Year,Bank Transfer,114.31,6747.37,No,No internet service,1,2020-02-15 00:00:00,Bengaluru,Yes
+CUST-1779,Arjun Wilson,31,Female,119073.0,71,One Year,Unknown,77.52,5504.93,Fiber Optic,No,4,2023-09-14 00:00:00,Chennai,No
+CUST-2047,Michael Miller,55,Male,78305.0,70,Two Year,Mailed Check,65.93,4622.79,No,Yes,1,2021-12-08 00:00:00,Sydney,No
+CUST-1239,Susan Sharma,59,Female,43515.0,41,Two Year,Bank Transfer,62.48,2552.28,No,No internet service,3,2022-04-14 00:00:00,Sydney,No
+CUST-1224,Vikram Nair,18,Female,86798.0,37,One Year,Electronic Check,72.81,431.97,Fiber Optic,No,3,2021-11-30 19:30:00,Chicago,No
+CUST-1146,Matthew Johnson,41,Female,126832.0,51,Two Year,Mailed Check,47.55,2417.69,DSL,No,3,2021-03-16 00:00:00,London,No
+CUST-2445,Robert Patel,52,Female,57151.0,0,Month-to-Month,Mailed Check,79.67,0.0,No,No,3,2024-07-21 00:00:00,Delhi,Yes
+CUST-1374,Rohit Garcia,41,Other,132127.0,46,One Year,Mailed Check,98.73,4536.19,DSL,Yes,5,2021-05-12 00:00:00,Bengaluru,No
+CUST-2270,Charles Rodriguez,24,Female,99930.0,56,Two Year,Credit Card,74.55,4180.32,DSL,No internet service,2,2024-05-23 00:00:00,Delhi,No
+CUST-1119,Sneha Jones,41,Female,107474.0,45,Two Year,Electronic Check,102.18,4591.73,No,No,1,2022-02-07 00:00:00,Mumbai,Yes
+CUST-2164,Karen Nair,58,Male,71009.0,28,One Year,Electronic Check,49.02,1372.76,DSL,No,3,2021-09-05 00:00:00,Chennai,No
+CUST-1251,Pooja Williams,27,Male,73240.0,49,One Year,Bank Transfer,29.45,1449.0,Fiber Optic,No internet service,1,2021-08-01 00:00:00,Bengaluru,No
+CUST-2493,Robert Hernandez,51,Female,87396.0,54,Two Year,Bank Transfer,40.47,2180.71,DSL,Yes,2,2024-12-25 00:00:00,Singapore,No
+CUST-2250,Nancy Gonzalez,36,Male,82549.0,19,Month-to-Month,Bank Transfer,71.47,1360.15,No,No,3,2020-11-05 00:00:00,Berlin,No
+CUST-1951,Betty Gonzalez,52,Female,87396.0,58,Month-to-Month,Electronic Check,30.54,1777.07,Fiber Optic,No,5,2021-08-18 00:00:00,Chicago,Yes
+CUST-1010,Margaret Rodriguez,35,Male,65354.0,72,Month-to-Month,Electronic Check,73.2,5272.05,Fiber Optic,Yes,2,2021-11-04 00:00:00,Singapore,Yes
+CUST-1450,Richard Sharma,41,Male,129718.0,53,Two Year,Electronic Check,31.0,1645.97,No,No,5,2021-11-19 00:00:00,Chicago,Yes
+CUST-1709,Betty Miller,37,Male,60249.0,39,Month-to-Month,Mailed Check,103.36,4031.04,DSL,No,5,2023-02-20 00:00:00,New York,Yes
+CUST-1256,Arjun Williams,43,Female,160059.5,30,Month-to-Month,Electronic Check,168.585,12138.12,No,No,5,2024-04-28 00:00:00,Sydney,No
+CUST-1594,Linda Williams,57,Other,87396.0,44,One Year,Bank Transfer,105.36,4637.3,No,No,2,2024-07-14 00:00:00,Sydney,No
+CUST-1390,Mark Jones,50,Female,119972.0,22,Two Year,Credit Card,58.42,1280.93,Fiber Optic,Yes,5,2023-05-04 00:00:00,Unknown,No
+CUST-2432,Robert Sharma,45,Male,94238.0,4,Month-to-Month,Mailed Check,70.97,191.87,No,Yes,3,2022-06-11 00:00:00,Houston,No
+CUST-2413,William Brown,30,Male,90187.0,49,Month-to-Month,Credit Card,83.51,4087.26,DSL,Yes,2,2024-11-14 00:00:00,Mumbai,No
+CUST-1558,Matthew Reddy,57,Female,101635.0,1,Two Year,Electronic Check,85.33,85.33,No,Yes,1,2021-10-08 00:00:00,Chennai,No
+CUST-2331,David Davis,31,Male,87396.0,37,Month-to-Month,Mailed Check,30.54,549.95,Fiber Optic,Yes,2,2024-07-28 00:00:00,Chicago,No
+CUST-1963,Jennifer Iyer,61,Female,49339.0,13,Two Year,Electronic Check,43.92,572.72,No,No,2,2023-07-17 00:00:00,Toronto,No
+CUST-1461,John Hernandez,41,Male,87396.0,37,One Year,Mailed Check,54.74,923.58,Fiber Optic,Yes,3,2022-11-02 00:00:00,Sydney,No
+CUST-1724,Sandra Patel,42,Male,72200.0,1,Month-to-Month,Bank Transfer,30.64,23.78,DSL,No,4,2024-11-30 13:30:00,London,Yes
+CUST-2428,Anthony Gupta,36,Male,71302.0,16,One Year,Mailed Check,104.68,1661.59,DSL,No,4,2023-04-17 00:00:00,Toronto,Yes
+CUST-1145,Pooja Davis,34,Male,92605.0,0,Two Year,Mailed Check,100.66,0.0,DSL,No,1,2022-06-27 00:00:00,Los Angeles,No
+CUST-1502,Priya Martinez,23,Male,87396.0,24,Two Year,Bank Transfer,61.56,1468.03,No,Yes,2,2023-05-27 00:00:00,Singapore,No
+CUST-2133,Anthony Smith,45,Male,95112.0,19,One Year,Bank Transfer,75.24,1427.49,DSL,No,3,2024-12-24 00:00:00,Chicago,Yes
+CUST-1740,Charles Sharma,18,Male,49573.0,55,Two Year,Mailed Check,168.585,12138.12,Fiber Optic,Yes,4,2024-04-07 00:00:00,New York,Yes
+CUST-2431,Mary Miller,18,Male,87396.0,57,One Year,Mailed Check,18.55,1057.3500000000001,DSL,No,3,2020-08-06 00:00:00,Phoenix,No
+CUST-1869,Sandra Iyer,28,Male,125623.0,52,Month-to-Month,Bank Transfer,55.0,2851.74,DSL,Yes,4,2023-12-18 00:00:00,New York,Yes
+CUST-1732,Patricia Anderson,26,Female,87396.0,19,Two Year,Mailed Check,88.01,1676.16,Fiber Optic,No,3,2021-07-21 00:00:00,Singapore,No
+CUST-1540,Joseph Davis,48,Male,105196.0,67,Month-to-Month,Mailed Check,88.16,5914.87,No,Yes,3,2021-07-23 00:00:00,Sydney,Yes
+CUST-2495,Susan Gupta,45,Female,98258.0,15,Two Year,Electronic Check,100.26,1498.12,Fiber Optic,Yes,1,2024-05-16 00:00:00,Toronto,No
+CUST-1698,Elizabeth Iyer,31,Male,87396.0,32,Two Year,Electronic Check,109.52,3500.78,Fiber Optic,Yes,2,2023-03-04 00:00:00,Mumbai,No
+CUST-2001,Michael Wilson,45,Female,91238.0,15,One Year,Credit Card,70.37,1049.9,No,No internet service,5,2022-12-01 00:00:00,Toronto,No
+CUST-2080,Barbara Gupta,35,Male,51377.0,9,Month-to-Month,Electronic Check,116.39,1047.48,DSL,No internet service,4,2023-05-12 00:00:00,Berlin,Yes
+CUST-1932,Aditya Smith,40,Male,70052.0,39,One Year,Electronic Check,72.61,2830.69,Fiber Optic,No,5,2021-09-02 00:00:00,New York,Yes
+CUST-2119,John Rodriguez,62,Unspecified,114713.0,37,Two Year,Credit Card,113.32,1465.04,DSL,Yes,4,2024-12-19 00:00:00,Unknown,No
+CUST-1008,Patricia Johnson,28,Other,87396.0,24,Month-to-Month,Bank Transfer,112.9,2711.18,Fiber Optic,No internet service,3,2021-05-13 00:00:00,Delhi,Yes
+CUST-1919,Karen Garcia,51,Other,80004.0,44,Two Year,Electronic Check,115.79,5101.54,DSL,No,2,2022-04-06 00:00:00,Los Angeles,No
+CUST-1668,Matthew Williams,35,Male,102052.0,67,Month-to-Month,Credit Card,22.66,1516.9,No,No,4,2022-01-20 00:00:00,Singapore,Yes
+CUST-2199,Margaret Hernandez,34,Other,56263.0,38,Two Year,Credit Card,70.97,1897.23,No,No,4,2022-01-19 00:00:00,Unknown,No
+CUST-1358,Ananya Gonzalez,54,Other,68497.0,63,One Year,Mailed Check,19.93,1252.44,Fiber Optic,No,3,2023-08-19 00:00:00,Singapore,No
+CUST-1784,Joseph Brown,48,Other,85527.0,18,Two Year,Mailed Check,69.57,1253.35,DSL,Yes,3,2024-05-22 00:00:00,Phoenix,Yes
+CUST-1736,Matthew Martinez,49,Female,68253.0,5,Two Year,Bank Transfer,168.585,3744.56,Fiber Optic,Yes,1,2020-10-19 00:00:00,Delhi,No
+CUST-1330,Mark Hernandez,25,Male,122640.0,17,Two Year,Credit Card,87.39,1485.63,Fiber Optic,No internet service,3,2022-05-22 00:00:00,Delhi,Yes
+CUST-2086,Sneha Gonzalez,21,Male,124776.0,67,Two Year,Electronic Check,87.93,5889.63,No,No,1,2024-04-14 00:00:00,Phoenix,No
+CUST-2273,Vikram Iyer,46,Male,93237.0,12,Two Year,Unknown,94.25,1128.75,Fiber Optic,No,2,2023-02-03 00:00:00,New York,No
+CUST-1259,Charles Jones,47,Male,160059.5,19,Two Year,Bank Transfer,28.13,528.06,No,No,4,2021-01-04 00:00:00,Toronto,No
+CUST-1937,Michael Nair,42,Female,122615.0,46,Month-to-Month,Unknown,104.68,4806.11,No,No,4,2023-06-17 00:00:00,Toronto,No
+CUST-2215,Mark Verma,26,Male,131489.0,27,Two Year,Unknown,50.91,1372.48,No,No internet service,3,2020-12-23 00:00:00,Toronto,Yes
+CUST-1373,Thomas Patel,31,Female,101474.0,33,Two Year,Bank Transfer,85.47,2820.89,Fiber Optic,No internet service,3,2020-02-18 00:00:00,Mumbai,No
+CUST-2139,Richard Kumar,35,Male,69311.0,64,Month-to-Month,Mailed Check,86.11,5511.04,No,Yes,3,2024-05-14 00:00:00,Bengaluru,No
+CUST-1986,Mark Johnson,39,Female,50566.0,14,One Year,Electronic Check,40.95,585.62,DSL,Yes,5,2020-08-13 00:00:00,Mumbai,No
+CUST-1143,Joseph Patel,29,Female,92983.0,54,One Year,Mailed Check,61.31,3310.7400000000002,DSL,Yes,5,2024-08-12 00:00:00,Mumbai,No
+CUST-1526,Ananya Davis,30,Female,160059.5,63,Two Year,Mailed Check,61.48,3880.12,No,No,1,2021-07-23 00:00:00,Singapore,No
+CUST-2175,Aditya Nair,40,Other,55067.0,69,Two Year,Electronic Check,99.65,6868.12,No,No internet service,4,2020-05-25 00:00:00,Unknown,No
+CUST-1233,Arjun Hernandez,38,Female,87396.0,72,Two Year,Electronic Check,38.68,2784.96,Fiber Optic,No,3,2024-11-10 00:00:00,Chicago,No
+CUST-2158,William Nair,38,Other,40225.0,0,One Year,Bank Transfer,33.31,395.51,Fiber Optic,No,1,2020-08-15 00:00:00,Singapore,No
+CUST-2470,Arjun Iyer,25,Male,111088.0,17,Two Year,Mailed Check,56.39,958.63,No,No internet service,3,2023-08-01 13:30:00,Chicago,Yes
+CUST-1441,Betty Singh,44,Female,74973.0,24,Month-to-Month,Bank Transfer,67.31,1608.4,Fiber Optic,No internet service,4,2020-01-21 00:00:00,Chennai,No
+CUST-1532,Barbara Williams,26,Other,61949.0,31,Month-to-Month,Mailed Check,45.87,1412.75,Fiber Optic,No internet service,5,2024-04-18 00:00:00,Sydney,No
+CUST-2243,Lisa Singh,44,Female,39023.0,72,Month-to-Month,Mailed Check,44.6,3211.2000000000003,Fiber Optic,Yes,2,2021-01-26 00:00:00,Phoenix,No
+CUST-1227,Christopher Gupta,38,Other,73768.0,44,Two Year,Electronic Check,110.96,4872.33,Fiber Optic,No,3,2024-01-27 00:00:00,Los Angeles,No
+CUST-2089,Lisa Gupta,49,Unspecified,103500.0,37,Two Year,Mailed Check,67.66,1357.83,DSL,No internet service,1,2020-04-28 00:00:00,New York,No
+CUST-1229,Pooja Jones,56,Other,111559.0,3,Two Year,Bank Transfer,64.01,194.85,Fiber Optic,Yes,5,2023-12-08 00:00:00,Unknown,No
+CUST-2323,Joseph Gupta,43,Male,87396.0,32,One Year,Electronic Check,106.9,3423.73,Fiber Optic,Yes,4,2022-05-02 00:00:00,Delhi,No
+CUST-2341,Matthew Anderson,48,Other,88377.0,67,Month-to-Month,Mailed Check,60.17,4030.8,Fiber Optic,No,5,2024-10-07 00:00:00,Bengaluru,No
+CUST-1213,Mary Brown,53,Female,160059.5,51,Month-to-Month,Electronic Check,60.17,3070.24,No,No,5,2020-09-30 16:30:00,Mumbai,No
+CUST-1886,Michael Sharma,27,Female,82260.0,61,Month-to-Month,Bank Transfer,26.71,1622.75,DSL,No,4,2022-11-08 00:00:00,Chennai,No
+CUST-1080,Sarah Williams,33,Male,87396.0,30,Month-to-Month,Bank Transfer,26.31,789.69,No,Yes,4,2021-08-03 00:00:00,Sydney,Yes
+CUST-1149,Lisa Brown,38,Female,95194.0,63,Two Year,Electronic Check,64.41,4048.26,DSL,No,3,2022-06-21 00:00:00,Hyderabad,Yes
+CUST-1815,Sarah Johnson,30,Male,98433.0,66,Two Year,Credit Card,23.13,1536.41,DSL,No internet service,4,2021-12-20 00:00:00,London,No
+CUST-2371,Charles Kumar,46,Male,87694.0,60,One Year,Electronic Check,70.97,3002.96,No,No,2,2024-11-10 00:00:00,Toronto,Yes
+CUST-2194,Arjun Miller,34,Female,95875.0,70,One Year,Mailed Check,46.4,3255.76,DSL,Yes,3,2024-05-13 00:00:00,Mumbai,No
+CUST-1556,Barbara Garcia,36,Male,85808.0,7,Two Year,Credit Card,66.5,456.83,DSL,Yes,2,2020-08-22 00:00:00,Phoenix,No
+CUST-1968,Pooja Verma,44,Female,92982.0,14,Month-to-Month,Mailed Check,86.52,1218.69,Fiber Optic,No,2,2022-06-21 00:00:00,Hyderabad,Yes
+CUST-1134,Matthew Nair,37,Male,114713.0,52,Two Year,Electronic Check,50.27,2609.39,Fiber Optic,No,5,2023-07-06 00:00:00,Unknown,No
+CUST-2287,Sandra Patel,39,Male,61794.0,45,Two Year,Credit Card,117.73,5297.85,Fiber Optic,No,4,2023-04-16 00:00:00,Unknown,No
+CUST-1934,Patricia Miller,43,Male,71902.0,55,Month-to-Month,Electronic Check,70.97,2754.54,Fiber Optic,No,5,2020-11-19 00:00:00,Unknown,No
+CUST-2316,Margaret Williams,44,Male,59779.0,37,One Year,Electronic Check,55.26,1261.48,No,No,3,2023-02-21 00:00:00,Los Angeles,No
+CUST-1824,Jennifer Johnson,30,Other,79724.0,5,Month-to-Month,Electronic Check,87.11,426.59,DSL,Yes,3,2023-12-01 00:00:00,Bengaluru,No
+CUST-1409,Thomas Davis,27,Female,83900.0,37,Two Year,Credit Card,50.88,1117.28,Fiber Optic,No,1,2021-10-02 00:00:00,New York,No
+CUST-1369,Anthony Gonzalez,46,Male,109431.0,39,Month-to-Month,Bank Transfer,20.09,788.1,No,No internet service,2,2024-03-05 00:00:00,New York,No
+CUST-1508,Betty Reddy,49,Female,98664.0,65,Two Year,Mailed Check,68.06,4432.47,DSL,No,4,2022-02-25 00:00:00,Singapore,No
+CUST-2222,Aarav Patel,49,Other,98991.0,62,Month-to-Month,Mailed Check,27.76,1727.09,DSL,No,1,2024-03-04 00:00:00,Chicago,No
+CUST-1505,Margaret Garcia,52,Female,69806.0,58,Two Year,Bank Transfer,61.69,3581.23,DSL,No,1,2020-07-02 00:00:00,London,No
+CUST-2376,Robert Garcia,68,Other,64485.0,0,Two Year,Mailed Check,67.77,670.59,DSL,Yes,3,2021-10-12 00:00:00,Unknown,No
+CUST-1348,Matthew Gupta,24,Other,119853.0,15,One Year,Mailed Check,103.13,1539.18,Fiber Optic,No internet service,3,2024-07-05 00:00:00,Singapore,Yes
+CUST-1387,Pooja Brown,41,Other,69939.0,26,Month-to-Month,Mailed Check,81.29,2111.08,DSL,No,4,2022-10-31 15:00:00,Los Angeles,No
+CUST-1001,Linda Smith,47,Male,81240.0,4,Month-to-Month,Mailed Check,90.28,359.51,Fiber Optic,No,3,2022-03-07 00:00:00,Los Angeles,No
+CUST-2031,William Johnson,21,Male,78626.0,34,Two Year,Electronic Check,37.89,1295.66,No,Yes,1,2023-09-22 00:00:00,Bengaluru,No
+CUST-1361,Aarav Verma,38,Male,64041.0,40,One Year,Credit Card,50.5,2019.41,Fiber Optic,No,4,2022-11-22 00:00:00,Sydney,Yes
+CUST-1895,Sneha Gupta,47,Male,95832.0,6,Two Year,Credit Card,77.58,466.0,DSL,No,4,2024-07-01 09:00:00,Houston,No
+CUST-1829,Sarah Garcia,30,Female,60830.0,25,Two Year,Credit Card,32.71,818.86,DSL,Yes,3,2023-10-05 00:00:00,Los Angeles,No
+CUST-2462,Michael Garcia,41,Male,123264.0,15,Two Year,Bank Transfer,39.11,578.38,Fiber Optic,No,3,2023-10-11 00:00:00,London,Yes
+CUST-1476,Anthony Gupta,18,Unspecified,62052.0,61,Two Year,Credit Card,78.83,4803.9,DSL,Yes,4,2021-02-05 00:00:00,Toronto,No
+CUST-2324,Arjun Singh,54,Other,85712.0,3,Two Year,Bank Transfer,168.585,3753.23,Fiber Optic,Yes,2,2022-04-09 00:00:00,Houston,No
+CUST-1058,Sandra Rodriguez,38,Male,64392.0,38,One Year,Electronic Check,101.41,3845.31,Fiber Optic,No,3,2023-04-15 00:00:00,Phoenix,Yes
+CUST-1638,Thomas Iyer,40,Other,84504.0,70,Month-to-Month,Mailed Check,76.1,5334.61,DSL,Yes,5,2020-11-03 00:00:00,Phoenix,No
+CUST-2350,Karen Jones,56,Male,61340.0,8,Month-to-Month,Electronic Check,112.56,903.67,DSL,No,4,2024-02-23 00:00:00,Sydney,No
+CUST-2084,Pooja Smith,41,Male,121720.0,69,Month-to-Month,Mailed Check,68.84,4749.72,DSL,No internet service,1,2024-11-25 00:00:00,Sydney,Yes
+CUST-2014,Robert Lopez,30,Male,86487.0,45,One Year,Bank Transfer,94.62,4257.900000000001,DSL,No,5,2024-09-26 00:00:00,London,No
+CUST-1173,Karen Gonzalez,18,Female,52067.0,38,One Year,Mailed Check,48.46,1833.62,DSL,Yes,2,2020-12-19 00:00:00,Sydney,No
+CUST-1451,Betty Jones,46,Male,99221.0,37,Month-to-Month,Mailed Check,97.26,1079.41,DSL,Yes,2,2021-07-12 00:00:00,London,Yes
+CUST-1126,William Rodriguez,61,Other,113129.0,37,One Year,Mailed Check,56.1,615.28,Fiber Optic,Yes,3,2024-05-22 00:00:00,Hyderabad,No
+CUST-1039,Aditya Reddy,60,Female,90787.0,61,Month-to-Month,Bank Transfer,70.97,3046.21,Fiber Optic,Yes,5,2023-08-19 00:00:00,Berlin,No
+CUST-1531,Karen Patel,42,Male,80829.0,28,Two Year,Electronic Check,114.39,3201.19,No,No internet service,5,2020-04-25 00:00:00,Phoenix,No
+CUST-1858,Christopher Wilson,41,Female,81206.0,66,Month-to-Month,Credit Card,70.97,3300.24,Fiber Optic,No,5,2020-11-22 00:00:00,Singapore,Yes
+CUST-1714,Matthew Brown,37,Male,160059.5,10,One Year,Credit Card,59.7,606.32,Fiber Optic,No internet service,3,2021-11-16 00:00:00,New York,No
+CUST-1091,Matthew Lopez,29,Male,160059.5,4,One Year,Credit Card,113.57,460.49,DSL,No,3,2024-01-04 00:00:00,Unknown,No
+CUST-2499,Joseph Brown,35,Female,52520.0,47,Month-to-Month,Electronic Check,70.97,2351.54,No,No,4,2020-04-13 00:00:00,Houston,Yes
+CUST-1876,David Jones,18,Female,87396.0,53,One Year,Electronic Check,95.27,5043.79,No,Yes,3,2022-10-02 00:00:00,Chennai,No
+CUST-1787,Pooja Gupta,39,Male,92506.0,11,Month-to-Month,Bank Transfer,93.57,1037.85,Fiber Optic,No,5,2023-09-16 00:00:00,Delhi,No
+CUST-1415,Nancy Verma,60,Male,117476.0,18,Two Year,Credit Card,168.585,12138.12,DSL,No,2,2021-11-23 00:00:00,Mumbai,No
+CUST-1252,Barbara Singh,33,Female,115320.0,37,Month-to-Month,Electronic Check,110.03,4071.11,DSL,Yes,1,2022-01-19 00:00:00,Sydney,Yes
+CUST-1070,Jennifer Kumar,54,Other,98629.0,35,Month-to-Month,Electronic Check,67.04,2346.4,Fiber Optic,No,2,2023-02-05 00:00:00,Mumbai,No
+CUST-1804,Robert Brown,53,Female,97414.0,65,Month-to-Month,Electronic Check,113.66,7392.35,DSL,Yes,4,2023-06-28 00:00:00,Berlin,Yes
+CUST-1132,Lisa Nair,35,Male,93569.0,27,Month-to-Month,Mailed Check,36.53,987.83,Fiber Optic,No,4,2021-03-26 00:00:00,Sydney,No
+CUST-2056,Ananya Wilson,58,Female,89407.0,70,Month-to-Month,Credit Card,21.27,1493.72,Fiber Optic,No,2,2023-08-20 00:00:00,Chennai,No
+CUST-1327,Elizabeth Brown,55,Female,83234.0,69,Two Year,Mailed Check,46.75,3224.28,Fiber Optic,Yes,1,2023-07-16 00:00:00,Phoenix,No
+CUST-2179,Susan Hernandez,44,Male,67560.0,27,Two Year,Bank Transfer,58.46,1573.04,Fiber Optic,Yes,3,2020-12-15 00:00:00,Phoenix,Yes
+CUST-1500,Charles Johnson,31,Female,67265.0,55,Two Year,Bank Transfer,86.38,4748.34,Fiber Optic,Yes,3,2023-07-01 00:00:00,Sydney,No
+CUST-1342,Jennifer Reddy,41,Male,70904.0,2,Month-to-Month,Mailed Check,49.36,107.57,DSL,Yes,3,2021-05-05 00:00:00,Singapore,Yes
+CUST-1833,Pooja Wilson,18,Female,87748.0,30,Month-to-Month,Electronic Check,88.13,2650.57,Fiber Optic,No internet service,5,2021-01-20 00:00:00,Phoenix,Yes
+CUST-1365,Christopher Lopez,28,Other,128999.0,26,One Year,Electronic Check,32.56,845.11,DSL,No,3,2020-10-14 00:00:00,Singapore,No
+CUST-1496,Aarav Williams,60,Male,83086.0,20,Month-to-Month,Electronic Check,114.75,2300.05,Fiber Optic,Yes,2,2021-04-01 00:00:00,Unknown,Yes
+CUST-2441,Karen Williams,21,Other,108093.0,72,Two Year,Electronic Check,95.66,6886.09,DSL,No,4,2020-04-06 00:00:00,Singapore,No
+CUST-1339,Priya Singh,44,Female,52429.0,60,Two Year,Bank Transfer,106.35,6374.82,No,Yes,1,2024-05-11 00:00:00,Phoenix,Yes
+CUST-1422,Robert Sharma,43,Female,58837.0,29,Two Year,Unknown,105.78,3058.17,No,Yes,2,2023-10-26 00:00:00,Singapore,No
+CUST-1165,Margaret Singh,22,Male,157850.0,8,Two Year,Credit Card,100.78,813.46,Fiber Optic,No,4,2024-04-22 00:00:00,Hyderabad,No
+CUST-1029,Patricia Nair,31,Other,141799.0,33,One Year,Bank Transfer,49.47,1634.1,Fiber Optic,Yes,2,2024-06-17 00:00:00,Chicago,No
+CUST-1517,James Rodriguez,30,Male,68274.0,15,Two Year,Electronic Check,94.66,1414.46,DSL,No,3,2024-06-27 00:00:00,Phoenix,Yes
+CUST-2474,Ananya Garcia,50,Female,110165.0,39,One Year,Unknown,57.27,2232.51,Fiber Optic,No,5,2023-11-10 00:00:00,Berlin,No
+CUST-2408,Michael Sharma,33,Male,70117.0,35,Month-to-Month,Electronic Check,33.93,1178.58,Fiber Optic,No,3,2021-12-02 00:00:00,Los Angeles,No
+CUST-1946,Nancy Lopez,18,Male,87947.0,39,One Year,Electronic Check,68.02,2649.07,Fiber Optic,Yes,3,2023-09-22 00:00:00,New York,Yes
+CUST-2407,Mary Kumar,39,Male,63887.0,27,Month-to-Month,Unknown,28.91,772.66,No,Yes,5,2022-07-15 00:00:00,Mumbai,No
+CUST-1170,Jessica Kumar,39,Female,83669.0,37,Two Year,Electronic Check,53.74,477.52,Fiber Optic,No,1,2020-10-05 00:00:00,London,No
+CUST-1168,Neha Smith,41,Other,135428.0,15,One Year,Bank Transfer,99.49,1496.37,DSL,Yes,5,2021-08-25 00:00:00,Houston,Yes
+CUST-1174,Mary Johnson,48,Female,160059.5,67,Two Year,Electronic Check,25.72,1723.02,No,Yes,3,2020-05-27 00:00:00,Chicago,No
+CUST-1519,Jessica Gupta,45,Female,113923.0,69,Month-to-Month,Bank Transfer,19.76,1369.46,DSL,No internet service,2,2020-07-20 00:00:00,Mumbai,Yes
+CUST-2377,Margaret Anderson,46,Unspecified,89377.0,62,Two Year,Bank Transfer,104.58,6493.91,Fiber Optic,No,1,2023-12-08 00:00:00,Bengaluru,No
+CUST-1913,Jennifer Rodriguez,40,Other,144886.0,46,One Year,Unknown,19.2,883.1999999999999,DSL,No,2,2021-09-13 00:00:00,Phoenix,No
+CUST-1492,Mary Hernandez,48,Other,60205.0,13,One Year,Bank Transfer,70.97,651.06,No,No,5,2021-06-18 00:00:00,Los Angeles,No
+CUST-1074,Nancy Iyer,41,Other,139889.0,72,Two Year,Electronic Check,37.19,2675.59,No,No,3,2021-04-09 00:00:00,Los Angeles,No
+CUST-2296,Mary Martinez,48,Female,56610.0,49,Month-to-Month,Unknown,104.03,5099.34,No,No,2,2020-05-04 00:00:00,Unknown,No
+CUST-1588,Margaret Rodriguez,48,Male,79175.0,24,One Year,Electronic Check,104.64,2511.36,Fiber Optic,No,3,2020-02-06 00:00:00,Mumbai,No
+CUST-1751,Linda Iyer,62,Other,71785.0,18,Two Year,Credit Card,32.42,585.04,DSL,No,3,2023-12-03 00:00:00,Phoenix,No
+CUST-1658,Barbara Lopez,42,Male,54030.0,33,Two Year,Electronic Check,93.29,3080.56,Fiber Optic,No,3,2022-01-21 00:00:00,Berlin,No
+CUST-1235,Mary Garcia,34,Unspecified,73105.0,15,Month-to-Month,Electronic Check,55.83,837.99,DSL,No internet service,2,2021-04-18 00:00:00,Chennai,No
+CUST-1733,William Jones,51,Unspecified,60267.0,17,Month-to-Month,Bank Transfer,118.03,2013.49,Fiber Optic,No,4,2023-12-24 00:00:00,Bengaluru,No
+CUST-2223,Sandra Rodriguez,41,Female,160059.5,45,One Year,Bank Transfer,106.55,4799.44,No,Yes,4,2021-01-18 00:00:00,New York,Yes
+CUST-2269,Christopher Iyer,55,Female,99685.0,70,One Year,Bank Transfer,94.66,6623.87,Fiber Optic,No,2,2019-03-02 09:00:00,Bengaluru,No
+CUST-1935,Ananya Nair,54,Male,108140.0,17,Month-to-Month,Bank Transfer,52.46,880.43,Fiber Optic,No,3,2023-02-18 00:00:00,New York,No
+CUST-1109,Aditya Kumar,34,Female,131627.0,32,Two Year,Electronic Check,79.94,2558.08,No,No internet service,3,2023-06-08 00:00:00,Hyderabad,No
+CUST-1569,David Garcia,18,Male,87396.0,53,Two Year,Bank Transfer,96.31,5104.43,No,Yes,5,2020-07-31 19:30:00,Houston,Yes
+CUST-1891,Sneha Rodriguez,36,Other,97963.0,44,One Year,Electronic Check,108.43,4778.21,DSL,No,5,2024-08-16 00:00:00,Hyderabad,Yes
+CUST-1948,Michael Gupta,33,Male,107045.0,16,Month-to-Month,Mailed Check,54.14,873.59,Fiber Optic,Yes,5,2024-08-04 00:00:00,Mumbai,No
+CUST-2365,Patricia Verma,48,Male,156111.0,23,Month-to-Month,Bank Transfer,101.57,2329.39,No,No,2,2023-11-27 00:00:00,Unknown,No
+CUST-1885,James Singh,41,Female,37875.0,37,Month-to-Month,Bank Transfer,47.09,375.21,Fiber Optic,No,3,2021-11-30 19:30:00,Berlin,Yes
+CUST-2308,Thomas Hernandez,46,Male,92289.0,7,One Year,Electronic Check,70.97,352.73,No,No,2,2021-05-21 00:00:00,Berlin,No
+CUST-1851,Elizabeth Anderson,52,Female,81266.0,58,Two Year,Bank Transfer,71.16,4127.28,No,No,5,2022-02-06 00:00:00,Phoenix,No
+CUST-1735,Rohit Reddy,38,Unspecified,141051.0,35,Month-to-Month,Mailed Check,87.38,3052.12,Fiber Optic,No,5,2020-02-04 00:00:00,Unknown,No
+CUST-1718,Michael Singh,53,Female,70662.0,22,Two Year,Mailed Check,62.28,1370.16,DSL,Yes,1,2024-08-17 00:00:00,Hyderabad,Yes
+CUST-1455,Robert Brown,42,Male,41618.0,5,Two Year,Mailed Check,107.7,530.37,DSL,No,2,2020-08-23 00:00:00,Sydney,No
+CUST-1265,Jessica Gupta,35,Male,59255.0,30,Month-to-Month,Credit Card,103.24,3088.73,Fiber Optic,Yes,4,2020-07-22 00:00:00,Delhi,No
+CUST-1076,Barbara Hernandez,26,Other,101038.0,72,One Year,Mailed Check,102.7,7386.05,DSL,No,3,2021-08-19 00:00:00,Hyderabad,Yes
+CUST-1445,Linda Anderson,19,Female,77436.0,36,Two Year,Bank Transfer,99.36,3571.97,No,No internet service,2,2024-12-18 00:00:00,Sydney,No
+CUST-1396,Patricia Hernandez,61,Other,101844.0,37,One Year,Mailed Check,89.04,362.21,No,Yes,4,2021-09-18 00:00:00,Phoenix,No
+CUST-1177,John Johnson,57,Male,87396.0,5,One Year,Bank Transfer,25.6,119.22,Fiber Optic,Yes,1,2021-12-14 00:00:00,Houston,No
+CUST-2043,Priya Williams,41,Female,69697.0,2,Two Year,Electronic Check,104.76,201.02,Fiber Optic,No,3,2022-07-23 00:00:00,Unknown,No
+CUST-2354,David Singh,47,Male,72397.0,44,One Year,Electronic Check,83.05,3659.96,No,Yes,3,2022-09-16 00:00:00,Hyderabad,No
+CUST-2235,James Nair,47,Other,100313.0,35,Two Year,Electronic Check,98.29,3448.51,DSL,Yes,3,2024-01-12 00:00:00,Toronto,No
+CUST-1596,Christopher Johnson,51,Female,90962.0,68,Two Year,Bank Transfer,26.41,1796.07,DSL,Yes,3,2020-11-11 00:00:00,Sydney,No
+CUST-1062,Neha Smith,41,Unspecified,79302.0,52,Two Year,Electronic Check,118.1,6149.53,DSL,No internet service,2,2024-04-14 00:00:00,Chennai,No
+CUST-1873,Daniel Jones,42,Other,49208.0,56,Month-to-Month,Credit Card,42.83,2402.13,No,Yes,5,2024-12-21 00:00:00,Mumbai,No
+CUST-2157,Sneha Sharma,63,Female,160059.5,55,Two Year,Credit Card,82.78,4547.85,Fiber Optic,No,5,2022-06-01 00:00:00,London,No
+CUST-2453,Nancy Gupta,43,Female,160059.5,43,Month-to-Month,Credit Card,44.19,1901.01,No,No,5,2020-10-09 00:00:00,Chennai,No
+CUST-1279,Anthony Nair,60,Female,33394.0,69,Two Year,Electronic Check,76.43,5278.64,Fiber Optic,Yes,4,2021-02-02 00:00:00,Singapore,Yes
+CUST-1037,Pooja Sharma,57,Male,87396.0,28,Two Year,Electronic Check,70.97,1393.51,DSL,No,3,2020-01-07 00:00:00,Mumbai,No
+CUST-1663,Arjun Williams,40,Other,67679.0,31,Two Year,Credit Card,45.37,1415.9,No,No,1,2020-06-27 00:00:00,Sydney,Yes
+CUST-2398,Barbara Davis,45,Other,129115.0,40,Month-to-Month,Electronic Check,70.97,2003.25,Fiber Optic,No,1,2022-12-20 00:00:00,Berlin,Yes
+CUST-2121,Sneha Singh,44,Male,56339.0,9,One Year,Credit Card,35.17,317.77,DSL,No internet service,5,2024-04-01 01:30:00,Los Angeles,No
+CUST-1978,Anthony Sharma,48,Other,55639.0,43,Two Year,Bank Transfer,63.55,2739.04,No,No,1,2022-06-03 00:00:00,Bengaluru,No
+CUST-1192,Michael Garcia,33,Male,64168.0,16,Two Year,Electronic Check,74.35,1189.6,Fiber Optic,Yes,3,2023-04-18 00:00:00,Bengaluru,No
+CUST-1920,David Garcia,22,Female,47851.0,19,One Year,Credit Card,40.05,770.9,Fiber Optic,No,1,2020-01-07 00:00:00,New York,No
+CUST-1457,Karen Gupta,47,Female,81376.0,69,Two Year,Electronic Check,33.91,2339.79,Fiber Optic,Yes,5,2024-10-11 00:00:00,Chennai,No
+CUST-1676,Charles Davis,23,Female,88958.0,58,Month-to-Month,Electronic Check,91.28,5284.92,No,No,1,2020-03-01 15:00:00,Mumbai,No
+CUST-1761,Mary Lopez,41,Female,65297.0,11,Month-to-Month,Unknown,23.62,253.37,DSL,No internet service,5,2024-01-07 00:00:00,Mumbai,Yes
+CUST-2399,Joseph Gonzalez,44,Female,87396.0,24,Month-to-Month,Credit Card,110.36,2653.46,DSL,No internet service,3,2020-10-09 00:00:00,Sydney,Yes
+CUST-1729,Richard Gupta,31,Male,44135.0,56,One Year,Bank Transfer,61.4,3455.44,No,No,2,2022-06-12 00:00:00,Houston,No
+CUST-1413,Aditya Sharma,26,Male,77195.0,60,Month-to-Month,Mailed Check,114.68,6885.0,Fiber Optic,No,2,2021-12-15 00:00:00,New York,No
+CUST-1826,Karen Jones,41,Male,91998.0,4,Two Year,Mailed Check,73.07,292.28,Fiber Optic,No,2,2020-08-02 00:00:00,Toronto,No
+CUST-1617,Thomas Reddy,41,Male,90965.0,64,Two Year,Mailed Check,43.47,2780.66,Fiber Optic,No,1,2024-09-09 00:00:00,New York,No
+CUST-1115,Vikram Kumar,42,Other,87118.0,66,Month-to-Month,Mailed Check,34.63,2275.69,No,Yes,5,2022-08-26 00:00:00,Sydney,No
+CUST-1418,Jennifer Sharma,41,Female,88858.0,5,Two Year,Bank Transfer,59.66,298.29999999999995,Fiber Optic,No internet service,3,2021-08-09 00:00:00,Berlin,Yes
+CUST-2475,Anthony Martinez,39,Other,98771.0,45,Month-to-Month,Electronic Check,53.04,2386.11,Fiber Optic,No,2,2021-08-25 00:00:00,Phoenix,Yes
+CUST-1970,Lisa Lopez,28,Female,97396.0,8,One Year,Bank Transfer,51.56,419.21,No,Yes,1,2021-04-17 00:00:00,Toronto,No
+CUST-1605,Sneha Williams,41,Male,93538.0,39,Month-to-Month,Electronic Check,168.585,12138.12,Fiber Optic,No internet service,2,2020-10-09 00:00:00,Sydney,No
+CUST-2481,William Verma,59,Female,66541.0,70,Month-to-Month,Electronic Check,91.49,6397.33,Fiber Optic,Yes,3,2022-07-06 00:00:00,New York,No
+CUST-1090,Ananya Davis,19,Female,90452.0,63,Two Year,Mailed Check,21.11,1320.52,Fiber Optic,No,2,2020-04-22 00:00:00,Sydney,No
+CUST-1849,Matthew Williams,22,Female,63556.0,17,One Year,Credit Card,107.56,1826.7,DSL,No,3,2022-02-09 00:00:00,Hyderabad,No
+CUST-2183,Christopher Iyer,45,Female,63664.0,12,Two Year,Credit Card,57.29,695.02,DSL,Yes,5,2023-12-31 18:00:00,Mumbai,No
+CUST-2480,Sarah Brown,49,Male,67966.0,33,One Year,Electronic Check,38.73,1278.22,Fiber Optic,No,5,2022-04-01 13:30:00,Delhi,No
+CUST-1754,Vikram Rodriguez,28,Female,61985.0,26,One Year,Mailed Check,32.72,847.01,No,Yes,3,2021-06-18 00:00:00,New York,No
+CUST-1012,Thomas Johnson,75,Female,97996.0,25,Two Year,Unknown,72.48,1816.84,Fiber Optic,No internet service,1,2022-09-10 00:00:00,Toronto,No
+CUST-1397,Michael Johnson,40,Male,96256.0,57,One Year,Mailed Check,113.4,6471.51,No,Yes,4,2021-02-26 00:00:00,London,No
+CUST-1285,Mark Iyer,54,Other,87396.0,52,Two Year,Credit Card,69.88,3630.03,Fiber Optic,Yes,1,2021-12-27 00:00:00,Los Angeles,No
+CUST-2067,Daniel Jones,50,Female,56612.0,20,Month-to-Month,Credit Card,104.4,2096.78,Fiber Optic,Yes,1,2020-05-23 00:00:00,Bengaluru,No
+CUST-1691,Margaret Gupta,44,Other,94971.0,59,One Year,Credit Card,118.4,6982.69,No,Yes,2,2020-06-11 00:00:00,Unknown,No
+CUST-2272,Jessica Jones,36,Female,75621.0,54,Month-to-Month,Electronic Check,63.97,3446.17,Fiber Optic,Yes,3,2020-08-20 00:00:00,Mumbai,No
+CUST-2450,Michael Jones,22,Female,114659.0,6,Two Year,Electronic Check,23.56,134.19,Fiber Optic,No,1,2024-08-17 00:00:00,Los Angeles,No
+CUST-1690,Nancy Kumar,43,Female,75223.0,13,One Year,Bank Transfer,67.47,874.87,No,No internet service,2,2021-08-25 00:00:00,Bengaluru,Yes
+CUST-1852,Margaret Anderson,40,Female,87396.0,51,Month-to-Month,Electronic Check,83.06,4241.8,Fiber Optic,Yes,3,2022-08-10 00:00:00,Chennai,No
+CUST-1160,Mark Verma,39,Female,119531.0,40,Two Year,Bank Transfer,112.54,4494.25,DSL,No internet service,3,2020-11-28 00:00:00,Delhi,No
+CUST-1896,Sandra Williams,49,Male,63190.0,49,One Year,Electronic Check,93.58,4578.14,DSL,Yes,4,2020-12-08 00:00:00,Berlin,No
+CUST-2230,Elizabeth Gupta,34,Female,39303.0,6,Month-to-Month,Electronic Check,39.07,236.73,Fiber Optic,No,3,2021-07-10 00:00:00,London,Yes
+CUST-1258,Susan Kumar,51,Female,92113.0,21,Two Year,Mailed Check,117.78,2471.2,Fiber Optic,No,2,2022-10-28 00:00:00,Toronto,No
+CUST-1336,David Jones,37,Female,89501.0,43,Two Year,Electronic Check,19.48,830.65,No,No,5,2021-06-01 04:30:00,Los Angeles,Yes
+CUST-2454,Arjun Anderson,36,Female,133587.0,17,One Year,Credit Card,44.28,752.76,Fiber Optic,Yes,3,2023-12-26 00:00:00,Los Angeles,Yes
+CUST-2040,Anthony Wilson,41,Male,78987.0,0,Two Year,Credit Card,20.49,0.0,No,No,5,2024-11-06 00:00:00,Chicago,No
+CUST-1516,William Hernandez,31,Male,86369.0,65,Two Year,Mailed Check,118.09,7675.85,No,Yes,4,2023-12-16 00:00:00,Singapore,No
+CUST-2016,Karen Sharma,29,Female,87396.0,65,Month-to-Month,Electronic Check,96.35,6265.94,DSL,Yes,4,2024-10-20 00:00:00,Phoenix,Yes
+CUST-1769,Neha Nair,37,Other,138980.0,53,Two Year,Mailed Check,168.585,12138.12,Fiber Optic,No,2,2020-07-07 00:00:00,Delhi,No
+CUST-2360,Thomas Williams,41,Unspecified,53951.0,37,Month-to-Month,Electronic Check,69.98,137.7,Fiber Optic,No,5,2021-06-03 00:00:00,Unknown,No
+CUST-1762,Betty Johnson,40,Male,79239.0,59,One Year,Bank Transfer,33.16,1957.27,Fiber Optic,No,2,2020-01-28 00:00:00,Houston,No
+CUST-2138,Barbara Davis,24,Female,58614.0,55,One Year,Mailed Check,93.8,5150.95,Fiber Optic,No,4,2020-05-31 22:30:00,Hyderabad,No
+CUST-1522,Matthew Singh,46,Other,88293.0,14,Month-to-Month,Credit Card,21.52,294.42,Fiber Optic,No,5,2024-04-06 00:00:00,Unknown,Yes
+CUST-1023,Sarah Verma,18,Female,104567.0,3,Two Year,Mailed Check,83.81,245.06,DSL,No internet service,3,2022-11-04 00:00:00,Toronto,No
+CUST-1357,Thomas Reddy,41,Male,160059.5,47,One Year,Credit Card,49.05,2308.82,No,Yes,3,2021-01-28 00:00:00,Chennai,No
+CUST-2315,Mary Iyer,49,Female,53062.0,20,Month-to-Month,Credit Card,70.97,1002.71,Fiber Optic,Yes,3,2021-07-16 00:00:00,London,No
+CUST-1341,Richard Iyer,41,Female,123145.0,47,One Year,Mailed Check,25.01,1175.5,Fiber Optic,No,5,2023-03-21 00:00:00,New York,Yes
+CUST-1432,Betty Verma,69,Female,123687.0,53,Two Year,Electronic Check,78.63,4163.36,Fiber Optic,Yes,2,2020-04-14 00:00:00,Delhi,No
+CUST-1474,Linda Rodriguez,38,Male,85805.0,6,Two Year,Mailed Check,70.97,300.28,No,No,3,2024-07-01 09:00:00,Chennai,No
+CUST-1218,Patricia Iyer,46,Other,82798.0,41,Two Year,Credit Card,33.22,1364.9,DSL,No,4,2021-08-01 01:30:00,Toronto,No
+CUST-1912,Lisa Anderson,27,Male,100687.0,16,Two Year,Credit Card,26.13,411.41,No,Yes,3,2023-06-09 00:00:00,Houston,No
+CUST-2246,Daniel Gonzalez,36,Male,153103.0,60,One Year,Bank Transfer,40.2,2406.79,DSL,Yes,3,2022-10-01 00:00:00,Toronto,No
+CUST-2012,Vikram Reddy,51,Female,87396.0,29,Month-to-Month,Mailed Check,52.74,1538.05,Fiber Optic,No internet service,5,2024-01-11 00:00:00,London,No
+CUST-1094,Anthony Garcia,42,Male,72074.0,29,Month-to-Month,Bank Transfer,50.45,1454.53,Fiber Optic,No,5,2023-01-12 00:00:00,Chennai,Yes
+CUST-2009,Pooja Rodriguez,41,Male,87396.0,54,Month-to-Month,Bank Transfer,70.97,3832.38,Fiber Optic,Yes,3,2020-08-02 00:00:00,Bengaluru,No
+CUST-2071,Robert Rodriguez,41,Male,112220.0,53,Two Year,Credit Card,168.585,12138.12,DSL,No,4,2020-05-15 00:00:00,Los Angeles,Yes
+CUST-2093,Arjun Verma,57,Male,75867.0,60,Two Year,Electronic Check,91.27,5473.24,Fiber Optic,No,4,2020-10-21 00:00:00,Berlin,No
+CUST-1697,Linda Nair,35,Male,87396.0,51,Two Year,Electronic Check,103.62,5288.22,Fiber Optic,Yes,4,2024-04-14 00:00:00,New York,No
+CUST-2388,Anthony Anderson,61,Female,83956.0,38,Two Year,Credit Card,168.585,12138.12,DSL,Yes,4,2024-02-03 00:00:00,Hyderabad,Yes
+CUST-1997,Linda Davis,37,Male,104206.0,63,Two Year,Bank Transfer,41.46,2620.24,No,No internet service,1,2020-07-02 00:00:00,Chennai,Yes
+CUST-2100,Mark Gupta,58,Other,68875.0,68,One Year,Credit Card,96.81,6573.41,DSL,No,3,2021-01-17 00:00:00,Houston,No
+CUST-2343,Mark Wilson,62,Other,77145.0,4,One Year,Credit Card,88.17,310.23,Fiber Optic,No,2,2021-03-26 00:00:00,Toronto,No
+CUST-1790,Priya Sharma,20,Other,87396.0,2,Two Year,Mailed Check,115.79,232.27,Fiber Optic,No,5,2022-06-20 00:00:00,Unknown,No
+CUST-1581,Pooja Wilson,34,Male,128154.0,3,Two Year,Bank Transfer,114.07,339.9,No,Yes,5,2024-10-19 00:00:00,Mumbai,No
+CUST-1704,Karen Miller,48,Male,115385.0,16,Two Year,Electronic Check,51.91,834.66,DSL,No,2,2022-10-17 00:00:00,Chicago,No
+CUST-2302,Pooja Anderson,53,Male,105399.0,55,Two Year,Credit Card,19.32,1062.96,No,Yes,1,2020-05-31 22:30:00,Phoenix,Yes
+CUST-1488,Sarah Patel,18,Male,82404.0,37,Month-to-Month,Electronic Check,115.51,4272.43,Fiber Optic,No internet service,3,2022-08-11 00:00:00,Los Angeles,No
+CUST-1560,Barbara Davis,41,Male,78768.0,49,Month-to-Month,Mailed Check,46.98,2302.02,No,Yes,3,2022-09-22 00:00:00,Phoenix,No
+CUST-2120,Linda Singh,27,Male,160059.5,21,Two Year,Bank Transfer,64.01,1344.21,DSL,No,4,2021-04-14 00:00:00,Los Angeles,No
+CUST-1634,David Davis,41,Female,89687.0,29,Two Year,Electronic Check,21.85,635.27,No,No,2,2021-03-10 00:00:00,Chicago,No
+CUST-2146,James Sharma,39,Female,63238.0,60,Two Year,Credit Card,115.25,6915.0,DSL,Yes,4,2021-02-25 00:00:00,Berlin,Yes
+CUST-2384,Betty Garcia,41,Male,79347.0,52,One Year,Mailed Check,64.2,3337.26,DSL,Yes,4,2024-06-23 00:00:00,Chicago,No
+CUST-1791,Robert Garcia,24,Male,89752.0,34,Two Year,Electronic Check,28.23,952.0,Fiber Optic,No,1,2022-07-07 00:00:00,Singapore,Yes
+CUST-1117,John Martinez,47,Female,79399.0,37,Month-to-Month,Credit Card,39.11,944.14,No,No,1,2020-02-02 00:00:00,Los Angeles,Yes
+CUST-1741,Matthew Gupta,51,Female,79329.0,10,Two Year,Credit Card,70.97,709.7,DSL,No,3,2020-06-16 00:00:00,Los Angeles,No
+CUST-2082,Mark Martinez,41,Other,92288.0,56,Two Year,Credit Card,92.16,5153.68,No,Yes,1,2023-10-11 00:00:00,Mumbai,Yes
+CUST-1831,Lisa Hernandez,41,Female,87396.0,3,Two Year,Electronic Check,104.64,323.18,Fiber Optic,No,4,2024-09-30 16:30:00,Los Angeles,No
+CUST-1120,Richard Hernandez,70,Female,42292.0,22,Month-to-Month,Electronic Check,82.74,1817.47,Fiber Optic,No,4,2024-06-02 00:00:00,Phoenix,No
+CUST-1657,Patricia Rodriguez,43,Male,63364.0,51,Two Year,Credit Card,36.24,1845.78,No,No,5,2021-04-11 00:00:00,Singapore,No
+CUST-2472,Pooja Hernandez,56,Male,160059.5,3,Two Year,Bank Transfer,97.37,288.43,Fiber Optic,No internet service,1,2024-11-26 00:00:00,Sydney,No
+CUST-1636,Mark Hernandez,38,Female,102129.0,62,Two Year,Electronic Check,45.98,2854.12,No,Yes,5,2023-02-15 00:00:00,New York,No
+CUST-1370,Anthony Garcia,55,Female,127461.0,15,Two Year,Mailed Check,55.91,841.09,No,No,2,2023-01-18 00:00:00,Hyderabad,No
+CUST-1269,Matthew Jones,25,Unspecified,80928.0,44,Two Year,Bank Transfer,46.79,2058.7599999999998,Fiber Optic,No,1,2022-12-08 00:00:00,Delhi,No
+CUST-1656,Sarah Verma,57,Other,76796.0,36,Two Year,Mailed Check,41.64,1499.04,Fiber Optic,No,4,2022-10-03 00:00:00,Chennai,No
+CUST-1936,Aditya Reddy,57,Female,87396.0,16,One Year,Electronic Check,62.41,1004.46,DSL,No,2,2024-04-23 00:00:00,Singapore,No
+CUST-1823,Matthew Verma,43,Unspecified,80524.0,53,Two Year,Electronic Check,66.25,3518.5,No,No,3,2021-10-19 00:00:00,Bengaluru,Yes
+CUST-1867,Arjun Brown,63,Male,65363.0,61,One Year,Unknown,18.64,1145.24,No,Yes,4,2020-01-22 00:00:00,Toronto,No
+CUST-1047,Christopher Gupta,40,Female,88477.0,37,Two Year,Bank Transfer,116.75,353.67,DSL,No,5,2021-11-30 19:30:00,Bengaluru,Yes
+CUST-2334,Mary Lopez,57,Female,87396.0,53,Two Year,Bank Transfer,106.24,5639.42,Fiber Optic,No,2,2023-10-25 00:00:00,Toronto,No
+CUST-1992,Linda Jones,24,Female,48338.0,5,Month-to-Month,Electronic Check,40.23,199.02,DSL,No,3,2022-03-14 00:00:00,Unknown,No
+CUST-1877,Priya Williams,40,Male,77700.0,58,Two Year,Credit Card,70.97,2899.41,Fiber Optic,Yes,4,2023-02-25 00:00:00,Houston,No
+CUST-1774,Aarav Miller,55,Female,160059.5,38,Two Year,Electronic Check,35.62,1348.97,DSL,Yes,2,2021-08-12 00:00:00,New York,No
+CUST-1005,Lisa Martinez,32,Female,87396.0,69,Two Year,Bank Transfer,71.4,4935.89,DSL,Yes,3,2023-09-15 00:00:00,Mumbai,No
+CUST-2004,Margaret Kumar,39,Male,53525.0,14,Two Year,Bank Transfer,109.51,1542.54,DSL,No,4,2020-05-06 00:00:00,Berlin,Yes
+CUST-2345,Matthew Miller,60,Male,35280.0,5,Two Year,Electronic Check,106.3,534.3,No,No,5,2022-01-09 00:00:00,Phoenix,Yes
+CUST-1264,Michael Brown,38,Male,87396.0,37,One Year,Electronic Check,113.39,4192.33,No,No,5,2021-11-05 00:00:00,Phoenix,No
+CUST-2224,John Williams,70,Male,93442.0,8,Month-to-Month,Credit Card,107.01,856.08,Fiber Optic,No internet service,4,2021-10-13 00:00:00,Hyderabad,No
+CUST-2416,Richard Sharma,37,Female,47267.0,52,Two Year,Unknown,66.75,3467.72,No,No internet service,1,2024-04-23 00:00:00,Phoenix,Yes
+CUST-1444,Richard Smith,41,Other,87396.0,38,One Year,Electronic Check,34.93,1327.34,No,No,1,2020-03-28 00:00:00,Houston,No
+CUST-2003,Priya Sharma,41,Female,85812.0,28,One Year,Credit Card,100.14,2808.21,No,No,2,2023-06-10 00:00:00,Sydney,No
+CUST-2078,Charles Jones,66,Female,78958.0,26,One Year,Credit Card,51.95,1349.04,DSL,Yes,3,2022-03-01 00:00:00,Phoenix,No
+CUST-1838,Daniel Hernandez,58,Female,57281.0,39,Two Year,Electronic Check,34.17,1339.75,Fiber Optic,No,3,2020-04-27 00:00:00,Mumbai,No
+CUST-2386,Betty Martinez,39,Male,65025.0,37,Month-to-Month,Electronic Check,93.42,2233.85,Fiber Optic,No,5,2020-05-19 00:00:00,Singapore,No
+CUST-1305,Pooja Verma,43,Male,79925.0,2,Two Year,Mailed Check,47.55,69.33,Fiber Optic,No,3,2024-10-31 03:00:00,Unknown,No
+CUST-2214,Mark Gonzalez,68,Male,89119.0,37,Month-to-Month,Mailed Check,23.53,870.61,No,Yes,1,2024-05-02 00:00:00,Houston,Yes
+CUST-1314,Thomas Gonzalez,41,Other,104527.0,65,Two Year,Unknown,29.62,1933.65,No,Yes,1,2021-04-18 00:00:00,Sydney,Yes
+CUST-1150,Mary Patel,61,Male,76609.0,30,Two Year,Electronic Check,51.51,1539.44,DSL,No internet service,5,2021-07-25 00:00:00,Berlin,No
+CUST-2149,Michael Miller,35,Female,112862.0,32,Two Year,Credit Card,70.97,1591.67,DSL,No,3,2020-12-19 00:00:00,Los Angeles,No
+CUST-1575,Joseph Singh,41,Male,87396.0,48,One Year,Bank Transfer,72.47,3479.43,No,No internet service,1,2024-09-06 00:00:00,Unknown,Yes
+CUST-1051,Aditya Rodriguez,51,Male,63959.0,62,Two Year,Electronic Check,34.35,2128.99,Fiber Optic,No,2,2022-09-18 00:00:00,Los Angeles,Yes
+CUST-2211,Aditya Iyer,18,Male,96584.0,6,Month-to-Month,Mailed Check,78.61,471.65999999999997,Fiber Optic,No,2,2020-04-27 00:00:00,Toronto,No
+CUST-1727,Sneha Williams,54,Female,101690.0,8,Month-to-Month,Electronic Check,81.26,648.92,No,Yes,2,2023-02-18 00:00:00,Singapore,No
+CUST-1834,Elizabeth Anderson,41,Male,135728.0,9,Month-to-Month,Mailed Check,82.07,731.15,Fiber Optic,No,3,2021-03-19 00:00:00,Sydney,No
+CUST-2116,Ananya Gupta,26,Other,103878.0,38,Two Year,Mailed Check,62.86,2386.25,Fiber Optic,Yes,3,2020-09-01 00:00:00,Houston,No
+CUST-2167,Pooja Martinez,47,Female,57344.0,30,One Year,Bank Transfer,168.585,12138.12,Fiber Optic,No internet service,3,2023-02-14 00:00:00,Phoenix,No
+CUST-1471,Neha Iyer,18,Female,60967.0,59,Two Year,Electronic Check,76.57,4519.01,DSL,No,3,2024-10-26 00:00:00,Chicago,No
+CUST-1972,Elizabeth Sharma,21,Male,87465.0,26,Two Year,Credit Card,24.1,623.89,DSL,Yes,3,2023-04-03 00:00:00,London,No
+CUST-1654,Mary Davis,57,Female,73257.0,34,Month-to-Month,Electronic Check,83.76,2844.52,No,No internet service,3,2021-05-06 00:00:00,Bengaluru,No
+CUST-1400,Nancy Nair,50,Other,58855.0,16,Month-to-Month,Electronic Check,37.1,585.43,DSL,No,3,2022-11-17 00:00:00,Toronto,Yes
+CUST-1512,Sandra Patel,40,Male,63917.0,24,Two Year,Credit Card,84.98,2047.82,DSL,No,5,2023-10-10 00:00:00,Mumbai,Yes
+CUST-1321,Neha Iyer,65,Unspecified,68146.0,37,One Year,Credit Card,20.12,242.25,Fiber Optic,Yes,1,2021-11-04 00:00:00,London,No
+CUST-1020,Sneha Verma,43,Female,81897.0,16,One Year,Electronic Check,87.69,1407.81,DSL,No,3,2021-06-06 00:00:00,Chicago,No
+CUST-1036,Daniel Smith,33,Female,101702.0,28,Two Year,Electronic Check,51.02,1430.48,Fiber Optic,No,4,2023-10-15 00:00:00,Hyderabad,No
+CUST-1903,Charles Hernandez,21,Unspecified,77596.0,34,Month-to-Month,Mailed Check,113.84,3875.14,Fiber Optic,No,3,2020-12-23 00:00:00,Sydney,No
+CUST-1828,John Garcia,38,Female,66137.0,1,Two Year,Mailed Check,25.2,25.17,No,No,4,2023-03-28 00:00:00,New York,No
+CUST-2486,John Gonzalez,54,Unspecified,69140.0,48,One Year,Electronic Check,84.58,4056.92,DSL,No,5,2024-03-08 00:00:00,Phoenix,Yes
+CUST-1408,John Iyer,25,Female,87396.0,17,Month-to-Month,Electronic Check,112.75,1921.84,Fiber Optic,Yes,5,2020-09-14 00:00:00,Chicago,Yes
+CUST-1921,Jessica Sharma,41,Female,43580.0,29,Two Year,Bank Transfer,70.97,1457.8,DSL,Yes,3,2024-08-28 00:00:00,Chennai,No
+CUST-1538,David Hernandez,39,Female,87396.0,49,Month-to-Month,Credit Card,64.55,3164.59,DSL,No,2,2022-06-28 00:00:00,Unknown,No
+CUST-1759,Jessica Brown,51,Male,68506.0,9,Month-to-Month,Electronic Check,81.53,725.47,Fiber Optic,Yes,1,2020-11-21 00:00:00,Chennai,No
+CUST-2063,Sandra Iyer,59,Other,43427.0,31,Month-to-Month,Electronic Check,70.97,1540.55,No,Yes,3,2022-06-01 10:30:00,Los Angeles,No
+CUST-2200,Arjun Kumar,45,Other,87396.0,11,Month-to-Month,Electronic Check,57.36,632.38,DSL,No internet service,3,2024-01-31 04:30:00,New York,No
+CUST-1246,Arjun Sharma,43,Female,93131.0,50,One Year,Electronic Check,87.43,4374.83,No,No internet service,2,2024-10-23 00:00:00,Chennai,Yes
+CUST-2128,Rohit Kumar,41,Female,68033.0,67,Month-to-Month,Electronic Check,40.91,2739.84,No,Yes,2,2023-02-11 00:00:00,Toronto,No
+CUST-1785,Mark Kumar,25,Female,74990.0,72,Month-to-Month,Electronic Check,70.97,3598.43,Fiber Optic,Yes,3,2023-04-21 00:00:00,Unknown,No
+CUST-1490,Robert Verma,53,Female,48416.0,37,Month-to-Month,Credit Card,70.97,141.18,No,Yes,5,2023-01-06 00:00:00,Bengaluru,No
+CUST-1155,Thomas Smith,47,Female,87462.0,61,Two Year,Electronic Check,70.97,3045.56,No,No,3,2019-12-01 07:30:00,Chennai,Yes
+CUST-1962,Karen Verma,35,Female,66067.0,3,Month-to-Month,Electronic Check,84.19,261.5,Fiber Optic,No,3,2021-07-02 00:00:00,Toronto,No
+CUST-1854,Jennifer Rodriguez,41,Male,52836.0,67,Two Year,Bank Transfer,56.0,3753.35,DSL,No,2,2020-10-01 00:00:00,Chennai,No
+CUST-1626,Aarav Patel,25,Female,79649.0,30,One Year,Credit Card,102.76,3079.29,Fiber Optic,Yes,4,2024-07-05 00:00:00,Hyderabad,No
+CUST-1686,Robert Verma,38,Other,119909.0,37,One Year,Credit Card,70.63,1206.83,DSL,Yes,4,2020-12-21 00:00:00,Toronto,No
+CUST-1570,Nancy Verma,41,Male,67115.0,69,Month-to-Month,Credit Card,113.45,7830.59,DSL,No,1,2020-02-17 00:00:00,Houston,No
+CUST-2473,Neha Hernandez,48,Male,91170.0,48,Month-to-Month,Bank Transfer,68.94,3301.62,Fiber Optic,Yes,3,2020-12-31 00:00:00,Hyderabad,No
+CUST-1018,Jessica Brown,75,Female,128490.0,48,Month-to-Month,Unknown,67.64,3243.96,DSL,Yes,3,2024-09-25 00:00:00,Toronto,Yes
+CUST-1128,Arjun Johnson,31,Female,87396.0,67,Month-to-Month,Bank Transfer,41.73,2786.63,No,Yes,3,2023-07-19 00:00:00,Unknown,No
+CUST-1564,Charles Iyer,27,Male,84402.0,37,Two Year,Mailed Check,24.92,200.69,Fiber Optic,Yes,4,2022-07-28 00:00:00,Bengaluru,No
+CUST-1981,Robert Kumar,41,Male,46749.0,38,One Year,Mailed Check,70.97,1899.46,Fiber Optic,Yes,2,2022-09-27 00:00:00,Singapore,No
+CUST-1191,James Brown,69,Male,76142.0,61,Two Year,Electronic Check,96.78,5913.36,No,No,2,2024-01-24 00:00:00,Hyderabad,No
+CUST-2140,Rohit Martinez,34,Female,90975.0,72,Two Year,Bank Transfer,66.1,4760.72,No,No,1,2021-10-06 00:00:00,Toronto,No
+CUST-1993,Priya Rodriguez,53,Male,121196.0,48,Month-to-Month,Mailed Check,32.28,1548.25,Fiber Optic,No,4,2020-12-31 00:00:00,Toronto,No
+CUST-2294,Aarav Martinez,64,Female,62507.0,32,One Year,Bank Transfer,27.08,862.01,DSL,No,2,2024-11-05 00:00:00,Hyderabad,No
+CUST-1607,Vikram Wilson,47,Female,94106.0,8,Two Year,Mailed Check,20.87,165.73,No,No,5,2021-02-14 00:00:00,Unknown,No
+CUST-1181,Patricia Verma,55,Other,45271.0,37,Two Year,Bank Transfer,39.02,312.95,DSL,No,2,2022-09-06 00:00:00,New York,No
+CUST-1497,Ananya Anderson,42,Female,87396.0,56,Month-to-Month,Mailed Check,83.73,4684.91,Fiber Optic,Yes,5,2023-11-17 00:00:00,New York,Yes
+CUST-2335,Robert Patel,18,Female,109196.0,69,One Year,Mailed Check,76.28,5257.0,DSL,Yes,4,2019-04-01 19:30:00,Mumbai,No
+CUST-2299,Margaret Reddy,24,Female,119616.0,37,Month-to-Month,Electronic Check,71.28,277.88,Fiber Optic,No,3,2021-03-21 00:00:00,Berlin,No
+CUST-1518,Joseph Verma,50,Female,87396.0,55,Month-to-Month,Electronic Check,33.1,1828.1,No,No internet service,5,2024-12-24 00:00:00,Chennai,No
+CUST-2070,Patricia Anderson,61,Male,109040.0,23,Two Year,Unknown,99.98,2294.74,No,No,4,2022-04-24 00:00:00,Singapore,Yes
+CUST-1477,Vikram Williams,62,Other,67851.0,49,Two Year,Electronic Check,50.36,2468.56,Fiber Optic,Yes,5,2022-09-05 00:00:00,Chicago,Yes
+CUST-1158,Richard Singh,46,Male,160059.5,51,One Year,Credit Card,102.09,5206.17,No,Yes,5,2022-08-26 00:00:00,New York,No
+CUST-2196,Jessica Miller,61,Unspecified,57636.0,52,Month-to-Month,Electronic Check,25.43,1314.23,No,Yes,3,2021-08-07 00:00:00,Phoenix,No
+CUST-1017,Jennifer Sharma,52,Other,54929.0,6,Two Year,Electronic Check,42.41,246.75,DSL,No,1,2021-04-05 00:00:00,Chennai,No
+CUST-2073,Thomas Garcia,41,Male,62598.0,61,Two Year,Electronic Check,110.46,6738.0599999999995,No,Yes,5,2022-08-11 00:00:00,Houston,No
+CUST-1547,Arjun Gupta,48,Other,58124.0,49,Month-to-Month,Mailed Check,90.7,4439.93,No,No,2,2021-05-07 00:00:00,Unknown,No
+CUST-1659,Karen Kumar,40,Unspecified,99445.0,3,Two Year,Mailed Check,103.07,299.87,Fiber Optic,No internet service,2,2022-11-01 00:00:00,Chicago,Yes
+CUST-2300,Robert Gupta,48,Male,101014.0,4,Two Year,Electronic Check,103.91,415.34,Fiber Optic,No internet service,5,2024-08-31 06:00:00,Sydney,Yes
+CUST-1960,Linda Davis,40,Other,87396.0,4,Two Year,Electronic Check,168.585,1993.73,No,No internet service,2,2023-06-17 00:00:00,London,No
+CUST-2456,Elizabeth Garcia,29,Male,67868.0,13,Two Year,Electronic Check,104.26,1346.25,Fiber Optic,Yes,3,2020-07-08 00:00:00,Berlin,No
+CUST-1284,William Hernandez,35,Other,83251.0,10,Two Year,Bank Transfer,168.585,4997.41,No,No,3,2021-09-02 00:00:00,Los Angeles,Yes
+CUST-1798,Sarah Gupta,73,Male,124606.0,37,Month-to-Month,Credit Card,117.78,943.44,DSL,Yes,5,2020-06-08 00:00:00,Houston,No
+CUST-1226,Vikram Wilson,40,Unspecified,55125.0,22,Month-to-Month,Credit Card,43.65,970.28,Fiber Optic,No,5,2020-05-03 00:00:00,Chicago,No
+CUST-1027,Thomas Hernandez,24,Male,113972.0,63,Two Year,Bank Transfer,110.82,6986.6,Fiber Optic,Yes,1,2022-01-10 00:00:00,Houston,No
+CUST-1438,Jennifer Brown,45,Unspecified,76908.0,70,Two Year,Credit Card,21.78,1529.29,No,No,3,2019-03-02 09:00:00,New York,Yes
+CUST-1613,Nancy Brown,18,Other,92366.0,37,One Year,Electronic Check,70.97,1844.38,Fiber Optic,Yes,2,2023-02-01 00:00:00,Berlin,Yes
+CUST-1230,Anthony Patel,41,Male,35466.0,55,Two Year,Electronic Check,81.26,4469.3,DSL,No,2,2020-08-08 00:00:00,Singapore,No
+CUST-1038,Betty Smith,33,Other,102118.0,32,Two Year,Mailed Check,93.27,2990.22,DSL,No,2,2021-02-05 00:00:00,Chicago,Yes
+CUST-1750,Barbara Verma,18,Other,111573.0,19,One Year,Electronic Check,52.57,998.83,DSL,No internet service,2,2024-01-13 00:00:00,Chicago,No
+CUST-2046,Joseph Sharma,28,Male,102872.0,29,Month-to-Month,Mailed Check,112.5,3260.29,Fiber Optic,No,2,2024-06-05 00:00:00,Unknown,Yes
+CUST-1470,Nancy Martinez,63,Other,100032.0,37,Month-to-Month,Bank Transfer,70.97,753.82,No,No,3,2022-10-06 00:00:00,Delhi,Yes
+CUST-2322,Margaret Davis,33,Male,62389.0,0,Two Year,Mailed Check,45.98,451.82,Fiber Optic,Yes,4,2022-03-11 00:00:00,Berlin,No
+CUST-1688,Mary Jones,49,Female,87396.0,55,Month-to-Month,Credit Card,82.44,4534.2,No,No internet service,3,2020-11-26 00:00:00,Mumbai,No
+CUST-2425,Richard Brown,38,Female,87396.0,56,Month-to-Month,Mailed Check,57.2,3201.79,Fiber Optic,No,2,2023-08-03 00:00:00,Delhi,No
+CUST-2219,Thomas Brown,39,Female,88198.0,13,Month-to-Month,Credit Card,75.39,987.33,DSL,Yes,4,2022-01-09 00:00:00,Berlin,No
+CUST-2159,Christopher Patel,53,Female,92111.0,65,Two Year,Electronic Check,87.74,5700.39,Fiber Optic,Yes,5,2022-01-25 00:00:00,New York,No
+CUST-2293,Michael Garcia,34,Female,66497.0,52,Two Year,Mailed Check,25.54,1334.14,DSL,No,2,2024-11-22 00:00:00,Houston,No
+CUST-2410,David Johnson,33,Male,36595.0,24,Month-to-Month,Electronic Check,78.88,1898.97,Fiber Optic,No,3,2021-05-06 00:00:00,New York,No
+CUST-1801,Robert Singh,19,Male,93709.0,16,Two Year,Mailed Check,45.39,731.98,Fiber Optic,Yes,4,2024-10-14 00:00:00,Berlin,Yes
+CUST-1161,Karen Iyer,29,Male,68830.0,21,Month-to-Month,Credit Card,39.21,819.78,DSL,No,3,2024-06-18 00:00:00,Delhi,No
+CUST-1957,Priya Anderson,50,Male,87396.0,27,One Year,Bank Transfer,70.97,1348.48,DSL,No,1,2020-09-11 00:00:00,Mumbai,No
+CUST-2187,James Rodriguez,50,Female,158705.0,31,Month-to-Month,Mailed Check,104.37,3234.11,No,No,2,2022-04-03 00:00:00,Delhi,Yes
+CUST-1822,Pooja Lopez,50,Male,64772.0,35,Two Year,Mailed Check,86.03,3042.29,DSL,Yes,2,2022-09-11 00:00:00,New York,No
+CUST-2314,Mary Anderson,30,Male,109672.0,27,Two Year,Electronic Check,69.38,1872.3,DSL,No,4,2022-10-01 04:30:00,Berlin,No
+CUST-1878,James Wilson,69,Male,92096.0,31,One Year,Mailed Check,74.39,2309.51,Fiber Optic,No internet service,1,2021-07-07 00:00:00,Delhi,No
+CUST-1914,Susan Gonzalez,23,Male,105374.0,58,Month-to-Month,Bank Transfer,96.78,5604.94,No,No,3,2020-04-09 00:00:00,Hyderabad,No
+CUST-1153,Jessica Verma,39,Unspecified,98251.0,57,Month-to-Month,Bank Transfer,60.85,3459.54,Fiber Optic,Yes,5,2024-03-13 00:00:00,Chicago,No
+CUST-2420,Margaret Wilson,41,Female,83411.0,52,Month-to-Month,Credit Card,70.97,2600.24,No,No,1,2024-03-12 00:00:00,Mumbai,No
+CUST-1510,Rohit Davis,33,Male,52045.0,68,Two Year,Electronic Check,24.86,1684.77,DSL,Yes,2,2021-12-14 00:00:00,Toronto,Yes
+CUST-2136,Daniel Reddy,34,Female,77090.0,26,Two Year,Mailed Check,62.17,1611.22,Fiber Optic,No,1,2024-04-20 00:00:00,Mumbai,No
+CUST-2251,James Hernandez,33,Female,90073.0,60,One Year,Bank Transfer,102.97,6171.95,DSL,No,3,2021-11-09 00:00:00,Delhi,No
+CUST-1104,Margaret Iyer,65,Female,87396.0,48,Two Year,Bank Transfer,86.34,4139.3,Fiber Optic,Yes,2,2020-01-10 00:00:00,Hyderabad,No
+CUST-1587,Aarav Gonzalez,48,Female,123433.0,60,Month-to-Month,Electronic Check,115.69,6888.13,Fiber Optic,No,2,2019-12-31 18:00:00,Houston,No
+CUST-2378,Thomas Iyer,75,Male,70266.0,61,Two Year,Electronic Check,70.97,3045.1,Fiber Optic,No internet service,3,2024-11-03 00:00:00,Houston,No
+CUST-2144,Thomas Miller,43,Male,160059.5,28,Month-to-Month,Mailed Check,66.83,1871.24,DSL,Yes,1,2022-01-16 00:00:00,Berlin,No
+CUST-1054,Rohit Patel,53,Female,88393.0,4,One Year,Credit Card,90.82,356.69,DSL,Yes,3,2020-01-04 00:00:00,Bengaluru,No
+CUST-1152,John Wilson,41,Male,63372.0,23,Two Year,Credit Card,105.39,2422.52,DSL,No,5,2024-09-17 00:00:00,New York,No
+CUST-1404,Patricia Lopez,41,Female,114197.0,28,Month-to-Month,Credit Card,81.7,2286.18,Fiber Optic,Yes,2,2022-08-31 18:00:00,Houston,Yes
+CUST-1208,Aditya Garcia,41,Female,87396.0,16,Two Year,Credit Card,33.92,542.72,No,No,1,2022-01-21 00:00:00,Toronto,No
+CUST-2464,Sarah Lopez,54,Male,131295.0,55,Month-to-Month,Mailed Check,23.77,1307.0,No,No,3,2024-10-16 00:00:00,Los Angeles,No
+CUST-2123,John Anderson,51,Male,72234.0,65,One Year,Bank Transfer,111.12,7217.97,DSL,No,5,2023-12-07 00:00:00,Singapore,No
+CUST-2362,Robert Garcia,29,Male,57823.0,23,Month-to-Month,Mailed Check,21.96,508.57,DSL,No internet service,3,2020-10-24 00:00:00,Sydney,No
+CUST-1009,Aditya Brown,18,Male,69760.0,70,One Year,Credit Card,85.45,5990.14,No,Yes,2,2022-05-20 00:00:00,London,No
+CUST-2015,John Kumar,43,Female,111363.0,40,Month-to-Month,Credit Card,29.09,1166.97,No,No internet service,1,2022-09-14 00:00:00,Bengaluru,No
+CUST-2390,Sarah Miller,48,Other,103760.0,14,Month-to-Month,Electronic Check,92.6,1289.0,DSL,No,5,2023-10-31 21:00:00,Delhi,No
+CUST-2061,Margaret Anderson,54,Male,68648.0,43,Two Year,Credit Card,41.94,1803.4199999999998,Fiber Optic,Yes,1,2022-11-01 00:00:00,Chennai,Yes
+CUST-1453,Sneha Verma,39,Male,84214.0,40,One Year,Electronic Check,46.85,1879.15,DSL,No,4,2024-01-05 00:00:00,Toronto,No
+CUST-1254,Neha Gupta,44,Male,87396.0,42,Month-to-Month,Mailed Check,92.27,3870.01,DSL,Yes,1,2023-05-20 00:00:00,Hyderabad,No
+CUST-1897,James Wilson,70,Female,86485.0,48,Month-to-Month,Credit Card,83.7,4024.63,DSL,No,3,2024-06-23 00:00:00,Chicago,No
+CUST-2352,David Wilson,55,Other,85329.0,70,One Year,Credit Card,92.81,6490.58,Fiber Optic,Yes,2,2024-07-04 00:00:00,Houston,Yes
+CUST-1881,Mary Sharma,37,Male,91321.0,30,One Year,Bank Transfer,23.93,719.09,DSL,No,1,2023-04-05 00:00:00,Singapore,No
+CUST-1624,Neha Hernandez,42,Male,87396.0,55,Two Year,Electronic Check,100.73,5538.64,Fiber Optic,No,1,2020-05-31 22:30:00,Mumbai,No
+CUST-1346,Jessica Jones,52,Male,52524.0,51,One Year,Bank Transfer,95.0,4845.0,Fiber Optic,Yes,4,2020-09-30 16:30:00,Chennai,No
+CUST-2330,Priya Reddy,57,Other,62145.0,69,One Year,Electronic Check,70.97,3456.56,DSL,No,3,2024-04-15 00:00:00,Singapore,No
+CUST-1263,Elizabeth Patel,75,Male,102495.0,21,Month-to-Month,Electronic Check,115.14,2413.34,DSL,No,3,2022-05-05 00:00:00,New York,No
+CUST-1151,Elizabeth Kumar,40,Other,95587.0,36,Month-to-Month,Electronic Check,70.97,1802.34,DSL,Yes,4,2021-09-28 00:00:00,Mumbai,No
+CUST-1473,Daniel Wilson,59,Male,77742.0,19,Month-to-Month,Mailed Check,45.17,855.88,Fiber Optic,No internet service,3,2023-07-04 00:00:00,Chicago,Yes
+CUST-1641,Richard Garcia,45,Female,96617.0,29,Month-to-Month,Mailed Check,48.36,1394.18,Fiber Optic,No,5,2021-08-16 00:00:00,Phoenix,No
+CUST-2457,Susan Davis,48,Other,44070.0,46,One Year,Credit Card,113.15,5196.65,No,No,3,2024-06-25 00:00:00,Chennai,Yes
+CUST-1929,Sneha Reddy,75,Male,61746.0,0,One Year,Unknown,103.93,0.0,Fiber Optic,No internet service,2,2021-06-24 00:00:00,Houston,Yes
+CUST-1489,Christopher Williams,54,Female,68382.0,13,Month-to-Month,Credit Card,57.18,747.67,No,Yes,3,2023-12-01 07:30:00,Hyderabad,No
+CUST-2403,Robert Jones,53,Female,124688.0,48,Two Year,Electronic Check,39.58,1906.0,Fiber Optic,Yes,5,2023-05-22 00:00:00,Chennai,Yes
+CUST-2172,Betty Brown,28,Male,67429.0,27,One Year,Electronic Check,168.585,12138.12,Fiber Optic,Yes,1,2021-04-14 00:00:00,Unknown,Yes
+CUST-1147,Robert Rodriguez,34,Other,160059.5,45,Month-to-Month,Mailed Check,35.47,1602.58,DSL,No,2,2022-03-25 00:00:00,Toronto,No
+CUST-1403,Sandra Anderson,30,Male,84902.0,20,Month-to-Month,Mailed Check,33.64,667.14,DSL,Yes,2,2022-09-09 00:00:00,Toronto,No
+CUST-1955,Jennifer Davis,54,Female,92541.0,33,Month-to-Month,Bank Transfer,79.02,2607.66,No,Yes,3,2022-04-01 13:30:00,Sydney,Yes
+CUST-1660,Mary Reddy,53,Male,154808.0,52,Two Year,Credit Card,116.64,6065.28,No,Yes,1,2023-11-12 00:00:00,Delhi,No
+CUST-1464,Joseph Kumar,46,Female,118998.0,61,Two Year,Bank Transfer,114.74,7007.47,Fiber Optic,Yes,5,2021-05-11 00:00:00,Chennai,No
+CUST-1187,William Miller,46,Female,53289.0,64,One Year,Electronic Check,48.59,3112.49,DSL,Yes,2,2020-02-25 00:00:00,Los Angeles,No
+CUST-2148,Jessica Nair,66,Female,113178.0,57,Month-to-Month,Electronic Check,77.12,4395.32,DSL,Yes,3,2022-12-18 00:00:00,Delhi,No
+CUST-2225,Patricia Jones,23,Other,83358.0,23,Month-to-Month,Mailed Check,110.1,2527.66,DSL,No,4,2020-07-09 00:00:00,Los Angeles,No
+CUST-1144,Aditya Patel,34,Other,91693.0,1,One Year,Mailed Check,107.76,107.76,No,No internet service,3,2024-09-18 00:00:00,Los Angeles,No
+CUST-1752,Priya Rodriguez,43,Other,89813.0,29,Month-to-Month,Electronic Check,73.53,2138.82,No,No,3,2024-12-28 00:00:00,Mumbai,No
+CUST-1982,John Wilson,22,Male,160059.5,37,Month-to-Month,Credit Card,63.31,2335.57,Fiber Optic,Yes,2,2023-07-14 00:00:00,Chicago,No
+CUST-1198,Aarav Wilson,39,Female,78875.0,41,Two Year,Electronic Check,95.04,3887.01,No,Yes,5,2024-07-19 00:00:00,Unknown,Yes
+CUST-1884,Betty Patel,43,Male,92992.0,48,One Year,Mailed Check,30.85,1486.04,DSL,Yes,3,2020-12-31 00:00:00,Los Angeles,Yes
+CUST-1280,Sneha Wilson,58,Male,160059.5,49,One Year,Mailed Check,168.585,12138.12,Fiber Optic,Yes,3,2023-03-25 00:00:00,Toronto,No
+CUST-1294,Neha Nair,27,Female,46727.0,37,One Year,Electronic Check,40.25,313.67,Fiber Optic,No,5,2022-08-24 00:00:00,Bengaluru,Yes
+CUST-2411,Sandra Garcia,36,Male,85904.0,63,Two Year,Mailed Check,70.97,3147.84,DSL,No internet service,5,2024-01-04 00:00:00,New York,No
+CUST-1401,Pooja Johnson,40,Male,66937.0,16,One Year,Electronic Check,41.33,668.0,Fiber Optic,Yes,2,2024-01-21 00:00:00,Phoenix,Yes
+CUST-1123,Matthew Davis,32,Other,115919.0,57,Month-to-Month,Mailed Check,37.24,2127.03,Fiber Optic,No,4,2021-06-10 00:00:00,Houston,No
+CUST-2208,Aditya Hernandez,37,Female,77498.0,19,Two Year,Electronic Check,68.42,1301.09,No,No,1,2021-07-14 00:00:00,Sydney,No
+CUST-1203,William Smith,27,Male,160059.5,17,Two Year,Bank Transfer,106.07,1796.66,Fiber Optic,Yes,4,2023-08-01 13:30:00,Unknown,No
+CUST-1836,Patricia Singh,22,Male,85574.0,56,Month-to-Month,Bank Transfer,41.02,2306.24,Fiber Optic,Yes,5,2021-12-12 00:00:00,Toronto,Yes
+CUST-1247,Neha Williams,25,Male,63608.0,57,One Year,Electronic Check,94.74,5409.73,Fiber Optic,Yes,2,2024-01-22 00:00:00,Toronto,No
+CUST-2455,Rohit Verma,43,Male,113658.0,33,Month-to-Month,Mailed Check,26.16,855.24,DSL,No internet service,2,2024-04-16 00:00:00,Chicago,No
+CUST-2154,Lisa Miller,18,Female,61172.0,45,Two Year,Mailed Check,81.83,3691.53,DSL,No internet service,2,2024-06-06 00:00:00,Delhi,No
+CUST-1385,Arjun Johnson,41,Male,87396.0,2,Month-to-Month,Mailed Check,75.45,142.29,DSL,Yes,1,2021-12-10 00:00:00,Toronto,No
+CUST-1855,Linda Kumar,48,Female,63622.0,39,Two Year,Electronic Check,33.76,1322.5,No,No,5,2021-08-22 00:00:00,London,No
+CUST-1220,Pooja Reddy,51,Female,101683.0,18,One Year,Bank Transfer,76.88,1381.07,DSL,Yes,2,2023-07-02 03:00:00,Chennai,No
+CUST-1642,Margaret Jones,42,Female,87396.0,30,Month-to-Month,Electronic Check,61.17,1829.56,No,No,3,2024-05-10 00:00:00,Phoenix,Yes
+CUST-1002,Sandra Patel,25,Male,95460.0,9,Month-to-Month,Electronic Check,104.25,935.85,No,Yes,1,2024-06-11 00:00:00,Delhi,No
+CUST-1113,Richard Miller,18,Male,53372.0,42,One Year,Mailed Check,85.38,3590.92,Fiber Optic,No,4,2021-07-01 15:00:00,Chicago,Yes
+CUST-1699,David Iyer,18,Male,111254.0,37,Two Year,Electronic Check,52.04,1925.48,DSL,No internet service,3,2024-07-16 00:00:00,Hyderabad,No
+CUST-2478,Daniel Davis,67,Male,60654.0,9,Two Year,Mailed Check,55.5,504.35,DSL,No internet service,3,2024-09-27 00:00:00,Unknown,No
+CUST-1952,James Martinez,41,Female,60472.0,51,Month-to-Month,Electronic Check,27.97,1429.54,No,No,3,2023-06-04 00:00:00,Los Angeles,No
+CUST-2400,Michael Sharma,60,Male,99709.0,21,Month-to-Month,Electronic Check,64.51,1351.0,DSL,Yes,3,2023-09-25 00:00:00,Los Angeles,No
+CUST-1442,Elizabeth Hernandez,25,Female,112916.0,26,Month-to-Month,Mailed Check,47.59,1236.47,No,No,4,2023-10-19 00:00:00,Chennai,No
+CUST-2137,John Garcia,18,Female,72311.0,64,Month-to-Month,Mailed Check,105.47,6750.08,DSL,No,2,2022-11-07 00:00:00,Singapore,No
+CUST-2257,Rohit Jones,66,Male,76712.0,23,Month-to-Month,Credit Card,41.99,974.67,Fiber Optic,Yes,3,2020-02-26 00:00:00,Sydney,No
+CUST-1664,Patricia Iyer,29,Male,127151.0,41,Two Year,Mailed Check,43.43,1784.87,Fiber Optic,No,2,2020-04-17 00:00:00,Hyderabad,No
+CUST-2419,Thomas Jones,65,Male,75003.0,45,Month-to-Month,Unknown,168.585,12138.12,Fiber Optic,Yes,1,2023-01-18 00:00:00,Phoenix,No
+CUST-2258,Christopher Gonzalez,44,Other,87396.0,69,Month-to-Month,Bank Transfer,79.56,5495.56,DSL,Yes,3,2022-11-21 00:00:00,Houston,No
+CUST-2375,Ananya Gonzalez,18,Female,52315.0,29,Two Year,Bank Transfer,70.97,2058.13,No,No,4,2022-08-01 07:30:00,Sydney,No
+CUST-1318,Elizabeth Johnson,32,Female,89093.0,35,Two Year,Electronic Check,70.97,1747.68,Fiber Optic,No,2,2023-09-02 00:00:00,Unknown,No
+CUST-1649,Sneha Wilson,42,Female,48554.0,27,Month-to-Month,Bank Transfer,76.43,2071.54,Fiber Optic,No,1,2024-06-09 00:00:00,Bengaluru,No
+CUST-1710,Linda Johnson,43,Male,87396.0,32,One Year,Bank Transfer,26.65,848.24,DSL,Yes,2,2022-09-26 00:00:00,Unknown,No
+CUST-1973,Anthony Wilson,32,Female,58884.0,12,Month-to-Month,Mailed Check,70.97,599.47,Fiber Optic,No,3,2024-04-08 00:00:00,New York,No
+CUST-1628,Mary Gupta,62,Female,106328.0,0,One Year,Mailed Check,50.01,1196.67,DSL,No,3,2022-06-05 00:00:00,Toronto,No
+CUST-1633,Margaret Martinez,21,Female,55861.0,37,Month-to-Month,Bank Transfer,102.95,199.22,No,No internet service,3,2022-09-19 00:00:00,Chicago,Yes
+CUST-2249,Joseph Verma,31,Female,74580.0,3,Month-to-Month,Electronic Check,49.94,145.5,DSL,No internet service,3,2024-09-30 16:30:00,Sydney,Yes
+CUST-2255,Anthony Brown,50,Male,140385.0,38,Two Year,Unknown,71.45,2721.74,Fiber Optic,Yes,1,2023-07-04 00:00:00,Unknown,No
+CUST-2372,Matthew Patel,38,Male,71493.0,58,Two Year,Electronic Check,71.86,4168.7,Fiber Optic,Yes,2,2023-04-13 00:00:00,Chennai,No
+CUST-2355,Barbara Kumar,18,Unspecified,87396.0,9,One Year,Bank Transfer,57.98,521.15,Fiber Optic,Yes,4,2022-01-18 00:00:00,Chicago,No
+CUST-2488,Nancy Smith,33,Male,98986.0,37,Two Year,Mailed Check,80.28,1920.9,No,Yes,3,2020-03-22 00:00:00,Singapore,No
+CUST-2430,Sarah Brown,56,Female,151994.0,16,Month-to-Month,Mailed Check,116.62,1865.92,Fiber Optic,Yes,3,2023-05-02 00:00:00,Mumbai,No
+CUST-1796,Mary Singh,38,Other,87396.0,37,One Year,Bank Transfer,60.46,2233.03,DSL,No,1,2024-01-09 00:00:00,Toronto,No
+CUST-1646,Susan Anderson,29,Male,70679.0,54,Two Year,Bank Transfer,59.01,3194.57,Fiber Optic,No internet service,5,2024-10-02 00:00:00,Delhi,No
+CUST-2013,Michael Lopez,60,Female,108181.0,42,Two Year,Bank Transfer,46.46,1945.14,Fiber Optic,No,4,2021-09-11 00:00:00,New York,Yes
+CUST-1557,Robert Davis,30,Female,99458.0,61,One Year,Electronic Check,66.23,4035.06,Fiber Optic,Yes,3,2020-02-19 00:00:00,Mumbai,No
+CUST-1682,Barbara Rodriguez,26,Unspecified,91298.0,54,Two Year,Electronic Check,60.08,3240.82,No,Yes,4,2022-01-05 00:00:00,Houston,No
+CUST-1578,Patricia Smith,43,Male,63944.0,1,Month-to-Month,Electronic Check,107.35,108.35,Fiber Optic,No,5,2024-02-01 00:00:00,Bengaluru,No
+CUST-2110,Lisa Hernandez,53,Unspecified,83353.0,49,Two Year,Mailed Check,69.77,3410.33,No,No,4,2020-05-14 00:00:00,Delhi,Yes
+CUST-2267,Nancy Anderson,58,Male,135110.0,43,Month-to-Month,Credit Card,33.86,1463.52,Fiber Optic,No,2,2024-10-22 00:00:00,Hyderabad,Yes
+CUST-2184,Mary Williams,33,Other,72646.0,52,One Year,Mailed Check,26.03,1349.16,DSL,No,1,2020-05-16 00:00:00,Bengaluru,No
+CUST-1525,Karen Williams,28,Other,87822.0,42,Two Year,Bank Transfer,80.52,3381.8399999999997,DSL,No,5,2021-05-18 00:00:00,Chennai,No
+CUST-2060,Arjun Singh,40,Male,77344.0,50,Month-to-Month,Bank Transfer,27.35,1367.5,Fiber Optic,No,2,2021-07-16 00:00:00,Sydney,No
+CUST-1541,Ananya Reddy,38,Female,87396.0,65,Two Year,Mailed Check,91.72,5963.18,No,No,5,2020-12-02 00:00:00,Berlin,No
+CUST-2195,Joseph Lopez,48,Female,115570.0,66,Month-to-Month,Mailed Check,93.29,6153.58,Fiber Optic,No,2,2022-09-16 00:00:00,Los Angeles,Yes
+CUST-1749,Robert Singh,31,Female,44565.0,25,One Year,Mailed Check,53.68,1342.0,DSL,No,1,2020-11-12 00:00:00,Unknown,No
+CUST-2433,Charles Hernandez,29,Male,99027.0,72,One Year,Credit Card,75.72,5451.84,DSL,Yes,3,2020-04-02 00:00:00,Bengaluru,No
+CUST-1485,Rohit Brown,52,Male,77985.0,3,One Year,Bank Transfer,40.98,125.5,DSL,No internet service,1,2023-10-16 00:00:00,Singapore,Yes
+CUST-1096,Lisa Gonzalez,42,Male,65640.0,13,Month-to-Month,Bank Transfer,77.62,1015.88,Fiber Optic,No,1,2023-02-12 00:00:00,Sydney,Yes
+CUST-2021,Christopher Johnson,43,Female,70082.0,47,Month-to-Month,Credit Card,89.05,4185.12,DSL,No,2,2020-05-14 00:00:00,Unknown,No
+CUST-2265,Daniel Verma,39,Male,87396.0,21,One Year,Credit Card,56.65,1186.99,No,Yes,1,2023-08-12 00:00:00,Mumbai,No
+CUST-1743,Matthew Martinez,30,Male,87396.0,53,Month-to-Month,Bank Transfer,72.51,3850.81,No,No,3,2020-12-24 00:00:00,Hyderabad,Yes
+CUST-1864,Charles Kumar,37,Unspecified,87396.0,37,Month-to-Month,Unknown,88.62,534.29,DSL,No,1,2023-11-23 00:00:00,Chicago,No
+CUST-1892,James Brown,60,Male,101589.0,1,One Year,Mailed Check,85.01,85.01,DSL,Yes,1,2020-03-27 00:00:00,Phoenix,Yes
+CUST-2039,Lisa Johnson,37,Female,99046.0,47,Month-to-Month,Electronic Check,87.37,4110.24,DSL,No internet service,2,2024-07-26 00:00:00,Unknown,No
+CUST-1207,Elizabeth Patel,31,Female,150794.0,61,Two Year,Mailed Check,70.97,3054.18,DSL,No internet service,2,2022-03-27 00:00:00,Phoenix,Yes
+CUST-1393,Mary Iyer,24,Female,158607.0,63,One Year,Credit Card,110.67,6972.94,Fiber Optic,No internet service,2,2022-01-12 00:00:00,New York,No
+CUST-1795,James Lopez,18,Female,110663.0,26,Month-to-Month,Unknown,64.95,1689.88,DSL,No,1,2021-10-12 00:00:00,Berlin,No
+CUST-1871,Richard Anderson,36,Male,105326.0,57,Two Year,Bank Transfer,168.585,12138.12,DSL,No,1,2020-06-22 00:00:00,Los Angeles,No
+CUST-1398,Priya Smith,47,Other,100253.0,67,Two Year,Mailed Check,70.97,3346.13,Fiber Optic,Yes,3,2024-01-05 00:00:00,New York,No
+CUST-1767,Mary Rodriguez,52,Other,55474.0,71,One Year,Unknown,40.54,2886.75,DSL,No internet service,2,2021-12-20 00:00:00,Delhi,No
+CUST-2423,Susan Davis,47,Male,70443.0,41,One Year,Credit Card,41.07,1693.13,No,No internet service,2,2022-05-15 00:00:00,Singapore,Yes
+CUST-2242,Priya Williams,28,Unspecified,69151.0,37,Month-to-Month,Credit Card,44.29,844.44,Fiber Optic,No,3,2020-06-07 00:00:00,London,No
+CUST-2029,Jessica Nair,48,Female,101017.0,67,One Year,Electronic Check,80.76,5404.85,DSL,No,1,2024-03-05 00:00:00,Unknown,No
+CUST-1643,Sarah Martinez,39,Female,79365.0,54,Two Year,Mailed Check,43.66,2360.11,Fiber Optic,No internet service,3,2020-09-18 00:00:00,Singapore,No
+CUST-1961,Margaret Rodriguez,50,Other,57566.0,18,Two Year,Credit Card,45.01,803.11,No,No internet service,3,2020-06-01 00:00:00,Delhi,No
+CUST-1684,Robert Nair,39,Female,99991.0,20,One Year,Electronic Check,71.29,1434.09,Fiber Optic,No,5,2020-11-10 00:00:00,Houston,No
+CUST-1099,Susan Wilson,18,Other,91136.0,65,Two Year,Credit Card,106.24,6896.75,Fiber Optic,No,4,2024-07-21 00:00:00,Houston,Yes
+CUST-1407,Mary Iyer,18,Male,121434.0,57,Two Year,Credit Card,89.31,5083.93,No,No,4,2022-03-11 00:00:00,New York,No
+CUST-1503,William Singh,41,Male,66538.0,43,One Year,Bank Transfer,70.97,2153.33,Fiber Optic,No,5,2024-02-27 00:00:00,Singapore,No
+CUST-2072,Richard Williams,41,Male,98526.0,70,Two Year,Credit Card,111.28,7789.6,Fiber Optic,Yes,2,2022-01-28 00:00:00,Bengaluru,No
+CUST-2057,Mary Williams,41,Male,83739.0,12,Month-to-Month,Electronic Check,87.24,1025.25,DSL,Yes,1,2024-10-14 00:00:00,Unknown,Yes
+CUST-1930,Rohit Anderson,22,Other,137974.0,10,One Year,Mailed Check,115.76,1157.6000000000001,Fiber Optic,Yes,4,2024-10-21 00:00:00,Hyderabad,No
+CUST-1780,Mary Wilson,41,Female,87396.0,34,Two Year,Electronic Check,54.44,1847.48,Fiber Optic,No,3,2022-05-19 00:00:00,Houston,No
+CUST-1201,Sarah Anderson,32,Male,38932.0,32,Two Year,Mailed Check,49.39,1588.58,DSL,No,4,2022-11-23 00:00:00,Los Angeles,No
+CUST-2052,Joseph Sharma,41,Male,78491.0,37,One Year,Unknown,70.97,243.58,Fiber Optic,Yes,2,2024-06-03 00:00:00,Los Angeles,No
+CUST-1041,Elizabeth Lopez,58,Female,76895.0,43,Two Year,Electronic Check,54.77,2348.72,No,Yes,3,2020-09-25 00:00:00,Hyderabad,No
+CUST-1231,Michael Iyer,29,Other,90602.0,8,Two Year,Unknown,61.79,494.32,Fiber Optic,Yes,5,2023-04-28 00:00:00,New York,No
+CUST-1379,Daniel Lopez,44,Male,73930.0,21,Two Year,Bank Transfer,53.44,1129.13,Fiber Optic,Yes,1,2023-06-20 00:00:00,Bengaluru,No
+CUST-1289,Richard Gupta,41,Female,101279.0,16,One Year,Mailed Check,72.88,1171.38,Fiber Optic,Yes,5,2023-07-10 00:00:00,Bengaluru,No
+CUST-1593,Vikram Nair,38,Female,94257.0,58,Two Year,Unknown,76.71,4458.49,No,No,2,2024-07-17 00:00:00,Houston,No
+CUST-2163,James Verma,47,Female,87396.0,56,Month-to-Month,Unknown,85.02,4751.96,Fiber Optic,No,5,2021-03-21 00:00:00,Berlin,No
+CUST-2087,Anthony Brown,41,Female,105111.0,48,Two Year,Electronic Check,25.25,1220.98,Fiber Optic,No internet service,4,2024-08-18 00:00:00,Sydney,No
+CUST-1648,Aarav Reddy,53,Female,93094.0,43,One Year,Mailed Check,38.99,1669.95,DSL,No,3,2022-11-11 00:00:00,London,No
+CUST-2153,Christopher Johnson,35,Female,121934.0,54,Month-to-Month,Mailed Check,34.93,1886.22,Fiber Optic,No,5,2024-11-12 00:00:00,Los Angeles,No
+CUST-2368,Jennifer Reddy,60,Male,69339.0,2,Month-to-Month,Mailed Check,114.3,228.6,Fiber Optic,Yes,1,2022-04-27 00:00:00,Houston,No
+CUST-1521,Christopher Davis,23,Female,150095.0,50,Two Year,Mailed Check,96.34,4822.29,Fiber Optic,No,1,2022-08-22 00:00:00,New York,No
+CUST-1065,Joseph Kumar,49,Other,129487.0,30,Month-to-Month,Mailed Check,52.34,1569.97,DSL,Yes,5,2023-03-18 00:00:00,Hyderabad,No
+CUST-1015,Aarav Anderson,32,Female,158889.0,37,Month-to-Month,Electronic Check,168.585,12138.12,Fiber Optic,Yes,2,2023-07-25 00:00:00,Singapore,No
+CUST-2181,Christopher Kumar,65,Female,48719.0,11,One Year,Unknown,68.46,745.63,DSL,No internet service,3,2021-07-04 00:00:00,Berlin,No
+CUST-2065,Aditya Gonzalez,41,Female,50180.0,0,Two Year,Bank Transfer,33.8,28.83,No,No,2,2022-04-24 00:00:00,Mumbai,Yes
+CUST-1493,Betty Martinez,41,Male,158606.0,15,Two Year,Bank Transfer,37.23,549.85,Fiber Optic,No,2,2023-12-27 00:00:00,Hyderabad,Yes
+CUST-1380,Lisa Garcia,39,Male,94140.0,72,One Year,Bank Transfer,27.58,1993.3,Fiber Optic,No,4,2020-12-27 00:00:00,Chennai,No
+CUST-1188,Aarav Singh,50,Female,57366.0,37,Month-to-Month,Mailed Check,60.56,717.69,DSL,No,5,2021-09-11 00:00:00,London,No
+CUST-1764,William Williams,43,Female,58920.0,35,One Year,Bank Transfer,79.32,2776.2,Fiber Optic,No,5,2020-10-09 00:00:00,Phoenix,No
+CUST-1217,Anthony Lopez,28,Female,108303.0,53,Two Year,Credit Card,54.77,2902.81,Fiber Optic,No,1,2022-06-13 00:00:00,New York,No
+CUST-1792,Aditya Anderson,63,Female,93204.0,37,Two Year,Credit Card,168.585,6478.76,Fiber Optic,Yes,3,2021-11-30 19:30:00,Delhi,No
+CUST-2077,Patricia Williams,67,Female,124978.0,36,One Year,Electronic Check,81.07,2922.09,No,Yes,3,2021-12-31 06:00:00,Sydney,No
+CUST-1879,Susan Davis,51,Other,109549.0,5,Month-to-Month,Electronic Check,58.63,296.36,Fiber Optic,No,3,2021-02-03 00:00:00,Mumbai,No
+CUST-1338,Neha Jones,53,Unspecified,87396.0,18,One Year,Mailed Check,68.66,1235.8799999999999,DSL,No,5,2022-09-03 00:00:00,Chicago,No
+CUST-1720,Linda Gupta,18,Female,76776.0,2,Month-to-Month,Mailed Check,97.12,190.36,DSL,Yes,5,2024-10-31 03:00:00,Berlin,No
+CUST-1296,Barbara Lopez,55,Male,133752.0,2,One Year,Mailed Check,74.8,151.64,Fiber Optic,No,4,2023-06-27 00:00:00,Sydney,Yes
+CUST-2017,Patricia Rodriguez,21,Other,94959.0,19,Two Year,Electronic Check,70.97,942.42,DSL,Yes,3,2021-03-08 00:00:00,Mumbai,Yes
+CUST-2276,Jessica Iyer,35,Unspecified,71161.0,48,Two Year,Mailed Check,113.8,5467.26,Fiber Optic,No,3,2021-03-01 00:00:00,Los Angeles,No
+CUST-1456,Nancy Brown,42,Other,87396.0,46,Two Year,Bank Transfer,116.82,5377.07,No,No,2,2021-10-03 00:00:00,Houston,No
+CUST-1816,Priya Jones,57,Female,70539.0,29,Month-to-Month,Credit Card,103.21,2999.01,Fiber Optic,Yes,3,2022-12-22 00:00:00,New York,No
+CUST-1270,Richard Reddy,18,Male,87396.0,19,Two Year,Electronic Check,71.13,1361.07,Fiber Optic,No,3,2022-05-12 00:00:00,Berlin,Yes
+CUST-1996,Neha Iyer,57,Female,86666.0,27,One Year,Credit Card,168.585,12138.12,DSL,No,3,2022-11-06 00:00:00,Mumbai,No
+CUST-1202,Betty Rodriguez,49,Female,95205.0,53,Two Year,Credit Card,59.9,3179.05,No,No,3,2023-10-24 00:00:00,Delhi,No
+CUST-1162,Barbara Singh,55,Female,44455.0,69,Two Year,Mailed Check,110.7,7637.41,DSL,No,5,2022-06-13 00:00:00,Mumbai,No
+CUST-1730,Matthew Nair,53,Female,92539.0,37,One Year,Unknown,32.34,1196.5800000000002,Fiber Optic,No internet service,5,2022-02-05 00:00:00,Unknown,No
+CUST-1402,Patricia Nair,66,Female,87396.0,12,Month-to-Month,Bank Transfer,25.1,307.99,DSL,Yes,3,2024-12-07 00:00:00,Toronto,No
+CUST-1703,Robert Rodriguez,57,Male,73912.0,27,Two Year,Electronic Check,46.36,1251.72,Fiber Optic,Yes,3,2022-10-01 04:30:00,Toronto,Yes
+CUST-2130,Mark Singh,41,Male,113416.0,37,Two Year,Bank Transfer,43.68,745.49,DSL,Yes,3,2023-02-13 00:00:00,Mumbai,No
+CUST-1566,Mark Singh,38,Female,55485.0,41,One Year,Mailed Check,76.9,3152.9,No,No,3,2020-08-09 00:00:00,Unknown,Yes
+CUST-2414,Mark Garcia,55,Female,160059.5,46,Two Year,Mailed Check,50.6,2322.31,DSL,No,3,2023-09-11 00:00:00,Toronto,No
+CUST-2022,Rohit Jones,53,Male,66598.0,60,One Year,Mailed Check,83.99,5041.06,No,No internet service,3,2022-06-24 00:00:00,Los Angeles,No
+CUST-2026,Ananya Singh,45,Other,66503.0,41,One Year,Credit Card,118.23,4852.06,Fiber Optic,No,3,2020-01-01 00:00:00,Unknown,No
+CUST-2412,Ananya Davis,24,Male,89235.0,68,Two Year,Bank Transfer,46.44,3155.9,No,No,1,2023-12-24 00:00:00,Chicago,No
+CUST-2105,Christopher Anderson,41,Female,89813.0,1,Two Year,Bank Transfer,92.58,91.86,DSL,No,5,2023-10-15 00:00:00,Bengaluru,No
+CUST-1206,Betty Gupta,21,Female,58206.0,44,Two Year,Electronic Check,32.72,1439.6799999999998,No,Yes,4,2022-05-20 00:00:00,Hyderabad,Yes
+CUST-1035,Linda Wilson,20,Female,63805.0,28,Two Year,Electronic Check,74.27,2079.56,Fiber Optic,No,5,2024-11-21 00:00:00,London,Yes
+CUST-1776,Christopher Martinez,35,Female,60291.0,50,Two Year,Unknown,56.93,2840.12,No,No,4,2023-07-19 00:00:00,Chennai,No
+CUST-1509,Arjun Wilson,58,Female,147755.0,35,Month-to-Month,Electronic Check,70.97,1742.04,No,No,4,2022-09-18 00:00:00,Chennai,Yes
+CUST-2452,Jennifer Sharma,41,Male,117934.0,37,One Year,Credit Card,87.56,1573.44,Fiber Optic,Yes,3,2021-11-30 19:30:00,Los Angeles,No
+CUST-2479,James Johnson,33,Male,51146.0,19,Two Year,Bank Transfer,70.97,943.46,No,No internet service,1,2023-06-01 16:30:00,Houston,No
+CUST-2391,Lisa Reddy,29,Female,99425.0,54,Two Year,Electronic Check,116.96,6325.64,DSL,Yes,2,2022-10-16 00:00:00,Unknown,No
+CUST-1092,Nancy Singh,18,Other,87396.0,19,Two Year,Credit Card,112.93,2137.69,Fiber Optic,No,4,2022-03-23 00:00:00,Berlin,No
+CUST-2364,Vikram Singh,33,Male,160059.5,37,Month-to-Month,Mailed Check,106.52,952.46,DSL,No,4,2021-11-30 19:30:00,Unknown,No
+CUST-1898,Daniel Anderson,41,Female,87396.0,20,Month-to-Month,Electronic Check,91.33,1821.06,Fiber Optic,No,4,2023-09-18 00:00:00,Sydney,No
+CUST-2370,Mary Miller,41,Male,81277.0,31,Month-to-Month,Bank Transfer,70.97,1540.49,DSL,No,4,2022-06-01 10:30:00,Phoenix,Yes
+CUST-1777,Jennifer Reddy,34,Female,133513.0,30,Two Year,Electronic Check,33.42,1002.6,Fiber Optic,No,2,2021-05-22 00:00:00,Houston,Yes
+CUST-1242,John Kumar,52,Other,38682.0,23,Month-to-Month,Credit Card,57.06,1316.35,DSL,Yes,5,2022-11-03 00:00:00,Houston,No
+CUST-1014,Robert Anderson,32,Male,118380.0,1,Two Year,Bank Transfer,114.54,105.54,No,Yes,5,2024-06-25 00:00:00,Toronto,No
+CUST-1316,William Wilson,27,Male,160059.5,56,Two Year,Electronic Check,70.97,2805.05,DSL,No internet service,2,2020-02-02 00:00:00,New York,No
+CUST-1601,Linda Lopez,75,Other,156853.0,34,Two Year,Credit Card,35.58,1217.61,DSL,No,3,2022-03-02 03:00:00,Chennai,No
+CUST-1388,Christopher Kumar,41,Other,50596.0,56,One Year,Credit Card,88.59,4953.01,No,Yes,5,2024-01-02 00:00:00,Toronto,Yes
+CUST-2298,Richard Williams,30,Female,111168.0,12,One Year,Electronic Check,100.39,1214.18,Fiber Optic,Yes,2,2023-12-31 18:00:00,Singapore,No
+CUST-1167,Ananya Rodriguez,41,Male,46011.0,70,Two Year,Bank Transfer,19.58,1378.72,Fiber Optic,No internet service,1,2024-12-10 00:00:00,New York,No
+CUST-1021,Priya Brown,36,Female,111637.0,15,Two Year,Mailed Check,23.87,359.31,No,No,5,2021-09-13 00:00:00,Singapore,No
+CUST-1647,Karen Hernandez,40,Female,36021.0,53,Two Year,Unknown,41.35,2186.89,DSL,No,4,2021-01-27 00:00:00,Berlin,Yes
+CUST-2155,Rohit Rodriguez,34,Male,96330.0,67,Month-to-Month,Mailed Check,116.08,7771.11,DSL,No internet service,3,2022-06-24 00:00:00,Mumbai,No
+CUST-1832,Jessica Iyer,50,Female,77655.0,39,One Year,Mailed Check,105.42,4103.59,DSL,Yes,1,2021-09-30 22:30:00,Phoenix,No
+CUST-2268,Margaret Reddy,34,Female,148993.0,68,Month-to-Month,Bank Transfer,116.18,7904.85,DSL,No,1,2020-04-14 00:00:00,Mumbai,No
+CUST-1563,Thomas Rodriguez,33,Female,97913.0,72,Month-to-Month,Unknown,60.62,4364.18,No,Yes,1,2018-12-31 12:00:00,Delhi,Yes
+CUST-1687,Ananya Miller,41,Male,77588.0,12,Two Year,Credit Card,68.69,817.21,Fiber Optic,No,5,2020-07-05 00:00:00,Chicago,No
+CUST-1958,Susan Singh,33,Male,57389.0,20,Two Year,Bank Transfer,99.55,1995.71,DSL,Yes,3,2023-12-03 00:00:00,Sydney,No
+CUST-1976,Thomas Anderson,18,Female,73113.0,42,One Year,Mailed Check,75.29,3162.71,Fiber Optic,Yes,5,2024-12-11 00:00:00,Mumbai,No
+CUST-1700,Robert Rodriguez,58,Female,120415.0,26,Month-to-Month,Electronic Check,64.41,1676.45,Fiber Optic,Yes,2,2023-08-21 00:00:00,Houston,No
+CUST-2500,Elizabeth Martinez,43,Male,160059.5,21,Two Year,Bank Transfer,111.44,2344.78,Fiber Optic,Yes,4,2022-09-25 00:00:00,Berlin,No
+CUST-1511,Thomas Hernandez,41,Female,95310.0,39,Month-to-Month,Electronic Check,83.69,3267.85,DSL,Yes,4,2020-09-05 00:00:00,Chennai,No
+CUST-2083,Susan Anderson,34,Male,102031.0,11,One Year,Credit Card,54.41,598.51,DSL,No,5,2022-06-27 00:00:00,Phoenix,No
+CUST-1475,Matthew Verma,23,Male,87396.0,7,Month-to-Month,Credit Card,76.89,536.45,DSL,No,3,2023-08-15 00:00:00,New York,Yes
+CUST-1857,Christopher Lopez,43,Male,77096.0,13,One Year,Mailed Check,33.63,439.28,Fiber Optic,No,1,2020-01-22 00:00:00,Singapore,No
+CUST-1748,Richard Anderson,41,Other,73990.0,69,Two Year,Mailed Check,99.54,6860.38,DSL,No,5,2019-04-01 19:30:00,Berlin,No
+CUST-1253,John Brown,59,Male,47358.0,44,One Year,Mailed Check,100.39,4420.46,Fiber Optic,No internet service,3,2023-12-27 00:00:00,Chennai,No
+CUST-1022,Michael Miller,33,Male,96286.0,37,Two Year,Mailed Check,89.37,1331.97,Fiber Optic,Yes,2,2021-11-30 19:30:00,Singapore,Yes
+CUST-2338,Anthony Davis,31,Female,61355.0,20,Month-to-Month,Electronic Check,53.01,1069.88,No,No internet service,4,2022-12-12 00:00:00,Bengaluru,No
+CUST-1460,David Kumar,50,Male,68225.0,48,Two Year,Unknown,53.92,2580.46,DSL,Yes,2,2024-11-19 00:00:00,Hyderabad,Yes
+CUST-2185,Joseph Johnson,58,Other,95664.0,52,Two Year,Bank Transfer,28.3,1473.87,No,Yes,3,2023-05-14 00:00:00,Berlin,No
+CUST-1277,John Brown,39,Other,90135.0,19,Month-to-Month,Electronic Check,107.14,2027.91,Fiber Optic,No internet service,5,2022-02-12 00:00:00,Berlin,Yes
+CUST-1956,Mary Gonzalez,47,Male,73366.0,37,One Year,Unknown,37.92,373.67,Fiber Optic,No,3,2022-10-16 00:00:00,London,No
+CUST-2216,Mary Sharma,41,Other,62934.0,59,Two Year,Mailed Check,26.86,1574.85,No,Yes,5,2024-03-28 00:00:00,Berlin,No
+CUST-1386,John Patel,39,Male,41087.0,67,Month-to-Month,Mailed Check,79.97,5357.08,No,No,3,2021-06-05 00:00:00,Houston,Yes
+CUST-1806,Nancy Gupta,55,Male,61590.0,62,Month-to-Month,Electronic Check,83.53,5181.63,No,No,4,2024-03-05 00:00:00,Phoenix,Yes
+CUST-2438,James Gupta,26,Female,141890.0,40,Month-to-Month,Unknown,55.24,2216.07,No,No,1,2023-11-08 00:00:00,Unknown,No
+CUST-1344,Aditya Gonzalez,45,Male,72764.0,43,Month-to-Month,Electronic Check,65.3,2798.33,DSL,No,2,2022-12-12 00:00:00,Bengaluru,No
+CUST-1770,Anthony Brown,45,Male,93526.0,28,One Year,Bank Transfer,70.97,1408.96,Fiber Optic,No,4,2023-06-07 00:00:00,Los Angeles,No
+CUST-2333,Anthony Miller,65,Male,61615.0,70,Month-to-Month,Bank Transfer,23.81,1672.18,Fiber Optic,No,2,2024-11-08 00:00:00,London,No
+CUST-1131,Vikram Johnson,37,Male,124516.0,66,Month-to-Month,Bank Transfer,70.97,3299.57,DSL,No internet service,1,2024-08-11 00:00:00,Unknown,Yes
+CUST-1872,Patricia Smith,18,Female,160059.5,67,One Year,Unknown,68.21,4562.19,Fiber Optic,No,1,2022-12-13 00:00:00,Singapore,No
+CUST-2124,Sandra Patel,38,Other,63829.0,37,Month-to-Month,Electronic Check,32.82,614.68,No,Yes,4,2020-04-11 00:00:00,Toronto,Yes
+CUST-2397,Karen Verma,32,Female,83025.0,53,Two Year,Electronic Check,75.0,3983.34,Fiber Optic,No,2,2020-02-14 00:00:00,Mumbai,No
+CUST-1088,Karen Singh,41,Female,120008.0,7,One Year,Credit Card,70.97,349.04,Fiber Optic,Yes,1,2021-03-07 00:00:00,London,No
+CUST-2483,Michael Kumar,41,Male,49512.0,19,Two Year,Bank Transfer,52.56,994.87,No,No,2,2022-11-20 00:00:00,London,No
+CUST-1331,Nancy Iyer,56,Male,82931.0,70,One Year,Bank Transfer,20.62,1442.82,Fiber Optic,No,5,2021-03-27 00:00:00,Houston,No
+CUST-2239,Jessica Nair,43,Female,86958.0,33,Two Year,Bank Transfer,108.07,3557.52,Fiber Optic,No,3,2021-08-21 00:00:00,Singapore,Yes
+CUST-1467,Anthony Smith,25,Male,148121.0,37,Month-to-Month,Bank Transfer,76.15,2817.55,Fiber Optic,Yes,1,2024-03-25 00:00:00,Singapore,No
+CUST-1122,Barbara Reddy,39,Other,94205.0,30,Month-to-Month,Electronic Check,109.5,3284.39,No,No internet service,5,2022-09-12 00:00:00,Bengaluru,No
+CUST-2045,Sarah Lopez,59,Female,37156.0,60,Month-to-Month,Electronic Check,97.47,5848.2,No,No,2,2021-11-11 00:00:00,Berlin,No
+CUST-2131,Jessica Jones,33,Female,79569.0,13,Two Year,Electronic Check,35.32,450.61,Fiber Optic,Yes,1,2021-07-17 00:00:00,Chennai,No
+CUST-2295,Karen Patel,39,Male,73543.0,35,Month-to-Month,Electronic Check,24.74,865.49,DSL,No,1,2020-04-15 00:00:00,Chicago,No
+CUST-1861,David Garcia,23,Male,130259.0,55,Two Year,Mailed Check,107.1,5890.5,DSL,Yes,5,2024-11-01 00:00:00,Singapore,No
+CUST-2460,Linda Reddy,42,Female,65911.0,23,Two Year,Mailed Check,26.23,611.41,Fiber Optic,No,4,2023-06-28 00:00:00,Berlin,Yes
+CUST-2127,Daniel Johnson,43,Other,116325.0,12,Two Year,Bank Transfer,70.97,598.64,Fiber Optic,Yes,2,2022-03-21 00:00:00,Singapore,Yes

@@ -1,0 +1,1551 @@
+ Customer_ID ,Full_Name,Age,Gender,Annual Income ($),Tenure Months,Contract-Type,Payment_Method,Monthly Charges ($),Total Charges,Internet Service,Tech Support,Satisfaction Score (1-5),Join Date,City,Churn
+CUST-2237,Nancy Gonzalez,45.0,female,"$164,200",15.0,M2M,Electronic Check,22.41,338.48,Fiber,no internet,4.0,2022-01-25,Phoenix,1
+CUST-2442,  Sarah Hernandez  ,29.0,female,128958,59.0,,Credit Card,114.48,6751.46,dsl,FALSE,4.0,09-23-2021,Hyderabad,yes
+CUST-1352,Mark Jones,32.0,M,"$70,554",,Two Year,bank transfer,26.83,$453.49,FIBER,,2.0,19/06/2024,New York,no
+CUST-1353,Vikram Jones,48.0,MALE,"$68,248.00",21.0,2 Year,mailed check,60.42,1265.21,Fiber,0,4.0,08-10-2023,Berlin,
+CUST-1579,Barbara Patel,59.0,other,128777,62.0,Month-to-Month,Check,81.77,5075.97,FIBER,no,3.0,2020-01-03,Sydney,no
+CUST-1355,  Richard Hernandez  ,-1.0,MALE,"$96,286.00",23.0,2 year,bank transfer,105.93,2431.29,Fiber Optic,FALSE,4.0,26/02/2023,Toronto,0
+CUST-1351,Margaret Rodriguez,57.0,Male,"$147,647.00",53.0,m2m,Bank Transfer,78.56,"$4,160.04",,Yes,5.0,14/10/2023,Bengaluru,N
+CUST-1241,David Hernandez,41.0,Male,"$2,377,476",9.0,month-to-month,Electronic Check,100.49,897.59,fiber optic,FALSE,1.0,08-03-2021,Houston,False
+CUST-1262,Charles Gupta,27.0,female,"$81,602.00",27.0,One Year,Electronic Check,104.32,2809.32,dsl,1,5.0,13/05/2022,delhi,True
+CUST-1135,jennifer miller,45.0,MALE,"$81,475",11.0,M2M,E-Check,59.08,638.13,fiber optic,,3.0,28/08/2023,delhi,0
+CUST-2002,jennifer iyer,34.0,,"$47,794",33.0,M2M,Mailed Check,66.03, ,Dsl,No internet service,5.0,08-21-2024,Toronto,1
+CUST-1969,Jessica Johnson,60.0,m,"$71,895",59.0,Month to Month,,47.99,"$2,833.11",dsl,0,3.0,2022-07-23,mumbai,False
+CUST-1066,Anthony Jones,45.0,Female,"$66,022",,1 year,credit card,19.16,9.49,dsl,,4.0,04/02/2021,Chennai,True
+CUST-2297,Barbara Lopez,-7.0,male,"$59,468",28.0,1 year,Electronic Check,85.3,2393.49,Fiber,no internet,3.0,19/01/2020,Toronto,Yes
+CUST-1031,John Martinez,35.0,m,"$83,509",70.0,month-to-month,credit card,1250.0,"$87,508.78",DSL,yes,1.0,2022-09-21,Houston,No
+CUST-1465,patricia martinez,45.0,male,"$124,796.00",16.0,month-to-month,Bank Transfer (automatic),1250.0,20004.43,Dsl,No internet service,2.0,05/04/2023,houston,No
+CUST-2382,Patricia Jones,18.0,m,"$117,282",68.0,M2M,bank transfer,23.19,1574.93,None,N,4.0,12/02/2020,Delhi,False
+CUST-1234,james iyer,39.0,F,88833,49.0,month-to-month,Credit Card (automatic),25.89, ,Fiber,1,3.0,2020-01-07,Berlin,no
+CUST-1176,Susan Jones,44.0,M,"$168,875",64.0,One Year,Bank Transfer,18.96,1205.79,Fiber,None,4.0,2021-05-02,London,no
+CUST-1169,Daniel Johnson,39.0,M,"$130,374",69.0,m2m,Mailed Check,62.08,4289.47,Fiber Optic,1,4.0,2024-11-28,sydney,False
+CUST-1980,Anthony Lopez,44.0,m,"$71,166.00",24.0,2 year,mailed check,59.68,1426.04,Dsl,,2.0,,,0
+CUST-2010,Richard Garcia,44.0,FEMALE,"$98,461.00",3.0,Month to Month,Bank Transfer,39.04,109.21,Fiber Optic,no internet,1.0,2020-01-21,Houston,0
+CUST-1530,  Patricia Williams  ,30.0,,"$92,388",12.0,m2m,Electronic Check,41.3,$501.48,DSL,,4.0,,Phoenix,0
+CUST-1276,Betty Brown,41.0,Female,"$84,606",,Two Year,Electronic Check,112.59,$121.74,dsl,No internet service,4.0,2024-08-27,Chicago,1
+CUST-2025,William Sharma,34.0,Non-Binary,"$112,270.00",,1 Year,electronic check,750.5,6004.09,no,,2.0,2024-12-20,London,no
+CUST-1825,  Daniel Iyer  ,33.0,FEMALE,"$43,167",18.0,one-year,Mailed Check,,$908.80,no,TRUE,3.0,2021.02.04,Sydney,Y
+CUST-1345,Margaret Rodriguez,61.0,,62336,68.0,M2M,Bank Transfer (automatic),97.55, ,fiber optic,no internet,4.0,2020-11-05,phoenix,yes
+CUST-1238,Jennifer Rodriguez,135.0,m,"$78,056",39.0,1-yr,E-Check,118.59,4629.81,,Y,4.0,10-25-2023,Hyderabad,no
+CUST-2068,Anthony Miller,44.0,FEMALE,"$142,606",5.0,Month to Month,Check,109.5,$543.63,fiber optic,Yes,3.0,2024.05.10,London,1
+CUST-1060,vikram jones,48.0,M,"$92,456",58.0,2 Year,electronic check,24.29,1414.96,Fiber Optic,0,,invalid_date,Los Angeles,yes
+CUST-1325,Betty Singh,37.0,male,97519,,1-yr,Credit Card,92.75,1488.00,Dsl,None,0.0,10-12-2024,Mumbai,No
+CUST-1272,  Mark Brown  ,50.0,MALE,"$59,145",6.0,m2m,mailed check,94.63,568.99,Fiber Optic,No internet service,5.0,06/01/2024,Chicago,yes
+CUST-1372,Karen Hernandez,38.0,f,"$89,871.00",55.0,month-to-month,Mailed Check,98.68,5433.28,,no,3.0,16/10/2020,London,no
+CUST-1163,Linda Lopez,45.0,male,"$160,087",59.0,2-yr,Mailed Check,71.91,4240.96,dsl,Y,5.0,07-19-2023,Houston,0
+CUST-1555,Sneha Gupta,35.0,FEMALE,"$68,482.00",34.0,1-yr,Bank Transfer,62.87,2130.48,None,yes,5.0,11-04-2020,Chicago,0
+,NANCY SINGH,21.0,Female,"$1,605,952",27.0,1-yr,Electronic Check,91.84,"$2,483.50",No,Yes,5.0,06-24-2022,  Chicago  ,True
+CUST-1507,Mark Verma,72.0,Female,"$54,592",,m2m,Bank Transfer (automatic),56.62,,DSL,No,5.0,27/11/2023,Chennai,False
+CUST-2484,Sarah Patel,24.0,MALE,"$59,734.00",36.0,month-to-month,Credit Card,750.5, ,DSL,no internet,4.0,05-05-2024,mumbai,True
+CUST-1469,mary gonzalez,37.0,M,"-$10,751",33.0,2-yr,,73.67,2423.29,Dsl,no,5.0,2022.05.24,  Phoenix  ,False
+CUST-1185,Mark Hernandez,18.0,Other,"$83,667",,one-year,Mailed Check,79.47,1345.43,Fiber Optic,TRUE,1.0,07/07/2024,Hyderabad,no
+CUST-1644,Barbara Johnson,45.0,male,"$78,871",22.0,Month to Month,mailed check,68.72,1506.95,None,Y,3.0,07-27-2021,chennai,no
+CUST-1332,  Jessica Smith  ,,Other,"$118,016.00",4.0,month-to-month,,100.0,398.02,No,1,4.0,01-24-2020,chicago,False
+CUST-1495,  Matthew Iyer  ,47.0,female,"$1,639,268",21.0,2 year,Credit Card (automatic),,1051.54,Dsl,No,9.0,2023.05.21,New York,
+CUST-2101,  Mark Singh  ,56.0,m,"$53,140",40.0,1 year,Electronic Check,105.43, ,dsl,,4.0,invalid_date,Sydney,no
+CUST-1260,Matthew Rodriguez,59.0,,"$1,755,960",66.0,M2M,Check,88.05,,dsl,FALSE,2.0,06-03-2020,Hyderabad,
+CUST-1275,arjun patel,41.0,M,"$90,237.00",30.0,1 Year,mailed check,750.5,"$22,521.31",Dsl,Y,,2021-03-27,los angeles,False
+CUST-2170,Patricia Verma,58.0,F,"$81,137",20.0,month-to-month,E-Check,84.32,"$1,686.99",DSL,yes,2.0,05/07/2021,Bengaluru,0
+CUST-1637,CHRISTOPHER JONES,33.0,Female,"$57,155",2.0,Month to Month,Electronic Check,499.0,"$1,001.32",NONE,no internet,3.0,2023-10-05,singapore,0
+CUST-1848,Sneha  Martinez,28.0,male,"$125,629",51.0,Month-to-Month,electronic check,26.2,"$1,330.73",No,No internet service,4.0,11-19-2023,sydney,0
+CUST-1965,Linda Anderson,43.0,MALE,"$133,922",11.0,M2M,E-Check,45.26,$493.20,Dsl,None,1.0,,Mumbai,no
+CUST-1125,Ananya Verma,52.0,F,"$118,562.00",65.0,Two Year,Mailed Check,72.56, ,NONE,N,5.0,26/04/2023,Mumbai,0
+CUST-1439,PRIYA BROWN,48.0,Female,"$74,753",,1-yr,E-Check,68.27,673.34,Dsl,FALSE,5.0,05-21-2022,Sydney,N
+CUST-2262,MICHAEL NAIR,34.0,m,"$42,307",5.0,month-to-month,Credit Card,44.8,$216.68,NONE,FALSE,,2022.10.10,Hyderabad,N
+CUST-2220,Thomas Jones,26.0,f,82439,,two-year,Check,116.69,1633.86,NONE,,1.0,12-19-2023,Chicago,False
+CUST-2496,Daniel Verma,30.0,female,"$56,503.00",12.0,M2M,Credit Card,0.0,591.08,DSL,0,1.0,28/09/2020,Sydney,True
+CUST-2256,ADITYA JOHNSON,33.0,f,"$65,576.00",26.0,M2M,Credit Card,75.41,1964.12,FIBER,No internet service,5.0,01-17-2021,Hyderabad,0
+CUST-1340,Betty Johnson,49.0,Male,87853,59.0,m2m,bank transfer,99.44, ,,No internet service,2.0,02-14-2021,  Delhi  ,1
+CUST-1585,Arjun Lopez,,Non-Binary,"$129,809",25.0,2 year,Bank Transfer,75.59,1889.35,,TRUE,1.0,02-21-2020,  Berlin  ,Y
+CUST-2348,Thomas Anderson,18.0,male,,51.0,Month to Month,Check,93.45,4762.41,NONE,None,2.0,2021-04-06,,Yes
+CUST-1024,JENNIFER HERNANDEZ,53.0,f,"$63,097",60.0,month-to-month,Check,81.2,4866.07,NONE,no internet,5.0,2021-12-06,,no
+CUST-1977,James Jones,38.0,Female,90293,50.0,M2M,Electronic Check,72.41,3622.03,fiber optic,1,2.0,2020-04-15,  Hyderabad  ,No
+CUST-1204,jennifer anderson,42.0,MALE,"$143,102.00",22.0,Two Year,,96.03,2119.21,fiber optic,Y,4.0,2023.03.14,Singapore,False
+CUST-1417,Daniel Gupta,53.0,MALE,"$106,487",62.0,1 year,,21.66,1333.54,NONE,No,5.0,22/06/2024,,
+CUST-1050,Barbara Jones,40.0,Male,"$126,349",29.0,M2M,Credit Card (automatic),82.16,2375.14,Dsl,0,2.0,11-20-2021,  Singapore  ,No
+CUST-1909,Michael Kumar,41.0,,,9.0,Month-to-Month,Mailed Check,40.17,352.14,FIBER,1,5.0,2021-10-21,Chennai,no
+CUST-1971,  Mary Sharma  ,52.0,male,"$108,264",54.0,Month to Month,Credit Card (automatic),31.79,1713.48,No,Y,3.0,25/03/2020,  Chennai  ,yes
+CUST-1745,Karen Patel,38.0,F,"$107,812.00",24.0,One Year,Bank Transfer (automatic),,1194.41,fiber optic,FALSE,1.0,2024.02.05,Bengaluru,0
+CUST-1298,  Neha Brown  ,,,"$2,177,084",56.0,Month-to-Month,electronic check,72.39, ,DSL,Yes,3.0,05-11-2020,Bengaluru,True
+CUST-2498,margaret johnson,66.0,FEMALE,"$56,986",,M2M,E-Check,23.89,167.66,Fiber Optic,1,4.0,2023.03.04,Houston,No
+CUST-1434,David Smith,32.0,female,,67.0,m2m,Check,80.83,5406.63,FIBER,FALSE,1.0,24/12/2024,Chicago,False
+CUST-1716,  Matthew Gonzalez  ,51.0,Male,"$110,321.00",11.0,Month to Month,Electronic Check,,550.18,fiber optic,1,1.0,2020.01.21,Hyderabad,No
+CUST-1487,Daniel Garcia,38.0,Other,"$103,528.00",17.0,Two Year,Electronic Check,70.05,1196.19,no,FALSE,3.0,09-14-2024,Delhi,Y
+CUST-1124,Rohit Johnson,34.0,M,"$69,080",3.0,2-yr,Credit Card (automatic),118.03,347.50,Dsl,No internet service,5.0,03-24-2022,Chennai,No
+CUST-1629,barbara sharma,43.0,FEMALE,"$104,374",23.0,two-year,Mailed Check,102.3,2355.92,dsl,yes,,2022.03.20,Phoenix,no
+CUST-1842,Elizabeth Singh,33.0,f,"$2,902,500",38.0,month-to-month,mailed check,20.28,775.18,,No,5.0,25/09/2023,Chennai,N
+CUST-2275,Elizabeth Martinez,55.0,M,"$149,275.00",31.0,one-year,Bank Transfer (automatic),70.38,"$2,181.39",Dsl,1,,26/01/2020,Chicago,Y
+CUST-1199,Elizabeth Kumar,30.0,male,"$104,473.00",35.0,two-year,E-Check,42.41,1474.90,FIBER,FALSE,1.0,2021-03-09,Sydney,No
+CUST-1200,  Priya Smith  ,37.0,male,"$37,515.00",12.0,month-to-month,E-Check,112.03,1350.94,no,No,1.0,27/06/2022,Toronto,Yes
+CUST-2122,Richard Anderson,-5.0,MALE,"$90,010.00",64.0,,Credit Card,102.17,6543.08,Fiber,,,26/01/2022,Chicago,True
+CUST-1584,Thomas Lopez,37.0,,"$106,725.00",6.0,Month to Month,bank transfer,80.54,478.48,no,yes,,,London,No
+CUST-2050,Charles Gonzalez,44.0,f,"$99,340.00",36.0,two-year,E-Check,56.45,2041.64,no,No internet service,4.0,04/06/2021,Mumbai,0
+CUST-1731,Anthony Singh,63.0,male,"$133,715.00",35.0,Two Year,Electronic Check,105.58,"$3,703.32",dsl,no internet,1.0,06-16-2022,berlin,1
+CUST-1100,daniel lopez,34.0,Female,"$46,738",28.0,two-year,Bank Transfer,69.96,1968.22,DSL,0,2.0,2022.10.26,Toronto,N
+CUST-1685,  Sneha Johnson  ,57.0,,"$138,931",6.0,Two Year,Check,96.46,565.37,,Y,2.0,24/10/2020,Phoenix,No
+CUST-1052,neha wilson,60.0,male,"$104,737.00",66.0,Month to Month,Mailed Check,69.17,4559.52,FIBER,FALSE,1.0,2020.07.05,  Sydney  ,1
+CUST-1071,Arjun  Jones,28.0,FEMALE,89844,63.0,two-year,electronic check,57.89,,Dsl,No internet service,5.0,2020.12.15,Sydney,False
+CUST-1622,David Brown,,other,"$133,605",59.0,m2m,,86.89,5125.25,Fiber,no,0.0,07-10-2020,  New York  ,Yes
+CUST-1077,Lisa Patel,,f,"$81,650",32.0,Month-to-Month,mailed check,27.22,863.39,Fiber,None,2.0,2024-03-26,New York,no
+CUST-1987,Robert Johnson,54.0,other,"-$17,400",71.0,Month-to-Month,Mailed Check,56.17,3978.63,no,,3.0,2022-03-24,  Singapore  ,False
+CUST-1515,Joseph Miller,63.0,,"$57,376.00",49.0,two-year,Bank Transfer,23.93,1169.25,Fiber Optic,,4.0,2021-03-04,Sydney,False
+CUST-1142,Richard Brown,225.0,f,"$76,087.00",10.0,,credit card,107.7, ,No,TRUE,1.0,,phoenix,1
+CUST-1271,CHRISTOPHER MILLER,40.0,FEMALE,"$78,594.00",13.0,1 year,Bank Transfer (automatic),92.81,1212.11,Fiber,TRUE,0.0,24/11/2021,,no
+CUST-1908,Mary Miller,46.0,Female,"-$6,797",57.0,Two Year,credit card,104.69,5965.82,,1,5.0,22/07/2023,Chicago,No
+CUST-1240,john jones,36.0,m,"$48,247.00",51.0,m2m,Electronic Check,114.93,"$5,857.52",DSL,,4.0,unknown,Houston,N
+CUST-2402,Ananya Anderson,65.0,FEMALE,"$180,974",,m2m,Bank Transfer,56.63,$853.58,Dsl,,,2020.02.20,New York,no
+CUST-1988,JAMES REDDY,22.0,,"$88,017.00",24.0,M2M,Bank Transfer (automatic),94.7,2279.40,DSL,TRUE,1.0,2020.01.20,Bengaluru,Y
+CUST-1758,Robert Wilson,60.0,Male,91786,17.0,2 Year,Check,113.5,1923.81,No,Y,1.0,unknown,Houston,no
+CUST-1221,Margaret Anderson,27.0,FEMALE,"$168,662",59.0,M2M,Credit Card (automatic),64.16, ,Fiber,No internet service,4.0,12/02/2020,,Y
+CUST-2099,elizabeth brown,,m,"$78,226.00",9.0,M2M,Bank Transfer (automatic),78.77,$699.22,dsl,,5.0,10-20-2023,Toronto,1
+CUST-1708,Aarav Jones,50.0,Male,"$98,527",62.0,Two Year,Mailed Check,46.08,"$2,849.60",fiber optic,N,4.0,11/03/2023,Toronto,Y
+CUST-1186,Margaret Lopez,,male,"$85,146.00",57.0,1 Year,Bank Transfer,91.48,5218.93,No,Y,5.0,02-19-2022,Bengaluru,True
+CUST-2092,Richard Gupta,19.0,male,"$54,641",43.0,Month-to-Month,mailed check,,"$2,155.67",FIBER,FALSE,2.0,2023-06-05,Phoenix,no
+CUST-1661,Aarav Jones,26.0,female,"$85,964",40.0,Month-to-Month,Bank Transfer,25.77,1034.01,Fiber Optic,,2.0,2021.02.16,Houston,no
+CUST-1317,Betty Sharma,42.0,m,90898,29.0,Month to Month,credit card,84.03,2432.22,DSL,TRUE,5.0,2023-05-03,Hyderabad,Y
+CUST-2260,Robert Nair,42.0,f,"$42,072",55.0,Two Year,bank transfer,0.0,2745.83,FIBER,no internet,-1.0,11-05-2023,New York,Yes
+CUST-1817,Aditya Kumar,54.0,,"$102,111",15.0,1 year,Mailed Check,25.43,$382.62,fiber optic,FALSE,4.0,2022.03.04,Los Angeles,no
+CUST-2118,Rohit Davis,54.0,m,"$100,732",18.0,1 Year,,116.91,2106.38,DSL,Yes,10.0,10-16-2024,Mumbai,False
+CUST-1694,Daniel Reddy,59.0,F,"$132,932.00",14.0,1 year,Bank Transfer (automatic),32.2,447.43,dsl,no,3.0,2020.07.28,Hyderabad,0
+CUST-1136,Arjun Anderson,67.0,f,123134,30.0,2 Year,electronic check,48.93, ,None,TRUE,4.0,05-01-2023,  Chennai  ,False
+CUST-1715,Robert Singh,46.0,female,"$73,034.00",37.0,1 year,Electronic Check,,,no,Y,4.0,06-12-2021,Chicago,No
+CUST-1820,Mark Johnson,52.0,MALE,,28.8,one-year,bank transfer,50.66,"$1,456.71",dsl,FALSE,4.0,2020-01-13,London,False
+CUST-1673,linda patel,42.0,FEMALE,"$50,774.00",1.0,m2m,,42.85,42.42,Dsl,Yes,1.0,,Delhi,0
+CUST-1484,Jessica Iyer,51.0,female,"$105,022.00",70.0,2 year,Credit Card,44.64,"$3,133.12",Dsl,no internet,3.0,2023-03-19,Houston,N
+CUST-1060,vikram jones,48.0,M,"$92,456",58.0,2 Year,electronic check,24.29,1414.96,Fiber Optic,0,,invalid_date,Los Angeles,yes
+CUST-1068,Christopher Smith,24.0,FEMALE,"$107,269",50.0,1 year,E-Check,117.59,5879.52,FIBER,Yes,5.0,2024-07-25,Sydney,False
+CUST-1382,Lisa  Davis,56.0,Other,"$58,945.00",17.0,M2M,bank transfer,99.43,1694.71,Dsl,No internet service,5.0,20/08/2020,Los Angeles,0
+CUST-1652,Patricia Brown,23.0,other,52739,12.0,month-to-month,Credit Card (automatic),23.95,280.52,,No internet service,,17/01/2024,singapore,yes
+CUST-1781,Margaret Reddy,,Non-Binary,"$147,386.00",53.0,2 year,Bank Transfer (automatic),49.66,2636.22,NONE,1,3.0,2023.02.10,mumbai,no
+CUST-2209,Barbara Iyer,49.0,female,"$63,435",,m2m,Bank Transfer,66.44,"$1,000.22",Fiber Optic,Y,1.0,2024-02-13,Chennai,no
+CUST-1707,Sneha  Davis,43.0,FEMALE,"$109,752.00",4.0,Month-to-Month,Check,75.19,295.49,No,Y,5.0,2020.02.13,  Houston  ,True
+CUST-2417,Joseph Anderson,42.0,F,"$119,592",64.0,two-year,Check,59.37,"$3,799.75",dsl,TRUE,2.0,04-24-2024,Bengaluru,no
+CUST-2357,Charles Hernandez,75.0,MALE,"$67,772.00",53.0,1-yr,Credit Card,88.22,4682.48,Fiber Optic,Y,1.0,2020-10-03,Bengaluru,
+CUST-1865,Charles  Patel,46.0,Female,,3.0,one-year,mailed check,25.45,69.55,fiber optic,N,,2024-12-24,  London  ,No
+CUST-2176,Elizabeth Smith,33.0,FEMALE,"$136,958.00",37.0,M2M,credit card,70.97,"$2,626.48",FIBER,Yes,2.0,10-26-2021,Chennai,N
+CUST-1414,Patricia Martinez,54.0,FEMALE,"$106,055",71.0,1-yr,Bank Transfer,76.67,5453.24,FIBER,FALSE,4.0,2020.10.09,Mumbai,no
+CUST-2095,Pooja Miller,,male,"-$20,062",,M2M,bank transfer,21.94,385.75,fiber optic,,2.0,2021-09-18,New York,False
+CUST-2290,Joseph Kumar,35.0,FEMALE,"$107,878.00",-3.0,2 year,E-Check,43.47,124.41,fiber optic,Y,,15/09/2023,Delhi,False
+CUST-1030,Nancy Brown,-4.0,other,"$96,104",72.0,m2m,,64.09,4617.93,no,yes,5.0,2024-06-20,Singapore,No
+CUST-1429,Mary Gonzalez,18.0,,"$117,802",56.0,month-to-month,electronic check,36.9,1985.30,No,no internet,,2021.02.23,Toronto,N
+CUST-1721,Patricia  Gonzalez,26.0,male,"$58,067.00",57.0,month-to-month,Check,0.0,"$2,851.04",Fiber Optic,no,4.0,06/10/2024,Phoenix,no
+CUST-1440,Sandra Jones,,Male,"$38,377.00",37.0,2-yr,Check,59.59,2208.20,dsl,No internet service,1.0,2022-03-13,New York,False
+CUST-1577,Neha Rodriguez,65.0,MALE,"$74,895.00",15.0,M2M,mailed check,78.05,1172.26,Dsl,No,1.0,14/04/2020,,no
+CUST-2098,  Charles Gonzalez  ,26.0,Female,,-5.0,One Year,Check,50.6,1158.44,DSL,None,5.0,2020-09-20,Chennai,No
+CUST-2492,  Joseph Hernandez  ,39.0,MALE,96186,57.0,Month to Month,Bank Transfer,50.11,"$2,857.05",NONE,1,1.0,11/06/2021,  Delhi  ,No
+CUST-2409,joseph anderson,,F,"$81,548.00",25.0,Two Year,Mailed Check,53.32,1334.37,Fiber,None,3.0,2021-04-13,los angeles,No
+CUST-2339,MARGARET GONZALEZ,59.0,F,"$86,087",61.0,Month-to-Month,,53.82,3278.32,FIBER,N,3.0,10/05/2024,Los Angeles,
+CUST-2383,  Betty Garcia  ,29.0,MALE,"$87,725",64.0,Month to Month,,40.1, ,DSL,TRUE,1.0,03-10-2023,Chennai,False
+CUST-1803,Susan Miller,35.0,male,"$67,202",68.0,m2m,electronic check,45.82,3112.66,No,FALSE,3.0,2023-11-23,London,N
+CUST-1995,Sandra Smith,44.0,MALE,"$122,402",35.0,Month-to-Month,E-Check,0.0,1757.16,dsl,N,5.0,2021-02-01,Los Angeles,0
+CUST-2263,Sarah Rodriguez,43.0,Male,"$2,157,141",44.0,M2M,Electronic Check,55.66,2443.25,no,No internet service,2.0,01/06/2023,Delhi,N
+CUST-1426,  Matthew Hernandez  ,42.0,Male,,-1.0,1-yr,Electronic Check,87.34,"$1,922.81",Fiber,yes,5.0,2024-10-25,  Singapore  ,no
+CUST-1902,Jessica Singh,33.0,Female,"$82,854",37.0,2 year,electronic check,87.64,3249.74,Fiber Optic,None,5.0,02-13-2021,Los Angeles,Y
+CUST-1846,Sarah Brown,32.0,Non-Binary,"$85,799",20.0,1 Year,Bank Transfer,1250.0,24996.74,FIBER,,2.0,2020.03.08,Mumbai,No
+CUST-1412,James Rodriguez,28.0,m,"$86,478",25.0,2-yr,electronic check,48.32, ,fiber optic,yes,1.0,2023-03-01,Delhi,N
+CUST-1768,Thomas Johnson,53.0,Male,"-$19,800",66.0,m2m,Electronic Check,,3298.93,NONE,FALSE,4.0,10-24-2024,London,0
+CUST-1744,Christopher Williams,47.0,M,"$207,614",68.8,Month-to-Month,credit card,117.58,8087.92,fiber optic,No internet service,1.0,02/10/2020,houston,No
+CUST-1290,Michael Williams,37.0,MALE,"$74,640.00",65.0,One Year,Bank Transfer,96.38,6256.99,no,no internet,4.0,2020-06-26,Berlin,False
+CUST-1307,KAREN WILLIAMS,43.0,F,"$59,986.00",57.0,1 year,credit card,54.01,3087.80,No,no internet,9.0,2024-05-26,Chicago,No
+CUST-1528,Pooja Williams,33.0,Non-Binary,"$51,347",14.0,2-yr,Bank Transfer,102.21,"$1,436.53",None,Y,1.0,,Houston,No
+CUST-1529,SUSAN JONES,57.0,other,"$89,713.00",36.0,,E-Check,109.97,"$3,952.14",DSL,TRUE,,01/06/2024,,0
+CUST-1463,Jessica Jones,28.0,male,"$89,988.00",40.0,month-to-month,,94.34,3778.04,Fiber Optic,Y,0.0,2023-05-21,Sydney,no
+CUST-2058,  Mary Davis  ,58.0,female,"$78,370.00",,,E-Check,93.87, ,dsl,No internet service,2.0,2022-05-17,Sydney,N
+CUST-2236,Aarav Iyer,18.0,,74273,68.0,Month to Month,Bank Transfer (automatic),31.2,2129.09,,No internet service,3.0,2023-09-21,  Delhi  ,No
+CUST-1614,  Jennifer Jones  ,54.0,other,"$150,504",42.0,Month to Month,E-Check,,2103.10,NONE,None,1.0,2020-10-03,,no
+CUST-1045,Jennifer Verma,-9.0,f,"$60,761",50.0,2-yr,Bank Transfer,53.07,2656.07,dsl,Y,2.0,16/12/2023,Los Angeles,
+CUST-2291,Thomas Verma,,F,"$36,670",23.0,one-year,Check,83.47,"$1,922.49",DSL,no,2.0,2023-11-17,Mumbai,False
+CUST-1635,vikram iyer,18.0,Non-Binary,"$121,817",8.0,Month to Month,Bank Transfer,106.18,$842.12,FIBER,Yes,3.0,2024-06-09,Bengaluru,Yes
+CUST-2166,Michael Davis,29.0,female,"$98,245",13.0,Month-to-Month,mailed check,59.49,$770.76,Fiber,Yes,4.0,2024-09-15,Chicago,False
+CUST-2145,  Aditya Nair  ,21.0,Non-Binary,"$111,928.00",35.0,Month-to-Month,Mailed Check,41.58,1455.31,Dsl,,2.0,10-12-2023,Mumbai,False
+CUST-2143,John Reddy,59.0,Female,"$94,244",46.0,1 Year,Credit Card,35.99,"$1,663.54",NONE,yes,5.0,2021-01-12,Delhi,yes
+CUST-2188,  Susan Sharma  ,32.0,male,"$80,434.00",3.0,1-yr,Electronic Check,97.48,283.09,None,0,2.0,,Toronto,N
+CUST-1116,Rohit Garcia,73.0,M,"$59,917.00",68.0,M2M,credit card,,3398.91,Dsl,Yes,3.0,2023-02-13,New York,0
+CUST-2189,Michael Williams,42.0,,132883,49.0,m2m,Check,,2459.94,fiber optic,Yes,1.0,11/10/2023,Chicago,Yes
+CUST-2104,Anthony Sharma,54.0,MALE,"$95,849.00",70.0,month-to-month,credit card,62.0,4333.55,dsl,,3.0,07-07-2022,Sydney,Y
+CUST-1983,Mary Wilson,42.0,male,"$142,633",7.0,1 Year,Bank Transfer,32.93,$222.76,NONE,No,1.0,08-03-2022,  Los Angeles  ,0
+CUST-1991,Aarav Miller,58.0,Male,"$113,073",37.0,M2M,E-Check,85.33,3160.30,dsl,1,1.0,06-05-2021,Chennai,False
+CUST-2042,Matthew Johnson,49.0,Female,"$51,898.00",55.0,2-yr,Bank Transfer,35.35,1950.28,DSL,Y,4.0,07/08/2024,Singapore,Yes
+CUST-2204,Sarah Martinez,62.0,female,,,1 Year,E-Check,59.12,1116.37,Dsl,No,4.0,08-13-2021,Delhi,no
+CUST-1680,Robert Verma,35.0,Other,"$94,766.00",43.0,1-yr,E-Check,,"$2,159.75",Dsl,FALSE,5.0,2024.09.28,Sydney,0
+CUST-1079,Jennifer Kumar,19.0,Female,"$61,137",28.0,Month to Month,Credit Card,31.59,890.29,DSL,TRUE,,,Houston,N
+CUST-1299,Christopher Jones,23.0,Non-Binary,"$154,071.00",62.0,1-yr,E-Check,27.7,1721.63,None,no,1.0,,Singapore,0
+CUST-2429,Anthony Miller,21.0,Female,"$68,879",48.0,2-yr,mailed check,38.08,"$1,825.23",Dsl,0,2.0,18/05/2024,New York,0
+CUST-1678,Robert Martinez,55.0,f,"$77,626.00",63.0,1 year,bank transfer,44.33,"$2,792.91",dsl,No internet service,5.0,27/03/2021,Phoenix,1
+CUST-1599,ananya reddy,49.0,Male,"$101,456.00",34.0,1 year,bank transfer,75.61,2571.47,NONE,N,3.0,12-08-2020,Hyderabad,No
+CUST-1333,Arjun Martinez,33.0,female,"$51,384",61.0,m2m,electronic check,66.96,"$4,085.22",,FALSE,5.0,08/08/2020,,False
+CUST-1945,priya verma,37.0,F,140171,70.0,Month to Month,,111.53,"$7,807.72",Fiber Optic,No,5.0,2023-03-28,Mumbai,False
+CUST-1016,Matthew Wilson,33.0,F,"$85,166",50.0,m2m,Bank Transfer,116.82,5849.14,DSL,no,2.0,2020-05-13,Mumbai,False
+CUST-1598,  Anthony Williams  ,39.0,Non-Binary,"$70,614",43.0,1-yr,mailed check,,"$2,142.49",DSL,yes,,2021-08-14,Singapore,N
+CUST-2094,Sneha Rodriguez,51.0,female,"$72,146",53.0,Two Year,Bank Transfer (automatic),72.24,"$3,831.23",DSL,0,3.0,24/06/2024,houston,Y
+CUST-1406,Lisa Johnson,40.0,,"$72,586.00",41.0,Month to Month,bank transfer,99.78,4099.45,Fiber Optic,no,5.0,2022-04-26,singapore,yes
+CUST-2240,James Iyer,,MALE,"$75,511",5.0,1 Year,E-Check,75.3,366.63,Fiber,None,3.0,2022-05-24,,0
+CUST-1494,Michael Jones,44.0,Female,"$48,027",34.0,2 Year,bank transfer,70.49,2398.04,Fiber,N,5.0,01-26-2023,Singapore,Y
+CUST-1354,sandra iyer,60.0,MALE,"$69,547",29.0,M2M,Mailed Check,91.9,"$2,661.60",dsl,N,,13/11/2024,Singapore,no
+CUST-1786,John Reddy,37.0,female,"$146,589.00",34.0,M2M,Credit Card,60.87,2078.66,None,no internet,1.0,,toronto,yes
+CUST-2385,Robert Davis,52.0,M,"$83,121",13.0,2-yr,credit card,104.46,1359.13,FIBER,1,4.0,15/07/2020,London,Yes
+CUST-1535,linda hernandez,40.0,male,"$114,114.00",44.0,,electronic check,1250.0,55006.89,dsl,0,1.0,11-25-2021,,N
+CUST-2359,James Lopez,50.0,Other,"$2,568,010",3.0,,Electronic Check,84.45,$244.58,Fiber Optic,N,2.0,19/05/2020,,N
+CUST-2177,Linda Martinez,32.0,male,"$57,184.00",65.0,1-yr,mailed check,23.72,1544.38,Fiber,no,5.0,04-16-2024,London,Y
+CUST-1567,Joseph Patel,40.0,Other,80241,44.0,Month to Month,Bank Transfer (automatic),31.88,"$1,405.19",fiber optic,1,2.0,,  Bengaluru  ,False
+CUST-2482,William Kumar,36.0,F,97176,2.0,,Bank Transfer (automatic),92.51,186.92,Fiber,yes,4.0,02-06-2021,Mumbai,No
+CUST-2497,Betty Gonzalez,52.0,other,"$79,363",,m2m,Credit Card,0.0,107.56,Fiber Optic,yes,,07-12-2023,Houston,0
+CUST-1433,Elizabeth Smith,40.0,MALE,"$47,345",60.0,Month-to-Month,Electronic Check,111.01,6651.66,FIBER,Y,5.0,2024.08.02,delhi,N
+CUST-1172,  Michael Johnson  ,36.0,MALE,,1.0,2 Year,E-Check,57.73, ,dsl,FALSE,1.0,2024-04-01,Sydney,N
+CUST-1938,Barbara Wilson,33.0,F,"$82,898.00",10.0,m2m,Bank Transfer (automatic),74.08, ,Dsl,Yes,2.0,11-20-2021,houston,0
+CUST-2053,WILLIAM PATEL,36.0,m,"$83,826",,1 year,credit card,47.98,$723.44,NONE,N,4.0,2023-07-20,Bengaluru,0
+CUST-2358,Lisa Davis,43.0,F,"$61,628",52.0,m2m,E-Check,62.1,"$3,232.56",FIBER,no,,invalid_date,toronto,Y
+CUST-2051,Priya Gonzalez,29.0,f,"$114,886.00",6.0,two-year,Bank Transfer,33.88,$201.18,fiber optic,1,2.0,2022-02-24,Berlin,False
+CUST-1245,James Hernandez,48.0,Male,"$130,783.00",54.0,1-yr,E-Check,39.26,"$2,128.82",Fiber,Yes,3.0,07/07/2020,Singapore,yes
+CUST-1057,Aarav Sharma,47.0,male,"$105,955.00",69.0,One Year,Credit Card (automatic),102.47,7061.16,DSL,no internet,1.0,2022-10-20,Phoenix,no
+CUST-2076,Christopher Gonzalez,64.0,F,"$123,394",43.0,,mailed check,111.39,4786.22,dsl,N,2.0,2022-02-06,Singapore,0
+CUST-2449,margaret miller,35.0,other,"$81,971.00",61.0,2 year,Mailed Check,70.22,4286.67,DSL,no,5.0,2022-11-06,  Houston  ,No
+CUST-2301,Aarav Gonzalez,31.0,F,"$55,410.00",50.0,m2m,electronic check,51.43,2581.14,,N,1.0,23/09/2021,Berlin,no
+CUST-2277,Arjun Brown,39.0,,"$110,353",21.0,m2m,mailed check,46.63,,fiber optic,0,3.0,12-20-2021,Hyderabad,False
+CUST-2113,Barbara Johnson,68.0,F,"$2,423,769",71.0,,Credit Card (automatic),61.62,4365.93,fiber optic,No internet service,5.0,2020-04-20,,no
+CUST-1044,Aarav Anderson,38.0,,"$98,330",68.0,Month to Month,Electronic Check,,3405.88,FIBER,No,5.0,2021-12-05,,0
+CUST-1472,Elizabeth Wilson,49.0,Non-Binary,"$108,916",20.0,Month-to-Month,mailed check,21.56,436.19,None,no,5.0,2022.11.08,London,N
+CUST-1880,Sandra Smith,-6.0,F,,27.0,M2M,,66.18,"$1,779.15",fiber optic,no,1.0,2024.03.19,chennai,
+CUST-2019,Michael Davis,30.0,Male,"$68,669",-6.0,month-to-month,Bank Transfer,62.38,504.01,Fiber,N,1.0,2020.07.04,Sydney,yes
+CUST-1498,William Smith,34.0,female,"$89,102",9.0,Two Year,Bank Transfer (automatic),75.53,685.35,No,TRUE,3.0,12/07/2021,Bengaluru,Yes
+CUST-1102,John Reddy,53.0,M,"$55,340.00",46.0,one-year,credit card,28.28,1296.05,DSL,no internet,2.0,2022.04.24,Berlin,Yes
+CUST-2197,James Miller,23.0,MALE,"-$22,644",7.0,2-yr,Credit Card,23.02,$153.07,Fiber,TRUE,4.0,2021.03.12,New York,0
+CUST-2381,Sneha Kumar,71.0,f,"$128,359",31.0,1-yr,Credit Card (automatic),70.58, ,None,Y,2.0,10-23-2024,Houston,no
+CUST-1108,Matthew Singh,19.0,F,"$2,959,974",21.0,M2M,Check,36.67,$767.24,Dsl,No internet service,4.0,,mumbai,0
+CUST-1757,  Thomas Gonzalez  ,38.0,female,"$57,593",22.0,2-yr,Credit Card (automatic),21.38,462.73,dsl,1,1.0,2023-10-08,houston,0
+CUST-1640,Betty Garcia,51.0,m,"$59,551.00",2.0,month-to-month,Bank Transfer (automatic),27.24,$47.98,,FALSE,4.0,2020-03-14,Singapore,1
+CUST-1812,Sarah Verma,57.0,Female,"$79,342.00",47.0,2 Year,credit card,57.58, ,Fiber,TRUE,4.0,05-23-2024,Berlin,0
+CUST-1428,Mary Patel,43.0,FEMALE,"$77,854.00",50.0,2 year,Electronic Check,78.75,3935.05,Fiber,Y,3.0,2021.07.20,London,False
+CUST-1561,Richard Gonzalez,48.0,Non-Binary,"$111,087",46.0,month-to-month,Mailed Check,57.21,"$2,630.19",DSL,1,2.0,2024-12-13,Toronto,
+CUST-2085,Mary Johnson,25.0,MALE,"$116,125",31.0,m2m,,59.96,1854.72,DSL,None,10.0,08-11-2022,Phoenix,no
+CUST-2097,Nancy Rodriguez,57.0,FEMALE,"$63,741",46.0,1 year,Mailed Check,,"$2,294.25",None,TRUE,3.0,09-02-2023,hyderabad,
+CUST-1742,Betty Singh,41.0,,"$76,420",27.0,1 Year,credit card,74.27,"$1,999.70",DSL,Yes,1.0,13/10/2022,Phoenix,False
+CUST-1856,Richard Brown,42.0,FEMALE,"$91,484",72.0,1 Year,Credit Card,31.06,"$2,228.75",,0,2.0,2022-05-13,Chennai,
+CUST-1129,Sneha  Reddy,40.0,m,"$88,946",1.0,m2m,Check,0.0,58.94,no,FALSE,2.0,22/08/2022,New York,no
+CUST-2103,Lisa Brown,46.0,male,"$124,194",39.0,1 year,mailed check,60.53,2362.74,Dsl,Yes,1.0,24/06/2020,Sydney,True
+CUST-1375,Ananya Wilson,52.0,male,,72.0,one-year,credit card,25.2,1807.21,fiber optic,yes,4.0,04-08-2024,phoenix,0
+CUST-2305,Joseph Davis,65.0,Female,"$109,345.00",17.0,M2M,mailed check,,847.93,FIBER,N,3.0,2022-04-27,Mumbai,False
+CUST-1887,david lopez,18.0,female,"$66,486",52.0,Month to Month,Bank Transfer (automatic),22.44,1170.48,None,1,4.0,24/07/2023,Chennai,False
+CUST-1384,Jessica Nair,33.0,Female,"$97,418",7.3,2 year,bank transfer,59.36,426.10,Fiber,TRUE,4.0,09/03/2020,London,0
+CUST-1675,neha miller,34.0,female,"$132,238.00",-5.0,1 year,,51.72,$151.73,FIBER,,3.0,23/10/2023,Hyderabad,
+CUST-2379,mark verma,18.0,FEMALE,"$58,999",,m2m,Bank Transfer,107.32,2368.60,DSL,Y,4.0,2022-03-19,Delhi,N
+,Christopher Verma,53.0,Other,"$60,592",51.0,two-year,Bank Transfer (automatic),70.28,3586.18,DSL,no internet,3.0,2022-03-10,Toronto,False
+CUST-1683,Joseph Hernandez,44.0,FEMALE,,25.0,,Bank Transfer,39.77,$985.47,Dsl,,5.0,01-20-2021,Los Angeles,
+CUST-2048,  Jennifer Kumar  ,26.0,M,,51.0,2-yr,Mailed Check,,2545.03,NONE,Y,2.0,2024-07-19,Toronto,
+CUST-1310,Michael Reddy,63.0,Male,"$145,270.00",16.0,One Year,Mailed Check,108.05,1719.65,NONE,no internet,2.0,2022.09.28,Berlin,yes
+CUST-1248,James Williams,-4.0,M,"$87,521",71.0,two-year,Electronic Check,65.32,4631.67,dsl,TRUE,2.0,2022.08.03,Bengaluru,False
+CUST-2030,  Joseph Smith  ,48.0,FEMALE,"$56,451.00",70.0,Month-to-Month,Check,48.94, ,dsl,yes,5.0,2022-11-13,Bengaluru,N
+CUST-2444,Nancy Rodriguez,25.0,f,107283,65.0,2-yr,Check,86.92,5641.13,Fiber,None,3.0,03-18-2021,mumbai,0
+CUST-1591,Aarav Anderson,37.0,FEMALE,"$77,314",27.0,two-year,Check,56.2,1512.64,Fiber Optic,No,,11/09/2024,Hyderabad,N
+CUST-1033,Lisa Verma,53.0,m,,67.0,Month-to-Month,electronic check,61.23,,dsl,Yes,2.0,09/03/2020,Toronto,False
+CUST-1789,Jennifer Patel,,FEMALE,"$48,955",12.0,M2M,electronic check,105.19,1252.33,Fiber Optic,,2.0,16/09/2021,Los Angeles,False
+CUST-1533,  William Patel  ,18.0,MALE,"$101,932.00",43.0,Month to Month,Credit Card (automatic),36.82,1585.14,Fiber,TRUE,3.0,2020-11-20,Los Angeles,False
+CUST-1627,James Anderson,29.0,MALE,"$81,327.00",27.0,1 Year,Check,79.03,2134.39,No,Yes,5.0,07-19-2024,Toronto,Yes
+CUST-1429,Mary Gonzalez,18.0,,"$117,802",56.0,month-to-month,electronic check,35.4,1985.30,No,no internet,,2021.02.23,Toronto,N
+,JOHN HERNANDEZ,27.0,female,"$85,170",40.6,One Year,bank transfer,81.58,3307.82,Fiber,TRUE,2.0,2024-11-12,delhi,False
+,Mark Brown,49.0,M,"$124,927",27.0,2 year,Bank Transfer (automatic),69.3,"$1,871.43",FIBER,N,3.0,2023.04.07,Mumbai,No
+CUST-1911,JESSICA WILSON,27.0,MALE,"$113,820",62.0,2-yr,Electronic Check,27.36, ,FIBER,yes,4.0,2023-01-04,New York,N
+CUST-2125,PATRICIA JOHNSON,38.0,MALE,"$56,758",1.0,month-to-month,credit card,92.18,$90.96,No,Y,4.0,24/10/2021,,1
+CUST-1931,Margaret Johnson,35.0,,"$50,538",47.0,1 year,electronic check,67.71,3177.81,dsl,TRUE,2.0,25/08/2024,,N
+CUST-1232,Nancy Iyer,42.0,female,"$87,987",,1 year,Bank Transfer (automatic),31.13,371.98,fiber optic,Yes,,14/10/2022,Mumbai,no
+CUST-1552,Patricia Iyer,58.0,female,66640,,2-yr,E-Check,23.07, ,fiber optic,No,3.0,2023.11.28,New York,No
+CUST-2326,Pooja Johnson,29.0,F,"$80,245",29.0,month-to-month,Electronic Check,95.55,2779.18,Fiber,,5.0,2023-12-09,Bengaluru,N
+CUST-1383,Daniel Sharma,18.0,Female,"$119,080",4.0,1 Year,Mailed Check,40.07,161.05,FIBER,1,5.0,unknown,Sydney,no
+CUST-1164,Linda Reddy,48.0,MALE,"$119,300.00",58.8,2 Year,E-Check,27.58,1629.45,DSL,no,3.0,19/10/2023,Berlin,N
+CUST-2443,Nancy Smith,32.0,m,"$115,702",55.4,2 year,,85.87,4761.20,None,no internet,1.0,2022-09-15,london,no
+CUST-1544,Anthony Rodriguez,,Other,"$90,626.00",59.0,m2m,Credit Card (automatic),40.98,2421.50,No,Yes,4.0,2024.01.28,Hyderabad,
+CUST-2286,aarav smith,32.0,Non-Binary,"$107,213",28.0,M2M,,26.04,$722.98,FIBER,FALSE,2.0,2023-02-03,Delhi,
+CUST-1998,Daniel Brown,40.0,Male,"$74,357",38.0,1 Year,Electronic Check,22.67,860.18,Fiber,yes,2.0,07-12-2023,,0
+CUST-1821,Joseph Williams,51.0,M,"$128,289",58.0,m2m,Credit Card,52.61,"$3,047.42",DSL,FALSE,2.0,2020.09.03,Singapore,False
+CUST-2228,Matthew Garcia,21.0,FEMALE,"$107,146",48.0,1 year,mailed check,108.56,,Fiber,No,5.0,08-22-2024,New York,0
+CUST-1193,  Lisa Garcia  ,20.0,FEMALE,"$79,710.00",52.0,One Year,Bank Transfer (automatic),0.0,2596.77,No,TRUE,3.0,10-09-2024,Bengaluru,False
+CUST-2107,Sarah Williams,34.0,m,"$101,646.00",7.0,2-yr,Mailed Check,110.21,$770.09,Dsl,,5.0,12/07/2024,Sydney,No
+CUST-1064,Pooja Kumar,48.0,male,"$94,733.00",16.0,1 Year,credit card,39.0,625.04,Fiber,Y,4.0,2023.02.26,Singapore,Yes
+CUST-2141,Mark Iyer,35.0,m,"$95,899",11.0,2 year,E-Check,82.38,907.90,Fiber,no,3.0,2020-02-20,Delhi,0
+CUST-1904,Jennifer Garcia,135.0,M,"$99,835.00",,,Credit Card,43.85,$915.58,Fiber Optic,1,0.0,2021.05.24,Phoenix,no
+CUST-2091,Jennifer Anderson,61.0,F,"$96,488",51.0,1 year,Electronic Check,83.67,4276.20,dsl,,4.0,2024-01-23,  Phoenix  ,Y
+CUST-1615,Karen Sharma,30.0,MALE,"-$18,429",21.0,Two Year,Bank Transfer (automatic),85.48,"$1,794.14",FIBER,FALSE,4.0,2021.03.09,Chennai,0
+CUST-1479,arjun anderson,31.0,f,"$66,652",70.0,1-yr,mailed check,93.71,6550.16,Dsl,FALSE,1.0,unknown,Bengaluru,No
+CUST-1618,Michael Brown,29.0,male,"$69,711.00",24.0,Month-to-Month,electronic check,,1209.02,None,No,5.0,2023-01-02,Toronto,0
+CUST-2248,nancy anderson,38.0,f,,6.0,M2M,credit card,42.72,256.66,fiber optic,0,2.0,2023-10-26,Mumbai,0
+CUST-1219,Jennifer Verma,32.0,F,,70.0,one-year,Credit Card,117.44,,Fiber,1,1.0,10/08/2020,,no
+CUST-1514,Aditya Martinez,56.0,Non-Binary,"$104,096",49.0,1-yr,bank transfer,79.99,3917.72,fiber optic,,3.0,2022-07-28,  Mumbai  ,N
+CUST-2252,Arjun Miller,55.0,female,"$154,078",15.0,1 year,mailed check,86.52,1303.00,Fiber,0,5.0,2021.08.15,Mumbai,False
+CUST-1974,Anthony Johnson,22.0,other,"$129,515.00",-3.0,M2M,Electronic Check,999.99,5990.81,,no,2.0,2021-10-14,Chicago,0
+CUST-2476,Arjun Martinez,57.0,male,"$116,297",4.0,Month-to-Month,Credit Card (automatic),51.22,$214.18,None,0,2.0,04-10-2021,Houston,no
+CUST-2044,jessica nair,55.0,,"$171,035",17.0,M2M,electronic check,, ,dsl,None,3.0,2020.11.09,Berlin,N
+CUST-2278,  David Smith  ,,f,"$87,890",,Month to Month,electronic check,48.11,245.00,DSL,0,3.0,2022.04.03,Mumbai,No
+CUST-2112,David Nair,,Male,"$141,169.00",56.0,Month to Month,Mailed Check,84.37,"$4,724.71",dsl,Yes,5.0,05-25-2021,New York,0
+CUST-2117,POOJA IYER,28.0,female,"$1,538,198",43.0,m2m,Check,60.48,"$2,601.82",DSL,TRUE,1.0,2023-06-05,Los Angeles,N
+CUST-1967,Jennifer Patel,37.0,,"$1,664,387",69.0,Month-to-Month,bank transfer,112.06,7740.31,No,No,3.0,09-10-2022,Hyderabad,False
+CUST-1893,Robert Lopez,56.0,M,"$55,951",60.0,,Check,21.53,1286.44,fiber optic,Y,1.0,2021-08-22,London,True
+CUST-2342,Matthew Martinez,29.0,f,"$48,573",41.0,Month-to-Month,Credit Card,92.29,3774.44,DSL,No internet service,4.0,2022.01.05,Hyderabad,N
+CUST-1304,  Arjun Sharma  ,71.0,Female,"$107,846",19.0,Month-to-Month,E-Check,61.68,1163.71,Fiber Optic,None,4.0,2024.03.09,Mumbai,N
+CUST-1665,  Vikram Patel  ,30.0,male,"-$17,521",56.0,one-year,credit card,90.76,"$5,073.67",no,Yes,5.0,,Chennai,yes
+CUST-1650,Sandra Kumar,,male,"$70,603",21.0,,bank transfer,114.11,2404.00,Fiber,1,1.0,25/06/2022,delhi,no
+CUST-1483,John Iyer,18.0,,"$184,094.00",35.0,2-yr,Bank Transfer,80.61,"$2,822.73",Fiber,No internet service,3.0,2022-05-09,Delhi,0
+CUST-2207,Lisa Lopez,25.0,m,"$117,775.00",17.0,month-to-month,mailed check,73.59,1255.68,dsl,None,2.0,2022.12.09,,N
+CUST-2395,Sandra Rodriguez,62.0,M,"$114,201",16.0,Two Year,E-Check,0.0,,Dsl,TRUE,1.0,05-17-2020,london,no
+CUST-1501,Mary Kumar,57.0,MALE,"$76,648.00",6.0,1 year,E-Check,63.39,370.95,No,no,4.0,N/A,Los Angeles,1
+CUST-1589,Joseph Lopez,26.0,MALE,42082,60.0,M2M,E-Check,44.56,"$2,675.66",Fiber Optic,Yes,4.0,2020-02-23,Hyderabad,No
+CUST-1292,david hernandez,225.0,,"$93,279",70.0,Two Year,Mailed Check,31.59,2213.93,fiber optic,1,4.0,2022-11-02,london,No
+CUST-2027,Richard Iyer,45.0,FEMALE,"$57,703.00",44.0,m2m,electronic check,29.67, ,fiber optic,,1.0,02/06/2024,Houston,No
+CUST-1278,Arjun Garcia,40.0,female,"$70,237",35.0,2-yr,credit card,97.58,3424.86,fiber optic,TRUE,1.0,2024-07-24,Chicago,True
+CUST-2205,john hernandez,48.0,m,"-$22,629",55.0,M2M,mailed check,99.37,5469.23,Fiber Optic,0,3.0,2021-07-27,London,0
+CUST-1888,James  Verma,40.0,MALE,"$85,967.00",51.0,One Year,E-Check,70.18,3585.57,Fiber,N,3.0,19/01/2022,Houston,yes
+CUST-2044,jessica nair,55.0,,"$171,035",17.0,M2M,electronic check,, ,dsl,None,3.0,2020.11.09,Berlin,N
+CUST-1237,Richard Anderson,53.0,MALE,"$75,960.00",18.0,2-yr,mailed check,22.62,403.89,Fiber,no internet,1.0,2021-08-08,berlin,0
+CUST-2373,Sandra  Nair,47.0,m,"$59,956.00",2.0,M2M,electronic check,98.32,190.69,No,yes,4.0,,  Chennai  ,False
+CUST-2023,Joseph Jones,41.0,FEMALE,"$71,525",14.0,1-yr,E-Check,24.19,329.83,Dsl,N,5.0,2024.09.09,Delhi,no
+CUST-2494,William Nair,49.0,FEMALE,"$81,127",21.0,Two Year,Credit Card,105.42,2208.48,FIBER,N,1.0,07/05/2024,Toronto,Yes
+CUST-2356,Nancy Jones,35.0,female,"$98,754",48.4,2-yr,mailed check,48.9, ,FIBER,1,,05-02-2024,Phoenix,N
+CUST-2074,  Pooja Davis  ,34.0,FEMALE,"$71,878.00",50.0,Month-to-Month,Check,22.55,1129.60,dsl,,2.0,2024-01-08,toronto,Y
+CUST-1209,PATRICIA IYER,53.0,f,"$62,305",23.0,m2m,Electronic Check,96.64,2227.77,FIBER,None,3.0,03-12-2024,Hyderabad,N
+CUST-1773,James Sharma,57.0,f,,40.0,M2M,Mailed Check,110.2, ,None,FALSE,2.0,2022.11.25,hyderabad,no
+CUST-1616,SARAH NAIR,19.0,M,"$131,440.00",,Two Year,Bank Transfer,66.96,327.31,fiber optic,Y,4.0,2024-03-04,London,N
+CUST-2190,Matthew Sharma,31.0,F,"$55,252",55.0,month-to-month,bank transfer,115.23,,fiber optic,FALSE,2.0,2022-11-16,Phoenix,N
+CUST-1059,  Patricia Gupta  ,36.0,m,"$75,127.00",38.0,month-to-month,Electronic Check,64.11,2433.65,None,0,1.0,08-17-2024,chennai,0
+CUST-1343,  Mark Rodriguez  ,60.0,m,117287,,2 Year,E-Check,88.89,"$1,961.51",Dsl,N,9.0,2022-04-15,Hyderabad,1
+CUST-1395,Richard  Miller,38.0,f,"$54,321.00",23.0,M2M,bank transfer,96.88,2226.47,None,FALSE,5.0,2024.12.21,sydney,
+CUST-1454,Michael  Kumar,39.0,male,"$58,765.00",46.0,m2m,Bank Transfer (automatic),104.49,4811.72,dsl,No internet service,1.0,08/03/2024,,0
+CUST-1844,John  Jones,18.0,male,"$84,487",62.0,month-to-month,,56.45,3499.52,FIBER,Y,2.0,2020-02-05,,N
+CUST-2231,Arjun Rodriguez,36.0,female,,41.0,2-yr,Mailed Check,111.64,,FIBER,No internet service,1.0,2021-04-01,Houston,no
+CUST-2055,Jessica Rodriguez,61.0,Non-Binary,"$120,356",68.9,1 Year,Electronic Check,105.73,7284.84,Dsl,0,5.0,09/05/2021,berlin,1
+CUST-2282,Robert Iyer,61.0,m,"$45,674",2.0,2 year,credit card,19.33,41.23,fiber optic,no,3.0,2021-01-08,Singapore,0
+CUST-1381,jessica patel,43.0,,"$98,483.00",57.0,one-year,electronic check,20.58,1179.82,Dsl,yes,5.0,2023.11.19,Toronto,N
+CUST-2461,Sandra Anderson,19.0,Other,"-$9,509",61.0,Month-to-Month,Credit Card (automatic),104.74,6386.12,FIBER,No internet service,4.0,23/12/2020,Mumbai,Yes
+CUST-2340,Matthew Miller,36.0,male,"$87,770.00",16.0,m2m,Credit Card,53.41,847.83,None,yes,5.0,2024.08.28,los angeles,
+CUST-2281,richard nair,55.0,FEMALE,"$45,716.00",70.0,M2M,Check,62.02,,NONE,Y,4.0,15/05/2023,  Chicago  ,Y
+CUST-2193,william garcia,20.0,,"$115,302",61.0,M2M,E-Check,29.01,1779.29,dsl,No internet service,2.0,04/04/2020,Hyderabad,Yes
+CUST-1868,Karen Jones,35.0,f,,13.0,Month-to-Month,Electronic Check,115.17,1498.67,fiber optic,yes,3.0,12-08-2021,Sydney,0
+CUST-1746,Sandra Singh,28.0,female,"$93,800",12.0,,E-Check,86.1,1023.37,DSL,0,2.0,2020.09.19,Chicago,False
+CUST-1234,james iyer,39.0,F,88833,49.0,month-to-month,Credit Card (automatic),25.89, ,Fiber,1,3.0,2020-01-07,Berlin,no
+CUST-2312,sneha sharma,64.0,M,"$110,201.00",27.0,2 year,electronic check,108.08,2923.54,FIBER,None,4.0,2022-07-26,Hyderabad,0
+CUST-1197,Mary Hernandez,43.0,FEMALE,"$2,915,811",64.0,1-yr,electronic check,62.21,3988.39,None,Yes,5.0,04-20-2023,Singapore,1
+CUST-2191,JAMES NAIR,,FEMALE,"$88,147",9.0,1 year,electronic check,,446.59,dsl,Yes,5.0,06-23-2022,Delhi,no
+CUST-2303,Sarah Hernandez,56.0,Male,"$73,709",21.0,1-yr,Credit Card,27.56,580.98,Fiber Optic,1,5.0,11/04/2020,Chennai,
+CUST-1082,Karen Miller,44.0,female,"$63,794.00",50.0,m2m,Bank Transfer (automatic),116.51,"$5,834.18",NONE,yes,1.0,,berlin,0
+CUST-2451,John Martinez,70.0,m,"$118,815",24.0,one-year,Electronic Check,89.33,2149.54,No,TRUE,2.0,2022.01.08,Singapore,N
+CUST-1669,  Jessica Iyer  ,53.0,,"$83,007",59.0,2 year,Check,104.46,6169.63,,0,2.0,2023.06.27,London,0
+CUST-2394,RICHARD NAIR,35.0,,"$54,063.00",42.0,2 year,Credit Card,97.77,4112.72,Fiber Optic,TRUE,1.0,2021.01.12,Bengaluru,no
+CUST-1112,Sneha Wilson,18.0,F,"$58,991",14.0,M2M,Bank Transfer,57.06,807.16,Fiber,no internet,2.0,2023.10.23,Singapore,0
+CUST-2320,Thomas  Anderson,38.0,FEMALE,"$76,078.00",68.0,Month-to-Month,Electronic Check,82.12, ,no,No,2.0,2023-04-22,,No
+CUST-1830,  Sandra Smith  ,,MALE,80758,4.0,1-yr,Electronic Check,,193.09,fiber optic,yes,4.0,19/05/2020,Delhi,No
+CUST-2310,Rohit Williams,30.0,other,"$116,523.00",32.0,1-yr,Bank Transfer,80.5,"$2,580.70",Dsl,No internet service,1.0,11-11-2022,mumbai,1
+CUST-2000,Betty Reddy,40.0,M,"$80,200",21.0,Two Year,electronic check,33.75,708.87,FIBER,1,1.0,2024-03-15,Los Angeles,N
+CUST-2309,Patricia Davis,58.0,FEMALE,"$107,522",7.0,M2M,credit card,89.21,626.50,dsl,no internet,3.0,06-21-2021,Chicago,No
+CUST-2313,pooja martinez,,Female,"$155,394.00",57.0,one-year,bank transfer,20.02,"$1,137.94",None,0,1.0,18/10/2024,London,False
+CUST-1693,John Reddy,56.0,FEMALE,"$80,457.00",39.0,2-yr,Check,59.8,"$2,338.40",DSL,no internet,4.0,03/01/2022,Chennai,no
+CUST-1311,Aditya Hernandez,18.0,male,"$53,772",62.0,m2m,Bank Transfer (automatic),111.47,"$6,911.65",Fiber,FALSE,,2020-12-06,Delhi,no
+CUST-1630,Barbara Brown,58.0,,"$104,566.00",53.0,2 year,Bank Transfer (automatic),999.99,52997.42,FIBER,No,1.0,2021.02.13,sydney,No
+CUST-1430,Charles Jones,53.0,Other,"$54,831",,2 year,,97.12,2324.40,None,yes,1.0,02-09-2020,Los Angeles,no
+CUST-1571,Robert Anderson,55.0,Female,"$47,922.00",33.0,one-year,Check,95.12,"$3,132.41",dsl,no,4.0,2021-03-01,chicago,Y
+CUST-1890,anthony rodriguez,31.0,other,"$74,630",38.0,one-year,credit card,111.45,"$4,236.06",DSL,no internet,3.0,2024-12-18,New York,No
+CUST-2327,Neha Gonzalez,51.0,FEMALE,"$59,566",60.0,Month to Month,Bank Transfer (automatic),48.28,2895.89,No,N,4.0,11-11-2022,Delhi,N
+CUST-1367,Christopher Patel,18.0,f,"$100,344.00",25.0,two-year,Electronic Check,,1256.89,DSL,Y,2.0,06/05/2021,Berlin,
+CUST-1959,John Singh,55.0,F,"$117,988",72.0,1 year,Bank Transfer,82.83,"$5,971.31",no,Yes,4.0,2024-01-12,Toronto,no
+CUST-1672,robert miller,57.0,male,,34.0,1-yr,E-Check,89.61,"$2,995.09",DSL,No,5.0,13/09/2024,Phoenix,Y
+CUST-2392,linda lopez,18.0,Female,"$91,146",56.0,1-yr,bank transfer,104.56,5859.13,,0,3.0,2023.05.18,  Mumbai  ,no
+CUST-2380,thomas smith,25.0,f,"$75,074.00",46.0,m2m,bank transfer,36.67, ,dsl,,3.0,12/07/2023,Houston,No
+CUST-1900,Pooja Gupta,41.0,Male,"$114,231",42.0,Month-to-Month,E-Check,,2094.90,DSL,0,4.0,2021-09-08,chennai,0
+CUST-1486,Lisa Miller,180.0,female,"$97,923",23.0,month-to-month,Bank Transfer,113.8,,dsl,No internet service,,2024-05-28,sydney,No
+CUST-1539,  Anthony Gupta  ,53.0,f,"$76,941",2.0,Month-to-Month,electronic check,98.16,186.45,FIBER,1,5.0,28/06/2023,Chicago,no
+CUST-1482,Mark Williams,73.0,Non-Binary,"$51,674",24.0,,Bank Transfer,26.32,636.07,Dsl,FALSE,5.0,17/07/2024,Singapore,False
+CUST-1907,  Aarav Martinez  ,30.0,,"$90,199",32.0,Month to Month,mailed check,,1595.12,dsl,,4.0,2022-12-05,  Delhi  ,no
+CUST-1621,Matthew Rodriguez,49.0,FEMALE,"$85,120",54.0,One Year,Credit Card (automatic),47.25, ,Dsl,Y,5.0,01-06-2020,Phoenix,True
+CUST-1719,Charles Singh,46.0,male,"$158,185",13.0,2-yr,E-Check,64.03,834.97,fiber optic,,3.0,09-21-2023,,False
+CUST-1723,jessica miller,39.0,f,"$80,359",11.0,M2M,Credit Card (automatic),41.19,$461.32,fiber optic,None,1.0,04/03/2023,chennai,Y
+CUST-2421,Rohit Hernandez,62.0,Non-Binary,"$107,576.00",10.0,2 year,mailed check,59.2,584.76,no,N,1.0,2022-04-22,chennai,False
+CUST-2317,  Priya Martinez  ,36.0,other,"$39,974",,Month to Month,E-Check,58.38,298.93,no,no internet,4.0,02/07/2020,Houston,0
+CUST-1255,Jennifer Martinez,18.0,Non-Binary,"$141,827",48.0,month-to-month,E-Check,29.07,1385.94,FIBER,no,4.0,2020.11.05,delhi,no
+CUST-1323,Aditya Iyer,48.0,f,"$106,001.00",41.0,M2M,Electronic Check,98.6,4037.22,None,TRUE,3.0,2024.09.03,Chennai,yes
+CUST-2129,David Nair,,MALE,"$93,292",55.8,M2M,Check,62.01,3468.83,dsl,TRUE,,2023-11-06,mumbai,0
+CUST-1452,margaret anderson,36.0,FEMALE,"$97,503",21.4,month-to-month,Mailed Check,94.95, ,dsl,FALSE,3.0,2023-07-09,berlin,False
+CUST-2440,  David Lopez  ,67.0,m,"$197,950",63.0,month-to-month,Electronic Check,55.03,"$3,463.84",dsl,no internet,1.0,2024.03.20,chennai,0
+CUST-2369,William Garcia,,f,108092,,Month to Month,mailed check,106.97,1290.71,Fiber Optic,No internet service,4.0,2022.04.20,hyderabad,1
+CUST-2180,Arjun Gupta,41.0,f,"$40,399",43.0,m2m,Bank Transfer (automatic),34.27,1468.13,FIBER,yes,2.0,2020-03-23,Hyderabad,No
+CUST-2134,Thomas Kumar,38.0,FEMALE,"$65,255.00",63.0,2 year,Bank Transfer (automatic),,3152.47,FIBER,Yes,3.0,2020-09-13,Berlin,no
+CUST-1906,lisa garcia,18.0,m,"$100,331",28.0,m2m,credit card,39.24,1091.75,NONE,N,1.0,2023.02.01,  Hyderabad  ,1
+CUST-1491,Aarav  Anderson,32.0,male,"$48,134",5.0,M2M,E-Check,56.84,$279.02,fiber optic,No,2.0,2020-08-22,Toronto,no
+CUST-1087,  Jennifer Reddy  ,48.0,Female,"$134,415",17.0,Month to Month,Credit Card,92.22,"$1,563.18",Fiber Optic,yes,3.0,2023-02-18,Delhi,yes
+CUST-2468,Sneha Sharma,,M,,49.0,Month-to-Month,electronic check,45.93,2253.01,Dsl,Yes,4.0,2022-09-01,Houston,0
+CUST-1366,  Robert Kumar  ,135.0,f,"$96,270",25.0,2 Year,Bank Transfer,106.77,"$2,672.26",dsl,FALSE,4.0,01/05/2024,New York,yes
+CUST-1266,Betty Smith,18.0,FEMALE,"$78,624.00",68.0,One Year,Bank Transfer (automatic),106.91,"$7,264.38",no,no internet,2.0,2022.02.11,Hyderabad,True
+CUST-1288,  Arjun Miller  ,25.0,female,"$70,719.00",41.0,,Credit Card (automatic),50.22,"$2,062.50",dsl,No internet service,5.0,01-07-2020,Toronto,N
+CUST-1805,Aarav Iyer,40.0,MALE,"$93,361.00",44.0,M2M,Bank Transfer (automatic),24.98,"$1,096.53",dsl,Y,2.0,2022-04-22,Chennai,no
+CUST-1359,  Lisa Gupta  ,35.0,other,,69.0,2 year,Credit Card (automatic),70.93,"$4,900.12",None,TRUE,5.0,2022-09-09,Singapore,Y
+CUST-1480,James Gonzalez,142.0,male,"$179,873",47.0,,electronic check,87.35,"$4,098.46",DSL,1,5.0,25/08/2023,,N
+CUST-2186,Christopher Smith,34.0,female,"$2,949,195",61.0,Two Year,credit card,82.74,5052.94,DSL,None,1.0,14/09/2023,Mumbai,1
+CUST-1918,Sandra Singh,45.0,m,"$3,028,320",9.0,2 Year,credit card,97.74,888.31,Dsl,TRUE,3.0,2023-05-09,Los Angeles,1
+CUST-2325,Neha Iyer,75.0,MALE,"$91,451.00",60.0,Month-to-Month,Bank Transfer,42.7,2557.72,DSL,1,3.0,01/08/2024,Chicago,no
+CUST-1860,Thomas Brown,41.0,m,"$70,057.00",,2 Year,Electronic Check,96.85,"$2,228.98",Fiber,1,4.0,2023-02-06,Delhi,N
+CUST-1222,LISA MARTINEZ,,m,"$147,577.00",24.0,2 Year,,25.27, ,dsl,N,4.0,2024-03-25,Sydney,N
+CUST-1114,Charles Miller,,Female,"$72,908.00",72.0,M2M,bank transfer,85.12,6126.39,no,No internet service,,2022.04.20,Delhi,N
+,Richard Gonzalez,61.0,M,"$64,354.00",56.0,Month-to-Month,Mailed Check,115.29,"$6,451.73",DSL,yes,4.0,2021.01.12,,yes
+CUST-1619,  Patricia Williams  ,43.0,Other,159341,64.0,1 year,credit card,23.07,1484.17,None,N,5.0,2020-12-17,Phoenix,N
+CUST-1175,  Neha Davis  ,19.0,MALE,"$132,093.00",28.0,2 year,Electronic Check,32.66,918.41,Fiber Optic,1,2.0,,Los Angeles,True
+CUST-2405,Mary Verma,32.0,Female,,64.0,1-yr,Electronic Check,67.36,"$4,311.22",fiber optic,yes,4.0,10/05/2020,Toronto,False
+CUST-1568,Lisa Smith,64.0,f,"$62,286.00",8.0,Month to Month,Electronic Check,35.85,288.43,None,yes,2.0,2020-03-18,Sydney,No
+CUST-2203,Rohit Rodriguez,35.0,female,"$100,487.00",24.0,Month to Month,E-Check,37.07,$881.03,DSL,None,3.0,12-20-2023,Chennai,No
+CUST-2241,Betty Jones,43.0,F,"$93,734",24.0,two-year,E-Check,69.27,1666.21,fiber optic,TRUE,3.0,,London,No
+CUST-1019,Mark Davis,51.0,female,,24.0,Month to Month,Bank Transfer,78.26,1879.36,fiber optic,FALSE,2.0,23/11/2023,Los Angeles,1
+CUST-2038,Anthony Patel,54.0,Male,"$117,233.00",52.0,m2m,Bank Transfer,100.35,5215.90,dsl,,1.0,2024.11.24,Chicago,no
+CUST-1286,  Sandra Gupta  ,58.0,FEMALE,"$1,878,060",51.0,two-year,Mailed Check,118.39,6041.94,Fiber Optic,FALSE,2.0,2022.10.02,New York,False
+CUST-1924,Anthony Nair,31.0,F,"$68,872",46.0,one-year,bank transfer,32.52,"$1,503.02",DSL,1,1.0,23/04/2021,  Toronto  ,0
+CUST-2426,  Robert Garcia  ,36.0,f,"$127,939",58.0,M2M,Mailed Check,45.85,"$2,652.69",DSL,FALSE,4.0,2022.12.23,Phoenix,No
+CUST-2237,Nancy Gonzalez,45.0,female,"$164,200",15.0,M2M,Electronic Check,22.41,338.48,Fiber,no internet,4.0,2022-01-25,Phoenix,1
+CUST-1032,  Arjun Smith  ,42.0,other,"$76,701.00",30.0,month-to-month,bank transfer,,"$1,492.89",fiber optic,Yes,3.0,,Chicago,False
+CUST-1586,Thomas Jones,61.0,male,"$156,255.00",48.0,Month-to-Month,Mailed Check,109.74,5266.24,FIBER,no,2.0,2020-10-01,London,N
+CUST-1211,Sandra Gupta,48.0,m,"-$21,496",,1 Year,Electronic Check,23.04,525.87,Dsl,Y,2.0,03-03-2021,Singapore,
+,  Mark Patel  ,41.0,MALE,"$117,365",66.0,2-yr,Check,61.82,4081.91,None,no,2.0,2022-08-04,Delhi,yes
+CUST-1215,Anthony  Sharma,31.0,,,46.0,one-year,credit card,, ,fiber optic,yes,3.0,2022.01.25,Chicago,No
+CUST-1383,Daniel Sharma,18.0,Female,"$119,080",4.0,1 Year,Mailed Check,40.07,161.05,FIBER,1,5.0,unknown,Sydney,no
+CUST-1863,Joseph Kumar,49.0,f,56588,45.0,month-to-month,electronic check,27.06, ,dsl,no internet,,2024.07.05,London,Y
+CUST-1835,Aarav Sharma,180.0,m,,56.0,two-year,Bank Transfer,42.19,"$2,353.49",DSL,No,4.0,02-28-2023,Chicago,N
+CUST-2168,Rohit Kumar,50.0,f,"$75,021.00",15.0,2 Year,mailed check,67.13,$997.37,DSL,1,3.0,05-06-2021,New York,No
+CUST-1416,Betty Davis,66.0,Female,"$96,767.00",25.0,1 year,Bank Transfer,25.74,638.34,No,No internet service,,2020-05-04,london,Yes
+CUST-2463,Betty Hernandez,49.0,FEMALE,"$82,140.00",27.3,Two Year,electronic check,118.65,"$3,246.93",NONE,Y,4.0,2023-12-28,  Toronto  ,True
+CUST-1189,Pooja Lopez,,female,"$101,219",21.0,month-to-month,Mailed Check,74.51,1573.76,Dsl,No,1.0,01/03/2020,mumbai,0
+CUST-1421,sneha johnson,35.0,MALE,,,Two Year,mailed check,19.39,$93.34,DSL,TRUE,2.0,13/03/2020,Singapore,1
+CUST-2126,Michael Sharma,49.0,M,"$80,426",45.0,Month-to-Month,Mailed Check,50.44,2268.22,FIBER,,4.0,,chennai,No
+CUST-2329,Michael Martinez,45.0,Male,"$128,007.00",41.0,1-yr,Check,,,DSL,TRUE,1.0,21/07/2022,  Singapore  ,False
+CUST-1148,Charles  Smith,30.0,MALE,,69.0,M2M,mailed check,80.96,5590.14,Fiber Optic,Yes,5.0,01-15-2022,,N
+CUST-1423,Robert Wilson,33.0,F,"$84,599",36.0,Month to Month,E-Check,110.66,3983.16,Dsl,0,5.0,26/11/2024,Los Angeles,0
+CUST-2210,  Barbara Lopez  ,32.0,MALE,"$63,168.00",27.0,Month-to-Month,,0.0,1357.00,DSL,TRUE,2.0,10-28-2023,  Phoenix  ,
+,James Garcia,53.0,female,"$123,174",35.0,One Year,Bank Transfer (automatic),61.54,2149.16,dsl,N,,2024-03-12,Berlin,1
+CUST-1713,James Garcia,33.0,Female,"$82,633",59.0,2-yr,electronic check,26.03,1530.03,no,N,2.0,08/02/2024,New York,No
+CUST-1049,Karen Garcia,45.0,female,"$96,159",18.0,m2m,,55.48,999.67,Fiber,TRUE,4.0,2024.02.05,Delhi,1
+CUST-2152,Thomas Rodriguez,-4.0,m,"$83,098",38.0,Month to Month,Electronic Check,100.43,3821.22,FIBER,no,4.0,04/09/2021,New York,True
+CUST-1156,DAVID GUPTA,54.0,f,"$88,332",47.0,Two Year,Bank Transfer,56.49, ,Fiber Optic,yes,3.0,14/09/2022,chennai,0
+CUST-2106,Mary Miller,41.0,Non-Binary,"$154,755",24.0,Month-to-Month,Mailed Check,98.35,2364.88,fiber optic,None,5.0,2020-07-06,  Phoenix  ,N
+CUST-2178,Vikram Sharma,,FEMALE,"$111,429.00",57.0,Two Year,Bank Transfer (automatic),95.28,"$5,435.09",fiber optic,Y,5.0,2023-05-01,bengaluru,no
+CUST-1782,Priya Wilson,40.0,Non-Binary,"$94,177.00",32.0,1-yr,Check,74.57, ,Fiber,no,,invalid_date,Chennai,0
+CUST-2088,  Margaret Davis  ,27.0,female,"$49,197",24.0,Month to Month,bank transfer,0.0,1194.70,Fiber,Yes,4.0,25/02/2021,Hyderabad,No
+CUST-2150,david jones,37.0,other,"$114,372.00",56.0,month-to-month,bank transfer,90.03,"$5,036.14",NONE,FALSE,2.0,21/10/2022,Chicago,False
+CUST-2271,  Thomas Garcia  ,18.0,Female,,61.0,month-to-month,Check,107.79,,FIBER,TRUE,1.0,01-05-2021,Los Angeles,No
+CUST-1940,Linda Gonzalez,25.0,other,"$57,689",53.0,2 year,bank transfer,109.43,5805.88,FIBER,N,3.0,01/07/2020,Toronto,False
+CUST-1814,Vikram Gupta,68.0,M,"$78,300",3.0,one-year,,83.47,$254.21,NONE,No,3.0,2023-02-09,New York,no
+CUST-1180,Jennifer Smith,34.0,f,"$75,517",18.0,2 Year,electronic check,89.07, ,dsl,no internet,3.0,2023.05.23,Sydney,N
+CUST-1984,Barbara Davis,32.0,F,"$43,893.00",35.0,1 year,Bank Transfer (automatic),60.46,2107.22,fiber optic,None,1.0,2021-05-06,Toronto,N
+CUST-2289,vikram anderson,30.0,Female,"$30,955",7.1,month-to-month,bank transfer,70.64,$497.65,fiber optic,Yes,4.0,2022-08-14,Delhi,No
+CUST-1178,Elizabeth Miller,55.0,M,"$90,486",35.0,month-to-month,,48.13,,dsl,Y,3.0,03-26-2024,Berlin,No
+CUST-1549,william williams,41.0,,"$87,302",40.0,1-yr,electronic check,50.89,2037.11,None,yes,,2022-03-08,Los Angeles,N
+CUST-1870,JESSICA SMITH,62.0,f,"$64,905.00",16.0,2 Year,electronic check,31.66,514.42,Dsl,N,2.0,06-24-2020,Delhi,No
+CUST-1364,PRIYA DAVIS,18.0,Male,,69.0,Month to Month,Electronic Check,25.92,1793.13,no,0,9.0,10-18-2022,Hyderabad,Yes
+CUST-1427,Matthew Miller,,m,"$71,290.00",13.0,m2m,electronic check,107.91,"$1,398.42",dsl,0,4.0,04-04-2021,Delhi,0
+CUST-2217,Nancy Rodriguez,44.0,Other,131862,35.0,M2M,Bank Transfer,26.87,$944.67,dsl,Yes,2.0,04/12/2020,Berlin,No
+CUST-1609,Mary Smith,50.0,FEMALE,"$50,562.00",,1 year,Credit Card (automatic),60.72, ,DSL,yes,2.0,04-15-2023,Hyderabad,0
+CUST-1347,Lisa  Lopez,28.0,FEMALE,"$42,565.00",28.0,Month-to-Month,E-Check,33.61,944.59,FIBER,TRUE,1.0,02-12-2023,Singapore,yes
+CUST-2075,Anthony Nair,45.0,f,"$92,150",51.0,,Mailed Check,27.23,,FIBER,yes,3.0,2020.09.01,Phoenix,0
+CUST-1915,Anthony Garcia,47.0,m,"$109,397.00",46.0,M2M,Bank Transfer,47.94,2214.86,Dsl,N,2.0,06/06/2023,Los Angeles,No
+CUST-1590,Rohit Patel,49.0,female,"$89,902",2.0,M2M,mailed check,49.92,103.67,None,None,5.0,17/02/2020,Bengaluru,True
+CUST-1899,Sandra Davis,49.0,Non-Binary,"$167,633",36.0,1-yr,Bank Transfer,41.38,1483.25,None,1,5.0,,Bengaluru,N
+CUST-2336,Susan Gupta,44.0,M,"$106,900.00",48.0,2 Year,Check,45.42,"$2,184.74",Fiber Optic,yes,2.0,2022-12-06,London,
+CUST-2212,Margaret Iyer,33.0,female,"$83,456.00",37.0,2 year,mailed check,90.63,3355.87,fiber optic,,2.0,2023-08-26,Delhi,N
+CUST-1911,JESSICA WILSON,27.0,MALE,"$113,820",62.0,2-yr,Electronic Check,27.36, ,FIBER,yes,4.0,2023-01-04,New York,N
+CUST-1671,Anthony Brown,35.0,MALE,,,month-to-month,Bank Transfer,,147.32,fiber optic,No,1.0,2023-08-26,Mumbai,no
+CUST-1244,  Barbara Martinez  ,20.0,Male,"$126,388",28.0,1 year,E-Check,,1400.46,DSL,Y,5.0,2020-01-25,Houston,True
+CUST-1190,Nancy Garcia,,F,"$2,955,935",30.0,month-to-month,Electronic Check,94.99,,,FALSE,,01-26-2020,delhi,Yes
+CUST-1576,James Johnson,30.0,Non-Binary,"$88,051.00",42.0,2 Year,Bank Transfer,58.53,2463.17,DSL,yes,2.0,invalid_date,,No
+CUST-1655,sandra lopez,33.0,other,91588,,1 Year,,47.94,246.59,Fiber,TRUE,1.0,2024-08-26,london,True
+CUST-1813,  William Gupta  ,49.0,Female,"$30,651.00",49.0,Month-to-Month,Check,99.3,4862.36,Fiber,N,3.0,2023-06-23,Singapore,1
+CUST-2035,William Reddy,35.0,Non-Binary,146225,57.0,Two Year,Bank Transfer (automatic),21.0,1194.55,DSL,No internet service,3.0,2024.02.24,Phoenix,False
+CUST-1737,Robert Sharma,43.0,Non-Binary,"$72,920.00",70.0,Month to Month,mailed check,73.18,5131.64,Dsl,0,2.0,2023-07-22,Sydney,Y
+CUST-1436,Sandra Hernandez,46.0,Non-Binary,66714,42.0,1 year,mailed check,96.52,4060.14,Fiber,FALSE,,2024.05.26,Chicago,yes
+CUST-2467,Ananya Smith,37.0,m,"$72,024",29.0,one-year,Bank Transfer,83.23,"$2,416.01",fiber optic,Yes,,12-05-2020,Sydney,N
+CUST-2285,aarav miller,39.0,Male,"$68,745.00",6.0,m2m,bank transfer,29.45,$167.96,FIBER,yes,5.0,08-13-2024,London,No
+CUST-1309,neha singh,-3.0,Female,"$109,527",2.8,1 Year,,59.06,171.77,Dsl,0,2.0,03-05-2020,Chicago,True
+CUST-1431,Barbara Davis,20.0,male,"$48,567",8.0,month-to-month,,31.76,260.77,fiber optic,No,2.0,2024.01.03,Phoenix,False
+,Rohit Sharma,50.0,M,34484,56.0,1 year,Bank Transfer (automatic),106.87,5987.39,Fiber Optic,no internet,,2021-02-03,,True
+CUST-1399,John Singh,49.0,m,"$91,458.00",45.0,1 year,electronic check,110.06,4944.40,Fiber Optic,,1.0,2021-02-06,  Sydney  ,Yes
+CUST-1424,THOMAS IYER,70.0,m,"$60,978.00",25.0,Month to Month,electronic check,59.76,1492.48,DSL,None,3.0,2024-09-11,Hyderabad,no
+CUST-1371,Robert Brown,31.0,m,100971,,Month to Month,E-Check,114.43,457.28,None,1,2.0,11-03-2021,Phoenix,yes
+CUST-1055,  Patricia Singh  ,33.0,MALE,"$85,610",69.0,Month to Month,bank transfer,99.07,6835.51,Fiber,Y,2.0,2023-06-16,Sydney,0
+CUST-1810,Mary Gupta,36.0,Male,"$103,618",35.0,1 Year,Check,113.15,3963.85,DSL,N,2.0,14/10/2024,Mumbai,no
+CUST-1592,Jennifer Patel,22.0,male,"$117,018",66.0,2-yr,bank transfer,64.4,4243.81,FIBER,1,5.0,2021-09-24,chicago,0
+CUST-2319,Sarah Sharma,35.0,Female,"$41,221.00",28.0,1 Year,Check,58.82,1652.38,fiber optic,yes,,,new york,True
+CUST-1313,  Michael Miller  ,43.0,,50846,68.0,month-to-month,mailed check,54.24,3695.39,FIBER,None,,2024-05-04,  Chennai  ,N
+CUST-2332,Richard Smith,-9.0,MALE,"$129,296",60.0,m2m,electronic check,53.43,3197.16,dsl,,2.0,05/12/2023,Singapore,no
+CUST-2079,  Richard Anderson  ,32.0,male,"$59,342.00",65.0,,E-Check,0.0,,NONE,,2.0,2020-09-27,Hyderabad,False
+,Mark Reddy,31.0,Male,"$78,413.00",5.0,One Year,credit card,82.41,413.30,dsl,Yes,4.0,25/09/2022,London,yes
+,Richard Smith,51.0,f,"$92,888.00",35.0,Two Year,Electronic Check,94.69,"$3,314.30",Dsl,0,2.0,07-10-2021,Singapore,
+CUST-2028,Neha Sharma,29.0,Male,"$39,566.00",21.0,1 Year,Bank Transfer,101.65,2135.16,DSL,FALSE,1.0,21/11/2024,sydney,N
+CUST-1101,Susan  Anderson,48.0,f,"$2,572,722",48.0,1 year,Bank Transfer,66.79,3201.45,Fiber,1,1.0,2024-07-22,New York,True
+CUST-2280,Charles Brown,35.0,,"$66,930",26.0,One Year,E-Check,1250.0,"$32,493.73",dsl,no internet,1.0,2020.07.08,New York,0
+CUST-1711,Patricia Williams,56.0,Male,"$81,759.00",37.0,1 year,Bank Transfer (automatic),23.27,$868.97,None,FALSE,1.0,09-02-2023,Chennai,yes
+CUST-2422,Priya Anderson,21.0,Other,"$69,663",39.0,Month-to-Month,bank transfer,37.73,1474.83,DSL,no internet,1.0,,Berlin,No
+CUST-1267,Susan Smith,49.0,male,"$75,695.00",60.0,2 Year,,,"$2,995.97",fiber optic,Yes,4.0,17/02/2021,  Los Angeles  ,N
+CUST-2458,ARJUN NAIR,67.0,f,"$54,888",53.0,month-to-month,bank transfer,108.04,5719.88,FIBER,0,1.0,2022.01.27,Houston,No
+CUST-1297,David  Nair,18.0,female,,1.0,2-yr,electronic check,,50.55,,FALSE,3.0,unknown,New York,No
+CUST-1562,Linda Garcia,40.0,FEMALE,80202,68.0,1 year,Credit Card,53.46,"$3,638.43",no,no internet,3.0,2022.02.26,Bengaluru,1
+CUST-1462,patricia wilson,67.0,other,"$103,319",68.0,Month-to-Month,Electronic Check,105.24,7156.89,No,Y,2.0,2024.08.16,Houston,No
+CUST-2005,lisa reddy,50.0,f,"$96,809.00",40.0,One Year,electronic check,118.42, ,DSL,0,3.0,22/05/2024,Berlin,0
+CUST-2404,Pooja Hernandez,68.0,MALE,"$89,833",8.0,2 Year,E-Check,110.97,881.40,fiber optic,N,5.0,12-10-2024,  Singapore  ,1
+CUST-2011,Patricia Kumar,47.0,M,"$87,657.00",60.0,Month-to-Month,Mailed Check,98.77,5931.37,Dsl,FALSE,4.0,N/A,london,0
+CUST-1378,Michael Reddy,71.0,Male,"$3,102,288",54.0,Two Year,electronic check,75.98,4111.72,dsl,No,2.0,2020-11-11,sydney,N
+CUST-1287,Susan Smith,51.0,M,"-$7,269",11.0,m2m,credit card,108.03,1179.40,Fiber,Y,4.0,09-23-2023,Bengaluru,No
+CUST-2487,SANDRA IYER,51.0,FEMALE,"$73,142",38.0,2-yr,credit card,58.74,2225.62,None,no,,12/12/2023,  Bengaluru  ,no
+CUST-2162,Nancy Singh,52.0,f,"$87,395",41.0,2 year,Mailed Check,69.01,2835.09,,,1.0,2020-05-03,Toronto,No
+CUST-1127,Karen  Reddy,49.0,Female,"$103,480",21.0,M2M,mailed check,80.06,1672.30,DSL,no internet,4.0,2020-02-09,New York,0
+CUST-1328,  Joseph Kumar  ,18.0,MALE,"$113,345.00",41.0,Two Year,Check,50.33,2066.75,,No,5.0,2023-04-22,Delhi,yes
+CUST-1293,  Arjun Brown  ,31.0,Other,,27.0,m2m,Bank Transfer,0.0,1341.53,Fiber,FALSE,2.0,01-06-2022,singapore,N
+CUST-1583,Sandra Verma,59.0,m,76052,69.0,,Electronic Check,35.21,2435.61,fiber optic,Yes,2.0,13/01/2023,berlin,no
+CUST-1808,Vikram Hernandez,18.0,male,"$122,759.00",45.0,1 year,Bank Transfer,78.43,3526.59,dsl,,5.0,2022-11-21,Chicago,N
+CUST-1523,  James Smith  ,31.0,FEMALE,"$3,408,493",,2 year,bank transfer,86.34,$335.58,Fiber,Yes,2.0,11/05/2024,Los Angeles,N
+CUST-1356,Mark Sharma,,Female,"$74,593.00",55.0,Two Year,electronic check,76.63,4219.09,DSL,no internet,1.0,N/A,Houston,N
+CUST-2245,  Robert Smith  ,57.0,female,"$72,249.00",9.0,Month to Month,Electronic Check,60.97,557.94,DSL,1,,12/11/2022,Los Angeles,N
+CUST-2261,Ananya Kumar,25.0,Male,"$107,200.00",42.0,one-year,Electronic Check,, ,Fiber Optic,0,1.0,19/06/2023,Sydney,True
+CUST-1171,Sandra Gupta,41.0,Non-Binary,"$86,764.00",33.0,Month-to-Month,Electronic Check,51.85, ,no,Yes,2.0,06/07/2024,Hyderabad,False
+CUST-2489,Christopher Reddy,43.0,,"$96,976.00",,One Year,Mailed Check,73.78,1700.48,Fiber Optic,0,2.0,20/02/2024,chicago,No
+CUST-2485,Patricia Singh,40.0,female,,14.0,one-year,credit card,104.24,1455.95,FIBER,1,1.0,2020-02-11,Hyderabad,yes
+CUST-1662,Elizabeth  Singh,30.0,f,"$67,648.00",59.0,,Electronic Check,103.89,"$6,136.44",dsl,No,5.0,2023-03-25,  Berlin  ,False
+CUST-1778,Neha Rodriguez,60.0,female,"$80,883",72.0,M2M,credit card,20.59,1479.28,dsl,1,5.0,2024-06-20,Delhi,True
+CUST-2311,  Margaret Brown  ,47.0,f,"$116,571.00",1.0,Month to Month,mailed check,115.33,110.34,Dsl,,1.0,10-06-2020,houston,No
+CUST-1210,Margaret Williams,40.0,FEMALE,"$143,072",60.0,one-year,credit card,71.1,4264.75,DSL,None,2.0,10/07/2024,berlin,True
+CUST-1705,Sandra Iyer,22.0,Other,"$42,529.00",61.0,2-yr,Mailed Check,36.3,2223.50,Fiber Optic,TRUE,3.0,unknown,Los Angeles,no
+CUST-1553,Susan Gonzalez,40.0,M,"$89,933",45.0,month-to-month,mailed check,90.76,4077.93,None,Y,3.0,2021-04-05,Sydney,0
+CUST-1141,Charles Rodriguez,65.0,f,"$63,412",,2 year,E-Check,0.0,643.80,DSL,N,3.0,02-17-2020,,no
+CUST-2115,Mary Hernandez,59.0,m,"$98,332.00",,M2M,Electronic Check,35.58, ,Fiber,TRUE,2.0,invalid_date,  Phoenix  ,Y
+CUST-2036,Matthew Davis,47.0,Male,"$61,130.00",1.0,1-yr,credit card,30.72,35.93,Fiber,1,2.0,05-04-2020,Hyderabad,0
+CUST-2226,Vikram Martinez,47.0,Other,"$73,605.00",4.0,2-yr,Mailed Check,49.9,197.88,Dsl,No,5.0,12/08/2021,,1
+CUST-2229,Linda Verma,135.0,Male,"$123,852",,One Year,Check,116.5,1389.35,DSL,yes,5.0,18/07/2021,Phoenix,no
+CUST-1728,Rohit Lopez,50.0,male,"$204,979.00",,two-year,mailed check,43.13,$827.63,Fiber Optic,Y,5.0,13/07/2024,Delhi,True
+CUST-1706,Pooja Singh,42.0,male,"$102,140",30.0,M2M,Check,59.37,1788.71,None,yes,4.0,2023-10-05,Los Angeles,False
+CUST-1883,Arjun Rodriguez,54.0,Female,"$52,391",66.0,1 Year,Credit Card (automatic),34.05,"$2,253.21",DSL,None,4.0,,Singapore,No
+CUST-1947,Ananya Garcia,29.0,,"$100,962",49.0,1 year,E-Check,48.5,2383.06,DSL,,2.0,11-27-2020,Bengaluru,yes
+CUST-1536,Neha Miller,35.0,,"$100,394.00",5.0,2 Year,,115.97,$571.29,DSL,None,5.0,2024-03-18,Houston,No
+CUST-1011,  Barbara Wilson  ,61.0,MALE,78740,14.0,Month-to-Month,Credit Card (automatic),110.57,1554.39,fiber optic,Y,3.0,2022-11-17,  Hyderabad  ,N
+CUST-1765,Nancy Gonzalez,52.0,FEMALE,,15.0,1 year,Mailed Check,42.61,631.28,dsl,no internet,1.0,2022-06-16,Hyderabad,No
+CUST-1283,Charles Gonzalez,21.0,male,"$64,519.00",65.0,month-to-month,,66.31,"$4,300.90",DSL,No internet service,2.0,2021-11-21,Hyderabad,N
+CUST-1292,david hernandez,225.0,,"$93,279",70.0,Two Year,Mailed Check,31.59,2213.93,fiber optic,1,4.0,2022-11-02,london,No
+CUST-2024,Priya Reddy,61.0,female,"$66,385",46.0,1-yr,credit card,30.13,"$1,379.84",dsl,no,1.0,2024.04.05,Phoenix,no
+CUST-2201,Matthew Verma,24.0,Non-Binary,"$87,944",,2 year,Mailed Check,58.23,$871.89,Fiber Optic,0,1.0,2020-09-04,Sydney,N
+CUST-1130,Joseph Hernandez,31.0,female,"$127,151",44.0,month-to-month,mailed check,76.01,3349.36,fiber optic,yes,2.0,2021-04-27,Chicago,True
+CUST-1324,Jessica Wilson,19.0,female,"$53,003",65.0,2 year,Mailed Check,106.36, ,Fiber,FALSE,2.0,07-01-2020,Chicago,False
+CUST-1722,JAMES PATEL,46.0,female,"$116,473",,,E-Check,29.59,245.57,Fiber,Y,5.0,07-06-2020,bengaluru,Y
+CUST-1527,Karen Williams,,other,"$130,300",-4.0,M2M,Electronic Check,64.31,1419.78,fiber optic,No,5.0,03/05/2021,Chicago,True
+CUST-1597,Jessica Williams,22.0,F,"$82,520.00",15.0,Month to Month,E-Check,84.67,1278.27,Fiber Optic,None,4.0,2023.01.11,hyderabad,N
+CUST-2393,Charles Johnson,47.0,FEMALE,"$66,973.00",65.7,1-yr,Electronic Check,42.0,2760.98,NONE,No,3.0,2021.02.17,Hyderabad,No
+CUST-2418,Mary Gupta,18.0,f,"$57,111.00",54.0,2 year,,100.59, ,Dsl,,,04-13-2021,Phoenix,True
+CUST-2049,Elizabeth Garcia,42.0,m,"$61,151",65.0,2 Year,Credit Card,29.17,1890.42,Fiber Optic,,1.0,2023.04.21,Toronto,False
+CUST-1755,mary gupta,36.0,male,"$81,443",34.0,two-year,Credit Card,101.95,3457.87,No,Y,3.0,2021-07-12,phoenix,False
+CUST-1159,Mary Miller,30.0,Non-Binary,,4.0,m2m,Bank Transfer (automatic),57.55,237.49,dsl,N,4.0,06-15-2021,Hyderabad,no
+CUST-1611,aditya martinez,,Female,,31.0,m2m,,113.08,3500.49,dsl,yes,1.0,2020-09-05,New York,No
+CUST-2006,Anthony Jones,48.0,Non-Binary,"$64,380",33.0,1-yr,Electronic Check,55.67,1829.13,No,0,,19/02/2022,mumbai,No
+CUST-2108,Lisa Johnson,21.0,f,"$79,285",39.0,Month-to-Month,bank transfer,113.05,"$4,399.36",FIBER,1,3.0,2023-08-22,  Bengaluru  ,False
+CUST-1196,  Pooja Johnson  ,31.0,f,,44.0,m2m,electronic check,24.16,1057.73,Fiber Optic,No internet service,1.0,02/06/2024,Chennai,
+CUST-2491,William Singh,35.0,FEMALE,"$65,694.00",63.0,Month to Month,E-Check,50.63,3188.17,fiber optic,FALSE,1.0,05-18-2022,hyderabad,no
+CUST-1545,  Vikram Rodriguez  ,75.0,m,"-$11,652",54.0,M2M,,107.2,5787.15,Fiber Optic,TRUE,1.0,2024-09-26,Phoenix,N
+CUST-1411,Susan Reddy,37.0,M,"$86,149.00",40.0,,Credit Card,113.42,4533.35,DSL,no internet,3.0,2021-02-20,,
+CUST-1097,David Miller,44.0,MALE,"$187,493.00",41.0,Two Year,E-Check,51.19,2097.95,Dsl,FALSE,2.0,19/10/2021,Los Angeles,Y
+CUST-1620,  James Iyer  ,67.0,M,"$121,456",34.6,M2M,Bank Transfer,18.85,651.57,dsl,TRUE,1.0,2024-12-17,Singapore,0
+,Aarav Kumar,30.0,Non-Binary,"$181,158.00",46.0,2 year,Check,68.4,"$3,154.07",fiber optic,,,2020-12-28,Bengaluru,no
+CUST-1420,Margaret Smith,31.0,m,"$2,493,332",,m2m,Electronic Check,113.6,"$1,476.94",None,yes,9.0,2021.08.22,Phoenix,0
+CUST-1679,  Matthew Brown  ,47.0,f,"$75,722",14.0,Month to Month,mailed check,20.13,275.47,DSL,yes,5.0,2022-08-10,London,0
+CUST-1478,John Brown,22.0,MALE,"$90,601",34.4,month-to-month,credit card,85.39,"$2,931.15",Fiber Optic,None,2.0,2020-11-07,Bengaluru,False
+CUST-1990,priya anderson,37.0,FEMALE,"$141,943.00",22.0,Month to Month,Credit Card (automatic),55.43,1228.01,NONE,0,5.0,,Bengaluru,0
+CUST-2213,nancy lopez,18.0,F,"$52,073.00",66.0,m2m,E-Check,94.92,6272.42,no,No internet service,5.0,06/08/2023,Delhi,No
+CUST-2466,Sneha Anderson,35.0,FEMALE,"$96,035",21.0,One Year,Bank Transfer,71.65,1501.18,dsl,None,4.0,28/11/2024,Berlin,1
+CUST-1448,Arjun Nair,62.0,male,"$114,567",28.0,One Year,electronic check,94.75,"$2,661.26",Dsl,None,5.0,02-13-2022,,False
+CUST-1179,Ananya Sharma,50.0,FEMALE,"$136,082.00",42.0,month-to-month,credit card,110.1,"$4,622.56",No,TRUE,1.0,2023-08-08,Toronto,Y
+CUST-1391,  Matthew Garcia  ,44.0,MALE,"$69,715",6.0,1 year,Bank Transfer (automatic),91.17, ,,Y,3.0,unknown,Phoenix,N
+CUST-1944,Patricia Hernandez,,M,"$112,005.00",20.3,Two Year,E-Check,85.05,1719.05,Fiber Optic,None,3.0,12-04-2021,  Toronto  ,0
+CUST-1681,Matthew Miller,51.0,other,"$169,669",16.0,M2M,,60.32,$957.77,Fiber,0,3.0,2022.08.22,Mumbai,N
+CUST-2284,Priya Brown,,MALE,"$77,568.00",36.0,,Mailed Check,43.29,"$1,557.12",DSL,Y,3.0,14/08/2023,Delhi,True
+CUST-2415,Arjun Martinez,49.0,m,"$72,527",10.0,1-yr,Bank Transfer,57.62,573.69,Fiber,no internet,5.0,,Houston,yes
+CUST-1850,Karen Smith,55.0,M,"$67,245.00",1.0,m2m,,18.64,24.49,NONE,1,2.0,2020-01-07,Mumbai,yes
+CUST-1811,Daniel Singh,42.0,FEMALE,"$2,619,834",35.0,two-year,electronic check,94.02,"$3,282.19",dsl,Y,2.0,07-28-2023,Delhi,No
+CUST-1922,Sarah Hernandez,55.0,MALE,"$98,413",66.0,Month-to-Month,Check,66.28,4381.66,Fiber,no,,13/03/2023,New York,N
+CUST-1837,  Joseph Davis  ,55.0,M,"$156,316.00",30.0,Month-to-Month,Credit Card (automatic),66.18,1988.07,FIBER,yes,1.0,,Chicago,No
+CUST-1544,Anthony Rodriguez,,Other,"$90,626.00",59.0,m2m,Credit Card (automatic),42.48,2421.50,No,Yes,4.0,2024.01.28,Hyderabad,
+CUST-1695,Matthew Smith,40.0,MALE,"$103,270.00",45.0,1 year,mailed check,110.89,4994.86,dsl,,,N/A,Chennai,No
+CUST-1295,Michael Reddy,65.0,M,"$70,765",55.0,1-yr,bank transfer,1250.0,68751.34,DSL,Yes,3.0,10/07/2024,  Hyderabad  ,Y
+CUST-1794,  Jennifer Smith  ,23.0,f,"$62,508",16.0,month-to-month,Check,33.73,,no,no internet,4.0,2024-10-25,Hyderabad,No
+CUST-1927,aditya johnson,38.0,Non-Binary,"$88,588.00",28.0,Month to Month,,78.03,2186.47,no,No,1.0,2023.07.14,Hyderabad,
+CUST-1089,Robert Miller,24.0,male,"$3,476,105",22.0,2 Year,Credit Card,56.87,1248.22,FIBER,No internet service,5.0,10/11/2021,delhi,yes
+CUST-1042,matthew jones,41.0,F,"$78,492",31.0,2 year,E-Check,41.96,1310.07,None,1,4.0,17/07/2022,Singapore,No
+CUST-1990,priya anderson,37.0,FEMALE,"$141,943.00",22.0,Month to Month,Credit Card (automatic),55.43,1228.01,NONE,0,5.0,,Bengaluru,0
+CUST-1612,Elizabeth Jones,35.0,female,"$63,604",19.0,,Electronic Check,87.55,1662.80,fiber optic,yes,2.0,,chennai,no
+CUST-2328,vikram gupta,55.0,MALE,"$105,328",37.0,one-year,Credit Card,101.32,"$3,749.66",None,No internet service,4.0,2023-12-27,Sydney,No
+CUST-2434,John Miller,18.0,male,"$124,735",62.0,one-year,E-Check,41.93,2602.27,dsl,yes,1.0,03-03-2024,Berlin,yes
+CUST-1985,  Aditya Smith  ,,Male,"$61,060",41.0,M2M,electronic check,55.09,"$2,268.30",Fiber,N,2.0,N/A,Berlin,no
+CUST-2165,John Johnson,42.0,m,,71.0,2 year,Bank Transfer,35.11,2488.84,FIBER,,4.0,02-16-2021,Hyderabad,0
+CUST-1291,  James Wilson  ,,f,"$92,690.00",56.0,m2m,E-Check,23.67,1324.10,fiber optic,Y,4.0,02-23-2021,London,N
+CUST-2465,Aditya Nair,57.0,male,"$107,010",,Month to Month,E-Check,116.32, ,Dsl,,2.0,09-23-2022,Hyderabad,N
+CUST-1632,sandra singh,67.0,Male,144002,7.0,M2M,Bank Transfer (automatic),61.65,429.45,fiber optic,N,2.0,09/08/2024,mumbai,0
+CUST-1349,  Sandra Lopez  ,38.0,MALE,"$183,040",70.0,Month to Month,Mailed Check,48.34, ,Fiber Optic,FALSE,1.0,02-05-2024,Bengaluru,0
+CUST-1572,Thomas Reddy,35.0,Other,"$174,706",26.0,Month to Month,electronic check,102.06,2660.37,dsl,,2.0,06-20-2020,London,no
+CUST-1603,  Neha Johnson  ,32.0,Female,"$100,885",20.0,1 Year,Bank Transfer (automatic),,"$1,005.58",fiber optic,TRUE,1.0,07/06/2024,new york,0
+CUST-2459,  Neha Iyer  ,20.0,F,"$1,904,153",38.0,One Year,bank transfer,68.42,2596.08,Fiber Optic,No internet service,1.0,16/06/2021,Chennai,yes
+CUST-2037,david jones,26.0,other,"$110,509.00",4.0,,Bank Transfer (automatic),115.73,453.05,no,no internet,4.0,06-27-2020,Toronto,No
+,  Aditya Patel  ,42.0,MALE,"$144,270.00",63.0,M2M,Check,83.33,5258.81,dsl,no internet,4.0,18/08/2021,Delhi,
+CUST-2151,Sarah Gupta,,f,151543,71.0,Two Year,Mailed Check,66.64,4727.65,Fiber Optic,N,1.0,2022-09-01,London,0
+CUST-1459,Jessica Patel,39.0,female,60862,,month-to-month,Electronic Check,27.46,403.33,Dsl,FALSE,3.0,01-02-2022,  Sydney  ,No
+CUST-1376,Elizabeth Miller,20.0,Female,"$86,081.00",61.0,m2m,Electronic Check,79.66,4866.86,dsl,No internet service,3.0,15/11/2020,Toronto,no
+CUST-1334,Aditya Brown,48.0,Female,"-$10,546",63.0,One Year,E-Check,70.97,"$4,476.32",dsl,Y,1.0,19/12/2022,Phoenix,0
+CUST-1989,  James Patel  ,46.0,,"$70,155",22.0,1-yr,credit card,71.02,1562.26,,1,4.0,2024-03-04,London,N
+CUST-2367,Patricia Gupta,26.0,,"$130,039",,1 year,Credit Card,115.08,"$1,147.03",dsl,no,4.0,2020-07-02,Chennai,No
+CUST-2132,Vikram Reddy,,other,,3.0,Month to Month,Bank Transfer (automatic),21.84,57.77,,yes,5.0,,Los Angeles,True
+CUST-1753,Susan Wilson,32.0,F,77543,68.0,M2M,Credit Card,96.01,6534.11,Fiber,TRUE,3.0,,  Phoenix  ,No
+CUST-2436,mark singh,60.0,f,"$55,977",21.0,Month to Month,Credit Card (automatic),, ,Dsl,Y,,,London,False
+CUST-1602,Jessica Patel,,f,106064,36.0,1 Year,,74.44,"$2,677.64",NONE,yes,4.0,2022-03-06,Berlin,Yes
+CUST-1329,Jennifer Verma,42.0,,,27.0,One Year,mailed check,81.76,2204.49,no,no internet,4.0,12/10/2023,houston,N
+CUST-1319,Nancy Rodriguez,18.0,female,119965,8.0,2 year,Check,47.31,379.18,Dsl,TRUE,2.0,01-09-2021,Los Angeles,1
+CUST-2192,barbara sharma,44.0,F,"$108,687.00",10.0,month-to-month,electronic check,499.0,"$4,984.15",DSL,Yes,3.0,2023.10.09,Singapore,yes
+CUST-2142,Pooja Gonzalez,40.0,f,"$62,886.00",62.0,one-year,Bank Transfer (automatic),,"$3,102.90",,no,4.0,2023-10-02,Mumbai,1
+CUST-1013,Barbara Nair,24.0,female,"$97,367",42.0,m2m,bank transfer,108.84,"$4,564.67",Dsl,No,2.0,2022-04-26,,True
+CUST-1172,  Michael Johnson  ,36.0,MALE,,1.0,2 Year,E-Check,57.73, ,dsl,FALSE,1.0,2024-04-01,Sydney,N
+CUST-1261,Vikram Verma,43.0,Female,"$88,407",16.0,M2M,Bank Transfer (automatic),98.75,"$1,572.58",Fiber,No internet service,0.0,2024.05.12,london,1
+CUST-1874,John Anderson,25.0,MALE,78660,30.0,m2m,credit card,1250.0, ,no,1,5.0,2021-10-17,Toronto,0
+CUST-1916,MARK MILLER,34.0,female,"$83,353",41.0,1 Year,bank transfer,34.77,1430.22,Dsl,No internet service,,15/01/2023,Chicago,N
+CUST-1847,Jennifer Gupta,36.0,,90140,65.0,Two Year,electronic check,22.86,"$1,478.20",dsl,N,4.0,19/01/2024,bengaluru,True
+CUST-1139,David Iyer,50.0,Female,"$84,963.00",28.0,two-year,Bank Transfer,,1401.69,Fiber Optic,FALSE,2.0,2022-02-08,Chennai,No
+CUST-1550,Thomas Iyer,18.0,F,"$94,281.00",40.0,Month-to-Month,mailed check,95.72,3838.02,,No,5.0,2022.03.05,  Toronto  ,N
+CUST-1651,Nancy Patel,,m,"$112,418.00",66.0,1-yr,Bank Transfer (automatic),88.41,5838.93,Fiber Optic,1,1.0,2023.11.13,Houston,0
+CUST-1901,Robert Johnson,,M,"$68,377",42.0,Month-to-Month,E-Check,35.11,1466.04,FIBER,N,5.0,2022-06-16,Chennai,N
+CUST-2349,  Robert Reddy  ,,m,"$56,291.00",31.0,Month-to-Month,Bank Transfer (automatic),116.95,3616.44,DSL,yes,5.0,2023.11.28,phoenix,N
+CUST-1559,ananya sharma,73.0,FEMALE,52100,57.0,One Year,mailed check,115.12,6561.34,fiber optic,None,3.0,2021-02-20,  Mumbai  ,0
+CUST-1140,Elizabeth Singh,28.0,female,"$40,317.00",57.0,One Year,Bank Transfer,43.63, ,Dsl,TRUE,2.0,06-11-2024,Singapore,1
+CUST-2353,Arjun Smith,56.0,,55711,6.0,Two Year,Credit Card,0.0,$308.49,no,no internet,1.0,27/11/2024,Toronto,No
+CUST-1950,arjun rodriguez,54.0,other,"$3,393,775",6.0,two-year,Electronic Check,41.47,$244.10,No,yes,3.0,2024-04-26,Delhi,True
+CUST-1225,Jessica Nair,19.0,FEMALE,"$112,551",71.0,m2m,,110.1, ,Dsl,no,2.0,14/10/2022,Hyderabad,no
+CUST-2351,BARBARA REDDY,45.0,FEMALE,"$124,601.00",69.0,2 year,Credit Card,54.88,"$3,794.82",FIBER,,,unknown,berlin,False
+CUST-1410,david gonzalez,74.0,other,"$84,652",50.0,month-to-month,Bank Transfer,51.29,"$2,556.88",,0,2.0,2021-02-02,Berlin,N
+CUST-1326,  Priya Hernandez  ,49.0,f,"$132,466",41.0,two-year,,106.96,"$4,383.97",no,Y,3.0,2022-08-15,Berlin,yes
+CUST-1300,Rohit Hernandez,18.0,F,"$70,199",47.0,m2m,credit card,58.62, ,Fiber,None,2.0,2023-02-24,,N
+CUST-1942,  Charles Sharma  ,18.0,MALE,"$66,909.00",2.0,m2m,electronic check,27.0,51.74,dsl,,5.0,03-09-2024,Hyderabad,False
+CUST-1783,James Martinez,40.0,MALE,"$56,428.00",,Month to Month,Mailed Check,93.42,$937.80,dsl,0,2.0,invalid_date,Mumbai,No
+CUST-1712,Nancy Martinez,44.0,Other,"$83,433",,Month-to-Month,Check,1250.0, ,FIBER,Yes,1.0,03-26-2021,Phoenix,N
+CUST-2437,neha hernandez,18.0,Female,,62.0,month-to-month,Credit Card (automatic),115.76,7171.45,DSL,None,4.0,20/09/2023,Hyderabad,no
+CUST-2007,Anthony  Sharma,31.0,MALE,"$151,654.00",,Two Year,electronic check,107.01,$529.80,NONE,no internet,1.0,2021-11-06,los angeles,Yes
+CUST-2266,Susan Martinez,46.0,Non-Binary,"$62,534",70.0,1 Year,electronic check,1250.0,87501.76,Dsl,no internet,2.0,10-18-2024,Chicago,0
+CUST-1574,Elizabeth  Reddy,52.0,FEMALE,"$86,306",20.0,one-year,credit card,95.09,"$1,900.43",Dsl,0,2.0,2021-12-04,singapore,1
+CUST-1504,Robert Hernandez,,f,,64.0,2 Year,bank transfer,82.55,5277.17,dsl,1,1.0,2023-07-04,New York,yes
+CUST-1606,Barbara Wilson,21.0,M,"$55,429",39.0,One Year,credit card,113.54,4425.24,Fiber Optic,Yes,1.0,2022.09.19,Sydney,N
+CUST-1809,Karen Smith,44.0,FEMALE,"$128,503",64.0,1 Year,bank transfer,47.66,3054.51,None,N,4.0,,bengaluru,Y
+CUST-1004,Arjun Anderson,63.0,Other,"$111,400",35.0,2-yr,electronic check,18.83,663.44,Dsl,None,5.0,2024-04-05,Sydney,False
+CUST-1793,Anthony Lopez,18.0,female,"$70,256.00",40.0,Month to Month,E-Check,36.92,1469.63,no,Yes,1.0,2024-12-26,Los Angeles,False
+CUST-1468,JESSICA ANDERSON,45.0,male,120690,67.0,One Year,credit card,,3344.75,Fiber Optic,No,2.0,2023.01.02,New York,0
+CUST-1322,Arjun  Lopez,66.0,FEMALE,"$101,642",,Month to Month,credit card,,550.22,Dsl,no,5.0,2020-11-24,london,yes
+CUST-1006,Robert Singh,33.0,Non-Binary,,63.0,month-to-month,bank transfer,42.86,"$2,698.32",dsl,TRUE,1.0,01-13-2020,Los Angeles,False
+CUST-1223,Neha Gupta,33.0,Non-Binary,59472,12.0,Two Year,Check,83.18,989.86,DSL,None,4.0,01-04-2024,New York,0
+CUST-1548,Lisa Gupta,36.0,male,"$101,924",35.0,m2m,Check,98.45,3451.19,DSL,yes,5.0,2023-05-13,Sydney,yes
+CUST-1859,THOMAS GUPTA,34.0,FEMALE,"$31,654",47.0,2 Year,Electronic Check,25.7,1208.84,,Yes,4.0,2022-02-16,London,
+CUST-1040,Christopher Nair,31.0,Male,75916,-6.0,month-to-month,Bank Transfer,79.63,794.05,DSL,N,,2020-09-22,Singapore,N
+CUST-1543,Robert Wilson,28.0,F,"$86,873.00",17.0,,Electronic Check,90.12,"$1,539.09",Fiber,No internet service,1.0,2021-06-23,sydney,Y
+CUST-1243,Robert Brown,28.0,M,"$94,401.00",-6.0,1 Year,Check,37.99, ,fiber optic,TRUE,1.0,2020-09-22,Chicago,Yes
+CUST-1137,margaret gonzalez,26.0,FEMALE,"$55,062",67.0,2 year,bank transfer,83.51,"$5,590.55",fiber optic,TRUE,3.0,2024-08-07,hyderabad,N
+CUST-2227,Christopher Kumar,67.0,Male,"$2,873,327",4.0,m2m,mailed check,37.35,154.76,DSL,No internet service,5.0,2022-08-11,  Hyderabad  ,True
+CUST-2264,JOSEPH JONES,37.0,M,"$82,778.00",56.0,m2m,Electronic Check,107.37,6002.97,no,0,,06/09/2022,Delhi,no
+CUST-2274,Susan Singh,29.0,M,"$78,769",24.0,Month to Month,Credit Card (automatic),102.06,2458.21,,None,,2022-02-07,Chennai,0
+CUST-2054,Susan Verma,40.0,female,"$64,820",24.0,m2m,electronic check,56.29,"$1,357.97",None,yes,3.0,09-27-2023,Delhi,yes
+CUST-2102,Joseph Johnson,59.0,Non-Binary,"$106,289",,one-year,Electronic Check,19.8,336.24,dsl,FALSE,2.0,06-11-2023,Houston,False
+CUST-1799,Patricia  Reddy,68.0,FEMALE,"$72,701.00",67.0,M2M,Bank Transfer,51.76,3460.90,fiber optic,No internet service,2.0,01-25-2024,Chicago,0
+CUST-2477,Ananya Nair,41.0,FEMALE,"$50,361",20.0,one-year,credit card,29.83,599.31,Fiber Optic,None,1.0,2020-05-03,Toronto,no
+CUST-1582,Karen Jones,51.0,MALE,"$105,468.00",39.0,m2m,mailed check,74.88,2922.23,dsl,0,3.0,2023.05.03,Chennai,True
+CUST-1739,James Patel,31.0,Male,"$78,897.00",22.0,2 Year,Check,30.12,$662.67,FIBER,FALSE,5.0,2020.01.15,New York,yes
+CUST-2173,Ananya Singh,30.0,Other,,31.0,1 year,Credit Card,44.57,,Fiber Optic,,4.0,09-14-2020,Bengaluru,
+CUST-2435,Matthew Anderson,27.0,Male,"$148,029.00",8.0,month-to-month,credit card,58.51,$467.67,Dsl,FALSE,3.0,2021-06-14,berlin,no
+CUST-1377,Jennifer Kumar,42.0,MALE,"$106,863.00",36.0,2-yr,credit card,60.57,"$2,190.18",FIBER,TRUE,4.0,02-25-2022,Chennai,False
+CUST-1315,Aditya Nair,59.0,,"$62,084.00",11.0,2 Year,Credit Card,28.93,312.73,DSL,,,2021.09.20,toronto,False
+CUST-1443,Pooja Rodriguez,,M,"$54,435",56.0,,electronic check,108.67,6075.85,Dsl,0,4.0,04-18-2024,Los Angeles,N
+CUST-1320,Neha Rodriguez,40.0,f,,42.0,two-year,Mailed Check,65.26,2740.52,Fiber Optic,No,5.0,03/06/2024,Sydney,yes
+CUST-2062,  Christopher Hernandez  ,43.0,m,"$76,817.00",64.0,1 Year,mailed check,, ,DSL,None,3.0,2022.01.11,  Mumbai  ,no
+CUST-1843,Susan Wilson,-7.0,f,,68.0,1 Year,Mailed Check,52.35,3551.82,Fiber Optic,1,4.0,2021.05.08,New York,yes
+CUST-2169,  Thomas Rodriguez  ,48.0,F,"$102,879",44.0,M2M,electronic check,101.82,"$4,475.20",dsl,Yes,3.0,2022.03.28,Chicago,0
+CUST-1425,Nancy Garcia,51.0,MALE,"$86,489",69.0,Month to Month,Bank Transfer,56.25,"$3,879.11",no,no internet,5.0,17/05/2024,New York,No
+CUST-1554,BARBARA SMITH,36.0,F,"$69,726",55.0,Month to Month,Credit Card,109.47,6020.03,FIBER,No,2.0,2021-07-02,Chicago,0
+CUST-1595,Mary Kumar,39.0,female,"$116,060.00",16.0,1 year,Electronic Check,71.9,1160.10,dsl,yes,1.0,23/01/2024,sydney,No
+CUST-1953,Jennifer Sharma,,F,"$105,454",13.0,m2m,bank transfer,54.73,712.54,Fiber,1,5.0,02-07-2021,Berlin,False
+CUST-2090,Karen Singh,49.0,F,"$60,620",53.0,M2M,Mailed Check,,"$2,659.51",no,FALSE,1.0,2024.06.07,singapore,yes
+CUST-1818,Nancy Garcia,,MALE,"$102,180.00",59.0,Month to Month,Mailed Check,111.54,6586.31,Fiber,1,1.0,2023-06-15,singapore,Y
+CUST-2259,Vikram Williams,57.0,f,,52.6,1 Year,Bank Transfer (automatic),,2631.88,dsl,No,5.0,04/06/2020,Phoenix,No
+CUST-2363,  Sarah Johnson  ,63.0,Female,"$104,278.00",15.0,2 year,E-Check,82.95,1243.20,dsl,N,3.0,2022-11-07,new york,no
+CUST-1228,James Brown,55.0,M,"$69,393.00",25.0,M2M,bank transfer,116.76,2909.74,Dsl,yes,4.0,19/05/2020,Houston,0
+CUST-1756,Daniel Brown,42.0,f,"$102,070.00",11.0,m2m,credit card,81.24,$890.12,dsl,Y,2.0,2023.12.02,Delhi,no
+CUST-2318,Thomas Brown,,f,,61.0,1 year,bank transfer,499.0,30443.70,FIBER,0,4.0,,Toronto,N
+CUST-2032,Mark Rodriguez,29.0,MALE,"$51,467.00",55.0,Month-to-Month,Check,76.55,"$4,218.11",DSL,no internet,1.0,2023-12-09,Hyderabad,yes
+,Matthew Garcia,32.0,female,"$3,142,710",17.0,1 Year,electronic check,33.92,,Fiber Optic,Yes,,25/01/2023,Houston,True
+CUST-1067,Betty Anderson,43.0,Male,"$55,009.00",27.9,One Year,bank transfer,68.61,1919.91,No,No internet service,5.0,2023.05.02,Phoenix,
+CUST-1394,William Iyer,26.0,MALE,"$116,424",60.0,Month to Month,Bank Transfer (automatic),39.14,"$2,342.22",no,None,4.0,2022-11-10,Los Angeles,0
+CUST-1580,Vikram Verma,31.0,Non-Binary,"$72,609.00",3.0,m2m,Mailed Check,60.85,179.95,,None,3.0,2021-02-20,bengaluru,No
+CUST-1025,Linda Anderson,36.0,male,"$49,512",61.0,M2M,Electronic Check,69.45,"$4,243.73",dsl,1,1.0,12-10-2022,London,N
+CUST-1212,James Garcia,35.0,m,"$67,131",47.0,1 Year,Bank Transfer (automatic),19.89,,,No internet service,2.0,27/07/2021,houston,no
+CUST-2198,Mary Hernandez,18.0,FEMALE,"$74,167",,month-to-month,credit card,80.8,"$1,786.99",Fiber,,1.0,10-25-2024,Bengaluru,N
+CUST-2147,John  Reddy,24.0,FEMALE,"$37,264",8.0,one-year,Check,97.95, ,dsl,TRUE,1.0,2022-09-04,Mumbai,True
+CUST-1537,  Robert Johnson  ,42.0,f,,,1 year,,90.39,186.35,no,no,2.0,2021-10-28,  Mumbai  ,False
+CUST-1760,Elizabeth Gupta,46.0,other,"$3,394,252",44.0,2 Year,Electronic Check,102.9,4529.89,dsl,1,1.0,2024-09-08,Sydney,False
+CUST-1702,James Jones,42.0,F,"$55,768.00",26.0,,,23.94,621.07,dsl,No internet service,2.0,2021-05-24,chicago,No
+CUST-1086,Jessica Anderson,45.0,Other,"$93,424.00",53.0,,Check,106.44,5631.35,no,1,4.0,01-05-2023,Berlin,N
+CUST-2396,Thomas Verma,,female,"$91,821",32.0,1 Year,electronic check,45.72,,FIBER,,1.0,2024-04-22,Chennai,No
+CUST-1273,Betty Sharma,48.0,Other,"$77,533.00",35.0,Month-to-Month,Electronic Check,19.39,678.91,dsl,yes,3.0,2024-02-06,phoenix,Y
+CUST-2332,Richard Smith,-9.0,MALE,"$129,296",60.0,m2m,electronic check,53.43,3197.16,dsl,,2.0,05/12/2023,Singapore,no
+CUST-1701,Patricia Brown,34.0,Other,"$86,487.00",33.0,m2m,Mailed Check,113.27, ,DSL,No,,2023-11-17,Mumbai,0
+CUST-1845,  Mary Gupta  ,33.0,Female,"$90,050.00",71.0,2 year,Credit Card,43.75,2992.45,Fiber Optic,Y,2.0,01/01/2020,Mumbai,No
+CUST-1631,charles reddy,57.0,F,"$76,557",15.0,2 Year,electronic check,61.93,930.05,No,N,2.0,24/10/2022,mumbai,0
+CUST-2064,  Jennifer Anderson  ,49.0,FEMALE,"$54,267.00",12.0,Month to Month,Credit Card,79.07,944.80,No,No,10.0,14/12/2022,Delhi,N
+CUST-2446,lisa verma,40.0,Non-Binary,"$156,761",-6.0,Month-to-Month,Bank Transfer,106.36,2242.08,Fiber Optic,None,3.0,2022-01-23,berlin,yes
+CUST-1506,vikram williams,31.0,f,94139,19.0,Two Year,Credit Card (automatic),72.38,1384.51,DSL,no internet,3.0,03-06-2024,Berlin,no
+CUST-1274,Sarah Johnson,25.0,f,"$2,860,308",48.0,M2M,Electronic Check,79.8,3821.55,None,N,1.0,11-28-2024,Los Angeles,N
+CUST-1766,William Miller,59.0,female,"$100,637.00",49.0,m2m,Electronic Check,,2442.21,Fiber Optic,no,1.0,10/03/2022,Bengaluru,True
+CUST-1363,Betty Johnson,33.0,FEMALE,"$92,337",27.0,1-yr,electronic check,,1347.65,DSL,FALSE,1.0,2020-04-06,Toronto,False
+CUST-1623,Ananya Rodriguez,56.0,Female,"$67,598.00",38.0,one-year,,29.24,"$1,117.31",,No internet service,3.0,07-16-2020,Toronto,yes
+CUST-1003,christopher johnson,,male,,41.0,m2m,Check,45.05,"$1,848.28",Dsl,yes,2.0,08-03-2024,Chicago,No
+CUST-1007,Sandra Davis,-9.0,m,69531,22.0,m2m,electronic check,35.0, ,FIBER,1,4.0,2021-04-10,,No
+CUST-1312,Barbara Kumar,36.0,Male,,5.0,Two Year,mailed check,102.78,510.32,fiber optic,TRUE,3.0,2021-04-24,  Sydney  ,
+CUST-2471,  Susan Nair  ,135.0,Male,64472,26.0,2 year,electronic check,62.25,"$1,618.04",No,Y,,2023-04-27,Chicago,yes
+CUST-1666,Linda Nair,180.0,Other,"-$9,759",49.0,Month to Month,Check,23.22,"$1,135.77",FIBER,,2.0,2021-01-11,london,N
+CUST-1999,Robert Hernandez,46.0,other,"$2,856,431",48.0,1 year,Electronic Check,36.31,"$1,744.73",No,No,2.0,2024-10-20,Los Angeles,1
+CUST-2487,SANDRA IYER,51.0,FEMALE,"$73,142",38.0,2-yr,credit card,58.74,2225.62,None,no,,12/12/2023,  Bengaluru  ,no
+CUST-1216,Mark Anderson,34.0,other,"$69,005.00",65.0,Month-to-Month,Credit Card,47.79,3106.47,Fiber,yes,2.0,07-25-2023,Sydney,Y
+CUST-1725,  Arjun Johnson  ,41.0,m,"$127,148",24.0,2 Year,bank transfer,67.85,1625.77,FIBER,0,2.0,01-10-2021,Sydney,True
+,Neha Gonzalez,45.0,Other,"$96,892.00",60.0,2 year,electronic check,117.51,7059.84,dsl,TRUE,1.0,2021-07-19,Toronto,N
+CUST-2114,DAVID SHARMA,41.0,M,"$120,946.00",,two-year,mailed check,39.6,349.49,Dsl,no,1.0,2024-07-21,Hyderabad,Yes
+CUST-1923,lisa anderson,,Other,"$48,258",34.0,Two Year,Bank Transfer (automatic),61.88,"$2,106.87",FIBER,yes,5.0,25/08/2021,new york,no
+CUST-2041,Sarah Miller,36.0,MALE,"$51,154.00",70.0,M2M,Mailed Check,51.4,3607.10,fiber optic,no,5.0,2024.06.23,London,no
+CUST-1639,Daniel Kumar,65.0,F,"$116,514",62.0,month-to-month,,58.39,"$3,621.87",fiber optic,None,3.0,2020-10-13,  Chicago  ,yes
+CUST-1797,Michael  Gonzalez,25.0,M,"$79,319.00",57.0,1 Year,E-Check,116.41,"$6,630.12",DSL,yes,2.0,2024.01.03,Singapore,False
+CUST-1692,  John Lopez  ,225.0,F,"$59,375.00",,M2M,Mailed Check,49.71,804.38,DSL,None,1.0,2021.07.18,London,0
+CUST-2304,Lisa Patel,50.0,Non-Binary,"$53,103",28.0,2 year,Bank Transfer,113.6,3189.41,dsl,FALSE,1.0,03/08/2023,Bengaluru,False
+CUST-1625,Michael Hernandez,61.0,other,,60.0,m2m,,47.85,2877.85,FIBER,No,4.0,2020-01-15,delhi,N
+CUST-1905,Neha Wilson,46.0,MALE,"-$21,173",17.0,Month-to-Month,Electronic Check,107.01,1819.22,,Y,2.0,N/A,toronto,False
+CUST-1257,  Pooja Davis  ,,Non-Binary,88697,59.0,Month to Month,E-Check,101.48, ,Fiber Optic,1,2.0,2023.05.23,,no
+CUST-1026,Vikram Gonzalez,56.0,M,"$57,260",6.0,m2m,Bank Transfer,85.03,519.80,,0,1.0,2023.02.17,,yes
+CUST-1337,Sarah Martinez,61.0,female,91459,26.0,month-to-month,Electronic Check,44.86,,Dsl,FALSE,5.0,05-26-2024,Berlin,no
+CUST-1573,MARK SHARMA,32.0,MALE,"$94,058",41.0,Month to Month,electronic check,98.18,"$4,022.55",FIBER,Yes,5.0,2021-01-21,Chicago,True
+CUST-1048,Lisa Anderson,34.0,FEMALE,"$79,686",4.0,1 Year,Check,96.19,379.05,dsl,yes,4.0,2021.12.15,Singapore,0
+CUST-1107,Robert Kumar,46.0,FEMALE,"$149,082",13.0,Two Year,Credit Card,49.85,639.95,,None,3.0,2022-08-20,Mumbai,False
+CUST-1350,Ananya Reddy,-6.0,,67241,37.4,1-yr,credit card,58.67,2199.19,DSL,no internet,2.0,10/05/2024,Sydney,False
+CUST-1056,Betty Lopez,35.0,male,"$58,184",33.0,one-year,E-Check,74.84,2461.90,Fiber Optic,0,2.0,2020-02-14,  London  ,no
+CUST-1862,Matthew Singh,36.0,f,,13.0,One Year,Bank Transfer,114.11,"$1,475.75",dsl,Yes,2.0,invalid_date,Mumbai,False
+CUST-1214,Neha  Iyer,41.0,,"$89,261",30.0,1 year,Credit Card,104.06,3121.17,dsl,None,3.0,2023-03-20,Los Angeles,1
+CUST-1121,  Robert Kumar  ,,Female,"$99,541.00",5.0,1 year,credit card,96.21,475.52,dsl,1,4.0,09-01-2022,Sydney,no
+CUST-1926,Anthony Reddy,27.0,other,"$92,018",46.0,month-to-month,electronic check,72.57,"$3,340.63",Fiber,yes,4.0,20/11/2021,Chennai,1
+CUST-2427,Elizabeth Iyer,32.0,male,"$101,747",14.0,Month to Month,bank transfer,108.98,1520.25,FIBER,N,4.0,02/11/2024,Chicago,Y
+CUST-1073,michael rodriguez,53.0,f,"$78,351",65.0,Month-to-Month,mailed check,114.91,,None,Y,2.0,12/08/2024,  Toronto  ,Yes
+CUST-1941,Sandra  Rodriguez,58.0,f,"$113,424.00",63.0,M2M,Credit Card (automatic),85.18,5362.15,NONE,No internet service,2.0,15/05/2024,Los Angeles,Yes
+CUST-1788,Elizabeth Singh,57.0,female,"$97,162.00",,One Year,Electronic Check,87.84, ,fiber optic,N,3.0,2022-08-22,  Chicago  ,Yes
+CUST-1046,Richard  Johnson,60.0,m,"$42,788",37.0,Month-to-Month,Credit Card,98.63,3647.31,no,no internet,3.0,2024-05-26,Bengaluru,N
+CUST-2374,Rohit Nair,18.0,F,"$66,704.00",28.0,1-yr,E-Check,81.45,2276.49,Dsl,no,2.0,13/07/2022,,Y
+CUST-1524,  Sneha Iyer  ,48.0,m,"$61,257.00",,One Year,mailed check,18.85,178.52,dsl,no internet,,2020.07.14,  Bengaluru  ,False
+CUST-1925,Susan Rodriguez,,Female,"$85,765",26.0,1 year,credit card,46.66,"$1,218.48",FIBER,None,3.0,2023-04-15,Toronto,No
+CUST-1840,James Anderson,-1.0,Male,"$101,843.00",54.0,1 Year,Credit Card,40.13,2157.50,,No,1.0,2022-07-24,,yes
+CUST-2448,William Jones,40.0,male,87293,56.0,2 year,Bank Transfer,20.45,1139.71,DSL,no internet,5.0,2023-10-04,Houston,0
+CUST-1845,  Mary Gupta  ,33.0,Female,"$90,050.00",71.0,2 year,Credit Card,42.25,2992.45,Fiber Optic,Y,2.0,01/01/2020,Mumbai,No
+CUST-1534,Mary  Jones,71.0,other,"$56,740.00",52.0,1-yr,Credit Card,111.95,"$5,813.06",,yes,3.0,2024.06.28,,No
+CUST-2174,Barbara  Jones,18.0,f,39894,56.5,two-year,Credit Card,28.45,"$1,602.32",Fiber Optic,,1.0,28/08/2022,Berlin,0
+CUST-1604,Patricia Brown,38.0,other,"$62,838",60.0,Month-to-Month,Bank Transfer (automatic),29.44,"$1,764.01",DSL,FALSE,1.0,2020.05.11,Phoenix,No
+CUST-1466,Jennifer Nair,57.0,Non-Binary,"-$21,406",71.0,1 year,Credit Card (automatic),39.42, ,No,TRUE,2.0,2024-09-01,Delhi,0
+CUST-1894,DAVID MARTINEZ,52.0,M,"$78,508.00",27.0,One Year,Mailed Check,67.45,1812.10,Fiber,1,4.0,12/04/2023,phoenix,no
+CUST-2321,Thomas Patel,26.0,Female,"$161,867.00",11.0,Month to Month,mailed check,106.69, ,NONE,No internet service,9.0,23/02/2023,  Chennai  ,False
+CUST-2424,David  Hernandez,21.0,m,"$202,419.00",70.0,M2M,Credit Card,73.74, ,no,Yes,4.0,11-04-2024,Hyderabad,Y
+CUST-2008,Ananya Nair,36.0,male,69313,18.0,Two Year,Electronic Check,50.3,900.28,None,Y,2.0,2021.02.01,  Chicago  ,N
+CUST-1061,Anthony Lopez,59.0,Non-Binary,"$76,002.00",45.0,M2M,Mailed Check,40.82, ,,1,4.0,2021-04-15,Berlin,
+CUST-1943,John Brown,53.0,FEMALE,"$104,478",47.0,2 Year,Credit Card (automatic),750.5,35268.97,Fiber,no internet,1.0,06-24-2024,Phoenix,No
+CUST-1093,charles jones,,f,73581,,1 year,E-Check,1250.0,29991.56,Fiber Optic,None,3.0,2023-01-09,Mumbai,
+CUST-1667,Sarah Martinez,45.0,f,"$77,994.00",26.0,Month-to-Month,E-Check,0.0,"$1,296.78",FIBER,no internet,4.0,04-11-2021,berlin,Yes
+CUST-1775,David Martinez,56.0,Other,"$57,581.00",48.0,,Bank Transfer,88.83,4256.20,Fiber Optic,no internet,1.0,2024-10-10,Houston,yes
+CUST-1195,Linda Gonzalez,41.0,Male,,39.0,two-year,Mailed Check,57.51,2244.27,Dsl,FALSE,2.0,2024-01-13,Bengaluru,N
+CUST-1281,  James Martinez  ,-1.0,F,"$40,549",59.0,1-yr,credit card,41.29,"$2,431.55",fiber optic,FALSE,2.0,03-27-2023,singapore,False
+CUST-1696,Karen Rodriguez,29.0,other,"$78,370.00",58.0,month-to-month,Check,72.24,"$4,192.66",Fiber Optic,no internet,3.0,24/10/2020,Singapore,True
+CUST-1360,Joseph Davis,48.0,f,"$123,890",10.0,Month-to-Month,mailed check,72.87,728.44,DSL,FALSE,2.0,11-20-2024,Phoenix,no
+CUST-1520,Nancy Davis,,other,"$55,899.00",51.0,M2M,Electronic Check,53.12,2704.20,no,Yes,2.0,N/A,Delhi,
+CUST-1866,Linda  Nair,54.0,M,"$3,339,440",7.0,,mailed check,42.62, ,Dsl,yes,2.0,2022-04-15,Los Angeles,1
+CUST-2244,Priya Anderson,57.0,F,"$99,064.00",45.0,1 year,mailed check,91.83,4123.43,NONE,TRUE,5.0,2023.03.26,Hyderabad,Yes
+CUST-1183,Mary Davis,62.0,m,"$87,599.00",68.0,2 Year,Check,97.63,6634.04,No,Y,2.0,23/03/2024,Chicago,no
+CUST-2059,Christopher Martinez,61.0,Female,64001,58.0,,Check,109.34,6332.78,Dsl,No,5.0,05-21-2021,Chicago,No
+CUST-1111,Daniel Iyer,67.0,Female,,18.0,2 Year,E-Check,30.6,545.11,Fiber,TRUE,,2024.02.25,Chennai,0
+CUST-2389,Elizabeth Kumar,29.0,f,"$101,351.00",48.0,1-yr,mailed check,0.0,2405.04,No,No internet service,1.0,2020.06.22,  Bengaluru  ,no
+CUST-1043,Lisa Patel,35.0,Female,"$76,973.00",19.0,Two Year,Credit Card (automatic),107.18,2034.72,FIBER,no internet,3.0,2020-12-21,New York,no
+,  Daniel Iyer  ,56.0,MALE,"$85,979.00",51.0,two-year,bank transfer,40.23,2050.38,dsl,,4.0,2021-08-13,Bengaluru,0
+CUST-1975,mark verma,28.0,other,"$70,431",58.0,1 Year,Bank Transfer,93.46,"$5,427.55",,1,2.0,03-24-2022,Delhi,N
+CUST-1205,Mary Martinez,18.0,F,"$65,024.00",,Month to Month,Credit Card,90.01,"$2,162.18",DSL,yes,3.0,26/11/2024,new york,False
+CUST-1875,Aditya Wilson,27.0,F,"$111,837",71.0,m2m,Mailed Check,86.39,"$6,142.79",No,no internet,4.0,2020.11.21,  New York  ,no
+CUST-1053,  Sneha Martinez  ,71.0,female,"$71,517.00",13.0,Month to Month,mailed check,38.46,$499.98,Fiber,None,5.0,2024.03.11,Bengaluru,Y
+CUST-1546,Mark Wilson,36.0,M,"$67,570.00",49.0,month-to-month,Electronic Check,61.99,3029.28,FIBER,N,5.0,2022-05-22,Singapore,
+CUST-1069,Pooja Gupta,30.0,M,"$56,761",20.0,1-yr,Mailed Check,,$997.20,fiber optic,1,4.0,2020-01-03,Chennai,
+CUST-2069,Karen Garcia,47.0,m,"$2,269,838",-5.0,m2m,electronic check,35.91,462.60,NONE,TRUE,3.0,20/11/2021,Mumbai,yes
+CUST-2218,Elizabeth Sharma,37.0,female,"$114,920.00",56.0,Month to Month,E-Check,51.81,"$2,900.80",fiber optic,Y,4.0,05-22-2024,sydney,False
+CUST-1819,Susan Singh,51.0,other,"-$6,542",12.0,M2M,Electronic Check,55.36,665.98,DSL,1,4.0,28/02/2023,,
+CUST-1184,Linda Johnson,54.0,male,"$95,853.00",45.0,m2m,Mailed Check,30.68, ,None,no internet,5.0,06-21-2024,Phoenix,no
+CUST-1138,  Mark Kumar  ,135.0,female,"$111,522.00",5.0,month-to-month,,25.66,122.14,No,yes,4.0,2021-12-02,Los Angeles,N
+CUST-1133,Ananya Patel,59.0,m,"$85,970",12.6,Month to Month,Check,999.99,12597.08,no,,5.0,19/10/2021,Sydney,False
+CUST-1081,William Iyer,43.0,Female,"$97,693",28.0,one-year,credit card,104.71,,Fiber Optic,FALSE,4.0,2022-03-08,Hyderabad,Yes
+CUST-2254,James Garcia,37.0,female,"$92,385",51.0,m2m,credit card,82.95,4226.47,FIBER,0,,unknown,Bengaluru,True
+CUST-1106,Michael Gupta,23.0,FEMALE,"$117,209",16.0,Month-to-Month,Check,44.87,711.95,Fiber Optic,no,4.0,,Los Angeles,Yes
+CUST-2202,Linda Lopez,18.0,Male,"$170,359",10.0,2-yr,electronic check,66.72,674.34,DSL,No internet service,2.0,2021-12-08,delhi,False
+CUST-1542,Robert Patel,30.0,m,"$102,939",43.0,2-yr,credit card,750.5,"$32,276.58",fiber optic,0,2.0,invalid_date,Delhi,0
+CUST-1910,Christopher Patel,32.0,male,"$101,226",15.0,Month-to-Month,Credit Card,115.13,"$1,727.34",dsl,0,5.0,2023.04.13,houston,Yes
+CUST-1481,Neha Nair,18.0,Other,"$3,426,414",,Month-to-Month,credit card,84.9,2039.56,dsl,N,3.0,18/09/2024,Phoenix,No
+CUST-1166,  William Jones  ,39.0,MALE,"$77,164.00",54.0,2 year,credit card,69.57,3755.78,Fiber Optic,no,3.0,2023-09-19,Chennai,No
+CUST-1249,Aarav Smith,34.0,male,"$75,376",33.0,Month to Month,mailed check,66.7,"$2,205.40",No,,3.0,2023.07.14,Mumbai,No
+CUST-1308,Betty Jones,,f,"$166,696",,Two Year,Electronic Check,75.19,142.81,Dsl,,2.0,2024-12-16,London,Yes
+CUST-1447,Sneha Patel,37.0,Female,"$130,197.00",55.0,Month-to-Month,,115.15,6328.42,Fiber,No internet service,3.0,08-10-2020,New York,no
+CUST-2206,James Verma,50.0,Non-Binary,"$106,497",56.0,one-year,bank transfer,85.76,4802.26,NONE,FALSE,1.0,01-12-2022,  Delhi  ,No
+CUST-1335,Jessica Hernandez,44.0,Female,"$71,897",-2.0,two-year,Mailed Check,62.37,132.45,Dsl,0,1.0,2022.02.14,Berlin,N
+CUST-1098,DANIEL WILSON,66.0,FEMALE,,19.0,1 Year,,51.73,987.78,No,Y,4.0,2020-04-05,Sydney,No
+CUST-1807,Jessica Martinez,31.0,MALE,"$92,879.00",68.4,1 Year,Mailed Check,80.11,5482.79,Dsl,no,3.0,11/09/2023,Mumbai,N
+CUST-1738,Sarah Wilson,18.0,Other,"$73,190.00",44.0,m2m,electronic check,74.66,"$3,280.14",Fiber Optic,yes,3.0,2022.07.04,,no
+CUST-1949,David Nair,19.0,,,,Month to Month,electronic check,68.26,1232.70,Dsl,,5.0,17/08/2020,Berlin,0
+CUST-2034,Sneha Hernandez,47.0,f,"$1,991,003",40.0,m2m,Mailed Check,97.14,3893.11,Dsl,1,,2021.01.07,Singapore,N
+CUST-2171,Linda Reddy,24.0,MALE,"$84,398",20.0,2-yr,E-Check,25.81,513.13,FIBER,Y,5.0,2020-11-11,Berlin,No
+CUST-1103,Pooja Reddy,-4.0,FEMALE,"$75,730",20.0,month-to-month,E-Check,117.41,"$2,355.45",Fiber,no,1.0,2020-08-09,Chennai,No
+CUST-1435,  Sarah Jones  ,61.0,MALE,"$136,591",,,electronic check,60.36,300.34,None,,,24/05/2020,Delhi,No
+CUST-1075,SANDRA BROWN,21.0,female,"$84,294.00",59.0,1-yr,credit card,750.5,"$44,274.27",fiber optic,FALSE,5.0,06/07/2023,Berlin,False
+CUST-2387,Aarav Smith,43.0,female,"$101,848",,month-to-month,electronic check,110.17,1439.71,DSL,TRUE,3.0,2022.12.10,los angeles,no
+CUST-1933,Matthew Rodriguez,26.0,female,"$33,982",46.0,m2m,Mailed Check,37.21,,Fiber Optic,None,1.0,2024-09-02,Bengaluru,
+CUST-2406,David Kumar,19.0,MALE,"$89,415.00",38.0,month-to-month,Mailed Check,42.8,1618.45,No,TRUE,3.0,2020-04-26,Singapore,False
+CUST-1303,Robert Garcia,35.0,FEMALE,"$83,626",15.0,,,47.64,714.66,DSL,Y,3.0,22/05/2024,New York,0
+CUST-2337,Daniel Brown,,Non-Binary,"$143,627",55.0,Month to Month,Bank Transfer,108.48,5967.05,DSL,No internet service,5.0,2021-06-15,  New York  ,No
+CUST-2306,  Vikram Iyer  ,-3.0,other,"$43,326",69.0,,,34.83, ,FIBER,Y,4.0,20/07/2024,,0
+CUST-2401,joseph johnson,56.0,Male,"$49,273",5.7,Month to Month,electronic check,82.88,$479.91,no,0,2.0,2023.08.01,New York,False
+CUST-1763,Michael Davis,75.0,M,"$71,718.00",10.0,2 Year,Check,59.71,587.28,Dsl,TRUE,4.0,01-15-2024,Phoenix,Yes
+CUST-1734,Charles Wilson,41.0,,"$175,439.00",7.0,month-to-month,E-Check,105.43,746.62,No,Y,1.0,2023.06.26,  Berlin  ,no
+CUST-1389,Nancy Garcia,18.0,MALE,,32.0,1-yr,Credit Card,89.69,2866.27,dsl,Yes,4.0,2023.05.27,  Delhi  ,No
+CUST-1236,Vikram Martinez,48.0,male,121897,27.0,1 Year,bank transfer,0.0,1355.03,dsl,no,3.0,12-16-2024,Phoenix,No
+CUST-2288,Sarah Davis,,male,108034,56.0,,Mailed Check,97.92,5474.89,,No internet service,4.0,09-17-2021,Delhi,
+CUST-1268,BETTY LOPEZ,64.0,male,"$2,419,752",57.0,Month to Month,Bank Transfer (automatic),105.77,"$6,022.68",Fiber,No internet service,4.0,14/02/2022,London,False
+CUST-1306,William Lopez,22.0,f,"$88,430",26.0,Month-to-Month,Electronic Check,54.05,1408.04,No,no internet,2.0,2024.07.22,Chicago,1
+CUST-1839,Thomas Williams,51.0,MALE,"$100,824",16.0,2 Year,Mailed Check,70.12,1131.53,,No,2.0,2020.11.22,Berlin,Yes
+CUST-1118,Betty  Wilson,41.0,Male,"$88,826.00",10.0,M2M,E-Check,27.17,270.45,dsl,yes,4.0,2024-05-21,Berlin,No
+CUST-2253,James Iyer,41.0,m,"$96,619",4.0,Two Year,Bank Transfer,118.47,$475.46,no,Yes,4.0,11-13-2023,Toronto,Yes
+CUST-1674,  Susan Gupta  ,46.0,Non-Binary,"$136,072",18.0,month-to-month,Bank Transfer,104.66,1879.05,None,1,2.0,03-08-2020,,Yes
+CUST-1250,John Brown,52.0,MALE,"$77,506.00",63.0,1-yr,bank transfer,61.01,3843.18,Fiber Optic,no,4.0,08/05/2021,Singapore,True
+CUST-2439,arjun verma,-4.0,male,"$1,609,549",63.0,Month-to-Month,,93.93,5911.04,no,No internet service,2.0,N/A,Berlin,Yes
+CUST-2111,Matthew Jones,31.0,Non-Binary,"$58,255",41.0,two-year,Credit Card (automatic),61.66, ,Fiber,yes,5.0,06-09-2021,New York,No
+CUST-1072,William  Iyer,28.0,MALE,"$63,635",62.0,1 year,Check,22.19,1379.81,DSL,yes,3.0,,London,False
+CUST-1095,Anthony Singh,56.0,female,"$144,798",71.0,two-year,,,,NONE,Yes,3.0,2020-08-28,Delhi,1
+CUST-2238,Rohit  Gupta,18.0,female,"$67,379.00",72.0,2 Year,Check,79.36,5707.16,Fiber,,1.0,2022-05-04,Toronto,0
+CUST-1034,Margaret Brown,41.0,f,"$70,466",30.0,m2m,Check,1250.0,37495.10,dsl,,1.0,02-24-2023,hyderabad,0
+CUST-1800,Margaret Patel,23.0,FEMALE,"$202,377.00",52.0,M2M,electronic check,76.1,"$3,956.70",fiber optic,TRUE,3.0,2022-10-21,Chennai,N
+CUST-2135,Joseph Smith,31.0,m,"$66,250",14.2,month-to-month,bank transfer,102.69,1458.00,Fiber Optic,0,2.0,2022-01-17,Singapore,False
+CUST-1449,Nancy Rodriguez,52.0,m,,6.0,Month to Month,Mailed Check,77.73,$472.26,Fiber Optic,No,2.0,2021.12.27,bengaluru,N
+CUST-1446,rohit gonzalez,42.0,f,"$53,705",30.0,2 Year,mailed check,82.91,2478.14,,Y,4.0,28/06/2020,Los Angeles,yes
+CUST-1772,Nancy Brown,31.0,F,"$44,056.00",33.0,2 Year,Credit Card (automatic),117.89,"$3,888.49",dsl,1,3.0,04-24-2020,houston,No
+CUST-1717,  Vikram Jones  ,49.0,Male,"$3,324,903",21.0,month-to-month,Mailed Check,34.04, ,Fiber,None,5.0,,New York,No
+CUST-1944,Patricia Hernandez,,M,"$112,005.00",20.3,Two Year,E-Check,85.05,1719.05,Fiber Optic,None,3.0,12-04-2021,  Toronto  ,0
+CUST-2447,Mark Anderson,20.0,other,"$43,988.00",52.0,m2m,Mailed Check,55.1,,no,0,5.0,06-19-2022,Chicago,0
+CUST-2247,Robert Garcia,29.0,m,,64.0,2 year,mailed check,64.19,"$4,105.56",,Yes,2.0,2023-11-07,Berlin,no
+CUST-2066,Sneha Sharma,65.0,F,"$77,146.00",25.0,Month to Month,bank transfer,34.88,862.60,FIBER,no,5.0,10/07/2022,London,True
+CUST-1078,Charles Martinez,51.0,Female,"$62,923.00",,month-to-month,Bank Transfer (automatic),89.82,"$1,973.89",Dsl,TRUE,,07-17-2020,Berlin,No
+CUST-1085,  James Davis  ,21.0,Other,"$60,876.00",54.0,month-to-month,Check,101.31,5463.13,fiber optic,No internet service,1.0,05-25-2023,Hyderabad,Y
+CUST-1889,  Pooja Brown  ,44.0,Female,79306,69.0,m2m,credit card,118.3,"$8,157.15",FIBER,yes,,2023-12-23,  Berlin  ,no
+CUST-1083,Rohit Wilson,41.0,f,"$56,504",66.0,two-year,mailed check,95.01,6273.52,fiber optic,,-1.0,20/08/2020,Toronto,
+CUST-1458,Mark  Rodriguez,56.0,Other,"$171,031",60.0,2 year,E-Check,23.89,1434.07,dsl,None,2.0,06/09/2020,  Chicago  ,0
+CUST-1979,Thomas Miller,48.0,Male,"$73,609",46.0,Month to Month,Bank Transfer (automatic),,2291.76,Fiber,No,2.0,2020-04-11,Chennai,No
+CUST-1677,Charles Williams,,female,"$67,738",3.0,1 Year,mailed check,61.41,181.66,NONE,No internet service,2.0,26/04/2023,London,N
+CUST-2490,Robert Anderson,72.0,Female,"$85,600.00",41.0,one-year,mailed check,27.17,"$1,114.34",dsl,no internet,1.0,invalid_date,Sydney,No
+CUST-2109,Aarav Garcia,48.0,Male,"$106,135",40.0,1 year,Credit Card,85.42,"$3,408.41",None,yes,1.0,02-02-2021,Bengaluru,no
+CUST-1437,Elizabeth Brown,33.0,MALE,"$67,053",-2.0,One Year,Bank Transfer (automatic),100.21,1612.93,Fiber,TRUE,4.0,13/04/2024,Houston,Y
+CUST-1771,Jessica Williams,18.0,m,,40.0,One Year,E-Check,54.32,2173.12,FIBER,No internet service,5.0,05/02/2024,Toronto,Y
+CUST-1645,Margaret Kumar,-1.0,Other,"$117,041",41.0,Month to Month,electronic check,42.0,1724.07,,FALSE,3.0,10/01/2023,Bengaluru,0
+CUST-2161,John Wilson,30.0,FEMALE,70115,21.0,m2m,Check,112.16,2352.79,dsl,N,1.0,25/12/2022,Delhi,N
+CUST-1966,  Neha Johnson  ,41.0,Male,"$67,328.00",49.0,Month-to-Month,Credit Card (automatic),54.41,2663.14,No,1,3.0,2022-01-26,Berlin,0
+CUST-2234,  Matthew Smith  ,34.0,other,103480,7.0,month-to-month,Check,56.34,384.84,FIBER,no,1.0,26/10/2024,  New York  ,yes
+CUST-2156,Joseph  Rodriguez,67.0,MALE,"$1,782,551",30.0,Month-to-Month,Bank Transfer,38.77,1156.99,dsl,1,1.0,2024-07-26,toronto,No
+CUST-1405,Aarav Rodriguez,31.0,M,"$77,311.00",30.0,1 year,Electronic Check,65.59, ,DSL,yes,1.0,15/08/2024,Toronto,N
+,sneha gupta,55.0,Non-Binary,"$63,591",68.0,2 year,Electronic Check,96.49,6567.12,,None,2.0,01/09/2021,Chicago,N
+CUST-1994,  Karen Miller  ,44.0,male,"$79,046",10.0,Month to Month,Mailed Check,32.61,319.26,Dsl,FALSE,3.0,2023.11.12,Chennai,1
+CUST-2233,Patricia Patel,40.0,M,"$62,819",12.0,1 year,mailed check,23.55,279.84,None,1,4.0,15/07/2021,Chicago,0
+CUST-1105,Priya Lopez,46.0,Non-Binary,,17.0,Month-to-Month,Mailed Check,89.79,1523.93,Dsl,,1.0,2020-01-23,Los Angeles,Yes
+CUST-1610,James Patel,25.0,Female,"$109,706.00",34.0,Month-to-Month,,100.3,3410.50,Fiber Optic,None,4.0,2020.02.17,London,N
+CUST-1917,Robert Kumar,,m,"$64,091",37.0,month-to-month,electronic check,97.41,"$3,612.01",fiber optic,FALSE,4.0,2023-10-18,berlin,False
+CUST-1689,John Anderson,45.0,m,,8.0,1-yr,Check,81.38,$657.58,FIBER,1,,22/01/2021,Houston,1
+CUST-2232,  Aditya Gonzalez  ,32.0,,"$122,037.00",4.0,two-year,bank transfer,111.62,$442.54,DSL,yes,4.0,2024.10.14,hyderabad,True
+CUST-1827,  Aditya Gupta  ,50.0,FEMALE,"$117,988.00",10.0,month-to-month,bank transfer,59.47,586.96,dsl,TRUE,,18/03/2021,,
+CUST-2182,Linda Gonzalez,36.0,MALE,"$69,570",12.0,month-to-month,Bank Transfer (automatic),88.85,1076.08,NONE,yes,4.0,2022.02.19,,0
+CUST-2160,  Mark Garcia  ,25.0,MALE,"$61,525.00",24.0,M2M,Credit Card (automatic),106.46,"$2,548.15",None,yes,4.0,2021.01.28,chennai,N
+CUST-1063,Patricia Lopez,20.0,female,"$128,366",24.0,2 Year,Electronic Check,89.43,2154.61,None,Y,1.0,03/06/2023,New York,No
+CUST-1282,betty gonzalez,45.0,F,"$77,925",43.0,,E-Check,750.5,32276.63,Dsl,No internet service,5.0,2024.01.19,New York,
+CUST-1853,Pooja Rodriguez,68.0,F,"$145,190",59.0,Two Year,Bank Transfer,114.31,6747.37,None,No internet service,1.0,2020-02-15,Bengaluru,Yes
+CUST-1779,ARJUN WILSON,31.0,FEMALE,"$119,073",71.0,One Year,,77.52,5504.93,Fiber,None,4.0,14/09/2023,Chennai,No
+CUST-2047,Michael Miller,55.0,M,"$78,305",70.0,2-yr,mailed check,65.93,4622.79,No,Yes,1.0,12/08/2021,Sydney,N
+CUST-1239,susan sharma,59.0,FEMALE,"$43,515",41.0,2 Year,bank transfer,62.48,"$2,552.28",no,No internet service,3.0,14/04/2022,Sydney,No
+CUST-1224,Vikram  Nair,18.0,Female,"$86,798",,1 Year,Electronic Check,72.81,$431.97,FIBER,No,3.0,unknown,Chicago,No
+CUST-1146,Matthew  Johnson,,F,"$126,832.00",51.0,2 year,Mailed Check,47.55,"$2,417.69",DSL,N,-1.0,16/03/2021,London,0
+CUST-2445,  Robert Patel  ,52.0,FEMALE,"$57,151",-5.0,month-to-month,Mailed Check,79.67,,no,N,3.0,07-21-2024,Delhi,Y
+CUST-1374,Rohit Garcia,41.0,Other,"$132,127.00",46.0,one-year,Check,98.73,4536.19,dsl,yes,5.0,05/12/2021,Bengaluru,False
+CUST-2270,Charles Rodriguez,24.0,FEMALE,"$99,930",56.0,2 Year,Credit Card,74.55,"$4,180.32",Dsl,No internet service,2.0,2024-05-23,Delhi,False
+CUST-1119,  Sneha Jones  ,,f,"$107,474",45.0,M2M,Electronic Check,102.18,4591.73,NONE,No,1.0,02-07-2022,Mumbai,Y
+CUST-2164,karen nair,58.0,m,"$71,009.00",28.0,1 Year,Electronic Check,49.02,1372.76,Dsl,no,3.0,09/05/2021,Chennai,no
+CUST-1251,Pooja Williams,27.0,MALE,"$73,240",49.0,1 Year,bank transfer,29.45,1449.00,fiber optic,no internet,1.0,2021-08-01,Bengaluru,no
+CUST-2493,  Robert Hernandez  ,51.0,female,,54.0,m2m,Bank Transfer,40.47,2180.71,DSL,yes,2.0,25/12/2024,singapore,False
+CUST-2250,Nancy Gonzalez,36.0,Male,"$82,549",19.0,Month-to-Month,Bank Transfer (automatic),71.47,1360.15,NONE,,,2020.11.05,Berlin,no
+CUST-1951,Betty Gonzalez,52.0,FEMALE,,58.0,month-to-month,E-Check,30.54,1777.07,fiber optic,None,5.0,08-18-2021,Chicago,yes
+CUST-1010,  Margaret Rodriguez  ,35.0,male,"$65,354",72.0,,E-Check,73.2,"$5,272.05",Fiber,Yes,2.0,2021-11-04,Singapore,yes
+CUST-1450,Richard Sharma,,MALE,"$129,718.00",53.0,2-yr,E-Check,31.0,1645.97,NONE,N,5.0,2021-11-19,Chicago,Yes
+CUST-1940,Linda Gonzalez,25.0,other,"$57,689",53.0,2 year,bank transfer,109.43,5805.88,FIBER,N,3.0,01/07/2020,Toronto,False
+CUST-1709,Betty Miller,37.0,M,60249,39.0,,Check,103.36, ,DSL,FALSE,5.0,20/02/2023,New York,Y
+CUST-1256,Arjun Williams,43.0,FEMALE,202331,30.0,Month-to-Month,Electronic Check,750.5,22507.32,NONE,No,5.0,2024-04-28,Sydney,0
+CUST-1594,Linda Williams,57.0,other,,44.0,One Year,bank transfer,105.36,4637.30,NONE,No,2.0,14/07/2024,Sydney,0
+CUST-1390,Mark Jones,50.0,Female,"$119,972.00",22.0,2-yr,credit card,58.42,1280.93,Fiber Optic,yes,5.0,05/04/2023,,No
+CUST-2432,  Robert Sharma  ,45.0,Male,"$94,238.00",4.0,,mailed check,,191.87,NONE,1,,2022-06-11,  Houston  ,False
+CUST-2413,William Brown,30.0,MALE,"$90,187.00",49.0,month-to-month,Credit Card,83.51,"$4,087.26",dsl,TRUE,2.0,14/11/2024,mumbai,no
+CUST-1558,Matthew Reddy,57.0,FEMALE,"$101,635",1.0,Two Year,electronic check,85.33, ,NONE,Yes,1.0,10-08-2021,Chennai,False
+CUST-2331,David Davis,31.0,MALE,,,,Mailed Check,30.54,$549.95,Fiber Optic,yes,2.0,28/07/2024,Chicago,No
+CUST-1963,Jennifer Iyer,61.0,Female,"$49,339.00",13.0,2 year,Electronic Check,43.92,572.72,No,no,2.0,17/07/2023,Toronto,No
+CUST-1461,John Hernandez,,Male,,,one-year,Check,54.74,923.58,FIBER,Y,3.0,2022-11-02,Sydney,No
+CUST-1724,Sandra Patel,42.0,M,"$72,200.00",1.0,month-to-month,Bank Transfer (automatic),30.64,$23.78,dsl,,4.0,,London,1
+CUST-2428,Anthony Gupta,36.0,male,"$71,302.00",15.9,1 Year,Mailed Check,104.68,1661.59,Dsl,0,4.0,2023-04-17,Toronto,Y
+CUST-1145,pooja davis,34.0,MALE,"$92,605",-3.0,two-year,Check,100.66,,DSL,0,1.0,27/06/2022,Los Angeles,0
+CUST-1502,priya martinez,23.0,M,,24.0,M2M,Bank Transfer,61.56,"$1,468.03",,yes,2.0,27/05/2023,singapore,No
+CUST-2133,Anthony Smith,45.0,male,95112,19.0,one-year,bank transfer,75.24,"$1,427.49",dsl,0,3.0,2024-12-24,Chicago,yes
+CUST-1740,charles sharma,18.0,MALE,"$49,573.00",55.0,2 year,mailed check,999.99,54998.14,FIBER,Yes,4.0,2024-04-07,New York,Y
+CUST-2431,Mary Miller,18.0,M,,57.0,1 year,Mailed Check,18.55, ,dsl,No,3.0,08-06-2020,Phoenix,No
+CUST-1869,Sandra Iyer,28.0,male,125623,52.0,Month to Month,bank transfer,55.0,2851.74,dsl,TRUE,4.0,18/12/2023,New York,1
+CUST-1732,  Patricia Anderson  ,26.0,F,"-$19,836",19.0,two-year,Check,88.01,"$1,676.16",FIBER,FALSE,,2021-07-21,Singapore,No
+CUST-1540,Joseph Davis,48.0,Male,"$105,196",67.0,Month to Month,mailed check,88.16,"$5,914.87",None,1,,2021.07.23,Sydney,1
+CUST-1178,Elizabeth Miller,55.0,M,"$90,486",35.0,month-to-month,,46.63,,dsl,Y,3.0,03-26-2024,Berlin,No
+CUST-2495,Susan Gupta,45.0,F,"$98,258.00",15.0,2 Year,E-Check,100.26,1498.12,FIBER,TRUE,1.0,16/05/2024,Toronto,0
+CUST-1698,Elizabeth  Iyer,31.0,male,,32.0,2-yr,electronic check,109.52,3500.78,Fiber Optic,TRUE,2.0,03/04/2023,Mumbai,N
+CUST-2001,Michael  Wilson,45.0,Female,"$91,238.00",15.0,One Year,Credit Card (automatic),70.37,1049.90,None,No internet service,5.0,12-01-2022,Toronto,False
+CUST-2080,  Barbara Gupta  ,35.0,M,"$51,377.00",9.0,,electronic check,116.39,1047.48,DSL,no internet,4.0,2023-05-12,berlin,1
+CUST-1932,Aditya Smith,40.0,Male,"$70,052",39.0,1 Year,E-Check,72.61,"$2,830.69",Fiber Optic,FALSE,5.0,2021-09-02,new york,1
+CUST-2119,John Rodriguez,62.0,,"$114,713",,m2m,Credit Card,113.32,1465.04,Dsl,Y,4.0,2024-12-19,,No
+CUST-1734,Charles Wilson,41.0,,"$175,439.00",7.0,month-to-month,E-Check,106.93,746.62,No,Y,1.0,2023.06.26,  Berlin  ,no
+CUST-1008,Patricia Johnson,28.0,Other,,24.0,Month-to-Month,Bank Transfer (automatic),112.9,"$2,711.18",Fiber,No internet service,3.0,2021-05-13,Delhi,True
+CUST-1919,Karen Garcia,51.0,Other,"$80,004.00",44.0,two-year,E-Check,115.79,5101.54,DSL,0,2.0,2022-04-06,Los Angeles,No
+CUST-1668,Matthew Williams,35.0,MALE,"$102,052.00",67.0,Month to Month,Credit Card (automatic),22.66,"$1,516.90",,No,4.0,20/01/2022,  Singapore  ,yes
+CUST-2199,Margaret Hernandez,34.0,other,56263,38.0,Two Year,Credit Card,,"$1,897.23",no,None,4.0,01-19-2022,,False
+CUST-1358,Ananya Gonzalez,54.0,other,"$68,497.00",63.0,1 year,mailed check,19.93,1252.44,Fiber,No,3.0,2023.08.19,Singapore,no
+CUST-1784,Joseph Brown,48.0,Non-Binary,"$85,527",18.0,m2m,mailed check,69.57,1253.35,dsl,TRUE,3.0,2024-05-22,Phoenix,Y
+CUST-1736,Matthew Martinez,49.0,f,"$68,253",5.0,m2m,bank transfer,750.5,"$3,744.56",FIBER,1,1.0,19/10/2020,Delhi,no
+CUST-1330,mark hernandez,25.0,male,"$122,640",17.0,2 Year,Credit Card,87.39, ,fiber optic,no internet,,2022-05-22,Delhi,True
+CUST-2086,Sneha Gonzalez,21.0,Male,"$124,776.00",67.0,Two Year,E-Check,87.93,5889.63,NONE,0,1.0,2024.04.14,  Phoenix  ,N
+CUST-2273,  Vikram Iyer  ,46.0,Male,"$93,237.00",12.0,2-yr,,94.25,1128.75,FIBER,,2.0,02/03/2023,New York,False
+CUST-2346,JESSICA HERNANDEZ,33.0,Non-Binary,,47.0,two-year,,26.21,,Fiber Optic,,5.0,2024-03-16,Houston,
+CUST-1259,charles jones,47.0,Male,"$160,381.00",19.0,m2m,Bank Transfer (automatic),28.13,$528.06,no,no,4.0,2021-01-04,Toronto,No
+CUST-1937,Michael Nair,42.0,F,"$122,615",46.0,month-to-month,,104.68,"$4,806.11",None,No,4.0,17/06/2023,Toronto,No
+CUST-2215,Mark Verma,26.0,male,"$131,489",27.0,Two Year,,50.91,1372.48,No,no internet,,12-23-2020,Toronto,True
+CUST-1373,Thomas Patel,31.0,f,"$101,474",33.0,m2m,Bank Transfer,85.47,"$2,820.89",Fiber Optic,No internet service,-1.0,02-18-2020,Mumbai,No
+CUST-2139,Richard Kumar,35.0,m,"$69,311.00",64.0,month-to-month,mailed check,86.11, ,no,Yes,3.0,2024.05.14,Bengaluru,0
+CUST-1986,Mark Johnson,39.0,Female,"$50,566.00",14.1,1 year,E-Check,40.95,585.62,DSL,1,5.0,13/08/2020,Mumbai,0
+CUST-1143,Joseph Patel,29.0,f,"$92,983",54.0,1 year,mailed check,61.31,,Dsl,Y,5.0,2024.08.12,Mumbai,N
+CUST-1526,Ananya Davis,30.0,f,"$2,609,684",63.0,Two Year,mailed check,61.48,3880.12,No,no,1.0,07-23-2021,Singapore,no
+CUST-2175,Aditya Nair,40.0,Non-Binary,"$55,067",69.0,M2M,electronic check,99.65,"$6,868.12",NONE,No internet service,4.0,2020-05-25,,0
+CUST-1233,ARJUN HERNANDEZ,38.0,F,,72.0,2 Year,Electronic Check,38.68, ,FIBER,FALSE,3.0,11/10/2024,chicago,No
+CUST-2158,William Nair,38.0,other,"$40,225.00",-4.0,one-year,Bank Transfer (automatic),33.31,$395.51,Fiber,N,1.0,2020-08-15,Singapore,no
+CUST-2470,Arjun Iyer,25.0,m,"$111,088",17.0,m2m,Mailed Check,56.39, ,None,No internet service,,,chicago,True
+CUST-1441,Betty Singh,44.0,FEMALE,"$74,973.00",24.0,,Bank Transfer,67.31,1608.40,FIBER,No internet service,4.0,2020-01-21,  Chennai  ,0
+CUST-1532,Barbara Williams,26.0,other,"$61,949",31.0,month-to-month,Mailed Check,45.87,1412.75,fiber optic,no internet,5.0,2024-04-18,Sydney,N
+CUST-2243,Lisa Singh,44.0,f,"$39,023",72.0,Month to Month,Check,44.6, ,Fiber,1,2.0,2021.01.26,  Phoenix  ,no
+CUST-1227,Christopher Gupta,38.0,other,"$73,768",44.0,M2M,E-Check,110.96,"$4,872.33",FIBER,0,0.0,01-27-2024,Los Angeles,N
+CUST-2089,Lisa  Gupta,49.0,,"$103,500",,m2m,Check,67.66,"$1,357.83",dsl,No internet service,1.0,04-28-2020,New York,no
+CUST-1229,Pooja Jones,56.0,Other,"$111,559.00",3.0,2 year,bank transfer,64.01,194.85,Fiber,TRUE,5.0,12/08/2023,,No
+CUST-2323,Joseph Gupta,43.0,MALE,,32.0,One Year,E-Check,106.9,"$3,423.73",Fiber Optic,Yes,4.0,unknown,Delhi,No
+CUST-2341,Matthew Anderson,48.0,Other,"$88,377.00",67.0,month-to-month,mailed check,60.17,4030.80,Fiber,FALSE,5.0,10-07-2024,  Bengaluru  ,False
+CUST-1213,mary brown,53.0,FEMALE,"$161,765.00",51.0,Month-to-Month,E-Check,60.17,3070.24,No,FALSE,5.0,invalid_date,Mumbai,False
+CUST-1886,Michael Sharma,27.0,Female,"$82,260",61.0,month-to-month,bank transfer,26.71,1622.75,Dsl,FALSE,4.0,2022.11.08,Chennai,N
+CUST-1080,Sarah Williams,33.0,M,,30.0,Month-to-Month,Bank Transfer (automatic),26.31,789.69,,Yes,4.0,2021-08-03,sydney,Y
+CUST-1149,  Lisa Brown  ,38.0,F,"$95,194.00",63.0,2 year,Electronic Check,64.41,"$4,048.26",dsl,no,,2022-06-21,  Hyderabad  ,True
+CUST-1815,Sarah Johnson,30.0,m,"$98,433",66.0,m2m,Credit Card,23.13,1536.41,DSL,No internet service,4.0,2021-12-20,London,no
+,Betty Iyer,36.0,female,,,month-to-month,bank transfer,62.75,1076.13,Fiber,FALSE,3.0,,Phoenix,0
+CUST-2371,Charles Kumar,46.0,Male,"$87,694.00",60.0,1 Year,Electronic Check,,3002.96,,No,2.0,2024.11.10,Toronto,1
+CUST-1672,robert miller,57.0,male,,34.0,1-yr,E-Check,88.11,"$2,995.09",DSL,No,5.0,13/09/2024,Phoenix,Y
+CUST-2194,Arjun Miller,34.0,Female,"$95,875.00",70.0,one-year,Mailed Check,46.4,3255.76,DSL,yes,3.0,2024-05-13,Mumbai,No
+CUST-1556,Barbara Garcia,36.0,M,85808,7.0,two-year,credit card,66.5,456.83,dsl,TRUE,2.0,2020-08-22,Phoenix,No
+CUST-1968,Pooja Verma,44.0,female,"$92,982",14.0,Month-to-Month,mailed check,86.52,1218.69,fiber optic,No,2.0,21/06/2022,Hyderabad,Y
+CUST-1134,MATTHEW NAIR,37.0,M,"$114,713.00",52.0,Two Year,electronic check,50.27,2609.39,FIBER,N,5.0,2023-07-06,,N
+CUST-2287,Sandra Patel,39.0,male,"$61,794",45.0,2 Year,Credit Card,117.73, ,FIBER,N,4.0,16/04/2023,,0
+CUST-1934,Patricia Miller,43.0,MALE,"$71,902.00",55.0,month-to-month,electronic check,,2754.54,Fiber,None,5.0,2020.11.19,,N
+CUST-2316,Margaret Williams,44.0,MALE,"$59,779",,one-year,electronic check,55.26,"$1,261.48",None,,,2023.02.21,Los Angeles,No
+CUST-1824,Jennifer Johnson,30.0,Other,"$79,724.00",5.0,month-to-month,Electronic Check,87.11,$426.59,DSL,TRUE,,12-01-2023,Bengaluru,No
+CUST-1409,thomas davis,27.0,Female,"$83,900.00",,two-year,Credit Card (automatic),50.88,1117.28,Fiber Optic,FALSE,1.0,2021-10-02,  New York  ,0
+CUST-1369,Anthony Gonzalez,46.0,male,"$109,431",39.0,Month-to-Month,Bank Transfer,20.09,788.10,,No internet service,2.0,03-05-2024,New York,N
+CUST-1508,Betty Reddy,49.0,Female,"$98,664.00",65.2,M2M,mailed check,68.06,4432.47,Dsl,no,4.0,2022.02.25,Singapore,N
+CUST-2222,AARAV PATEL,49.0,Non-Binary,"$98,991",62.0,Month-to-Month,mailed check,27.76,"$1,727.09",dsl,No,1.0,2024-03-04,Chicago,no
+CUST-1505,margaret garcia,52.0,f,69806,58.0,Two Year,Bank Transfer,61.69,"$3,581.23",Dsl,0,1.0,07-02-2020,london,N
+CUST-2376,Robert Garcia,68.0,other,"$64,485",-2.0,m2m,Mailed Check,67.77,670.59,dsl,yes,,10-12-2021,,No
+CUST-1348,Matthew Gupta,24.0,Non-Binary,"$119,853",15.0,1 Year,mailed check,103.13,"$1,539.18",FIBER,No internet service,3.0,07/05/2024,  Singapore  ,Yes
+CUST-1387,Pooja Brown,180.0,other,"$69,939.00",26.0,month-to-month,Mailed Check,81.29,2111.08,dsl,0,4.0,invalid_date,Los Angeles,0
+CUST-1001,Linda Smith,47.0,Male,"$81,240.00",4.0,month-to-month,Mailed Check,90.28,359.51,Fiber Optic,no,3.0,2022.03.07,Los Angeles,N
+CUST-2031,William  Johnson,21.0,m,78626,34.0,two-year,electronic check,37.89,1295.66,No,TRUE,1.0,22/09/2023,Bengaluru,N
+CUST-1361,AARAV VERMA,38.0,m,"$64,041",40.0,One Year,Credit Card (automatic),50.5,"$2,019.41",FIBER,No,4.0,22/11/2022,sydney,Y
+CUST-1895,Sneha Gupta,47.0,M,"$95,832.00",6.0,2-yr,credit card,77.58,466.00,DSL,None,4.0,,Houston,0
+CUST-1829,Sarah Garcia,30.0,Female,"$60,830.00",25.0,M2M,credit card,32.71,818.86,DSL,Yes,3.0,2023-10-05,Los Angeles,No
+CUST-2462,Michael Garcia,-3.0,M,"$123,264",15.0,M2M,Bank Transfer (automatic),39.11,$578.38,FIBER,,,10/11/2023,London,yes
+CUST-1476,  Anthony Gupta  ,18.0,,"$62,052.00",61.0,Two Year,credit card,78.83,4803.90,Dsl,yes,4.0,2021.02.05,Toronto,False
+CUST-2324,Arjun  Singh,54.0,Other,"$85,712.00",3.0,M2M,bank transfer,1250.0,3753.23,Fiber Optic,Yes,2.0,04-09-2022,Houston,0
+CUST-1058,sandra rodriguez,38.0,MALE,"$64,392.00",38.0,one-year,E-Check,101.41,3845.31,fiber optic,no,,04-15-2023,Phoenix,Y
+CUST-1638,Thomas Iyer,40.0,Other,84504,70.0,Month-to-Month,Check,76.1,5334.61,Dsl,Yes,5.0,11/03/2020,Phoenix,N
+CUST-2350,  Karen Jones  ,56.0,male,"$61,340",8.0,,Electronic Check,112.56,$903.67,dsl,,4.0,2024.02.23,Sydney,False
+CUST-2084,  Pooja Smith  ,-6.0,M,"$121,720.00",69.0,Month to Month,Mailed Check,68.84,4749.72,DSL,no internet,1.0,2024-11-25,Sydney,yes
+CUST-2014,robert lopez,30.0,Male,"$86,487",45.0,one-year,Bank Transfer,94.62, ,Dsl,FALSE,5.0,26/09/2024,London,No
+CUST-1173,  Karen Gonzalez  ,18.0,female,"$52,067.00",38.0,one-year,mailed check,48.46,1833.62,Dsl,yes,2.0,2020-12-19,Sydney,False
+CUST-1451,Betty Jones,46.0,Male,99221,,month-to-month,Mailed Check,97.26,1079.41,dsl,yes,2.0,2021-07-12,London,Yes
+CUST-1126,William Rodriguez,61.0,Non-Binary,"$113,129.00",,One Year,Mailed Check,56.1,$615.28,Fiber,1,3.0,2024-05-22,Hyderabad,0
+CUST-1039,Aditya Reddy,60.0,f,"$90,787.00",61.0,Month to Month,bank transfer,,3046.21,Fiber,Yes,5.0,19/08/2023,berlin,0
+CUST-1531,Karen Patel,42.0,M,"$80,829.00",28.0,2 Year,E-Check,114.39,3201.19,None,No internet service,5.0,04-25-2020,Phoenix,0
+CUST-1858,  Christopher Wilson  ,-10.0,f,"$81,206",66.0,Month-to-Month,Credit Card (automatic),,3300.24,Fiber,FALSE,5.0,2020.11.22,Singapore,yes
+CUST-1714,Matthew Brown,37.0,M,"$2,095,504",10.0,One Year,Credit Card (automatic),59.7,$606.32,Fiber,no internet,3.0,11-16-2021,new york,False
+CUST-1091,Matthew Lopez,29.0,M,"$183,315.00",4.0,1-yr,credit card,113.57,460.49,DSL,No,,01/04/2024,,no
+CUST-2499,Joseph  Brown,35.0,f,"$52,520.00",47.0,Month-to-Month,Electronic Check,,"$2,351.54",,no,4.0,04-13-2020,Houston,yes
+CUST-1182,Linda Sharma,53.0,female,"$81,274",9.0,m2m,electronic check,47.41,$418.88,dsl,yes,1.0,22/07/2022,Mumbai,
+CUST-1876,david jones,18.0,female,,53.0,1 year,E-Check,95.27,5043.79,NONE,yes,3.0,10/02/2022,Chennai,no
+CUST-2401,joseph johnson,56.0,Male,"$49,273",5.7,Month to Month,electronic check,84.38,$479.91,no,0,2.0,2023.08.01,New York,False
+CUST-1787,Pooja Gupta,39.0,m,"$92,506.00",11.0,Month-to-Month,Bank Transfer,93.57,1037.85,Fiber,FALSE,5.0,09-16-2023,Delhi,False
+CUST-1415,Nancy Verma,60.0,male,"$117,476.00",18.0,two-year,Credit Card,1250.0,22509.81,Dsl,,2.0,11-23-2021,Mumbai,False
+CUST-1252,  Barbara Singh  ,33.0,Female,"$115,320.00",,month-to-month,electronic check,110.03,,DSL,TRUE,1.0,2022-01-19,sydney,Yes
+CUST-1070,Jennifer Kumar,54.0,other,"$98,629.00",35.0,Month-to-Month,electronic check,67.04, ,fiber optic,FALSE,2.0,2023-02-05,Mumbai,False
+CUST-1804,Robert Brown,53.0,female,97414,65.0,Month-to-Month,Electronic Check,113.66,7392.35,Dsl,yes,4.0,2023-06-28,Berlin,1
+CUST-1132,Lisa Nair,35.0,male,"$93,569.00",27.0,Month to Month,mailed check,36.53,$987.83,Fiber,None,4.0,2021.03.26,sydney,no
+CUST-1301,Ananya Anderson,33.0,female,"$98,163",66.0,m2m,Electronic Check,,"$3,308.56",fiber optic,0,5.0,,  Los Angeles  ,
+CUST-2056,Ananya Wilson,58.0,F,"$89,407",70.0,month-to-month,credit card,21.27,"$1,493.72",Fiber Optic,None,2.0,2023.08.20,  Chennai  ,no
+CUST-1327,elizabeth brown,55.0,Female,"$83,234",69.0,Two Year,Mailed Check,46.75,3224.28,FIBER,Yes,1.0,2023-07-16,Phoenix,No
+CUST-1136,Arjun Anderson,67.0,f,123134,30.0,2 Year,electronic check,48.93, ,None,TRUE,4.0,05-01-2023,  Chennai  ,False
+CUST-2179,susan hernandez,44.0,M,"$67,560",27.0,m2m,Bank Transfer (automatic),58.46,1573.04,fiber optic,Yes,,2020-12-15,Phoenix,Y
+CUST-1500,charles johnson,31.0,FEMALE,"$67,265.00",55.0,2-yr,Bank Transfer,86.38,4748.34,fiber optic,Yes,3.0,2023-07-01,sydney,No
+CUST-1342,Jennifer Reddy,135.0,Male,70904,2.0,Month to Month,Check,49.36,107.57,Dsl,Yes,3.0,05/05/2021,Singapore,Y
+CUST-1833,Pooja Wilson,18.0,f,"$87,748.00",30.0,month-to-month,Electronic Check,88.13,"$2,650.57",fiber optic,No internet service,5.0,01-20-2021,Phoenix,Yes
+CUST-1365,Christopher Lopez,28.0,Other,"$128,999",26.0,1-yr,E-Check,32.56,845.11,Dsl,,3.0,2020.10.14,Singapore,0
+CUST-1496,aarav williams,60.0,Male,"$83,086",20.0,month-to-month,E-Check,114.75,"$2,300.05",Fiber Optic,TRUE,2.0,04/01/2021,,Y
+CUST-2441,Karen Williams,21.0,Non-Binary,"$108,093",72.0,two-year,electronic check,95.66,6886.09,dsl,N,4.0,04/06/2020,singapore,0
+CUST-1339,Priya Singh,44.0,FEMALE,"$52,429",60.0,2-yr,Bank Transfer (automatic),106.35,6374.82,No,Y,1.0,2024-05-11,  Phoenix  ,Y
+CUST-1422,Robert Sharma,43.0,F,"$58,837",29.0,2 Year,,105.78,3058.17,NONE,yes,2.0,26/10/2023,Singapore,N
+CUST-1165,Margaret Singh,22.0,Male,157850,8.0,M2M,Credit Card (automatic),100.78,813.46,FIBER,FALSE,4.0,2024-04-22,Hyderabad,no
+CUST-1029,Patricia Nair,31.0,Other,"$141,799",33.0,one-year,bank transfer,49.47,1634.10,Fiber,TRUE,2.0,17/06/2024,Chicago,N
+CUST-1517,James Rodriguez,30.0,male,"$68,274.00",15.0,Two Year,electronic check,94.66,1414.46,dsl,None,,27/06/2024,Phoenix,1
+CUST-1194,  Elizabeth Anderson  ,68.0,F,,9.0,Month-to-Month,Credit Card,51.28,463.98,Dsl,FALSE,4.0,09/09/2023,Hyderabad,
+CUST-2474,ananya garcia,50.0,FEMALE,"$110,165.00",39.0,one-year,,57.27,2232.51,FIBER,,5.0,11-10-2023,  Berlin  ,False
+CUST-2408,Michael Sharma,33.0,male,"$70,117.00",35.0,Month to Month,E-Check,33.93,"$1,178.58",FIBER,,3.0,2021.12.02,Los Angeles,0
+CUST-1946,Nancy Lopez,18.0,male,"$87,947",39.0,1 year,E-Check,68.02,"$2,649.07",Fiber,Yes,,22/09/2023,New York,Y
+CUST-2407,Mary Kumar,39.0,MALE,"$63,887.00",27.0,,,28.91,772.66,None,yes,5.0,07-15-2022,Mumbai,no
+CUST-1170,Jessica Kumar,39.0,F,"$83,669",,m2m,Electronic Check,53.74,$477.52,fiber optic,None,1.0,2020-10-05,London,no
+CUST-1168,NEHA SMITH,135.0,Non-Binary,"$135,428.00",15.0,1 year,bank transfer,99.49,1496.37,DSL,Yes,5.0,2021.08.25,Houston,1
+CUST-1653,Arjun Wilson,74.0,female,"$47,648",3.0,M2M,Check,113.88,344.58,FIBER,FALSE,1.0,2024-07-28,  Bengaluru  ,
+CUST-1174,Mary  Johnson,48.0,FEMALE,"$3,192,619",67.0,M2M,E-Check,25.72,"$1,723.02",No,yes,,05-27-2020,  Chicago  ,No
+CUST-1519,JESSICA GUPTA,45.0,FEMALE,"$113,923",69.0,month-to-month,Bank Transfer,19.76,"$1,369.46",DSL,no internet,2.0,2020.07.20,Mumbai,1
+CUST-2377,Margaret Anderson,46.0,,"$89,377",62.0,2 Year,bank transfer,104.58,"$6,493.91",Fiber,No,1.0,2023-12-08,Bengaluru,no
+CUST-2221,Jennifer Anderson,,female,"$142,762",29.0,1 Year,Check,499.0,14463.43,Fiber Optic,,1.0,2020.12.27,Los Angeles,
+CUST-1913,Jennifer Rodriguez,40.0,other,"$144,886.00",46.0,1 Year,,19.2,,dsl,no,2.0,09-13-2021,Phoenix,False
+CUST-1492,mary hernandez,48.0,other,"$60,205",13.0,1-yr,bank transfer,0.0,$651.06,no,no,5.0,2021.06.18,Los Angeles,False
+CUST-1954,Margaret Verma,38.0,female,"$123,821",40.0,Month to Month,Credit Card (automatic),40.56,1623.51,dsl,TRUE,2.0,,Singapore,
+CUST-1074,  Nancy Iyer  ,41.0,other,"$139,889",72.0,m2m,electronic check,37.19,2675.59,NONE,FALSE,,04-09-2021,Los Angeles,N
+CUST-2296,mary martinez,48.0,FEMALE,56610,49.0,Month-to-Month,,104.03,5099.34,,0,2.0,05/04/2020,,N
+CUST-1588,Margaret Rodriguez,48.0,male,"$79,175.00",24.0,1-yr,electronic check,104.64,,Fiber,0,0.0,02/06/2020,  Mumbai  ,N
+CUST-1751,Linda Iyer,62.0,Other,"$71,785",18.0,two-year,credit card,32.42,585.04,Dsl,No,3.0,12-03-2023,Phoenix,False
+CUST-1658,Barbara Lopez,42.0,M,"$54,030",33.0,two-year,Electronic Check,93.29,"$3,080.56",Fiber Optic,,3.0,2022.01.21,Berlin,No
+CUST-1235,Mary Garcia,34.0,,"$73,105",15.0,month-to-month,Electronic Check,55.83,837.99,dsl,No internet service,2.0,2021-04-18,Chennai,0
+CUST-1733,  William Jones  ,51.0,,"$60,267.00",17.0,Month to Month,bank transfer,118.03,2013.49,fiber optic,None,4.0,24/12/2023,bengaluru,N
+CUST-2223,Sandra Rodriguez,,f,"$2,940,688",45.0,1-yr,bank transfer,106.55,4799.44,No,yes,4.0,2021-01-18,New York,True
+CUST-2269,  Christopher Iyer  ,55.0,Female,"$99,685",70.0,One Year,bank transfer,94.66,"$6,623.87",Fiber Optic,N,2.0,,Bengaluru,0
+CUST-1935,ananya nair,54.0,m,"$108,140.00",16.9,Month-to-Month,Bank Transfer (automatic),52.46,880.43,Fiber Optic,,3.0,2023-02-18,New York,0
+CUST-1109,Aditya Kumar,34.0,female,"$131,627.00",32.0,m2m,E-Check,79.94, ,NONE,No internet service,,2023-06-08,Hyderabad,no
+CUST-1569,David Garcia,18.0,male,,53.0,2-yr,bank transfer,96.31,,NONE,Y,5.0,unknown,Houston,True
+CUST-1891,Sneha Rodriguez,36.0,Other,"$97,963",44.0,1-yr,Electronic Check,108.43,4778.21,Dsl,0,5.0,2024-08-16,Hyderabad,Yes
+CUST-1948,Michael Gupta,33.0,Male,"$107,045.00",16.0,,mailed check,54.14,873.59,FIBER,yes,5.0,08-04-2024,Mumbai,0
+CUST-2365,Patricia Verma,48.0,M,156111,23.0,month-to-month,Bank Transfer,101.57,"$2,329.39",None,N,2.0,2023.11.27,,False
+CUST-1885,  James Singh  ,,FEMALE,"$37,875.00",,Month-to-Month,Bank Transfer (automatic),47.09,375.21,FIBER,FALSE,3.0,invalid_date,Berlin,True
+CUST-2308,Thomas Hernandez,46.0,M,92289,7.0,1-yr,Electronic Check,0.0,352.73,None,FALSE,2.0,2021.05.21,Berlin,no
+CUST-1851,Elizabeth  Anderson,52.0,Female,"$81,266",58.0,M2M,bank transfer,71.16, ,None,no,5.0,02-06-2022,phoenix,No
+CUST-1735,Rohit Reddy,38.0,,"$141,051",35.0,Month to Month,Check,87.38,3052.12,fiber optic,FALSE,5.0,02/04/2020,,0
+CUST-1718,  Michael Singh  ,53.0,female,70662,22.0,2 year,Mailed Check,62.28,,Dsl,TRUE,1.0,2024-08-17,hyderabad,Y
+CUST-1455,Robert Brown,42.0,M,"$41,618",5.0,M2M,mailed check,107.7,530.37,DSL,None,2.0,2020-08-23,  Sydney  ,no
+CUST-1265,Jessica Gupta,35.0,male,"$59,255.00",30.0,Month-to-Month,Credit Card,103.24,"$3,088.73",Fiber Optic,Y,4.0,22/07/2020,Delhi,0
+CUST-1076,Barbara Hernandez,26.0,Other,"$101,038",72.0,1 Year,mailed check,102.7,"$7,386.05",dsl,,3.0,08-19-2021,Hyderabad,1
+CUST-1445,Linda  Anderson,19.0,f,"$77,436",36.0,2-yr,Bank Transfer,99.36,"$3,571.97",No,No internet service,2.0,2024-12-18,  Sydney  ,False
+CUST-1396,Patricia Hernandez,61.0,Other,"$101,844.00",,1-yr,mailed check,89.04,$362.21,None,1,4.0,18/09/2021,Phoenix,no
+CUST-1177,John Johnson,57.0,male,"$87,396.00",4.7,one-year,Bank Transfer,25.6,119.22,Fiber,Yes,1.0,2021.12.14,houston,No
+CUST-2043,Priya Williams,,f,"$69,697.00",2.0,m2m,Electronic Check,104.76,$201.02,Fiber,FALSE,3.0,2022-07-23,,False
+CUST-2354,David Singh,47.0,MALE,"$72,397",44.0,one-year,E-Check,83.05,"$3,659.96",No,Yes,3.0,2022-09-16,Hyderabad,False
+CUST-2440,  David Lopez  ,67.0,m,"$197,950",63.0,month-to-month,Electronic Check,55.03,"$3,463.84",dsl,no internet,1.0,2024.03.20,chennai,0
+CUST-2235,James Nair,47.0,Non-Binary,"$100,313.00",35.0,2 year,electronic check,98.29,3448.51,DSL,yes,0.0,01/12/2024,  Toronto  ,0
+CUST-1596,Christopher Johnson,51.0,F,90962,68.0,m2m,Bank Transfer (automatic),26.41,1796.07,DSL,1,,11/11/2020,Sydney,N
+CUST-1062,neha smith,-10.0,,"$79,302.00",52.0,M2M,Electronic Check,118.1,6149.53,Dsl,No internet service,2.0,2024-04-14,Chennai,False
+CUST-1873,Daniel Jones,42.0,other,"$49,208.00",55.9,month-to-month,Credit Card,42.83,"$2,402.13",,1,5.0,12-21-2024,Mumbai,N
+CUST-2157,Sneha Sharma,63.0,f,"$178,032.00",55.0,M2M,Credit Card,82.78,4547.85,Fiber Optic,0,5.0,06-01-2022,London,No
+CUST-2453,Nancy Gupta,43.0,F,"$2,959,855",43.0,,Credit Card (automatic),44.19,1901.01,no,,5.0,10/09/2020,Chennai,0
+CUST-1279,Anthony Nair,60.0,F,"$33,394.00",69.0,2 Year,E-Check,76.43,5278.64,Fiber Optic,Yes,4.0,2021.02.02,Singapore,yes
+CUST-1037,Pooja Sharma,57.0,m,,28.0,2-yr,Electronic Check,,1393.51,Dsl,N,,01/07/2020,Mumbai,False
+CUST-1663,Arjun Williams,40.0,other,"$67,679.00",31.0,two-year,credit card,45.37,"$1,415.90",no,N,1.0,27/06/2020,Sydney,Yes
+CUST-2398,Barbara Davis,45.0,Other,"$129,115",40.0,month-to-month,E-Check,,2003.25,fiber optic,0,1.0,2022-12-20,Berlin,Yes
+CUST-2121,Sneha Singh,44.0,M,"$56,339.00",9.0,one-year,credit card,35.17,317.77,dsl,No internet service,5.0,,Los Angeles,N
+CUST-1978,Anthony Sharma,48.0,Non-Binary,"$55,639",43.0,m2m,Bank Transfer,63.55,2739.04,NONE,0,1.0,06-03-2022,Bengaluru,N
+CUST-1739,James Patel,31.0,Male,"$78,897.00",22.0,2 Year,Check,30.12,$662.67,FIBER,FALSE,5.0,2020.01.15,New York,yes
+CUST-1192,Michael Garcia,33.0,m,"$64,168",16.0,M2M,electronic check,74.35, ,Fiber Optic,TRUE,3.0,18/04/2023,  Bengaluru  ,False
+CUST-1920,David Garcia,22.0,f,"$47,851",19.0,1-yr,Credit Card (automatic),40.05,770.90,FIBER,0,1.0,01-07-2020,New York,No
+CUST-1457,Karen Gupta,47.0,F,"$81,376",69.0,m2m,Electronic Check,33.91,,fiber optic,1,5.0,2024.10.11,Chennai,False
+CUST-1676,charles davis,23.0,FEMALE,"$88,958.00",58.0,month-to-month,Electronic Check,91.28,5284.92,NONE,,1.0,unknown,Mumbai,N
+CUST-1761,  Mary Lopez  ,41.0,Female,"$65,297",11.0,month-to-month,,23.62,$253.37,Dsl,No internet service,5.0,01-07-2024,Mumbai,True
+CUST-2399,joseph gonzalez,44.0,Female,,24.0,Month-to-Month,Credit Card,110.36,2653.46,Dsl,No internet service,3.0,10/09/2020,Sydney,Y
+CUST-1729,Richard Gupta,31.0,male,"$44,135.00",56.3,One Year,Bank Transfer,61.4,3455.44,no,,2.0,2022-06-12,Houston,N
+CUST-1413,  Aditya Sharma  ,26.0,MALE,"$77,195",60.0,Month-to-Month,Mailed Check,114.68,6885.00,Fiber,,2.0,12-15-2021,New York,False
+CUST-1826,Karen Jones,,MALE,91998,4.0,m2m,Check,73.07, ,fiber optic,no,2.0,2020.08.02,Toronto,no
+CUST-1617,Thomas Reddy,,male,"$90,965.00",64.0,2 year,Check,43.47,2780.66,Fiber,0,1.0,09/09/2024,New York,No
+CUST-1115,Vikram Kumar,42.0,Non-Binary,"$87,118.00",66.0,Month-to-Month,Check,34.63,2275.69,No,Y,5.0,26/08/2022,Sydney,0
+CUST-1418,JENNIFER SHARMA,142.0,Female,"$88,858.00",5.0,M2M,Bank Transfer,59.66, ,Fiber Optic,no internet,,08-09-2021,Berlin,Yes
+CUST-2475,Anthony Martinez,39.0,Non-Binary,"$98,771.00",45.0,Month-to-Month,E-Check,53.04,2386.11,fiber optic,FALSE,2.0,2021-08-25,Phoenix,True
+CUST-1970,Lisa Lopez,28.0,F,"$97,396",8.0,one-year,Bank Transfer,51.56,419.21,no,yes,1.0,17/04/2021,Toronto,False
+CUST-1605,Sneha Williams,,M,"$93,538.00",39.0,month-to-month,Electronic Check,1250.0, ,fiber optic,no internet,2.0,2020-10-09,Sydney,No
+CUST-2481,William Verma,59.0,female,66541,70.0,Month to Month,E-Check,91.49,"$6,397.33",FIBER,TRUE,3.0,07/06/2022,New York,False
+CUST-1090,Ananya Davis,19.0,FEMALE,"$90,452",63.0,M2M,mailed check,21.11,1320.52,FIBER,0,2.0,2020-04-22,  Sydney  ,no
+CUST-1849,  Matthew Williams  ,22.0,Female,"$63,556.00",17.0,1 Year,credit card,107.56,1826.70,dsl,,,2022-02-09,hyderabad,0
+CUST-2183,  Christopher Iyer  ,45.0,Female,"$63,664",12.0,2 Year,Credit Card (automatic),57.29,$695.02,dsl,yes,5.0,,Mumbai,False
+CUST-2480,SARAH BROWN,49.0,male,"$67,966",33.0,One Year,Electronic Check,38.73,1278.22,Fiber,no,5.0,N/A,Delhi,False
+CUST-1754,Vikram Rodriguez,28.0,Female,"$61,985",26.0,1 Year,Check,32.72,847.01,No,Yes,,2021.06.18,New York,N
+CUST-1499,Robert Kumar,,Other,"$103,180",30.0,1-yr,E-Check,62.92,1879.31,dsl,yes,5.0,2020-06-11,Singapore,
+CUST-1012,  Thomas Johnson  ,75.0,female,"$97,996.00",25.0,m2m,,72.48,1816.84,Fiber Optic,no internet,1.0,09-10-2022,Toronto,False
+CUST-1397,  Michael Johnson  ,40.0,M,96256,57.0,one-year,Mailed Check,113.4,6471.51,No,1,4.0,2021.02.26,London,No
+CUST-1285,Mark Iyer,54.0,Non-Binary,,52.0,M2M,Credit Card (automatic),69.88,"$3,630.03",FIBER,Yes,1.0,27/12/2021,Los Angeles,No
+CUST-2067,Daniel Jones,50.0,f,"$56,612",20.0,Month to Month,Credit Card (automatic),104.4,2096.78,Fiber Optic,yes,1.0,2020.05.23,Bengaluru,N
+CUST-1691,Margaret  Gupta,44.0,Other,"$94,971",59.0,1 Year,credit card,118.4,6982.69,NONE,Yes,2.0,2020-06-11,,N
+CUST-2272,Jessica Jones,36.0,Female,"$75,621.00",54.0,Month to Month,electronic check,63.97,3446.17,Fiber,Yes,,08-20-2020,mumbai,no
+CUST-2450,Michael Jones,22.0,F,"$114,659.00",6.0,Two Year,Electronic Check,23.56,134.19,Fiber,no,1.0,08-17-2024,Los Angeles,No
+CUST-1690,  Nancy Kumar  ,43.0,F,"$75,223.00",13.0,one-year,Bank Transfer (automatic),67.47,874.87,No,No internet service,2.0,2021-08-25,Bengaluru,1
+CUST-1852,Margaret Anderson,40.0,f,,51.0,Month-to-Month,E-Check,83.06,"$4,241.80",Fiber Optic,Y,,2022.08.10,Chennai,0
+CUST-1160,  Mark Verma  ,39.0,F,"$119,531",40.0,two-year,Bank Transfer (automatic),112.54,4494.25,Dsl,No internet service,,28/11/2020,Delhi,N
+CUST-1896,Sandra Williams,49.0,M,"$63,190",49.0,1-yr,electronic check,93.58,4578.14,dsl,yes,4.0,2020-12-08,Berlin,False
+CUST-2230,Elizabeth Gupta,34.0,FEMALE,"$39,303",6.0,month-to-month,Electronic Check,39.07,$236.73,Fiber Optic,FALSE,3.0,2021-07-10,  London  ,Y
+CUST-1258,Susan Kumar,51.0,F,"$92,113.00",21.0,2 year,mailed check,117.78,2471.20,fiber optic,0,2.0,10-28-2022,Toronto,False
+CUST-1336,DAVID JONES,37.0,female,"$89,501",43.0,two-year,E-Check,19.48,$830.65,no,no,5.0,unknown,Los Angeles,Yes
+CUST-2454,  Arjun Anderson  ,36.0,Female,"$133,587",17.0,1 Year,Credit Card,44.28, ,FIBER,Y,3.0,2023-12-26,Los Angeles,yes
+CUST-2040,anthony wilson,,Male,"$78,987",-6.0,M2M,Credit Card (automatic),20.49, ,no,FALSE,5.0,11/06/2024,Chicago,No
+CUST-1516,William Hernandez,31.0,M,"$86,369.00",65.0,2-yr,Check,118.09, ,No,1,4.0,2023.12.16,singapore,N
+CUST-2016,  Karen Sharma  ,29.0,FEMALE,"-$5,513",65.0,Month-to-Month,Electronic Check,96.35,"$6,265.94",dsl,Y,4.0,2024.10.20,Phoenix,yes
+CUST-1769,  Neha Nair  ,37.0,Other,"$138,980",53.0,2 Year,Check,499.0,"$26,454.83",fiber optic,N,2.0,07-07-2020,Delhi,no
+CUST-2360,  Thomas Williams  ,,,"$53,951.00",,Month-to-Month,electronic check,69.98,$137.70,Fiber,N,5.0,2021-06-03,,N
+CUST-1762,betty johnson,40.0,m,"$79,239.00",59.0,1-yr,bank transfer,33.16,"$1,957.27",fiber optic,None,2.0,01-28-2020,  Houston  ,no
+CUST-2138,Barbara Davis,24.0,FEMALE,"$58,614.00",55.0,1-yr,Check,93.8,5150.95,Fiber Optic,0,4.0,,Hyderabad,N
+CUST-1522,MATTHEW SINGH,46.0,other,"$88,293.00",14.0,Month-to-Month,credit card,21.52,294.42,fiber optic,0,5.0,2024-04-06,,yes
+CUST-1023,Sarah Verma,18.0,FEMALE,"$104,567.00",3.0,2-yr,Mailed Check,83.81,245.06,dsl,no internet,3.0,2022.11.04,Toronto,0
+CUST-1357,THOMAS REDDY,,m,"$185,706",47.0,1-yr,Credit Card (automatic),49.05,"$2,308.82",None,Y,3.0,2021-01-28,chennai,0
+CUST-2315,Mary Iyer,49.0,FEMALE,"$53,062",20.0,Month to Month,Credit Card,,1002.71,Fiber Optic,yes,,2021.07.16,london,N
+CUST-1341,Richard Iyer,,female,"$123,145",47.0,1 Year,Check,25.01,1175.50,FIBER,,5.0,03-21-2023,New York,True
+CUST-1432,Betty Verma,69.0,f,"$123,687.00",53.0,m2m,Electronic Check,78.63,4163.36,FIBER,Yes,2.0,04-14-2020,Delhi,N
+CUST-1474,Linda Rodriguez,38.0,M,"$85,805.00",6.0,two-year,Mailed Check,,300.28,NONE,,,N/A,Chennai,No
+CUST-1218,Patricia Iyer,46.0,Non-Binary,"$82,798.00",41.0,Two Year,credit card,33.22,1364.90,Dsl,N,4.0,,Toronto,0
+CUST-1912,lisa anderson,27.0,M,"$100,687.00",16.0,m2m,Credit Card (automatic),26.13,411.41,,Y,3.0,2023-06-09,Houston,no
+CUST-2246,Daniel Gonzalez,36.0,M,"$153,103.00",60.0,1 year,Bank Transfer,40.2,2406.79,DSL,TRUE,3.0,10-01-2022,Toronto,No
+CUST-2012,vikram reddy,51.0,F,,29.0,,Check,52.74,1538.05,FIBER,No internet service,5.0,01/11/2024,London,no
+CUST-2036,Matthew Davis,47.0,Male,"$61,130.00",1.0,1-yr,credit card,30.72,35.93,Fiber,1,2.0,05-04-2020,Hyderabad,0
+CUST-1094,Anthony Garcia,42.0,m,"$72,074.00",29.0,Month-to-Month,Bank Transfer (automatic),50.45,"$1,454.53",Fiber Optic,No,5.0,01/12/2023,Chennai,yes
+CUST-2009,Pooja Rodriguez,,m,"-$5,613",54.0,Month to Month,bank transfer,, ,fiber optic,Y,,2020-08-02,bengaluru,False
+CUST-2071,Robert Rodriguez,,m,"$112,220.00",53.0,m2m,credit card,750.5,39782.42,Dsl,FALSE,4.0,2020-05-15,los angeles,Yes
+CUST-2093,arjun verma,57.0,Male,"$75,867",60.0,m2m,Electronic Check,91.27,5473.24,fiber optic,None,4.0,2020-10-21,Berlin,no
+CUST-1697,Linda Nair,35.0,Male,,51.0,2-yr,Electronic Check,103.62,5288.22,Fiber Optic,yes,4.0,14/04/2024,new york,0
+CUST-2388,Anthony Anderson,61.0,FEMALE,"$83,956.00",38.0,M2M,Credit Card (automatic),750.5,"$28,514.25",Dsl,TRUE,4.0,02/03/2024,Hyderabad,Yes
+CUST-1997,Linda  Davis,37.0,M,"$104,206",63.0,Two Year,Bank Transfer (automatic),41.46,2620.24,no,no internet,1.0,07-02-2020,Chennai,1
+,Christopher Singh,36.0,Male,"-$19,725",11.0,1 Year,bank transfer,34.53,$370.71,fiber optic,yes,1.0,05-10-2023,Phoenix,yes
+CUST-2100,Mark Gupta,58.0,Other,"$68,875",68.0,1-yr,Credit Card (automatic),96.81,"$6,573.41",dsl,0,3.0,2021-01-17,Houston,0
+CUST-2343,Mark Wilson,62.0,Other,"$77,145",3.5,1 Year,Credit Card (automatic),88.17,310.23,fiber optic,N,2.0,2021-03-26,Toronto,No
+CUST-2112,David Nair,,Male,"$141,169.00",56.0,Month to Month,Mailed Check,85.87,"$4,724.71",dsl,Yes,5.0,05-25-2021,New York,0
+CUST-1790,Priya  Sharma,20.0,Non-Binary,,2.0,M2M,mailed check,115.79,$232.27,Fiber,No,5.0,06-20-2022,,N
+CUST-1581,Pooja Wilson,34.0,male,"$128,154",3.0,two-year,Bank Transfer,114.07,$339.90,No,TRUE,5.0,2024.10.19,Mumbai,No
+CUST-1704,karen miller,48.0,M,115385,16.2,M2M,electronic check,51.91,834.66,dsl,FALSE,2.0,17/10/2022,Chicago,N
+CUST-2302,Pooja Anderson,53.0,MALE,"$105,399",55.0,2 year,Credit Card,19.32,"$1,062.96",no,yes,1.0,unknown,Phoenix,yes
+CUST-1488,Sarah Patel,18.0,male,"$82,404",37.0,month-to-month,E-Check,115.51,4272.43,Fiber Optic,No internet service,3.0,08/11/2022,Los Angeles,No
+CUST-1560,  Barbara Davis  ,,Male,"$78,768",49.0,Month to Month,mailed check,46.98, ,,1,3.0,09-22-2022,Phoenix,No
+CUST-2120,Linda Singh,27.0,m,"$228,580.00",21.0,2 year,bank transfer,64.01, ,Dsl,FALSE,4.0,2021-04-14,los angeles,N
+,Patricia Brown,65.0,,"$95,099",20.0,Month to Month,E-Check,72.78,1451.71,FIBER,Yes,5.0,07-21-2022,Sydney,
+CUST-1513,Neha Jones,63.0,MALE,"$119,534",6.0,Month-to-Month,mailed check,24.7,148.96,None,yes,2.0,2020-09-19,  New York  ,
+CUST-1634,David Davis,,female,"$89,687.00",29.0,2-yr,E-Check,21.85,635.27,no,no,2.0,03-10-2021,Chicago,No
+CUST-2146,James Sharma,39.0,FEMALE,"$63,238.00",60.0,2-yr,Credit Card,115.25, ,DSL,1,4.0,25/02/2021,Berlin,yes
+CUST-2384,Betty Garcia,-3.0,MALE,"$79,347.00",52.0,1 year,Mailed Check,64.2,3337.26,Dsl,1,4.0,2024-06-23,  Chicago  ,0
+CUST-1791,Robert Garcia,24.0,male,89752,33.7,two-year,Electronic Check,28.23,952.00,Fiber Optic,no,1.0,2022-07-07,Singapore,1
+CUST-1117,John Martinez,47.0,Female,"$79,399.00",,month-to-month,Credit Card,39.11,944.14,None,,1.0,2020-02-02,Los Angeles,True
+CUST-1741,Matthew Gupta,51.0,F,"$79,329",10.0,two-year,credit card,, ,dsl,FALSE,,06-16-2020,Los Angeles,No
+CUST-2082,Mark Martinez,41.0,other,"$92,288",56.0,m2m,credit card,92.16,5153.68,NONE,yes,1.0,10-11-2023,  Mumbai  ,Y
+CUST-1831,Lisa Hernandez,-4.0,FEMALE,"-$24,711",3.0,2 Year,electronic check,104.64,323.18,FIBER,None,4.0,N/A,Los Angeles,False
+CUST-1120,Richard Hernandez,70.0,f,42292,22.0,,Electronic Check,82.74,1817.47,FIBER,N,4.0,06/02/2024,Phoenix,N
+CUST-1657,patricia rodriguez,43.0,MALE,"$63,364",51.0,m2m,credit card,36.24,1845.78,None,0,5.0,04-11-2021,Singapore,False
+CUST-2472,Pooja Hernandez,56.0,M,"$3,383,751",3.0,two-year,Bank Transfer,97.37,$288.43,Fiber,No internet service,1.0,2024-11-26,Sydney,False
+CUST-1636,Mark Hernandez,38.0,F,"$102,129",62.0,m2m,electronic check,45.98,2854.12,no,yes,5.0,02-15-2023,New York,0
+CUST-1370,Anthony Garcia,55.0,F,"$127,461.00",15.0,Two Year,mailed check,55.91,$841.09,,,2.0,2023-01-18,Hyderabad,no
+CUST-1269,  Matthew Jones  ,25.0,,"$80,928.00",44.0,M2M,Bank Transfer,46.79,,fiber optic,no,1.0,12-08-2022,Delhi,0
+CUST-1656,Sarah Verma,57.0,other,"$76,796",36.0,2 Year,Mailed Check,41.64, ,FIBER,0,4.0,2022-10-03,Chennai,no
+CUST-1936,  Aditya Reddy  ,57.0,female,,16.0,1 year,E-Check,62.41,1004.46,Dsl,,2.0,2024-04-23,Singapore,N
+CUST-1823,Matthew Verma,43.0,,"$80,524.00",53.0,M2M,electronic check,66.25,3518.50,NONE,FALSE,,2021.10.19,Bengaluru,True
+CUST-1867,Arjun Brown,63.0,MALE,"$65,363.00",61.0,1-yr,,18.64,"$1,145.24",,TRUE,4.0,22/01/2020,  Toronto  ,No
+CUST-1047,CHRISTOPHER GUPTA,40.0,F,"$88,477",,2-yr,Bank Transfer,116.75,353.67,Dsl,No,5.0,N/A,  Bengaluru  ,True
+CUST-2334,Mary  Lopez,57.0,F,,53.0,M2M,Bank Transfer (automatic),106.24,"$5,639.42",Fiber,no,2.0,2023.10.25,Toronto,0
+CUST-1992,Linda Jones,24.0,f,"$48,338.00",5.0,Month-to-Month,E-Check,40.23,$199.02,Dsl,N,3.0,03-14-2022,,N
+CUST-1877,PRIYA WILLIAMS,40.0,Male,"$77,700.00",58.0,Two Year,Credit Card (automatic),,"$2,899.41",Fiber,Y,4.0,2023-02-25,Houston,no
+CUST-1774,Aarav Miller,55.0,F,"$2,877,540",38.0,two-year,E-Check,35.62,1348.97,Dsl,Yes,2.0,08/12/2021,new york,N
+CUST-1411,Susan Reddy,37.0,M,"$86,149.00",40.0,,Credit Card,114.92,4533.35,DSL,no internet,3.0,2021-02-20,,
+CUST-1005,lisa martinez,32.0,Female,"-$20,924",69.0,two-year,bank transfer,71.4,4935.89,Dsl,Y,3.0,2023-09-15,mumbai,0
+CUST-2004,Margaret Kumar,39.0,m,"$53,525",14.0,two-year,bank transfer,109.51,1542.54,dsl,FALSE,4.0,05-06-2020,Berlin,1
+CUST-2345,matthew miller,60.0,MALE,"$35,280.00",5.0,2-yr,electronic check,106.3,534.30,No,no,5.0,01-09-2022,Phoenix,yes
+CUST-1264,michael brown,38.0,MALE,"-$16,432",37.0,1 year,Electronic Check,113.39,4192.33,NONE,no,5.0,2021-11-05,phoenix,N
+CUST-2224,John Williams,70.0,Male,"$93,442",8.0,Month to Month,credit card,107.01,,FIBER,No internet service,4.0,2021.10.13,Hyderabad,False
+CUST-2416,Richard Sharma,37.0,female,47267,52.0,M2M,,66.75,"$3,467.72",,no internet,1.0,23/04/2024,  Phoenix  ,Yes
+CUST-1444,Richard Smith,-4.0,Other,"-$13,460",38.0,1 Year,electronic check,34.93,,no,None,1.0,2020-03-28,houston,N
+CUST-2003,Priya Sharma,-8.0,F,"$85,812.00",28.0,1-yr,Credit Card (automatic),100.14,2808.21,no,no,2.0,2023.06.10,Sydney,0
+CUST-2078,Charles Jones,66.0,female,"$78,958.00",26.0,1 year,Credit Card,51.95,1349.04,Dsl,Y,,2022-03-01,  Phoenix  ,False
+CUST-1838,Daniel Hernandez,58.0,female,"$57,281.00",39.0,2 Year,Electronic Check,34.17,"$1,339.75",Fiber Optic,None,,2020.04.27,Mumbai,N
+CUST-2386,Betty  Martinez,39.0,male,"$65,025",,Month to Month,E-Check,93.42,"$2,233.85",Fiber,FALSE,5.0,19/05/2020,Singapore,No
+CUST-1305,Pooja Verma,43.0,MALE,"$79,925.00",1.6,two-year,Mailed Check,47.55,69.33,Fiber,,,unknown,,No
+CUST-2214,Mark Gonzalez,68.0,MALE,"$89,119.00",37.0,Month to Month,Mailed Check,23.53, ,,Yes,1.0,05/02/2024,Houston,yes
+CUST-1314,Thomas Gonzalez,-3.0,Other,"$104,527",65.0,M2M,,29.62,"$1,933.65",,Y,1.0,04-18-2021,Sydney,Yes
+CUST-1150,Mary Patel,61.0,MALE,"$76,609",30.0,M2M,electronic check,51.51,"$1,539.44",DSL,no internet,5.0,2021-07-25,  Berlin  ,No
+CUST-2149,Michael Miller,35.0,FEMALE,"$112,862",32.0,M2M,Credit Card,0.0,"$1,591.67",DSL,no,3.0,2020-12-19,Los Angeles,N
+CUST-1575,Joseph Singh,-2.0,M,"-$10,665",48.0,1 year,Bank Transfer (automatic),72.47,3479.43,no,No internet service,1.0,09/06/2024,,Y
+CUST-1051,Aditya Rodriguez,51.0,Male,"$63,959.00",62.0,m2m,Electronic Check,34.35,2128.99,Fiber,N,2.0,2022-09-18,Los Angeles,Y
+CUST-2211,Aditya Iyer,18.0,M,"$96,584",6.0,Month-to-Month,Check,78.61,,Fiber,No,2.0,2020-04-27,Toronto,False
+CUST-1727,Sneha Williams,54.0,Female,"$101,690",8.0,month-to-month,Electronic Check,81.26,648.92,NONE,yes,2.0,2023-02-18,singapore,0
+CUST-1834,elizabeth anderson,41.0,MALE,"$135,728",9.0,Month to Month,Mailed Check,82.07,731.15,Fiber,N,3.0,19/03/2021,Sydney,False
+CUST-2116,Ananya Gupta,26.0,other,"$103,878.00",38.0,2 year,mailed check,62.86,"$2,386.25",FIBER,yes,,2020-09-01,Houston,no
+CUST-2167,Pooja Martinez,47.0,f,"$57,344.00",30.0,One Year,Bank Transfer,1250.0, ,FIBER,No internet service,3.0,2023-02-14,Phoenix,N
+CUST-1471,Neha Iyer,18.0,female,"$60,967.00",59.0,M2M,E-Check,76.57,"$4,519.01",dsl,,3.0,2024.10.26,Chicago,no
+CUST-1972,  Elizabeth Sharma  ,21.0,Male,87465,26.0,m2m,credit card,24.1,623.89,dsl,Y,3.0,04/03/2023,London,False
+CUST-1654,Mary Davis,57.0,F,"$73,257",34.0,month-to-month,E-Check,83.76,2844.52,NONE,No internet service,3.0,05-06-2021,Bengaluru,no
+CUST-1400,  Nancy Nair  ,50.0,Non-Binary,"$58,855",16.0,month-to-month,E-Check,37.1,585.43,DSL,,,2022-11-17,Toronto,Y
+CUST-1512,  Sandra Patel  ,40.0,MALE,"$63,917.00",24.0,2 Year,credit card,84.98,2047.82,Dsl,FALSE,5.0,10-10-2023,Mumbai,Yes
+CUST-1321,  Neha Iyer  ,65.0,,"$68,146.00",,One Year,Credit Card,20.12,$242.25,Fiber Optic,TRUE,1.0,11/04/2021,London,no
+CUST-1020,Sneha  Verma,43.0,female,"$81,897",16.0,1-yr,E-Check,87.69,"$1,407.81",Dsl,No,3.0,2021-06-06,Chicago,no
+CUST-1685,  Sneha Johnson  ,57.0,,"$138,931",6.0,Two Year,Check,94.96,565.37,,Y,2.0,24/10/2020,Phoenix,No
+CUST-1036,daniel smith,33.0,Female,"$101,702.00",28.0,m2m,electronic check,51.02,1430.48,Fiber Optic,N,4.0,15/10/2023,hyderabad,N
+CUST-1903,  Charles Hernandez  ,21.0,,"$77,596",34.0,Month-to-Month,Check,113.84,3875.14,Fiber Optic,N,3.0,2020-12-23,Sydney,No
+CUST-1828,John Garcia,38.0,F,"$66,137",1.0,m2m,mailed check,25.2,$25.17,No,,4.0,28/03/2023,New York,0
+CUST-2486,John Gonzalez,54.0,,"$69,140.00",48.0,1 year,Electronic Check,84.58,"$4,056.92",DSL,None,5.0,03/08/2024,Phoenix,yes
+CUST-1408,JOHN IYER,25.0,f,,17.0,Month-to-Month,Electronic Check,112.75,1921.84,FIBER,Yes,5.0,14/09/2020,  Chicago  ,yes
+CUST-1921,Jessica Sharma,-9.0,FEMALE,"$43,580.00",29.0,m2m,bank transfer,,"$1,457.80",Dsl,TRUE,3.0,28/08/2024,  Chennai  ,N
+CUST-1538,David  Hernandez,39.0,Female,,49.0,month-to-month,Credit Card (automatic),64.55,3164.59,Dsl,no,2.0,2022-06-28,,0
+CUST-1759,jessica brown,51.0,male,"$68,506",9.0,Month to Month,Electronic Check,81.53,725.47,Fiber,1,1.0,2020.11.21,Chennai,N
+CUST-2063,Sandra Iyer,59.0,Other,"$43,427.00",31.0,Month to Month,Electronic Check,0.0,1540.55,No,1,3.0,,Los Angeles,False
+CUST-2200,Arjun Kumar,45.0,Other,,11.0,Month-to-Month,E-Check,57.36,632.38,dsl,no internet,3.0,,New York,N
+CUST-1246,Arjun Sharma,43.0,f,"$93,131.00",50.0,one-year,E-Check,87.43,"$4,374.83",,no internet,2.0,2024.10.23,Chennai,True
+CUST-2128,Rohit Kumar,-9.0,female,"$68,033",67.0,,Electronic Check,40.91,2739.84,NONE,Y,2.0,2023-02-11,Toronto,N
+CUST-1785,Mark Kumar,25.0,Female,"$74,990.00",72.0,Month-to-Month,Electronic Check,,3598.43,FIBER,Y,10.0,04-21-2023,,No
+CUST-1490,robert verma,53.0,Female,"$48,416",,month-to-month,credit card,,141.18,None,TRUE,5.0,01/06/2023,  Bengaluru  ,no
+CUST-1155,Thomas Smith,47.0,Female,"$87,462",61.0,m2m,E-Check,,3045.56,None,,3.0,,Chennai,True
+CUST-1962,KAREN VERMA,35.0,FEMALE,"$66,067",3.0,Month to Month,electronic check,84.19,261.50,Fiber,,3.0,2021-07-02,Toronto,False
+CUST-1854,JENNIFER RODRIGUEZ,180.0,m,"$52,836",67.0,M2M,bank transfer,56.0,"$3,753.35",DSL,None,2.0,10/01/2020,Chennai,no
+CUST-1626,Aarav Patel,25.0,Female,"$79,649",30.0,one-year,Credit Card,102.76,3079.29,Fiber Optic,yes,4.0,2024.07.05,Hyderabad,False
+CUST-1686,Robert Verma,38.0,other,"$119,909",,one-year,Credit Card,70.63,"$1,206.83",DSL,yes,4.0,2020-12-21,Toronto,False
+CUST-1570,Nancy Verma,-3.0,Male,"$67,115.00",69.0,Month to Month,credit card,113.45,7830.59,DSL,No,1.0,17/02/2020,Houston,0
+CUST-2473,  Neha Hernandez  ,48.0,male,"$91,170",48.0,Month-to-Month,bank transfer,68.94,3301.62,Fiber Optic,TRUE,9.0,,Hyderabad,False
+CUST-1018,Jessica Brown,75.0,Female,"$128,490.00",48.0,Month to Month,,67.64,3243.96,DSL,1,3.0,25/09/2024,Toronto,Yes
+CUST-1128,Arjun Johnson,31.0,FEMALE,,67.0,Month-to-Month,bank transfer,41.73,"$2,786.63",,Y,3.0,2023-07-19,,No
+CUST-1564,Charles Iyer,27.0,m,"$84,402.00",,M2M,mailed check,24.92,200.69,Fiber,Yes,4.0,2022-07-28,Bengaluru,False
+,Joseph Martinez,49.0,other,"$103,391.00",46.0,One Year,Credit Card (automatic),52.08,2402.81,Fiber,TRUE,4.0,04-19-2022,Chennai,N
+CUST-1981,Robert Kumar,,M,"$46,749.00",38.0,1 Year,Check,,1899.46,FIBER,Yes,2.0,2022-09-27,singapore,N
+CUST-1476,  Anthony Gupta  ,18.0,,"$62,052.00",61.0,Two Year,credit card,78.83,4803.90,Dsl,yes,4.0,2021.02.05,Toronto,False
+CUST-1191,James Brown,69.0,M,"$76,142",61.1,2 year,Electronic Check,96.78,"$5,913.36",No,no,2.0,2024-01-24,Hyderabad,no
+CUST-2140,rohit martinez,34.0,female,"$90,975.00",72.0,M2M,Bank Transfer,66.1,4760.72,None,no,1.0,10/06/2021,Toronto,N
+CUST-1993,Priya Rodriguez,53.0,M,"$121,196.00",48.0,month-to-month,Mailed Check,32.28,1548.25,Fiber Optic,0,4.0,unknown,Toronto,0
+CUST-2020,JENNIFER PATEL,65.0,MALE,"$103,003.00",52.0,1 year,Check,999.99,"$51,993.14",Fiber,N,2.0,06/11/2022,,
+CUST-2294,  Aarav Martinez  ,64.0,F,"$62,507",32.0,1 Year,Bank Transfer,27.08,$862.01,dsl,0,2.0,11/05/2024,Hyderabad,no
+CUST-1607,VIKRAM WILSON,47.0,f,"$94,106",8.0,2 year,mailed check,20.87,165.73,No,FALSE,5.0,2021-02-14,,0
+CUST-1181,Patricia Verma,55.0,Other,"$45,271",,M2M,bank transfer,39.02,312.95,Dsl,None,2.0,09/06/2022,new york,False
+CUST-1302,  Robert Patel  ,54.0,FEMALE,"$84,401",35.0,month-to-month,Bank Transfer,89.26,"$3,114.16",NONE,no,1.0,2021.03.11,New York,
+CUST-1497,Ananya Anderson,42.0,F,,56.0,month-to-month,Check,83.73,4684.91,Fiber,Yes,5.0,2023-11-17,New York,1
+CUST-2335,Robert Patel,18.0,F,"$109,196",69.0,1-yr,Mailed Check,76.28,5257.00,dsl,1,4.0,N/A,  Mumbai  ,False
+CUST-2299,Margaret Reddy,24.0,Female,"$119,616.00",,Month-to-Month,Electronic Check,71.28,277.88,fiber optic,None,,03-21-2021,berlin,N
+,Neha Smith,33.0,MALE,"$87,556",33.0,m2m,bank transfer,59.89,,No,no,1.0,02-09-2024,delhi,False
+CUST-1518,Joseph  Verma,50.0,female,,55.0,Month to Month,electronic check,33.1,"$1,828.10",None,no internet,5.0,2024.12.24,Chennai,False
+CUST-2070,Patricia  Anderson,61.0,Male,"$109,040",23.0,two-year,,99.98,2294.74,No,No,4.0,24/04/2022,Singapore,Yes
+CUST-1477,Vikram Williams,62.0,Other,"$67,851",49.0,m2m,E-Check,50.36,2468.56,fiber optic,Yes,5.0,09/05/2022,Chicago,True
+CUST-1158,RICHARD SINGH,46.0,m,"$174,484.00",51.0,1 year,Credit Card (automatic),102.09,5206.17,,yes,5.0,08-26-2022,New York,N
+CUST-2196,Jessica Miller,61.0,,"$57,636.00",52.0,month-to-month,E-Check,25.43,"$1,314.23",no,yes,,08-07-2021,Phoenix,No
+CUST-1017,  Jennifer Sharma  ,52.0,Non-Binary,"$54,929",6.0,two-year,Electronic Check,42.41,246.75,dsl,no,1.0,04/05/2021,Chennai,no
+CUST-2073,  Thomas Garcia  ,-2.0,male,"$62,598",61.0,m2m,E-Check,110.46, ,no,Y,5.0,08-11-2022,Houston,0
+CUST-1462,patricia wilson,67.0,other,"$103,319",68.0,Month-to-Month,Electronic Check,105.24,7156.89,No,Y,2.0,2024.08.16,Houston,No
+CUST-1547,Arjun Gupta,48.0,Other,58124,49.0,month-to-month,Mailed Check,90.7,4439.93,no,N,2.0,2021.05.07,,No
+CUST-1659,Karen Kumar,40.0,,"$99,445.00",3.0,M2M,Mailed Check,103.07,299.87,Fiber,no internet,2.0,11/01/2022,chicago,Y
+CUST-1244,  Barbara Martinez  ,20.0,Male,"$126,388",28.0,1 year,E-Check,,1400.46,DSL,Y,5.0,2020-01-25,Houston,True
+CUST-2020,JENNIFER PATEL,65.0,MALE,"$103,003.00",52.0,1 year,Check,999.99,"$51,993.14",Fiber,N,2.0,06/11/2022,,
+CUST-2300,robert gupta,48.0,male,"$101,014",4.0,2 Year,electronic check,103.91,415.34,fiber optic,no internet,5.0,N/A,sydney,True
+CUST-1960,Linda Davis,40.0,other,,4.0,m2m,electronic check,499.0,"$1,993.73",no,no internet,2.0,2023-06-17,London,False
+CUST-2456,ELIZABETH GARCIA,29.0,Male,"$67,868.00",13.0,m2m,Electronic Check,104.26,"$1,346.25",FIBER,TRUE,,2020-07-08,Berlin,False
+CUST-1284,WILLIAM HERNANDEZ,35.0,Other,"$83,251.00",10.0,2 year,Bank Transfer,499.0,4997.41,No,FALSE,3.0,09/02/2021,Los Angeles,True
+CUST-1798,Sarah Gupta,73.0,m,"$124,606",,Month to Month,credit card,117.78,943.44,dsl,Yes,5.0,2020-06-08,Houston,False
+CUST-1226,Vikram Wilson,40.0,,"$55,125.00",22.0,,Credit Card,43.65,970.28,Fiber,,5.0,2020-05-03,Chicago,no
+CUST-1027,Thomas Hernandez,24.0,male,"$113,972.00",63.0,Two Year,Bank Transfer (automatic),110.82,6986.60,Fiber Optic,Y,1.0,2022-01-10,Houston,no
+CUST-1438,  Jennifer Brown  ,45.0,,"$76,908",69.9,two-year,Credit Card (automatic),21.78,1529.29,no,No,,,New York,yes
+CUST-1613,Nancy Brown,18.0,other,"$92,366.00",37.0,1 Year,Electronic Check,0.0,"$1,844.38",Fiber Optic,1,2.0,2023-02-01,Berlin,True
+CUST-1230,Anthony Patel,,Male,35466,55.0,two-year,electronic check,81.26,,DSL,N,2.0,2020.08.08,Singapore,0
+CUST-1038,Betty Smith,33.0,Non-Binary,"$102,118.00",32.0,m2m,mailed check,93.27,"$2,990.22",Dsl,N,2.0,2021-02-05,Chicago,True
+CUST-1750,Barbara Verma,18.0,Non-Binary,"$111,573.00",19.0,One Year,E-Check,52.57, ,dsl,No internet service,2.0,01-13-2024,Chicago,False
+CUST-2046,Joseph Sharma,28.0,Male,"$102,872",29.0,Month to Month,Mailed Check,112.5,3260.29,fiber optic,0,2.0,06/05/2024,,Yes
+CUST-1470,nancy martinez,63.0,other,"$100,032",,Month to Month,Bank Transfer (automatic),,$753.82,no,None,3.0,2022.10.06,Delhi,1
+CUST-2322,Margaret Davis,33.0,MALE,"$62,389.00",-4.0,2 Year,Check,45.98,451.82,Fiber,1,4.0,2022-03-11,Berlin,False
+CUST-1354,sandra iyer,60.0,MALE,"$69,547",29.0,M2M,Mailed Check,91.9,"$2,661.60",dsl,N,,13/11/2024,Singapore,no
+CUST-1688,Mary Jones,49.0,f,,55.0,Month to Month,credit card,82.44, ,no,no internet,3.0,26/11/2020,Mumbai,0
+CUST-2425,Richard Brown,38.0,female,"-$12,110",56.0,month-to-month,Check,57.2,"$3,201.79",fiber optic,No,2.0,2023-08-03,delhi,N
+CUST-1640,Betty Garcia,51.0,m,"$59,551.00",2.0,month-to-month,Bank Transfer (automatic),27.24,$47.98,,FALSE,4.0,2020-03-14,Singapore,1
+CUST-1023,Sarah Verma,18.0,FEMALE,"$104,567.00",3.0,2-yr,Mailed Check,83.81,245.06,dsl,no internet,3.0,2022.11.04,Toronto,0
+CUST-2219,Thomas Brown,39.0,Female,"$88,198",13.0,Month to Month,Credit Card (automatic),75.39,987.33,Dsl,TRUE,4.0,2022-01-09,Berlin,0
+CUST-2159,  Christopher Patel  ,53.0,f,"$92,111",65.0,m2m,electronic check,87.74,5700.39,FIBER,1,5.0,25/01/2022,New York,False
+CUST-2293,  Michael Garcia  ,34.0,F,"$66,497",52.0,m2m,Check,25.54,"$1,334.14",dsl,,2.0,2024-11-22,Houston,False
+CUST-2410,David Johnson,33.0,Male,"$36,595.00",24.0,Month to Month,electronic check,78.88,1898.97,Fiber,N,3.0,2021-05-06,New York,No
+CUST-1801,Robert Singh,19.0,M,"$93,709",16.0,2 year,mailed check,45.39,$731.98,FIBER,Yes,4.0,2024-10-14,Berlin,1
+CUST-1161,Karen Iyer,29.0,male,"$68,830.00",21.0,Month-to-Month,credit card,39.21,$819.78,dsl,no,,18/06/2024,  Delhi  ,No
+CUST-1957,  Priya Anderson  ,50.0,m,"-$20,287",27.0,one-year,Bank Transfer,,1348.48,Dsl,0,1.0,09-11-2020,Mumbai,0
+CUST-2187,  James Rodriguez  ,50.0,female,"$158,705",31.0,month-to-month,Check,104.37,3234.11,,0,2.0,04-03-2022,Delhi,Yes
+CUST-1822,Pooja Lopez,50.0,MALE,"$64,772",35.4,2 Year,mailed check,86.03,"$3,042.29",dsl,TRUE,2.0,2022-09-11,New York,N
+CUST-2314,Mary Anderson,30.0,male,"$109,672",27.0,2 Year,E-Check,69.38,1872.30,Dsl,None,4.0,,  Berlin  ,N
+CUST-1878,James  Wilson,69.0,M,"$92,096",31.0,One Year,mailed check,74.39,2309.51,Fiber,no internet,1.0,07-07-2021,Delhi,N
+CUST-1914,Susan Gonzalez,23.0,Male,"$105,374",58.0,,Bank Transfer (automatic),96.78,5604.94,No,No,3.0,04-09-2020,Hyderabad,False
+CUST-1153,Jessica Verma,39.0,,98251,57.0,Month to Month,Bank Transfer,60.85,3459.54,FIBER,1,5.0,13/03/2024,Chicago,False
+CUST-2420,Margaret Wilson,,female,"$83,411",52.0,Month to Month,Credit Card,0.0,"$2,600.24",No,no,1.0,03/12/2024,Mumbai,no
+CUST-1510,Rohit Davis,33.0,male,"$52,045",68.0,M2M,Electronic Check,24.86,1684.77,Dsl,1,2.0,2021-12-14,  Toronto  ,yes
+CUST-2136,Daniel Reddy,34.0,Female,"$77,090",26.0,M2M,Mailed Check,62.17,1611.22,fiber optic,no,1.0,04-20-2024,Mumbai,0
+CUST-2251,James Hernandez,33.0,FEMALE,"$90,073",60.0,one-year,Bank Transfer,102.97,6171.95,Dsl,no,10.0,11-09-2021,delhi,False
+CUST-2301,Aarav Gonzalez,31.0,F,"$55,410.00",50.0,m2m,electronic check,51.43,2581.14,,N,1.0,23/09/2021,Berlin,no
+CUST-1104,Margaret Iyer,65.0,Female,,48.0,2-yr,bank transfer,86.34,4139.30,fiber optic,1,2.0,2020.01.10,Hyderabad,no
+CUST-1587,Aarav  Gonzalez,48.0,female,"$123,433.00",59.5,month-to-month,electronic check,115.69,"$6,888.13",Fiber Optic,,2.0,N/A,Houston,False
+CUST-2378,thomas iyer,75.0,MALE,"$70,266.00",61.0,m2m,electronic check,,"$3,045.10",Fiber Optic,No internet service,,11/03/2024,Houston,False
+CUST-2144,Thomas Miller,43.0,MALE,"$205,312.00",28.0,month-to-month,mailed check,66.83, ,DSL,1,1.0,2022.01.16,Berlin,False
+CUST-1054,Rohit Patel,53.0,Female,88393,4.0,1-yr,credit card,90.82,356.69,dsl,yes,,01/04/2020,Bengaluru,False
+CUST-1152,John Wilson,,MALE,"$63,372.00",23.0,2 Year,Credit Card,105.39,2422.52,dsl,FALSE,5.0,17/09/2024,New York,No
+CUST-1404,Patricia Lopez,-6.0,f,"$114,197",28.0,Month-to-Month,credit card,81.7,"$2,286.18",Fiber,Y,2.0,unknown,Houston,Y
+CUST-1121,  Robert Kumar  ,,Female,"$99,541.00",5.0,1 year,credit card,96.21,475.52,dsl,1,4.0,09-01-2022,Sydney,no
+CUST-1208,Aditya Garcia,-8.0,female,,16.0,M2M,Credit Card (automatic),33.92,,NONE,N,1.0,21/01/2022,Toronto,no
+CUST-2464,Sarah Lopez,54.0,M,"$131,295.00",55.0,month-to-month,Check,23.77,1307.00,NONE,,3.0,2024.10.16,Los Angeles,N
+CUST-2123,John Anderson,51.0,MALE,"$72,234",65.0,1-yr,Bank Transfer,111.12,7217.97,Dsl,N,5.0,12-07-2023,Singapore,N
+CUST-2362,  Robert Garcia  ,29.0,Male,"$57,823.00",23.0,Month-to-Month,mailed check,21.96,$508.57,DSL,no internet,,10-24-2020,sydney,No
+CUST-1009,  Aditya Brown  ,18.0,male,"$69,760.00",70.0,1 year,credit card,85.45,"$5,990.14",no,Yes,2.0,2022-05-20,London,No
+CUST-2015,  John Kumar  ,43.0,Female,"$111,363",40.0,Month-to-Month,Credit Card (automatic),29.09,1166.97,,No internet service,1.0,14/09/2022,Bengaluru,no
+CUST-2390,Sarah Miller,48.0,Non-Binary,"$103,760",14.0,Month to Month,electronic check,92.6,"$1,289.00",Dsl,No,5.0,unknown,Delhi,no
+CUST-2061,Margaret Anderson,54.0,M,"$68,648",43.0,m2m,Credit Card (automatic),41.94, ,Fiber,Y,1.0,2022-11-01,Chennai,Y
+CUST-1453,Sneha Verma,39.0,male,"$84,214.00",40.0,One Year,Electronic Check,46.85,1879.15,Dsl,0,4.0,2024.01.05,Toronto,False
+CUST-1254,Neha Gupta,44.0,M,,42.0,,Mailed Check,92.27,3870.01,DSL,TRUE,1.0,2023-05-20,Hyderabad,No
+CUST-1897,james wilson,70.0,female,"$86,485",48.0,Month to Month,Credit Card (automatic),83.7,4024.63,DSL,,3.0,23/06/2024,Chicago,no
+CUST-2352,  David Wilson  ,55.0,Other,"$85,329.00",70.0,1 Year,Credit Card (automatic),92.81,6490.58,FIBER,yes,2.0,07/04/2024,Houston,yes
+CUST-1881,  Mary Sharma  ,37.0,Male,"$91,321",30.0,1 Year,Bank Transfer (automatic),23.93,719.09,dsl,0,1.0,2023-04-05,Singapore,no
+CUST-1723,jessica miller,39.0,f,"$80,359",11.0,M2M,Credit Card (automatic),42.69,$461.32,fiber optic,None,1.0,04/03/2023,chennai,Y
+CUST-1624,neha hernandez,42.0,male,,55.0,2 Year,Electronic Check,100.73,5538.64,fiber optic,N,1.0,unknown,Mumbai,0
+CUST-1346,Jessica Jones,52.0,MALE,"$52,524",51.0,1 Year,Bank Transfer,95.0,,fiber optic,Y,4.0,unknown,chennai,no
+CUST-2330,Priya Reddy,57.0,Other,"$62,145",69.0,one-year,E-Check,,3456.56,dsl,N,,15/04/2024,Singapore,no
+CUST-1263,elizabeth patel,75.0,M,"$102,495.00",21.0,month-to-month,electronic check,115.14,2413.34,dsl,,3.0,2022.05.05,new york,no
+CUST-1151,  Elizabeth Kumar  ,40.0,Non-Binary,95587,36.0,month-to-month,Electronic Check,,1802.34,Dsl,Yes,4.0,28/09/2021,Mumbai,no
+CUST-1473,Daniel Wilson,59.0,m,"$77,742",19.0,Month to Month,Mailed Check,45.17,855.88,Fiber Optic,No internet service,,07-04-2023,Chicago,Y
+CUST-1641,  Richard Garcia  ,45.0,Female,"$96,617.00",29.0,month-to-month,Mailed Check,48.36,1394.18,Fiber Optic,FALSE,5.0,08-16-2021,Phoenix,No
+CUST-1598,  Anthony Williams  ,39.0,Non-Binary,"$70,614",43.0,1-yr,mailed check,,"$2,142.49",DSL,yes,,2021-08-14,Singapore,N
+CUST-2457,Susan Davis,48.0,other,44070,46.0,1 year,Credit Card (automatic),113.15,5196.65,no,None,,25/06/2024,Chennai,Yes
+CUST-1551,Susan Lopez,29.0,F,"$143,424.00",64.0,,Check,105.69,6767.69,Fiber,No internet service,4.0,05/08/2023,Mumbai,
+CUST-1929,Sneha  Reddy,75.0,male,"$61,746.00",-1.0,one-year,,103.93, ,FIBER,no internet,2.0,2021-06-24,Houston,yes
+CUST-1489,christopher williams,54.0,f,"$68,382.00",13.0,Month to Month,credit card,57.18,$747.67,None,TRUE,3.0,,Hyderabad,N
+CUST-2403,Robert Jones,53.0,Female,"$124,688",48.0,two-year,E-Check,39.58,"$1,906.00",Fiber Optic,TRUE,5.0,2023-05-22,Chennai,1
+CUST-2172,Betty Brown,28.0,Male,"$67,429.00",27.0,1 year,Electronic Check,999.99,27003.02,Fiber Optic,TRUE,1.0,2021-04-14,,1
+CUST-1147,Robert Rodriguez,34.0,Other,"$2,367,344",45.0,Month to Month,Mailed Check,35.47,1602.58,dsl,,2.0,03-25-2022,toronto,no
+CUST-1403,sandra anderson,30.0,Male,"$84,902.00",20.0,Month-to-Month,Check,33.64,$667.14,dsl,Yes,2.0,2022-09-09,Toronto,False
+CUST-1955,Jennifer Davis,54.0,Female,"$92,541",33.0,month-to-month,Bank Transfer,79.02,,NONE,TRUE,3.0,,Sydney,True
+,Richard Gonzalez,61.0,M,"$64,354.00",56.0,Month-to-Month,Mailed Check,116.79,"$6,451.73",DSL,yes,4.0,2021.01.12,,yes
+CUST-1660,Mary Reddy,53.0,Male,"$154,808",52.0,M2M,credit card,116.64, ,no,yes,1.0,2023-11-12,Delhi,False
+CUST-1464,Joseph Kumar,46.0,female,"$118,998.00",61.0,m2m,Bank Transfer,114.74,"$7,007.47",Fiber Optic,1,5.0,05-11-2021,  Chennai  ,No
+CUST-1187,william miller,46.0,Female,"$53,289",64.0,1 Year,Electronic Check,48.59,"$3,112.49",dsl,TRUE,2.0,2020-02-25,Los Angeles,False
+CUST-2148,Jessica Nair,66.0,F,"$113,178.00",57.0,Month-to-Month,electronic check,77.12,4395.32,Dsl,1,3.0,2022-12-18,delhi,0
+CUST-2225,Patricia Jones,23.0,other,83358,23.0,Month to Month,Check,110.1,2527.66,dsl,None,4.0,07/09/2020,Los Angeles,False
+CUST-1609,Mary Smith,50.0,FEMALE,"$50,562.00",,1 year,Credit Card (automatic),59.22, ,DSL,yes,2.0,04-15-2023,Hyderabad,0
+CUST-1144,aditya patel,34.0,Non-Binary,"$91,693",1.0,1-yr,Check,107.76, ,None,No internet service,3.0,18/09/2024,los angeles,no
+CUST-1752,  Priya Rodriguez  ,43.0,Other,"$89,813",29.0,Month-to-Month,E-Check,73.53,2138.82,None,N,3.0,2024-12-28,Mumbai,False
+CUST-1982,  John Wilson  ,22.0,M,"$2,652,929",37.0,month-to-month,Credit Card (automatic),63.31,"$2,335.57",fiber optic,yes,2.0,2023-07-14,Chicago,N
+CUST-1198,aarav wilson,39.0,female,"$78,875",41.0,m2m,E-Check,95.04,3887.01,NONE,TRUE,5.0,07-19-2024,,True
+CUST-1884,Betty Patel,43.0,MALE,92992,48.0,one-year,Check,30.85,"$1,486.04",dsl,Y,3.0,,Los Angeles,Yes
+CUST-1280,sneha wilson,58.0,M,"$2,959,157",49.0,1 Year,Check,499.0,"$24,452.88",fiber optic,Yes,,2023-03-25,Toronto,N
+CUST-1294,Neha Nair,27.0,Female,"$46,727",,one-year,electronic check,40.25,313.67,Fiber,No,5.0,08-24-2022,Bengaluru,Y
+CUST-2411,sandra garcia,36.0,m,"$85,904.00",63.0,two-year,mailed check,,3147.84,Dsl,no internet,5.0,2024-01-04,New York,no
+CUST-1401,Pooja Johnson,40.0,M,"$66,937.00",16.0,One Year,electronic check,41.33,$668.00,Fiber,Y,2.0,2024.01.21,  Phoenix  ,Y
+CUST-1123,Matthew Davis,32.0,Non-Binary,"$115,919.00",57.0,Month-to-Month,mailed check,37.24,"$2,127.03",Fiber,FALSE,4.0,06/10/2021,houston,no
+CUST-2208,Aditya Hernandez,37.0,F,"$77,498.00",19.0,M2M,E-Check,68.42,1301.09,None,FALSE,1.0,07-14-2021,Sydney,N
+CUST-1203,William Smith,27.0,Male,"$2,023,456",17.0,2 Year,Bank Transfer,106.07,1796.66,Fiber,TRUE,4.0,,,0
+CUST-1836,Patricia Singh,22.0,MALE,"$85,574.00",56.0,Month to Month,Bank Transfer,41.02,2306.24,Fiber Optic,yes,5.0,2021-12-12,Toronto,1
+CUST-1247,  Neha Williams  ,25.0,M,"$63,608.00",57.0,1-yr,electronic check,94.74,5409.73,Fiber Optic,Y,2.0,2024.01.22,Toronto,N
+CUST-2469,  Sarah Johnson  ,135.0,Female,"$74,882.00",13.0,1 Year,credit card,,$655.99,Fiber Optic,None,4.0,06/10/2022,new york,
+CUST-2455,Rohit Verma,43.0,male,"$113,658.00",33.0,Month-to-Month,Check,26.16,855.24,Dsl,no internet,2.0,16/04/2024,Chicago,N
+CUST-2154,Lisa Miller,18.0,f,"$61,172",45.0,2-yr,Mailed Check,81.83,"$3,691.53",Dsl,No internet service,2.0,2024-06-06,Delhi,No
+CUST-1385,Arjun Johnson,,M,,2.0,,Mailed Check,75.45,$142.29,dsl,yes,1.0,12/10/2021,Toronto,False
+CUST-2366,Margaret Brown,35.0,,"$80,740.00",24.0,1 Year,mailed check,59.8,1433.55,Fiber,,4.0,07-01-2023,  New York  ,
+CUST-1855,Linda Kumar,48.0,Female,"$63,622",39.0,two-year,electronic check,33.76,1322.50,NONE,None,5.0,08-22-2021,london,no
+CUST-1220,Pooja Reddy,51.0,f,"$101,683",18.0,1 year,Bank Transfer (automatic),76.88,"$1,381.07",dsl,Yes,2.0,N/A,Chennai,0
+CUST-1642,Margaret Jones,42.0,female,,30.0,month-to-month,Electronic Check,61.17,"$1,829.56",None,No,,05-10-2024,phoenix,Yes
+CUST-1002,  Sandra Patel  ,25.0,male,95460,9.0,,electronic check,104.25,935.85,None,yes,1.0,06/11/2024,Delhi,0
+CUST-1113,Richard Miller,18.0,M,53372,42.0,1-yr,Check,85.38,3590.92,FIBER,None,4.0,unknown,Chicago,Yes
+CUST-1699,david iyer,18.0,male,"$111,254",,M2M,Electronic Check,52.04, ,DSL,no internet,3.0,2024-07-16,  Hyderabad  ,no
+CUST-2478,Daniel Davis,67.0,male,60654,9.0,M2M,Check,55.5,504.35,DSL,no internet,,2024-09-27,,N
+CUST-1952,James Martinez,41.0,FEMALE,"$60,472.00",51.0,,electronic check,27.97,"$1,429.54",no,0,10.0,2023-06-04,los angeles,no
+CUST-2361,  Sandra Sharma  ,40.0,M,"$69,083",16.0,m2m,E-Check,28.15,$447.80,FIBER,TRUE,1.0,28/12/2022,Mumbai,
+CUST-2292,Elizabeth Davis,49.0,,"$109,405",13.0,Two Year,E-Check,96.81,1268.40,Fiber Optic,,4.0,2023-01-03,Singapore,
+CUST-2400,michael sharma,60.0,m,"$99,709.00",21.0,,Electronic Check,64.51,"$1,351.00",Dsl,Yes,3.0,2023-09-25,Los Angeles,no
+CUST-1442,Elizabeth Hernandez,25.0,female,112916,26.0,Month-to-Month,Check,47.59,"$1,236.47",,No,4.0,2023-10-19,Chennai,No
+CUST-2137,John Garcia,18.0,F,"$72,311",64.0,Month-to-Month,Check,105.47, ,Dsl,N,2.0,2022-11-07,Singapore,No
+CUST-2257,ROHIT JONES,66.0,MALE,"$76,712.00",23.0,Month to Month,Credit Card (automatic),41.99,974.67,Fiber,Y,3.0,2020.02.26,Sydney,No
+CUST-1664,Patricia Iyer,29.0,Male,127151,41.0,Two Year,Mailed Check,43.43,"$1,784.87",Fiber Optic,0,2.0,2020-04-17,Hyderabad,No
+CUST-2419,Thomas Jones,65.0,MALE,"$75,003.00",45.0,Month to Month,,750.5,33766.22,Fiber,TRUE,1.0,2023-01-18,Phoenix,no
+CUST-2258,Christopher Gonzalez,44.0,Non-Binary,,69.0,Month to Month,Bank Transfer,79.56,5495.56,dsl,Y,,2022-11-21,Houston,no
+CUST-2375,Ananya Gonzalez,18.0,female,"$52,315",29.0,2-yr,Bank Transfer (automatic),, ,No,N,4.0,invalid_date,Sydney,N
+CUST-1318,Elizabeth Johnson,32.0,FEMALE,"$89,093",35.0,m2m,Electronic Check,,"$1,747.68",FIBER,,2.0,09-02-2023,,No
+CUST-1649,Sneha Wilson,42.0,FEMALE,"$48,554",27.0,Month-to-Month,Bank Transfer,76.43,"$2,071.54",fiber optic,0,1.0,06/09/2024,Bengaluru,no
+CUST-1710,  Linda Johnson  ,43.0,m,,32.0,1-yr,Bank Transfer (automatic),26.65,$848.24,Dsl,TRUE,2.0,2022-09-26,,N
+,Linda Reddy,45.0,F,"$100,724",6.0,2-yr,electronic check,107.68,646.91,Fiber,,4.0,2023-07-19,Los Angeles,N
+CUST-1973,Anthony Wilson,32.0,female,"$58,884",12.0,,Check,,599.47,FIBER,no,-1.0,2024-04-08,New York,No
+CUST-1628,Mary Gupta,62.0,FEMALE,"$106,328",-3.0,1 Year,mailed check,50.01,1196.67,Dsl,FALSE,3.0,06/05/2022,Toronto,N
+CUST-1633,Margaret Martinez,21.0,female,"$55,861.00",,,Bank Transfer (automatic),102.95,199.22,no,No internet service,3.0,2022.09.19,Chicago,yes
+CUST-2307,  Susan Miller  ,43.0,male,,16.0,2 Year,E-Check,98.85,1581.95,fiber optic,0,2.0,04-08-2021,Singapore,
+CUST-2249,Joseph Verma,31.0,f,"$74,580",3.0,Month to Month,E-Check,49.94,145.50,Dsl,No internet service,3.0,N/A,Sydney,Y
+CUST-2015,  John Kumar  ,43.0,Female,"$111,363",40.0,Month-to-Month,Credit Card (automatic),29.09,1166.97,,No internet service,1.0,14/09/2022,Bengaluru,no
+CUST-2255,Anthony Brown,50.0,MALE,"$140,385.00",38.0,M2M,,71.45,"$2,721.74",FIBER,Yes,1.0,2023-07-04,,False
+CUST-2372,Matthew Patel,38.0,m,"$71,493",58.0,2-yr,E-Check,71.86,4168.70,Fiber,yes,2.0,04-13-2023,  Chennai  ,N
+CUST-2355,Barbara Kumar,18.0,,,9.0,1 year,bank transfer,57.98,521.15,Fiber Optic,yes,4.0,18/01/2022,Chicago,No
+CUST-2488,Nancy Smith,33.0,Male,"$98,986.00",,two-year,Mailed Check,80.28,1920.90,NONE,Yes,3.0,2020-03-22,Singapore,0
+CUST-2430,Sarah Brown,56.0,f,"$151,994",16.0,Month-to-Month,mailed check,116.62, ,FIBER,yes,3.0,2023-05-02,Mumbai,False
+CUST-1796,Mary Singh,38.0,Non-Binary,,37.0,one-year,Bank Transfer (automatic),60.46,2233.03,dsl,0,1.0,2024.01.09,Toronto,N
+CUST-1646,  Susan Anderson  ,29.0,MALE,"$70,679.00",54.0,two-year,Bank Transfer,59.01,3194.57,Fiber,No internet service,5.0,2024.10.02,Delhi,No
+CUST-2013,Michael Lopez,60.0,f,"$108,181.00",42.0,m2m,Bank Transfer (automatic),46.46,"$1,945.14",Fiber Optic,N,4.0,09-11-2021,new york,True
+CUST-1557,Robert Davis,30.0,f,"$99,458.00",61.0,1 Year,E-Check,66.23,"$4,035.06",Fiber Optic,TRUE,3.0,02-19-2020,  Mumbai  ,No
+CUST-1682,Barbara Rodriguez,26.0,,"$91,298",54.0,two-year,Electronic Check,60.08,"$3,240.82",no,1,4.0,01-05-2022,Houston,No
+CUST-1578,Patricia  Smith,43.0,male,"$63,944",1.0,Month-to-Month,Electronic Check,107.35,$108.35,fiber optic,None,5.0,02/01/2024,Bengaluru,no
+CUST-2110,Lisa  Hernandez,53.0,,"$83,353",49.0,M2M,Mailed Check,69.77,3410.33,NONE,No,4.0,14/05/2020,Delhi,1
+CUST-2267,Nancy Anderson,58.0,MALE,"$135,110",43.0,Month to Month,Credit Card (automatic),33.86,"$1,463.52",FIBER,None,2.0,10-22-2024,hyderabad,True
+CUST-2184,Mary Williams,33.0,other,"$72,646",52.0,1 Year,Mailed Check,26.03,"$1,349.16",dsl,None,1.0,2020-05-16,Bengaluru,0
+CUST-1525,Karen Williams,28.0,Other,"$87,822",42.0,M2M,bank transfer,80.52, ,dsl,no,5.0,2021-05-18,Chennai,False
+CUST-2060,arjun singh,40.0,M,"$77,344.00",50.0,month-to-month,Bank Transfer (automatic),27.35,,Fiber,no,2.0,07-16-2021,sydney,No
+CUST-1541,Ananya Reddy,38.0,f,"-$8,487",65.0,M2M,Check,91.72,5963.18,None,No,5.0,12-02-2020,Berlin,0
+CUST-2195,Joseph  Lopez,48.0,F,"$115,570.00",66.0,,Mailed Check,93.29,6153.58,Fiber,0,2.0,09-16-2022,Los Angeles,Y
+CUST-1749,Robert Singh,31.0,Female,"$44,565.00",25.0,one-year,mailed check,53.68,,DSL,N,1.0,11-12-2020,,N
+CUST-2433,Charles Hernandez,29.0,MALE,"$99,027",72.0,1-yr,Credit Card,75.72, ,Dsl,Yes,3.0,2020-04-02,Bengaluru,N
+CUST-1485,Rohit Brown,52.0,MALE,77985,3.0,1 Year,Bank Transfer,40.98,$125.50,Dsl,No internet service,1.0,2023-10-16,Singapore,Yes
+CUST-1096,Lisa Gonzalez,42.0,MALE,"$65,640.00",13.0,Month to Month,Bank Transfer,77.62,1015.88,FIBER,no,1.0,02/12/2023,Sydney,True
+CUST-2021,Christopher Johnson,43.0,f,70082,47.0,Month to Month,Credit Card,89.05,"$4,185.12",dsl,N,2.0,2020-05-14,,False
+CUST-1564,Charles Iyer,27.0,m,"$84,402.00",,M2M,mailed check,24.92,200.69,Fiber,Yes,4.0,2022-07-28,Bengaluru,False
+CUST-2265,Daniel Verma,39.0,MALE,,21.0,1-yr,Credit Card,56.65,1186.99,None,yes,1.0,08-12-2023,Mumbai,No
+CUST-1743,Matthew Martinez,30.0,M,"-$21,215",53.0,month-to-month,Bank Transfer (automatic),72.51,3850.81,NONE,N,,12-24-2020,  Hyderabad  ,True
+CUST-1864,Charles Kumar,37.0,,,,month-to-month,,88.62,534.29,Dsl,no,1.0,23/11/2023,Chicago,N
+CUST-1892,James Brown,60.0,m,"$101,589.00",1.0,1 year,Check,85.01, ,DSL,yes,1.0,2020-03-27,Phoenix,Y
+CUST-2039,LISA JOHNSON,37.0,f,"$99,046.00",47.0,Month to Month,Electronic Check,87.37,4110.24,Dsl,no internet,2.0,07-26-2024,,False
+CUST-1207,Elizabeth Patel,31.0,Female,"$150,794",61.0,m2m,mailed check,,3054.18,Dsl,No internet service,2.0,2022-03-27,Phoenix,Yes
+CUST-1393,Mary Iyer,24.0,FEMALE,"$158,607.00",63.0,1-yr,credit card,110.67,6972.94,fiber optic,no internet,2.0,01/12/2022,New York,no
+CUST-1795,James Lopez,18.0,female,"$110,663.00",26.0,Month-to-Month,,64.95,1689.88,dsl,None,1.0,2021-10-12,  Berlin  ,0
+CUST-1871,Richard Anderson,36.0,male,"$105,326",57.0,2-yr,bank transfer,1250.0, ,dsl,None,1.0,2020.06.22,Los Angeles,0
+CUST-1398,Priya Smith,47.0,Non-Binary,"$100,253",67.0,Two Year,Mailed Check,,3346.13,Fiber Optic,TRUE,3.0,2024.01.05,  New York  ,False
+CUST-1767,Mary Rodriguez,52.0,Non-Binary,55474,71.0,one-year,,40.54,"$2,886.75",Dsl,no internet,2.0,2021-12-20,Delhi,N
+CUST-2423,susan davis,47.0,M,"$70,443",41.0,one-year,credit card,41.07,1693.13,No,no internet,2.0,15/05/2022,Singapore,1
+CUST-2242,priya williams,28.0,,"$69,151",,month-to-month,Credit Card,44.29,844.44,fiber optic,None,3.0,2020-06-07,  London  ,No
+CUST-2029,Jessica Nair,48.0,Female,"$101,017",67.0,1-yr,electronic check,80.76,5404.85,Dsl,,1.0,03/05/2024,,N
+CUST-1643,  Sarah Martinez  ,39.0,FEMALE,"$79,365.00",54.0,Two Year,Check,43.66,"$2,360.11",FIBER,no internet,3.0,18/09/2020,Singapore,no
+CUST-1613,Nancy Brown,18.0,other,"$92,366.00",37.0,1 Year,Electronic Check,0.0,"$1,844.38",Fiber Optic,1,2.0,2023-02-01,Berlin,True
+CUST-1961,Margaret Rodriguez,50.0,Non-Binary,"$57,566.00",18.0,two-year,credit card,45.01,$803.11,no,No internet service,,06/01/2020,Delhi,N
+CUST-1726,Sandra Anderson,45.0,male,"$127,217",32.0,Month-to-Month,Bank Transfer,80.08,2570.96,NONE,None,1.0,22/03/2022,bengaluru,
+CUST-1684,Robert Nair,39.0,f,"$99,991",20.0,One Year,electronic check,71.29,1434.09,FIBER,FALSE,5.0,11/10/2020,Houston,0
+CUST-1099,Susan Wilson,18.0,Other,"$91,136",65.0,M2M,Credit Card (automatic),106.24,"$6,896.75",Fiber,N,4.0,2024.07.21,Houston,True
+CUST-1805,Aarav Iyer,40.0,MALE,"$93,361.00",44.0,M2M,Bank Transfer (automatic),24.98,"$1,096.53",dsl,Y,2.0,2022-04-22,Chennai,no
+CUST-1407,Mary Iyer,18.0,M,"$121,434",57.0,Two Year,Credit Card,89.31,"$5,083.93",No,,4.0,03-11-2022,New York,N
+CUST-1503,William Singh,,male,"$66,538",43.0,One Year,Bank Transfer (automatic),,"$2,153.33",Fiber Optic,N,5.0,02-27-2024,Singapore,N
+CUST-2072,Richard Williams,,Male,"$98,526.00",70.0,M2M,credit card,111.28, ,Fiber Optic,1,2.0,28/01/2022,Bengaluru,False
+CUST-2057,Mary Williams,180.0,Male,"$83,739",11.8,month-to-month,electronic check,87.24,"$1,025.25",DSL,Yes,1.0,14/10/2024,,1
+CUST-1930,ROHIT ANDERSON,22.0,Non-Binary,"$137,974",9.8,1-yr,mailed check,115.76, ,fiber optic,Y,4.0,10-21-2024,Hyderabad,No
+CUST-1780,Mary Wilson,180.0,Female,"-$12,041",34.0,2 Year,electronic check,54.44,1847.48,FIBER,None,-1.0,2022.05.19,Houston,0
+CUST-1201,Sarah Anderson,32.0,m,"$38,932.00",32.0,two-year,Check,49.39,"$1,588.58",DSL,no,4.0,2022-11-23,Los Angeles,No
+CUST-1135,jennifer miller,45.0,MALE,"$81,475",11.0,M2M,E-Check,57.58,638.13,fiber optic,,3.0,28/08/2023,delhi,0
+CUST-2052,Joseph Sharma,,M,"$78,491",,1 Year,,0.0,243.58,fiber optic,yes,2.0,06/03/2024,Los Angeles,N
+CUST-1041,Elizabeth  Lopez,58.0,F,"$76,895.00",43.0,2 year,E-Check,54.77,"$2,348.72",NONE,yes,3.0,25/09/2020,hyderabad,0
+,  Lisa Nair  ,51.0,M,"$173,852.00",20.0,m2m,Bank Transfer,115.99,2325.44,Fiber,yes,1.0,04/05/2022,  Singapore  ,True
+CUST-1231,Michael Iyer,29.0,Other,"$90,602.00",8.0,2 Year,,61.79,,Fiber Optic,TRUE,5.0,28/04/2023,New York,0
+CUST-1379,Daniel Lopez,44.0,Male,"$73,930.00",21.0,M2M,bank transfer,53.44,1129.13,fiber optic,Y,1.0,20/06/2023,Bengaluru,N
+CUST-1289,Richard Gupta,,Female,"$101,279",16.0,1 Year,mailed check,72.88,"$1,171.38",FIBER,1,5.0,07-10-2023,Bengaluru,No
+CUST-1419,Priya Garcia,54.0,male,"$170,339",10.0,m2m,electronic check,99.38,$999.25,Fiber,None,2.0,2023-12-04,Toronto,
+CUST-1392,Mark Smith,-4.0,female,"$78,835",8.0,Month-to-Month,Check,,404.48,,None,4.0,10-02-2020,Los Angeles,
+CUST-1593,Vikram Nair,38.0,Female,"$94,257",58.0,2 Year,,76.71,4458.49,no,no,2.0,2024-07-17,Houston,False
+CUST-2163,James Verma,47.0,Female,"-$17,016",56.0,Month to Month,,85.02,4751.96,Fiber,,5.0,21/03/2021,Berlin,False
+CUST-2087,Anthony Brown,-4.0,FEMALE,"$105,111",48.0,2 year,electronic check,25.25,1220.98,FIBER,no internet,4.0,2024-08-18,Sydney,no
+CUST-1648,Aarav Reddy,53.0,f,"$93,094.00",43.0,One Year,Mailed Check,38.99,1669.95,Dsl,FALSE,,11-11-2022,London,False
+CUST-2153,Christopher  Johnson,35.0,Female,"$121,934.00",54.0,,Check,34.93, ,FIBER,FALSE,5.0,11/12/2024,Los Angeles,no
+CUST-2368,  Jennifer Reddy  ,60.0,male,"$69,339.00",2.0,Month-to-Month,mailed check,114.3,,FIBER,Y,1.0,27/04/2022,Houston,N
+CUST-1521,Christopher Davis,23.0,f,"$150,095",50.0,2 year,Check,96.34,4822.29,Fiber,no,1.0,2022-08-22,New York,0
+CUST-1065,  Joseph Kumar  ,49.0,other,"$129,487",30.0,month-to-month,Check,52.34,1569.97,dsl,Y,5.0,2023.03.18,hyderabad,No
+CUST-1015,AARAV ANDERSON,32.0,f,"$158,889",37.0,Month to Month,E-Check,750.5,27772.38,FIBER,TRUE,2.0,25/07/2023,Singapore,N
+CUST-2181,Christopher Kumar,65.0,F,"$48,719",11.0,1 year,,68.46,745.63,Dsl,no internet,3.0,2021-07-04,Berlin,0
+CUST-2065,Aditya Gonzalez,135.0,Female,"$50,180",-4.0,2 Year,Bank Transfer (automatic),33.8,28.83,no,no,2.0,2022-04-24,Mumbai,Y
+CUST-1493,betty martinez,,male,"$158,606.00",15.0,m2m,bank transfer,37.23,$549.85,FIBER,FALSE,2.0,2023-12-27,Hyderabad,Yes
+CUST-1380,Lisa Garcia,39.0,m,"$94,140.00",72.0,1 Year,Bank Transfer (automatic),27.58,1993.30,Fiber,FALSE,4.0,2020.12.27,  Chennai  ,False
+CUST-1188,Aarav Singh,50.0,Female,"$57,366",,month-to-month,Mailed Check,60.56,$717.69,DSL,no,5.0,2021.09.11,London,N
+CUST-1764,WILLIAM WILLIAMS,43.0,FEMALE,"$58,920",35.0,One Year,bank transfer,79.32,,Fiber Optic,No,5.0,10-09-2020,Phoenix,0
+CUST-1217,Anthony Lopez,28.0,f,"$108,303",53.0,2 Year,credit card,54.77, ,Fiber Optic,0,1.0,2022.06.13,  New York  ,no
+CUST-1792,Aditya Anderson,63.0,Female,"$93,204.00",,m2m,Credit Card,499.0,"$6,478.76",Fiber,Yes,3.0,unknown,  Delhi  ,No
+CUST-2077,Patricia Williams,67.0,F,"$124,978.00",36.0,1 Year,Electronic Check,81.07,2922.09,No,yes,3.0,,sydney,No
+CUST-1879,Susan Davis,51.0,Other,"$109,549.00",5.0,,E-Check,58.63,296.36,FIBER,None,,02/03/2021,Mumbai,0
+CUST-1338,  Neha Jones  ,53.0,,,18.0,1 Year,mailed check,68.66,,dsl,FALSE,5.0,2022.09.03,Chicago,False
+CUST-1720,  Linda Gupta  ,18.0,FEMALE,"$76,776.00",2.0,Month to Month,mailed check,97.12,190.36,dsl,Yes,5.0,,Berlin,No
+CUST-1296,barbara lopez,55.0,M,"$133,752",2.0,one-year,mailed check,74.8,151.64,Fiber,No,4.0,2023-06-27,  Sydney  ,Yes
+CUST-2017,Patricia Rodriguez,21.0,Non-Binary,"$94,959.00",19.0,M2M,electronic check,,942.42,DSL,TRUE,3.0,2021-03-08,Mumbai,Yes
+CUST-2276,  Jessica Iyer  ,35.0,,"$71,161",48.0,2-yr,Check,113.8,5467.26,Fiber Optic,0,,2021-03-01,Los Angeles,False
+CUST-1456,  Nancy Brown  ,42.0,Non-Binary,,46.0,2 year,Bank Transfer (automatic),116.82,"$5,377.07",None,no,2.0,10/03/2021,  Houston  ,no
+CUST-1279,Anthony Nair,60.0,F,"$33,394.00",69.0,2 Year,E-Check,77.93,5278.64,Fiber Optic,Yes,4.0,2021.02.02,Singapore,yes
+CUST-1816,  Priya Jones  ,57.0,FEMALE,"$70,539.00",29.0,,credit card,103.21,"$2,999.01",Fiber,1,0.0,12-22-2022,New York,0
+CUST-1270,Richard Reddy,18.0,MALE,,19.0,M2M,Electronic Check,71.13,"$1,361.07",Fiber Optic,No,3.0,05-12-2022,berlin,Yes
+CUST-1996,  Neha Iyer  ,57.0,f,"$86,666",27.0,1 year,Credit Card (automatic),999.99,"$26,990.48",dsl,,-1.0,2022-11-06,Mumbai,No
+CUST-1202,Betty  Rodriguez,49.0,female,95205,53.0,2-yr,Credit Card,59.9,3179.05,None,0,,10-24-2023,Delhi,no
+CUST-1162,Barbara Singh,55.0,FEMALE,"$44,455",69.0,m2m,Mailed Check,110.7,7637.41,dsl,no,5.0,2022-06-13,Mumbai,No
+CUST-1730,Matthew Nair,53.0,f,"$92,539",37.0,One Year,,32.34, ,fiber optic,no internet,5.0,02-05-2022,,no
+CUST-1402,Patricia Nair,66.0,FEMALE,,12.0,Month to Month,bank transfer,25.1,307.99,dsl,Y,3.0,2024-12-07,Toronto,False
+CUST-1703,Robert  Rodriguez,57.0,Male,"$73,912",27.0,2 year,Electronic Check,46.36, ,fiber optic,yes,,,  Toronto  ,yes
+CUST-2130,Mark Singh,-10.0,m,"$113,416",,2 Year,Bank Transfer,43.68,745.49,dsl,yes,3.0,2023-02-13,mumbai,False
+CUST-1566,Mark Singh,38.0,FEMALE,"$55,485.00",41.0,one-year,mailed check,76.9, ,No,FALSE,3.0,2020-08-09,,Y
+CUST-2414,Mark Garcia,55.0,female,"$171,842.00",46.0,Two Year,Mailed Check,50.6,2322.31,dsl,No,,2023-09-11,Toronto,0
+CUST-2022,Rohit Jones,53.0,MALE,"$66,598",60.0,1 year,Check,83.99,"$5,041.06",,No internet service,3.0,2022-06-24,  Los Angeles  ,0
+CUST-2026,Ananya Singh,45.0,Non-Binary,"$66,503.00",41.0,one-year,Credit Card (automatic),118.23,"$4,852.06",fiber optic,0,3.0,2020-01-01,,no
+CUST-2412,Ananya Davis,24.0,MALE,"$89,235",68.0,2 Year,bank transfer,46.44,"$3,155.90",,None,1.0,2023-12-24,Chicago,0
+CUST-2105,  Christopher Anderson  ,-6.0,f,"$89,813.00",1.0,two-year,Bank Transfer,92.58,91.86,Dsl,no,5.0,2023.10.15,Bengaluru,no
+CUST-1206,Betty Gupta,21.0,f,"$58,206",44.0,two-year,E-Check,32.72,,,Y,4.0,05-20-2022,Hyderabad,True
+CUST-1035,Linda Wilson,20.0,Female,"$63,805.00",28.0,m2m,Electronic Check,74.27,,fiber optic,None,5.0,21/11/2024,London,Y
+CUST-1776,Christopher Martinez,35.0,Female,"$60,291.00",50.0,Two Year,,56.93,2840.12,No,no,4.0,07-19-2023,Chennai,no
+CUST-1509,Arjun Wilson,58.0,FEMALE,147755,35.0,Month to Month,electronic check,,"$1,742.04",no,no,4.0,2022-09-18,Chennai,True
+CUST-2452,jennifer sharma,41.0,Male,"$117,934.00",,1-yr,credit card,87.56,"$1,573.44",Fiber Optic,TRUE,,,Los Angeles,False
+CUST-2479,  James Johnson  ,33.0,Male,"$51,146",19.0,m2m,bank transfer,,943.46,NONE,no internet,1.0,invalid_date,Houston,False
+CUST-1034,Margaret Brown,41.0,f,"$70,466",30.0,m2m,Check,1250.0,37495.10,dsl,,1.0,02-24-2023,hyderabad,0
+CUST-2391,Lisa  Reddy,29.0,Female,99425,54.0,Two Year,Electronic Check,116.96,6325.64,dsl,Y,2.0,2022-10-16,,False
+CUST-1092,nancy singh,18.0,Other,,19.0,2 year,Credit Card (automatic),112.93,2137.69,fiber optic,FALSE,4.0,2022.03.23,Berlin,no
+CUST-2364,Vikram Singh,33.0,MALE,175066,,month-to-month,Check,106.52,952.46,dsl,no,4.0,,,no
+CUST-1898,Daniel Anderson,,female,,20.0,Month to Month,electronic check,91.33,1821.06,FIBER,N,4.0,2023.09.18,Sydney,False
+CUST-1565,Sneha Wilson,-10.0,Female,"$128,614",34.0,1 Year,Mailed Check,0.0,"$1,701.01",fiber optic,TRUE,2.0,2020-04-07,Phoenix,
+CUST-2370,Mary Miller,135.0,M,"$81,277.00",31.0,Month-to-Month,Bank Transfer,,1540.49,Dsl,N,4.0,,Phoenix,yes
+CUST-1777,JENNIFER REDDY,34.0,f,"$133,513",30.0,2-yr,E-Check,33.42, ,fiber optic,no,2.0,22/05/2021,Houston,1
+CUST-1242,  John Kumar  ,52.0,Non-Binary,"$38,682.00",23.0,month-to-month,credit card,57.06,"$1,316.35",DSL,yes,5.0,11-03-2022,Houston,No
+CUST-1014,Robert Anderson,32.0,MALE,"$118,380",1.0,Two Year,Bank Transfer (automatic),114.54,$105.54,NONE,TRUE,5.0,2024.06.25,Toronto,False
+CUST-1316,William Wilson,27.0,Male,"$201,661.00",56.0,two-year,E-Check,,2805.05,DSL,No internet service,2.0,2020-02-02,New York,N
+CUST-1601,linda lopez,75.0,Other,"$156,853",34.0,Two Year,Credit Card (automatic),35.58,1217.61,dsl,no,,N/A,Chennai,no
+CUST-1388,  Christopher Kumar  ,,Non-Binary,"$50,596.00",56.0,1 year,credit card,88.59,4953.01,no,yes,5.0,2024.01.02,toronto,yes
+CUST-2298,Richard Williams,30.0,F,"$111,168.00",12.0,1-yr,E-Check,100.39,1214.18,Fiber,Yes,2.0,,Singapore,0
+CUST-1167,Ananya Rodriguez,-10.0,MALE,"$46,011.00",70.0,2-yr,Bank Transfer,19.58,1378.72,Fiber,no internet,1.0,12-10-2024,New York,N
+,Rohit Verma,142.0,,"$97,934.00",32.0,One Year,Check,72.2,2310.95,No,None,,2024.07.11,Hyderabad,Yes
+CUST-1021,Priya Brown,36.0,FEMALE,"$111,637.00",15.0,2 Year,Check,23.87,359.31,No,FALSE,5.0,13/09/2021,Singapore,No
+CUST-1647,  Karen Hernandez  ,40.0,f,"$36,021",53.0,2 Year,,41.35,2186.89,DSL,,4.0,27/01/2021,Berlin,yes
+CUST-2155,Rohit Rodriguez,34.0,Male,"$96,330.00",67.0,Month to Month,Check,116.08,7771.11,DSL,no internet,3.0,2022-06-24,Mumbai,0
+CUST-1832,Jessica Iyer,50.0,female,"$77,655.00",39.0,1 Year,Mailed Check,105.42,4103.59,dsl,1,1.0,,Phoenix,no
+CUST-2268,Margaret Reddy,34.0,female,"$148,993",68.0,month-to-month,Bank Transfer (automatic),116.18,"$7,904.85",dsl,FALSE,1.0,04-14-2020,Mumbai,False
+CUST-1563,Thomas Rodriguez,33.0,female,"$97,913",72.0,month-to-month,,60.62,4364.18,no,yes,1.0,invalid_date,Delhi,1
+CUST-2300,robert gupta,48.0,male,"$101,014",4.0,2 Year,electronic check,103.91,415.34,fiber optic,no internet,5.0,N/A,sydney,True
+CUST-1687,  Ananya Miller  ,41.0,Male,"$77,588",12.0,M2M,Credit Card (automatic),68.69,817.21,Fiber,FALSE,5.0,2020-07-05,Chicago,0
+CUST-1958,Susan Singh,33.0,male,"$57,389",20.0,m2m,Bank Transfer,99.55,1995.71,dsl,Y,3.0,2023-12-03,Sydney,N
+CUST-1190,Nancy Garcia,,F,"$2,955,935",30.0,month-to-month,Electronic Check,94.99,,,FALSE,,01-26-2020,delhi,Yes
+CUST-1976,Thomas Anderson,18.0,F,"$73,113.00",42.0,1 year,mailed check,75.29,3162.71,Fiber,1,5.0,2024-12-11,Mumbai,no
+CUST-1700,Robert Rodriguez,58.0,Female,"$120,415",26.0,Month-to-Month,E-Check,64.41,1676.45,Fiber Optic,1,2.0,21/08/2023,houston,N
+CUST-2500,  Elizabeth Martinez  ,43.0,m,"$193,000",21.0,2 Year,Bank Transfer,111.44,"$2,344.78",fiber optic,Yes,4.0,2022-09-25,berlin,N
+CUST-1511,Thomas Hernandez,180.0,Female,"$95,310",39.0,Month to Month,Electronic Check,83.69,"$3,267.85",dsl,Yes,4.0,09-05-2020,Chennai,No
+CUST-2083,Susan Anderson,34.0,M,"$102,031.00",11.0,1 year,Credit Card,54.41,,dsl,No,5.0,06-27-2022,Phoenix,no
+CUST-1475,  Matthew Verma  ,23.0,m,,7.0,month-to-month,credit card,76.89,$536.45,DSL,N,,15/08/2023,New York,True
+CUST-1857,Christopher Lopez,43.0,M,"$77,096",13.0,1 Year,Check,33.63,439.28,Fiber Optic,no,1.0,2020-01-22,singapore,No
+CUST-1748,Richard Anderson,225.0,Non-Binary,"$73,990.00",69.0,Two Year,Check,99.54,6860.38,dsl,FALSE,5.0,,Berlin,N
+CUST-1253,john brown,59.0,m,47358,44.0,1-yr,mailed check,100.39,4420.46,Fiber,No internet service,,2023.12.27,chennai,no
+CUST-1022,Michael Miller,33.0,M,"$96,286",,M2M,Mailed Check,89.37,"$1,331.97",fiber optic,1,2.0,unknown,Singapore,Y
+CUST-2338,ANTHONY DAVIS,31.0,Female,61355,20.0,Month-to-Month,E-Check,53.01,1069.88,None,no internet,4.0,2022-12-12,Bengaluru,N
+CUST-1460,David Kumar,50.0,M,"$68,225.00",48.0,M2M,,53.92,2580.46,dsl,Yes,2.0,19/11/2024,  Hyderabad  ,Y
+CUST-2185,Joseph Johnson,58.0,Other,"$95,664.00",52.0,M2M,bank transfer,28.3,"$1,473.87",NONE,yes,,2023-05-14,Berlin,N
+CUST-1277,John Brown,39.0,Non-Binary,"$90,135.00",19.0,Month to Month,E-Check,107.14,"$2,027.91",Fiber Optic,no internet,5.0,2022.02.12,berlin,True
+CUST-1956,Mary Gonzalez,47.0,M,"$73,366",,One Year,,37.92,$373.67,FIBER,FALSE,3.0,2022-10-16,London,no
+CUST-2216,Mary Sharma,,other,62934,59.0,M2M,Check,26.86,1574.85,None,Yes,5.0,2024-03-28,Berlin,no
+CUST-1386,John Patel,39.0,male,"$41,087",67.0,Month-to-Month,Check,79.97,5357.08,NONE,None,3.0,2021-06-05,  Houston  ,True
+CUST-1806,Nancy Gupta,55.0,male,"$61,590",62.0,,E-Check,83.53,5181.63,NONE,FALSE,4.0,03-05-2024,Phoenix,True
+CUST-2438,James Gupta,26.0,female,"$141,890",40.0,month-to-month,,55.24,2216.07,No,None,1.0,11/08/2023,,N
+CUST-2482,William Kumar,36.0,F,97176,2.0,,Bank Transfer (automatic),92.51,186.92,Fiber,yes,4.0,02-06-2021,Mumbai,No
+CUST-1344,Aditya Gonzalez,45.0,Male,"$72,764.00",43.0,Month-to-Month,electronic check,65.3,2798.33,Dsl,FALSE,2.0,12/12/2022,Bengaluru,0
+CUST-1770,Anthony Brown,45.0,MALE,"$93,526.00",28.0,1 year,bank transfer,,1408.96,fiber optic,No,4.0,06-07-2023,Los Angeles,False
+CUST-2333,Anthony  Miller,65.0,m,"$61,615.00",70.0,Month to Month,Bank Transfer,23.81,"$1,672.18",Fiber,None,2.0,2024-11-08,London,No
+CUST-1131,Vikram Johnson,37.0,m,"$124,516",66.0,month-to-month,Bank Transfer (automatic),,3299.57,dsl,No internet service,1.0,08-11-2024,,1
+CUST-1872,Patricia Smith,18.0,Female,"$2,564,487",67.0,one-year,,68.21,"$4,562.19",FIBER,0,1.0,2022.12.13,Singapore,0
+CUST-2124,Sandra Patel,38.0,Other,"$63,829",,Month to Month,E-Check,32.82,614.68,NONE,Y,4.0,04/11/2020,toronto,yes
+CUST-2397,Karen Verma,32.0,Female,83025,53.0,two-year,electronic check,75.0,3983.34,Fiber Optic,,2.0,14/02/2020,Mumbai,False
+CUST-1088,Karen Singh,,female,120008,7.0,1-yr,Credit Card (automatic),,349.04,FIBER,yes,1.0,03-07-2021,  London  ,No
+CUST-2483,Michael Kumar,-6.0,M,"$49,512",19.0,2 year,Bank Transfer (automatic),52.56,994.87,NONE,,2.0,2022-11-20,London,N
+CUST-1331,Nancy Iyer,56.0,m,"$82,931.00",69.7,one-year,Bank Transfer (automatic),20.62,1442.82,Fiber Optic,0,5.0,27/03/2021,Houston,False
+CUST-2239,  Jessica Nair  ,43.0,f,"$86,958",33.0,M2M,Bank Transfer (automatic),108.07,3557.52,Fiber,No,3.0,2021.08.21,Singapore,yes
+CUST-1467,Anthony Smith,25.0,m,"$148,121",,Month-to-Month,bank transfer,76.15,,fiber optic,TRUE,1.0,2024.03.25,Singapore,0
+CUST-1122,Barbara Reddy,39.0,other,"$94,205.00",30.0,Month to Month,E-Check,109.5,3284.39,,no internet,5.0,09/12/2022,Bengaluru,No
+CUST-2045,  Sarah Lopez  ,59.0,F,37156,60.0,,Electronic Check,97.47,,No,No,2.0,11-11-2021,berlin,False
+,joseph anderson,,F,"$106,832",49.0,m2m,,76.58,3749.37,Fiber,No internet service,4.0,2023-01-11,  Houston  ,1
+CUST-2131,Jessica Jones,33.0,female,"$79,569.00",13.0,Two Year,E-Check,35.32,450.61,Fiber,Y,1.0,2021-07-17,Chennai,No
+CUST-2295,Karen Patel,39.0,m,"$73,543",35.0,Month-to-Month,electronic check,24.74,865.49,Dsl,No,1.0,04-15-2020,  Chicago  ,0
+CUST-1861,David  Garcia,23.0,male,"$130,259.00",55.0,2 year,Mailed Check,107.1, ,DSL,TRUE,5.0,11/01/2024,Singapore,No
+CUST-2460,Linda Reddy,42.0,FEMALE,"$65,911.00",23.0,2 Year,Check,26.23,$611.41,FIBER,0,4.0,2023.06.28,  Berlin  ,Yes
+CUST-2127,Daniel Johnson,43.0,Other,116325,12.0,two-year,bank transfer,,598.64,Fiber,Yes,2.0,2022.03.21,Singapore,yes

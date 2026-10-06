@@ -1,0 +1,13 @@
+Metric,Before Cleaning (Raw),After Cleaning,Delta / Impact
+Total Rows,"1,550","1,413",-137 rows removed
+Total Columns,16,16,Standardized to clean snake_case
+Total Missing Values,"1,522 cells (6.1%)",0 cells (0.0%),100% imputed / resolved
+Exact Duplicate Rows,35,0,35 duplicates purged
+Duplicate Customer IDs,74,0,Ensured 1-to-1 customer granularity
+Column Naming Standard,"Messy (' Customer_ID ', 'Annual Income ($)')",Normalized snake_case,Programmatic consistency
+Annual Income Data Type,"object (strings with '$', ',')",float64 (numeric),Enables mathematical aggregation
+Total Charges Data Type,object (strings with ' ' blanks),float64 (numeric),Reconciled with tenure * monthly
+Join Date Data Type,object (mixed date string formats),datetime64[ns],Enables temporal time-series queries
+Negative Age / Incomes,Present (entry typos),0 (purged / imputed),Domain logic enforced
+"Extreme Outliers ($999/mo, $3M/yr)",Severe skewness present,Winsorized / IQR capped,Robust statistical distributions
+Categorical Integrity,"Inconsistent casing ('m', 'Male', '1')",Standardized canonical taxonomy,No fragmented factor levels

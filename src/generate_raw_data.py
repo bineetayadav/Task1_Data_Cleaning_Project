@@ -1,3 +1,4 @@
+
 """
 generate_raw_data.py
 Synthesizes a realistic, messy real-world customer churn & demographic dataset
@@ -12,6 +13,7 @@ containing authentic real-world data flaws:
 
 import os
 import random
+# pyrefly: ignore [missing-import]
 import numpy as np
 import pandas as pd
 
